@@ -14,12 +14,16 @@ import type { ISpiritTree, ISpiritTreeTier } from './spirit-tree.interface.js';
 import type { ITravelingSpirit } from './traveling-spirit.interface.js';
 import type { IWingedLight } from './winged-light.interface.js';
 import type { ISpirit } from './spirit.interface.js';
+import type { IGuid } from './base.interface.js';
 
 export interface IDataConfig<T> {
   items: Array<T>;
 }
 
 export interface ISkyData {
+  guids: Map<string, IGuid>;
+  itemIds: Map<number, IItem>;
+
   /* Stable */
   areas: IDataConfig<IArea>;
   constellations: IDataConfig<IRealmConstellation>;

@@ -12,7 +12,7 @@ import type { ISpecialVisitSpirit } from './interfaces/special-visit-spirit.inte
 export class SkyDataResolver {
   data: ISkyData;
   guids = new Map<string, IGuid>();
-  ids = new Map<number, IGuid>();
+  itemIds = new Map<number, IItem>();
 
   constructor(data: any) {
     this.data = data as ISkyData;
@@ -58,6 +58,9 @@ export class SkyDataResolver {
     this.resolveItems();
     this.resolveItemLists();
     this.resolveSeasonItems();
+
+    this.data.guids = this.guids;
+    this.data.itemIds = this.itemIds;
   }
 
   private registerGuids(config: any): void {
@@ -393,7 +396,7 @@ export class SkyDataResolver {
           shouldWarn = true;
         } else {
           ids.add(item.id);
-          this.ids.set(item.id, item);
+          this.itemIds.set(item.id, item);
         }
       } else {
         console.error('Item ID not defined', item);

@@ -1,5 +1,8 @@
 // Export parser functionality
 export * from './parser.js';
+export * from './helpers/date-helper.js';
+export * from './helpers/node-helper.js';
+export * from './helpers/spirit-tree-helper.js';
 
 // Export all interface types
 export type * from './interfaces/area.interface.js';
