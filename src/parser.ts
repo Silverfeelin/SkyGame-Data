@@ -314,7 +314,7 @@ export class SkyDataResolver {
           eventInstance.date = SkyDateHelper.fromStringSky(eventInstance.date)!
         }
         if (typeof eventInstance.endDate === 'string') {
-          SkyDateHelper.fromStringSky(eventInstance.endDate)!.endOf('day')
+          eventInstance.endDate = SkyDateHelper.fromStringSky(eventInstance.endDate)!.endOf('day');
         }
 
         // Map shops to instance.
@@ -386,26 +386,26 @@ export class SkyDataResolver {
     const types = new Set<string>();
     for (const type in ItemType) { types.add(type); }
 
-    let shouldWarn = false;
+    let shouldAbort = false;
     const emoteOrders: { [key: string]: number } = {};
     const emotes: Array<IItem> = [];
     this.data.items.items.forEach(item => {
       if (typeof(item.id) === 'number') {
         if (ids.has(item.id)) {
           console.error('Duplicate item ID.', item.id, item);
-          shouldWarn = true;
+          shouldAbort = true;
         } else {
           ids.add(item.id);
           this.itemIds.set(item.id, item);
         }
       } else {
         console.error('Item ID not defined', item);
-        shouldWarn = true;
+        shouldAbort = true;
       }
 
       if (!item.type || !types.has(item.type)) {
         console.error('Item type not defined.', item);
-        shouldWarn = true;
+        shouldAbort = true;
       }
 
       if (item.type === 'Emote') {
@@ -419,7 +419,9 @@ export class SkyDataResolver {
 
     emotes.forEach(emote => emote.order = emoteOrders[emote.name] ?? emote.order);
 
-    shouldWarn && alert('Misconfigured items. Please report this issue.');
+    if (shouldAbort) {
+      throw new Error('Errors found while resolving items. See console for details.');
+    }
   }
 
   private resolveItemLists(): void {    
