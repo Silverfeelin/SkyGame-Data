@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/skygame-data)](https://www.npmjs.com/package/skygame-data)
 
-A fan-made data repository for Sky: Children of the Light. This project contains the raw data that fuels [SkyGame-Planner](https://github.com/Silverfeelin/SkyGame-Planner). The data has been separated to make it easier to consume in other projects. Do note that various bits of data are tightly coupled to the Sky Planner, such as linking to image assets contained in that project.
+A fan-made data repository for Sky: Children of the Light. This project contains the raw data that fuels [SkyGame-Planner](https://github.com/Silverfeelin/SkyGame-Planner). The data has been separated to make it easier to consume in other projects. Do note that various bits of data are tightly coupled to the Sky Planner, such as links to image assets contained in that project.
 
 ## Package
 
@@ -117,7 +117,7 @@ References marked in **bold** are stored as GUID reference in the data. For one-
 
 Circular references are marked in *italic* and are created automatically when parsing the data using the included [Scripts](#scripts).
 
-TODO
+![Reference diagram](./diagrams/References.jpg)
 
 ## Scripts
 
