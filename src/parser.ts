@@ -226,8 +226,8 @@ export class SkyDataResolver {
       if (sv.area) {
         const area = this.guids.get(sv.area as any) as IArea;
         sv.area = area;
-        area.rs ??= [];
-        area.rs.push(sv);
+        area.specialVisits ??= [];
+        area.specialVisits.push(sv);
       }
 
       // Map Visits.

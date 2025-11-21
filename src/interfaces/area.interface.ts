@@ -19,7 +19,7 @@ export interface IArea extends IGuid {
   realm: IRealm;
   spirits?: Array<ISpirit>;
   wingedLights?: Array<IWingedLight>;
-  rs?: Array<ISpecialVisit>;
+  specialVisits?: Array<ISpecialVisit>;
   connections?: Array<IAreaConnection>;
   mapShrines?: Array<IMapShrine>;
 
