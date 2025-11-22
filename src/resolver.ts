@@ -3,7 +3,7 @@ import type { IGuid } from './interfaces/base.interface.js';
 import type { ISkyData } from './interfaces/sky-data.interface.js';
 import type { IArea } from './interfaces/area.interface.js';
 import type { ISpirit } from './interfaces/spirit.interface.js';
-import { ItemType, type IEventInstance, type IEventInstanceSpirit, type IIAP, type IItem, type IItemList, type IMapShrine, type INode, type IRevisedSpiritTree, type IShop, type ISpiritTree, type ISpiritTreeTier, type IWingedLight } from './index.js';
+import { ItemType, type IEventInstance, type IEventInstanceSpirit, type IIAP, type IItem, type IItemList, type IMapShrine, type INode, type IRealmConstellation, type IRevisedSpiritTree, type IShop, type ISpiritTree, type ISpiritTreeTier, type IWingedLight } from './index.js';
 import { SkyDateHelper } from './helpers/date-helper.js';
 import { SpiritTreeHelper } from './helpers/spirit-tree-helper.js';
 import type { ISpecialVisitSpirit } from './interfaces/special-visit-spirit.interface.js';
@@ -86,6 +86,11 @@ export class SkyDataResolver {
         area.realm = realm;
       });
 
+      // Map constellation
+      if (realm.constellation) {
+        realm.constellation = this.guids.get(realm.constellation as any) as IRealmConstellation
+      }
+      
       // Map constellation spirits.
       realm.constellation?.icons?.forEach((icon, i) => {
         const spirit = this.guids.get(icon.spirit as any) as ISpirit;

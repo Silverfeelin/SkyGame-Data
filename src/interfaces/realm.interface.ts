@@ -24,7 +24,7 @@ export interface IRealm extends IGuid {
   _wiki?: IWiki;
 }
 
-export interface IRealmConstellation {
+export interface IRealmConstellation extends IGuid {
   imageUrl: string;
   icons: Array<IRealmConstellationIcon>;
 }
