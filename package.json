@@ -4,6 +4,7 @@
   "description": "Data repository for SkyGame-Planner.",
   "scripts": {
     "json-build": "node ./src/scripts/json-build.cjs",
+    "serve": "node ./src/scripts/json-serve.cjs",
     "build": "npm run json-build && tsc",
     "test": "tsx tests/try-parse.ts"
   },
@@ -36,6 +37,7 @@
   "devDependencies": {
     "@types/luxon": "^3.7.1",
     "@types/node": "^24.10.1",
+    "chokidar": "^5.0.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.20.6",
     "typescript": "^5.9.3"

@@ -75,4 +75,5 @@ fs.readdirSync(dirSrcAssets).forEach(folderName => {
 });
 
 // Write everything.json
+console.log('Writing everything.json');
 fs.writeFileSync(path.join(dirOutAssets, `everything.json`), JSON.stringify(everything));
