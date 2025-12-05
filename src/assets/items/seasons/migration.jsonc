@@ -683,9 +683,9 @@
   {
     "id": 2859,
     "guid": "GKZJHzSWqc",
-    "type": "Special",
-    "name": "Placeholder",
-    "icon": ""
+    "type": "Quest",
+    "name": "Quest 6",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
   },
   {
     "id": 2860,
@@ -697,9 +697,9 @@
   {
     "id": 2861,
     "guid": "-6HGDtS9Ax",
-    "type":"Special",
-    "name": "Placeholder",
-    "icon": ""
+    "type":"Quest",
+    "name": "Quest 7",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
   },
   {
     "id": 2862,
@@ -717,7 +717,36 @@
   },
   {
     "id": 2864,
-    "guid": "cBfZD5uyzo",
+    "guid": "cBfZD5uyzo", //Quest 8
+    "type":"Special",
+    "name": "Placeholder",
+    "icon": ""
+  },
+  {
+    "id": 2865,
+    "guid": "KLxRF7Uwxs", //Quest 9
+    "type":"Special",
+    "name": "Placeholder",
+    "icon": ""
+  },
+  {
+    "id": 2866,
+    "guid": "zL1iKh03F8",
+    "type":"Furniture",
+    "name": "Migration Bell",
+    "icon": "https://i.postimg.cc/65qjPNH4/Screenshot-5.png",
+    "order": ""
+  },
+  {
+    "id": 2867,
+    "guid": "hpYRRuKPrf",
+    "type":"Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 2868,
+    "guid": "wpZqxTG5l7", //Quest 10
     "type":"Special",
     "name": "Placeholder",
     "icon": ""
