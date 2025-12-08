@@ -3,5 +3,23 @@
   {
     "guid": "6AS-92sc6t",
     "items": [{ "guid": "Xq_jezG70h", "item": "NfhWog1-AK", "c": 50 }]
+  },
+  // Aviary Event Store (Box)
+  {
+    "guid": "5WGoG5qsHG",
+    "items": [
+      { "guid": "DaBtOjTLze", "item": "dvoSMxPFL2", "c": 150 },
+      { "guid": "qHjGSpR3in", "item": "vu_PdLP82M", "c": 10},
+      { "guid": "j11cj6HTy4", "item": "dl3FZAnMyu", "c": 15 },
+      { "guid": "RCtEFJffQW", "item": "gfQTU53Vni", "c": 20 },
+      { "guid": "wleTCdoBJ3", "item": "4wA4nwGZUM", "c": 4 },
+      { "guid": "MBUa8dTs5s", "item": "HUjA3utlNd", "c": 4 },
+      { "guid": "10yTU-HFCy", "item": "G9RHsCv5AB", "c": 4 },
+      { "guid": "297ts2HUv3", "item": "hrH037AVN5", "c": 4 },
+      { "guid": "xGscxpu7ii", "item": "5HoXo6DF--", "c": 15 },
+      { "guid": "Q_biw7tR6f", "item": "DecMXt7qEo", "c": 15 },
+      { "guid": "nApik9LEc3", "item": "GivrsXeHVe", "c": 15 },
+      { "guid": "FzA6YujOdl", "item": "c3sT_itCFa", "c": 15 }
+    ]
   }
 ]
