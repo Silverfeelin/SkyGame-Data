@@ -5,9 +5,7 @@
     "name": "Days of Feast Pack",
     "price": 6.99,
     "c": 25,
-    "items": [
-      "z2M4HqpR9C"
-    ]
+    "items": ["z2M4HqpR9C"]
   },
   // #endregion
   // #region Days of Feast (2020)
@@ -17,25 +15,19 @@
     "price": 6.99,
     "returning": true,
     "c": 25,
-    "items": [
-      "z2M4HqpR9C"
-    ]
+    "items": ["z2M4HqpR9C"]
   },
   {
     "guid": "jEMAHe1jhH",
     "name": "Days of Feast Horns",
     "price": 14.99,
-    "items": [
-      "rQQmknOn9a"
-    ]
+    "items": ["rQQmknOn9a"]
   },
   {
     "guid": "D9kl00q4D4",
     "name": "Snowflake Cape",
     "price": 14.99,
-    "items": [
-      "gnC7YQCAug"
-    ]
+    "items": ["gnC7YQCAug"]
   },
   // #endregion
   // #region Days of Feast (2021)
@@ -45,51 +37,39 @@
     "price": 6.99,
     "returning": true,
     "c": 25,
-    "items": [
-      "z2M4HqpR9C"
-    ]
+    "items": ["z2M4HqpR9C"]
   },
   {
     "guid": "mEwEf3bX1A",
     "name": "Days of Feast Horns",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "rQQmknOn9a"
-    ]
+    "items": ["rQQmknOn9a"]
   },
   {
     "guid": "I_VfOruw8e",
     "name": "Snowflake Cape",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "gnC7YQCAug"
-    ]
+    "items": ["gnC7YQCAug"]
   },
   {
     "guid": "Te8lhAUlsm",
     "name": "Snowflake Hair Accessory",
     "price": 1.99,
-    "items": [
-      "VZyiD3Wmtp"
-    ]
+    "items": ["VZyiD3Wmtp"]
   },
   {
     "guid": "mKOdlx1odg",
     "name": "Winter Ancestor Cape",
     "price": 9.99,
-    "items": [
-      "B3YJxxJKJX"
-    ]
+    "items": ["B3YJxxJKJX"]
   },
   {
     "guid": "VyP_B7mzgq",
     "name": "Feast Snow Globe",
     "price": 9.99,
-    "items": [
-      "4i2CdmSgmX"
-    ]
+    "items": ["4i2CdmSgmX"]
   },
   // #endregion
   // #region Days of Feast (2022)
@@ -99,70 +79,54 @@
     "price": 6.99,
     "returning": true,
     "c": 25,
-    "items": [
-      "z2M4HqpR9C"
-    ]
+    "items": ["z2M4HqpR9C"]
   },
   {
     "guid": "Z7KMfWIAOH",
     "name": "Days of Feast Horns",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "rQQmknOn9a"
-    ]
+    "items": ["rQQmknOn9a"]
   },
   {
     "guid": "VF7BZ5mVFR",
     "name": "Snowflake Cape",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "gnC7YQCAug"
-    ]
+    "items": ["gnC7YQCAug"]
   },
   {
     "guid": "Q-WT2eyG6L",
     "name": "Snowflake Hair Accessory",
     "price": 1.99,
     "returning": true,
-    "items": [
-      "VZyiD3Wmtp"
-    ]
+    "items": ["VZyiD3Wmtp"]
   },
   {
     "guid": "lq3Dwhq32Z",
     "name": "Winter Ancestor Cape",
     "price": 9.99,
     "returning": true,
-    "items": [
-      "B3YJxxJKJX"
-    ]
+    "items": ["B3YJxxJKJX"]
   },
   {
     "guid": "kqNRH1s8es",
     "name": "Feast Snow Globe",
     "price": 9.99,
     "returning": true,
-    "items": [
-      "4i2CdmSgmX"
-    ]
+    "items": ["4i2CdmSgmX"]
   },
   {
     "guid": "bf3CFJIRXv",
     "name": "Tournament Skyball Set",
     "price": 14.99,
-    "items": [
-      "sZRjoCGw_u"
-    ]
+    "items": ["sZRjoCGw_u"]
   },
   {
     "guid": "UQJntPLj4l",
     "name": "Cozy Hermit Cape",
     "price": 14.99,
-    "items": [
-      "Nep9ocMylo"
-    ]
+    "items": ["Nep9ocMylo"]
   },
   // #endregion
   // #region Days of Feast (2023)
@@ -170,80 +134,62 @@
     "guid": "f2l8flrTXW",
     "name": "Winter Quilted Cape",
     "price": 14.99,
-    "items": [
-      "quSFDuWUoV"
-    ]
+    "items": ["quSFDuWUoV"]
   },
   {
     "guid": "UOg9ZA2scX",
     "name": "Cozy Hermit Boots",
     "price": 6.99,
-    "items": [
-      "pT4AVkYVZP"
-    ]
+    "items": ["pT4AVkYVZP"]
   },
   {
     "guid": "Ljr8ZNNJh_",
     "name": "Tournament Skyball Set",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "sZRjoCGw_u"
-    ]
+    "items": ["sZRjoCGw_u"]
   },
   {
     "guid": "195bMrG3JB",
     "name": "Cozy Hermit Cape",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "Nep9ocMylo"
-    ]
+    "items": ["Nep9ocMylo"]
   },
   {
     "guid": "3xQHsmZv-e",
     "name": "Snowflake Hair Accessory",
     "price": 1.99,
     "returning": true,
-    "items": [
-      "VZyiD3Wmtp"
-    ]
+    "items": ["VZyiD3Wmtp"]
   },
   {
     "guid": "r1HlatiBxR",
     "name": "Winter Ancestor Cape",
     "price": 9.99,
     "returning": true,
-    "items": [
-      "B3YJxxJKJX"
-    ]
+    "items": ["B3YJxxJKJX"]
   },
   {
     "guid": "H4HSEWVLK4",
     "name": "Feast Snow Globe",
     "price": 9.99,
     "returning": true,
-    "items": [
-      "4i2CdmSgmX"
-    ]
+    "items": ["4i2CdmSgmX"]
   },
   {
     "guid": "M6omKyJJvP",
     "name": "Days of Feast Horns",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "rQQmknOn9a"
-    ]
+    "items": ["rQQmknOn9a"]
   },
   {
     "guid": "xl2vK3sERM",
     "name": "Snowflake Cape",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "gnC7YQCAug"
-    ]
+    "items": ["gnC7YQCAug"]
   },
   {
     "guid": "bSFkFG8lYJ",
@@ -251,9 +197,7 @@
     "price": 6.99,
     "returning": true,
     "c": 25,
-    "items": [
-      "z2M4HqpR9C"
-    ]
+    "items": ["z2M4HqpR9C"]
   },
   // #endregion
   // #region Days of Feast (2024)
@@ -261,99 +205,76 @@
     "guid": "EqbMdBedT6",
     "name": "Wonderland Primose Pinafore Set",
     "price": 11.99,
-    "items": [
-      "tSAl1nV-qo",
-      "fLbULqwumS"
-    ]
+    "items": ["tSAl1nV-qo", "fLbULqwumS"]
   },
   {
     "guid": "sq7pfYkRjD",
     "name": "Wonderland Cafe Corridor",
     "price": 19.99,
-    "items": [
-      "OJ38-415Wd"
-    ]
+    "items": ["OJ38-415Wd"]
   },
   {
     "guid": "qHUMga9tbM",
     "name": "Winter Quilted Cape",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "quSFDuWUoV"
-    ]
+    "items": ["quSFDuWUoV"]
   },
   {
     "guid": "2B4VUC1IJg",
     "name": "Cozy Hermit Boots",
     "price": 6.99,
     "returning": true,
-    "items": [
-      "pT4AVkYVZP"
-    ]
+    "items": ["pT4AVkYVZP"]
   },
   {
     "guid": "lEBuf9inji",
     "name": "Tournament Skyball Set",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "sZRjoCGw_u"
-    ]
+    "items": ["sZRjoCGw_u"]
   },
   {
     "guid": "60p3YQPtv0",
     "name": "Cozy Hermit Cape",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "Nep9ocMylo"
-    ]
+    "items": ["Nep9ocMylo"]
   },
   {
     "guid": "I1WP8E6DTt",
     "name": "Snowflake Hair Accessory",
     "price": 1.99,
     "returning": true,
-    "items": [
-      "VZyiD3Wmtp"
-    ]
+    "items": ["VZyiD3Wmtp"]
   },
   {
     "guid": "Efdkvx2rO_",
     "name": "Winter Ancestor Cape",
     "price": 9.99,
     "returning": true,
-    "items": [
-      "B3YJxxJKJX"
-    ]
+    "items": ["B3YJxxJKJX"]
   },
   {
     "guid": "mXz1Dg-Psj",
     "name": "Feast Snow Globe",
     "price": 9.99,
     "returning": true,
-    "items": [
-      "4i2CdmSgmX"
-    ]
+    "items": ["4i2CdmSgmX"]
   },
   {
     "guid": "5rvSltYZNX",
     "name": "Days of Feast Horns",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "rQQmknOn9a"
-    ]
+    "items": ["rQQmknOn9a"]
   },
   {
     "guid": "VHvLwW-unH",
     "name": "Snowflake Cape",
     "price": 14.99,
     "returning": true,
-    "items": [
-      "gnC7YQCAug"
-    ]
+    "items": ["gnC7YQCAug"]
   },
   {
     "guid": "YidHByHVaP",
@@ -361,9 +282,94 @@
     "price": 6.99,
     "returning": true,
     "c": 25,
-    "items": [
-      "z2M4HqpR9C"
-    ]
+    "items": ["z2M4HqpR9C"]
   },
+  // #endregion
+  // #region Days of Feast (2025)
+  {
+    "guid": "nf11Ct8wc1",
+    "name": "Wonderland Primose Pinafore Set",
+    "price": 11.99,
+    "returning": true,
+    "items": ["tSAl1nV-qo", "fLbULqwumS"]
+  },
+  {
+    "guid": "wseqxjuTmK",
+    "name": "Wonderland Cafe Corridor",
+    "price": 19.99,
+    "returning": true,
+    "items": ["OJ38-415Wd"]
+  },
+  {
+    "guid": "GFVtaIf_lp",
+    "name": "Winter Quilted Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": ["quSFDuWUoV"]
+  },
+  {
+    "guid": "bN5mMpfgR4",
+    "name": "Cozy Hermit Boots",
+    "price": 6.99,
+    "returning": true,
+    "items": ["pT4AVkYVZP"]
+  },
+  {
+    "guid": "bhca7C36dd",
+    "name": "Tournament Skyball Set",
+    "price": 14.99,
+    "returning": true,
+    "items": ["sZRjoCGw_u"]
+  },
+  {
+    "guid": "orYNdrCGz3",
+    "name": "Cozy Hermit Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": ["Nep9ocMylo"]
+  },
+  {
+    "guid": "jyqUtb-GQa",
+    "name": "Snowflake Hair Accessory",
+    "price": 1.99,
+    "returning": true,
+    "items": ["VZyiD3Wmtp"]
+  },
+  {
+    "guid": "TAXOzdB0es",
+    "name": "Winter Ancestor Cape",
+    "price": 9.99,
+    "returning": true,
+    "items": ["B3YJxxJKJX"]
+  },
+  {
+    "guid": "LJVmd1svp3",
+    "name": "Feast Snow Globe",
+    "price": 9.99,
+    "returning": true,
+    "items": ["4i2CdmSgmX"]
+  },
+  {
+    "guid": "3iMtqxNjyu",
+    "name": "Days of Feast Horns",
+    "price": 14.99,
+    "returning": true,
+    "items": ["rQQmknOn9a"]
+  },
+  {
+    "guid": "prCug2j-Kw",
+    "name": "Snowflake Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": ["gnC7YQCAug"]
+  },
+  {
+    "guid": "KhjxJk9QCD",
+    "name": "Days of Feast Pack",
+    "price": 6.99,
+    "returning": true,
+    "c": 25,
+    "items": ["z2M4HqpR9C"]
+  }
   // #endregion
 ]

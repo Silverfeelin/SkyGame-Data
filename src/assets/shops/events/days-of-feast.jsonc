@@ -106,6 +106,27 @@
     "spirit": "dK38RIPIOG",
     "name": "Event Staff (Office)",
     "iaps": ["5rvSltYZNX", "VHvLwW-unH", "YidHByHVaP"]
+  },
+  // #endregion
+  // #region Days of Feast (2025)
+  {
+    "guid": "pojWxqsBky",
+    "type": "Object",
+    "name": "Event Snowglobe",
+    "iaps": [
+      "nf11Ct8wc1",
+      "wseqxjuTmK",
+      "bN5mMpfgR4",
+      "GFVtaIf_lp",
+      "bhca7C36dd",
+      "orYNdrCGz3",
+      "LJVmd1svp3",
+      "TAXOzdB0es",
+      "jyqUtb-GQa",
+      "3iMtqxNjyu",
+      "KhjxJk9QCD",
+      "prCug2j-Kw"
+    ]
   }
   // #endregion
 ]
