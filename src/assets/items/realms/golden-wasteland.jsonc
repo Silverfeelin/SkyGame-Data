@@ -39,7 +39,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Frightened_Refugee#Hair"
     },
-    "order": 176
+    "order": 178
   },
   {
     "id": 256,
@@ -95,7 +95,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Frightened_Refugee#Instrument"
     },
-    "order": 563
+    "order": 569
   },
   {
     "id": 262,
@@ -137,7 +137,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Fainting_Warrior#Hair"
     },
-    "order": 168
+    "order": 170
   },
   {
     "id": 266,
@@ -192,7 +192,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Fainting_Warrior#Mask"
     },
-    "order": 408
+    "order": 413
   },
   {
     "id": 272,
@@ -215,7 +215,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Courageous_Soldier#Hair"
     },
-    "order": 165
+    "order": 167
   },
   {
     "id": 274,
@@ -259,7 +259,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Courageous_Soldier#Cape"
     },
-    "order": 831
+    "order": 847
   },
   {
     "id": 279,
@@ -282,7 +282,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Courageous_Soldier#Cape"
     },
-    "order": 840
+    "order": 856
   },
   {
     "id": 281,
@@ -305,7 +305,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stealthy_Survivor#Hair"
     },
-    "order": 169
+    "order": 171
   },
   {
     "id": 283,
@@ -349,7 +349,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stealthy_Survivor#Cape"
     },
-    "order": 836
+    "order": 852
   },
   {
     "id": 288,
@@ -372,7 +372,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stealthy_Survivor#Cape"
     },
-    "order": 845
+    "order": 861
   },
   {
     "id": 290,
@@ -414,7 +414,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Saluting_Captain#Hair"
     },
-    "order": 157
+    "order": 159
   },
   {
     "id": 294,
@@ -469,7 +469,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Saluting_Captain#Prop"
     },
-    "order": 595
+    "order": 601
   },
   {
     "id": 300,
@@ -512,7 +512,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lookout_Scout#Instrument"
     },
-    "order": 565
+    "order": 571
   },
   {
     "id": 304,
@@ -567,6 +567,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lookout_Scout#Mask"
     },
-    "order": 101
+    "order": 102
   }
 ]

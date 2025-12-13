@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Earth_Cape"
     },
-    "order": 948
+    "order": 965
   },
   {
     "id": 1779,
@@ -21,7 +21,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Ocean_Necklace"
     },
-    "order": 548,
+    "order": 554,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Nature_shellnecklace.jpg",
       "primary": {}
@@ -41,7 +41,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Ocean_Cape"
     },
-    "order": 949
+    "order": 966
   },
   {
     "id": 1781,
@@ -53,7 +53,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Turtle_Cape"
     },
-    "order": 950
+    "order": 967
   },
   {
     "id": 1782,
@@ -65,7 +65,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Turtle_Accessory"
     },
-    "order": 549
+    "order": 555
   },
   {
     "id": 1783,
@@ -77,7 +77,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Coral_Crown_Accessory"
     },
-    "order": 350
+    "order": 353
   },
   {
     "id": 1784,
@@ -103,7 +103,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_School_Cape"
     },
-    "order": 952
+    "order": 969
   },
   {
     "id": 1787,
@@ -115,7 +115,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Glasses"
     },
-    "order": 114
+    "order": 115
   },
   {
     "id": 1788,
@@ -127,7 +127,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Sonorous_Seashell"
     },
-    "order": 714
+    "order": 721
   },
   {
     "id": 2166,
@@ -139,7 +139,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Wave_Cape"
     },
-    "order": 953
+    "order": 970
   },
   {
     "id": 2167,
@@ -151,7 +151,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Wave-Touched_Hair"
     },
-    "order": 291
+    "order": 294
   },
   {
     "id": 2168,
@@ -167,7 +167,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Wave_Mask"
     },
-    "order": 494
+    "order": 500
   },
   {
     "id": 2169,
@@ -179,7 +179,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Wave_Scarf"
     },
-    "order": 550,
+    "order": 556,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Nature_Riverscarf.jpg",
       "primary": {}
@@ -225,7 +225,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Ocean_Manta_Hair"
     },
-    "order": 292
+    "order": 295
   },
   {
     "id": 2624,
@@ -244,7 +244,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Ocean_Sea_Foam_Cape"
     },
-    "order": 951
+    "order": 968
   },
   {
     "id": 2626,
@@ -256,7 +256,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Ocean_Sea_Foam_Boots"
     },
-    "order": 146
+    "order": 148
   },
   {
     "id": 2627,
@@ -272,6 +272,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Ocean_Waves_Mask"
     },
-    "order": 495
+    "order": 501
   }
 ]

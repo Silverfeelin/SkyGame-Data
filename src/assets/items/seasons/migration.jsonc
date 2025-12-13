@@ -7,7 +7,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/59/Season-of-Migration-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ac/Migrating-Guide-Ultimate-Necklace.png",
     "group": "Ultimate",
-    "order": 534
+    "order": 540
   },
   {
     "id": 2763,
@@ -21,7 +21,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/shoes/Migration_ultboots.jpg"
     },
-    "order": 136
+    "order": 137
   },
   {
     "id": 2764,
@@ -53,7 +53,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Migration_ulthorns.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/2slots_Migration_ulthorns.jpg"
     },
-    "order": 113
+    "order": 114
   },
   {
     "id": 2827,
@@ -165,7 +165,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/head-accessory/Migration_jellytassels.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/head-accessory/2slots_Migration_jellytassels.jpg"
     },
-    "order": 345
+    "order": 348
   },
   {
     "id": 2775,
@@ -252,7 +252,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Migration_butterfly.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Migration_butterfly.jpg"
     },
-    "order": 936
+    "order": 952
   },
   {
     "id": 2785,
@@ -286,7 +286,7 @@
     "group": "SeasonPass",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Migrating-Butterfly-Charmer-Hair-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Migrating-Butterfly-Charmer-Hair-Accessory.png",
-    "order": 344
+    "order": 347
   },
   {
     "id": 2789,
@@ -332,7 +332,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Migration_mantahawk.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Migration_mantahawk.jpg"
     },
-    "order": 281
+    "order": 283
   },
   {
     "id": 2794,
@@ -377,7 +377,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Migration_manta.jpg"
     },
-    "order": 939
+    "order": 955
   },
   {
     "id": 2799,
@@ -517,7 +517,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Migration_wingcape.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Migration_wingcape.jpg"
     },
-    "order": 937
+    "order": 953
   },
   {
     "id": 2814,
@@ -561,7 +561,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Migration_lighthornhair.jpg"
     },
-    "order": 282
+    "order": 284
   },
   {
     "id": 2819,
@@ -604,7 +604,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Migration_lighthornglasses.jpg"
     },
-    "order": 122
+    "order": 123
   },
   {
     "id": 2824,
@@ -617,7 +617,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Migration_lighthorncape.jpg"
     },
-    "order": 938
+    "order": 954
   },
   {
     "id": 2825,
@@ -724,7 +724,7 @@
   },
   {
     "id": 2865,
-    "guid": "KLxRF7Uwxs", // Quest 9
+    "guid": "KLxRF7Uwxs",
     "type": "Special",
     "name": "Placeholder",
     "icon": ""
@@ -746,7 +746,7 @@
   },
   {
     "id": 2868,
-    "guid": "wpZqxTG5l7", // Quest 10
+    "guid": "wpZqxTG5l7",
     "type": "Special",
     "name": "Placeholder",
     "icon": ""
