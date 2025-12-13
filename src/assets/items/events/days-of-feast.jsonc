@@ -571,8 +571,8 @@
   {
     "id": 2914,
     "guid": "8aWnwc3_C6",
-    "type": "Hair",
-    "name": "Fluffy Winter Hair",
+    "type": "HairAccessory",
+    "name": "Fluffy Winter Hat",
     "icon": "https://sky-planner.com/assets/game/items/feast2025_hair.webp",
     "previewUrl": "",
     "dye": {
