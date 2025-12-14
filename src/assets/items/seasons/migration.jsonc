@@ -657,7 +657,10 @@
     "guid": "eO59rVUk-J",
     "type": "Quest",
     "name": "Quest 4",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Migration#Quest_#4"
+    }
   },
   {
     "id": 2856,
@@ -671,7 +674,10 @@
     "guid": "PBQEP0GsKM",
     "type": "Quest",
     "name": "Quest 5",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Migration#Quest_#5"
+    }
   },
   {
     "id": 2858,
@@ -685,7 +691,10 @@
     "guid": "GKZJHzSWqc",
     "type": "Quest",
     "name": "Quest 6",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Migration#Quest_#6"
+    }
   },
   {
     "id": 2860,
@@ -699,7 +708,10 @@
     "guid": "-6HGDtS9Ax",
     "type": "Quest",
     "name": "Quest 7",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Migration#Quest_#7"
+    }
   },
   {
     "id": 2862,
@@ -720,7 +732,10 @@
     "guid": "cBfZD5uyzo",
     "type": "Quest",
     "name": "Quest 8",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Migration#Quest_#8"
+    }
   },
   {
     "id": 2865,
@@ -734,7 +749,7 @@
     "guid": "zL1iKh03F8",
     "type": "Furniture",
     "name": "Migration Bell",
-    "icon": "https://sky-planner.com/assets/game/items/2866.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d2/Migration-Guide-Bell-Prop-icon.png",
     "order": ""
   },
   {
