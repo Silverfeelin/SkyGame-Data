@@ -156,8 +156,9 @@
   {
     "guid": "f9Pek497fm",
     "type": "Event",
-    "name": "Fluffy Kid"
-  }
+    "name": "Winter Courier",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a7/Winter-Courier-Guide-2025.png"
+  },
   // Days of Color
   {
     "guid": "L8hK6RLQa_",

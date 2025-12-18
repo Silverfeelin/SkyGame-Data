@@ -522,9 +522,9 @@
     "id": 2911,
     "guid": "hkbIvMBqyD",
     "type": "Cape",
-    "name": "Feast Cape 2025",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_cape.webp",
-    "previewUrl": "",
+    "name": "Fluffy Winter Pompoms Shawl Cape",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0b/Fluffy-Winter-Pompoms-Shawl-Cape-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/15/Fluffy-Winter-Pompoms-Shawl-Cape-back.png",
     "dye": {
       "primary": {},
       "secondary": {},
@@ -532,7 +532,7 @@
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Feast_babycape.jpg"
     },
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Fluffy_Winter_Shawl_Cape"
     },
     "order": 995
   },
@@ -540,15 +540,15 @@
     "id": 2912,
     "guid": "Ll_Y3fvyyd",
     "type": "Outfit",
-    "name": "Feast Outfit 2025",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_outfit.webp",
-    "previewUrl": "",
+    "name": "Days Feast Coat Outfit",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/33/Feast-Coat-Outfit-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/88/Feast-Coat-Outfit-front.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Feast_snowmanfit.jpg"
     },
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Days_of_Feast_Coat_Outfit"
     },
     "order": 82
   },
@@ -557,14 +557,14 @@
     "guid": "kKDtHO9xi6",
     "type": "Cape",
     "name": "Winter Scarf Cape",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_scarf.webp",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/02/Winter-Scarf-Cape-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/83/Winter-Scarf-Cape-back.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_snowflakescarf.webp"
     },
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Winter_Scarf_Cape"
     },
     "order": 996
   },
@@ -572,15 +572,15 @@
     "id": 2914,
     "guid": "8aWnwc3_C6",
     "type": "HairAccessory",
-    "name": "Fluffy Winter Hat",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_hair.webp",
-    "previewUrl": "",
+    "name": "Fluffy Winter Pillbox Hat",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/Fluffy-Winter-Pillbox-Hat-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Fluffy-Winter-Pillbox-Hat-with-hair.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Feast_fluffyhat.jpg"
     },
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Fluffy_Winter_Pillbox_Hat"
     },
     "order": 364
   },
@@ -588,11 +588,11 @@
     "id": 2915,
     "guid": "y9DW69yEQJ",
     "type": "Furniture",
-    "name": "Ice Brick",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop1.webp",
-    "previewUrl": "",
+    "name": "Horizontal Ice Block",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b0/Ice-Block-Horizontal-Shared-Space-prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5b/Ice-Block-Horizontal-Shared-Space-prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Horizontal_Ice_Block"
     },
     "order": 786
   },
@@ -600,11 +600,11 @@
     "id": 2916,
     "guid": "OvRe0knxy_",
     "type": "Furniture",
-    "name": "Ice Tall Brick",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop2.webp",
-    "previewUrl": "",
+    "name": "Vertical Ice Block",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c4/Ice-Block-Vertical-Shared-Space-prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bf/Ice-Block-Vertical-Shared-Space-prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Vertical_Ice_Block"
     },
     "order": 787
   },
@@ -612,11 +612,11 @@
     "id": 2917,
     "guid": "9iW4HHlUH2",
     "type": "Furniture",
-    "name": "Ice Semicircle",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop3.webp",
-    "previewUrl": "",
+    "name": "Ice Concave Slide",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d8/Ice-Block-Concave-Slide-Shared-Space-prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7e/Ice-Block-Concave-Slide-Shared-Space-prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Ice_Concave_Slide"
     },
     "order": 789
   },
@@ -624,11 +624,11 @@
     "id": 2918,
     "guid": "1Q0KAeJdaJ",
     "type": "Furniture",
-    "name": "Ice Slide",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop4.webp",
-    "previewUrl": "",
+    "name": "Ice Convex Slide",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Ice-Block-Convex-Slide-Shared-Space-prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/34/Ice-Block-Convex-Slide-Shared-Space-prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Ice_Convex_Slide"
     },
     "order": 788
   },
@@ -637,10 +637,10 @@
     "guid": "H65bxAfNzl",
     "type": "Furniture",
     "name": "Ice Stool",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop5.webp",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Ice-Block-Stool-Shared-Space-prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Ice-Block-Stool-Shared-Space-prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Ice_Stool"
     },
     "order": 784
   },
@@ -649,10 +649,10 @@
     "guid": "3c6XCtwVeT",
     "type": "Furniture",
     "name": "Ice Small Table",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop6.webp",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Ice-Block-Small-Table-Shared-Space-prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/Ice-Block-Small-Table-Shared-Space-prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Ice_Small_Table"
     },
     "order": 785
   },
@@ -660,11 +660,11 @@
     "id": 2921,
     "guid": "6T4gsS3ZUX",
     "type": "HairAccessory",
-    "name": "Snowkid Hair Accessory",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_snowkid.webp",
-    "previewUrl": "",
+    "name": "Snowkid Accessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Snowkid-Hair-Accessory-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Snowkid-Hair-Accessory.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast#Snowkid_Accessory"
     },
     "order": 375
   },
@@ -672,15 +672,15 @@
     "id": 2922,
     "guid": "aoUa2jtXfL",
     "type": "Shoes",
-    "name": "Fluffy Winter Shoes",
-    "icon": "https://sky-planner.com/assets/game/items/feast2025_shoes.webp",
-    "previewUrl": "",
+    "name": "Fluffy Winter Leg Warmer",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Fluffy-Winter-Leg-Warmer-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a8/Fluffy-Winter-Leg-Warmer.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/shoes/Feast_legwarmers.jpg"
     },
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Fluffy_Winter_Leg_Warmer"
     },
     "order": 145
   }
