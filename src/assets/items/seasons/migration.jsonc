@@ -742,7 +742,10 @@
     "guid": "KLxRF7Uwxs",
     "type": "Quest",
     "name": "Quest 9",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Migration#Quest_#9"
+    }
   },
   {
     "id": 2866,
