@@ -65,15 +65,9 @@
   },
   {
     "guid": "BKpgOtPHLY",
-    "type": "Spirit",
-    "spirit": "U9vUspUuRp",
-    "iaps": [
-      "xG8KKVj3Sy",
-      "w_nGjqBYXi",
-      "Qaa8L4rCQd",
-      "MPTqCz-4gM",
-      "LEUKf4WJAO"
-    ]
+    "type": "Object",
+    "name": "Days of Bloom Crate",
+    "iaps": ["xG8KKVj3Sy", "w_nGjqBYXi", "Qaa8L4rCQd", "MPTqCz-4gM", "LEUKf4WJAO"]
   },
   {
     "guid": "VrwWmzEMYR",
