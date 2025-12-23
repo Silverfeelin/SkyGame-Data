@@ -747,8 +747,11 @@
   {
     "id": 2868,
     "guid": "wpZqxTG5l7",
-    "type": "Special",
-    "name": "Placeholder",
-    "icon": ""
+    "type": "Quest",
+    "name": "Quest 10",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Migration#Quest_#10"
+    }
   }
 ]
