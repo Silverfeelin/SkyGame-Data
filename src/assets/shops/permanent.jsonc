@@ -80,5 +80,12 @@
     "name": "Nesting Workshop Counter",
     "permanent": "nesting",
     "itemList": "AKNI67tVW-"
+  },
+  {
+    "guid": "cxi2H-iR6v",
+    "type": "Object",
+    "name": "Mannequin at Cafe",
+    "permanent": "wonderland",
+    "itemList": "Lu78MMHJp7"
   }
 ]
