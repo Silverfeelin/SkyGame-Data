@@ -65,7 +65,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2021#Days_of_Fortune_Pack"
     },
-    "order": 956
+    "order": 957
   },
   {
     "id": 1728,
@@ -139,7 +139,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2022#Days_of_Fortune_Fish_Pack"
     },
-    "order": 957
+    "order": 958
   },
   {
     "id": 1733,
@@ -305,7 +305,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Fortune_DragonCape.jpg"
     },
-    "order": 958,
+    "order": 959,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2024#Days_of_Fortune_Dragon_Stole"
     }
@@ -399,7 +399,7 @@
     "name": "Days of Fortune Snake Cloak",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/87/Days-of-Fortune-Snake-Cloak-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6e/Days-of-Fortune-Snake-Cloak-back.png",
-    "order": 959,
+    "order": 960,
     "dye": {
       "primary": {},
       "secondary": {},
@@ -432,7 +432,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Fortune_Candle_Flags_Prop"
     },
-    "order": 838
+    "order": 839
   },
   {
     "id": 2505,
@@ -472,7 +472,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Fortune_Plant_Prop"
     },
-    "order": 836
+    "order": 837
   },
   {
     "id": 2510,
@@ -484,7 +484,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Fortune_Vertical_Poster_Prop"
     },
-    "order": 837
+    "order": 838
   },
   {
     "id": 2511,

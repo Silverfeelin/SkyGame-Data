@@ -294,7 +294,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Butterfly_Charmer#Cape"
     },
-    "order": 952
+    "order": 953
   },
   {
     "id": 2785,
@@ -321,7 +321,7 @@
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Butterfly_Charmer#Expression"
-    },
+    }
   },
   {
     "id": 2788,
@@ -440,7 +440,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Manta_Whisperer#Cape"
     },
-    "order": 955
+    "order": 956
   },
   {
     "id": 2799,
@@ -459,7 +459,7 @@
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Manta_Whisperer#Expression"
-    },
+    }
   },
   {
     "id": 2801,
@@ -531,7 +531,7 @@
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Bird_Whisperer#Expression"
-    },
+    }
   },
   {
     "id": 2808,
@@ -542,7 +542,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Migrating-Bird-Whisperer-emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Bird_Whisperer#Expression"
-    },
+    }
   },
   {
     "id": 2809,
@@ -585,7 +585,7 @@
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Bird_Whisperer#Expression"
-    },
+    }
   },
   {
     "id": 2813,
@@ -604,7 +604,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Bird_Whisperer#Cape"
     },
-    "order": 953
+    "order": 954
   },
   {
     "id": 2814,
@@ -719,7 +719,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Bellmaker#Cape"
     },
-    "order": 954
+    "order": 955
   },
   {
     "id": 2825,
@@ -858,7 +858,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Migration-Guide-Bell-Prop.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migration_Guide#Prop"
-    }
+    },
+    "order": 672
   },
   {
     "id": 2867,

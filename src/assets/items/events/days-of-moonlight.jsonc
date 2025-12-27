@@ -48,7 +48,7 @@
     "name": "Moonlight Lantern",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Moonlight-Lantern-Decoration-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b5/Moonlight-Lantern-Decoration.png",
-    "order": 829,
+    "order": 830,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2024#Moonlight_Lantern_Decoration"
     }
@@ -101,7 +101,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2025#Moonlight_Banner"
     },
-    "order": 681
+    "order": 682
   },
   {
     "id": 2760,
@@ -113,7 +113,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2025#Moonlight_Garland_Cape"
     },
-    "order": 981
+    "order": 982
   },
   {
     "id": 2761,
@@ -125,6 +125,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2025#Moonlight_Basin"
     },
-    "order": 680
+    "order": 681
   }
 ]
