@@ -11,8 +11,7 @@
   { "guid": "BiEyfuBifp", "item": "BMDADUXao1" },
   { "guid": "c4n17S3ulT", "item": "TU0elaQAVo", "nw": "PwJKX3OX6G", "n": "a9xMoZ8LeO" },
   { "guid": "PwJKX3OX6G", "item": "Cj2mrFPX05" },
-  { "guid": "a9xMoZ8LeO", "item": "DWsvdTqFbu", "nw": "NSVwexTjV0", "n": "7E8GrY4mae" },
-  { "guid": "NSVwexTjV0", "item": "l7vA1mZOyY" },
+  { "guid": "a9xMoZ8LeO", "item": "DWsvdTqFbu", "n": "7E8GrY4mae" },
   { "guid": "7E8GrY4mae", "item": "PdjVIHk-se" },
   { "guid": "kuxWvLYTxO", "item": "bpUKMY2cpm", "n": "6_DftEd25-" },
   { "guid": "6_DftEd25-", "item": "FjxHIvszIu", "sh": 2, "n": "jBcre0EABI" },
@@ -28,8 +27,7 @@
   { "guid": "2MNIJyhmKg", "item": "BMDADUXao1", "c": 3 },
   { "guid": "oznvsQ_h72", "item": "TU0elaQAVo", "nw": "7Yhaf1NKgI", "n": "ldIYlMoLlc" },
   { "guid": "7Yhaf1NKgI", "item": "Cj2mrFPX05", "c": 3 },
-  { "guid": "ldIYlMoLlc", "item": "DWsvdTqFbu", "nw": "CRaF_6PXWQ", "n": "Wk20z8BAbc" },
-  { "guid": "CRaF_6PXWQ", "item": "l7vA1mZOyY", "c": 3 },
+  { "guid": "ldIYlMoLlc", "item": "DWsvdTqFbu", "n": "Wk20z8BAbc" },
   { "guid": "Wk20z8BAbc", "item": "PdjVIHk-se", "c": 3 },
   // #endregion
   // #region Shattering
