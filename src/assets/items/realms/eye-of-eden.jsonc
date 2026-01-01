@@ -128,5 +128,21 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vault_Elder#Hair"
     },
     "order": 186
+  },
+  {
+    "id": 2927,
+    "guid": "VK3b1RyEwA",
+    "type": "FaceAccessory",
+    "group": "Elder",
+    "name": "Valley Ultimate Mask A",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Elders-of-Valley-Ultimate-Mask-A-icon.png"
+  },
+  {
+    "id": 2928,
+    "guid": "oOmRXIzleH",
+    "type": "FaceAccessory",
+    "group": "Elder",
+    "name": "Valley Ultimate Mask B",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Elders-of-Valley-Ultimate-Mask-B-icon.png"
   }
 ]
