@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Flight_Guide#Ultimate_Gifts"
     },
-    "order": 524
+    "order": 526
   },
   {
     "id": 477,
@@ -23,7 +23,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Flight_Guide#Ultimate_Gifts"
     },
-    "order": 325,
+    "order": 327,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Flight_ultfeathers.jpg",
       "primary": {}
@@ -192,7 +192,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Flight_navi.jpg"
     },
-    "order": 235,
+    "order": 237,
     "group": "SeasonPass"
   },
   {
@@ -205,7 +205,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lively_Navigator#Hair_Accessory"
     },
-    "order": 324,
+    "order": 326,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Flight_navifeathers.jpg",
       "primary": {}
@@ -265,7 +265,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lively_Navigator#Cape"
     },
-    "order": 899,
+    "order": 901,
     "group": "SeasonPass"
   },
   {
@@ -338,7 +338,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Light_Whisperer#Hair_Accessory"
     },
-    "order": 322,
+    "order": 324,
     "group": "SeasonPass"
   },
   {
@@ -355,7 +355,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Flight_LW.jpg"
     },
-    "order": 234
+    "order": 236
   },
   {
     "id": 1343,
@@ -386,7 +386,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Light_Whisperer#Cape"
     },
-    "order": 898,
+    "order": 900,
     "group": "SeasonPass"
   },
   {
@@ -484,7 +484,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tinkering_Chimesmith#Hair_Accessory"
     },
-    "order": 323,
+    "order": 325,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Flight_chimefeather.jpg",
       "primary": {}
@@ -516,7 +516,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tinkering_Chimesmith#Instrument"
     },
-    "order": 586,
+    "order": 588,
     "group": "SeasonPass"
   },
   {
@@ -533,7 +533,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Flight_chimesmith.jpg"
     },
-    "order": 233
+    "order": 235
   },
   {
     "id": 2756,
@@ -619,7 +619,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Talented_Builder#Neck_Accessory"
     },
-    "order": 543
+    "order": 545
   },
   {
     "id": 1364,
@@ -692,7 +692,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Flight_builder.jpg"
     },
-    "order": 232
+    "order": 234
   },
   {
     "id": 1953,

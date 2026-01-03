@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Camera_Prop"
     },
-    "order": 606
+    "order": 608
   },
   {
     "id": 623,
@@ -121,7 +121,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Ultimate_Gifts"
     },
-    "order": 531
+    "order": 533
   },
   {
     "id": 636,
@@ -134,7 +134,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Ultimate_Gifts"
     },
-    "order": 108,
+    "order": 110,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Moments_ultglasses.jpg",
       "primary": {}
@@ -151,7 +151,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Ultimate_Gifts"
     },
-    "order": 605
+    "order": 607
   },
   {
     "id": 638,
@@ -164,7 +164,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Ultimate_Gifts"
     },
-    "order": 331,
+    "order": 333,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Moments_ulthat.jpg",
       "primary": {}
@@ -212,7 +212,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Reassuring_Ranger#Face_Accessory"
     },
-    "order": 109,
+    "order": 111,
     "group": "SeasonPass"
   },
   {
@@ -229,7 +229,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Reassuring_Ranger#Mask"
     },
-    "order": 482
+    "order": 484
   },
   {
     "id": 1655,
@@ -262,7 +262,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Reassuring_Ranger#Cape"
     },
-    "order": 926,
+    "order": 928,
     "group": "SeasonPass"
   },
   {
@@ -275,7 +275,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Reassuring_Ranger#Hair_Accessory"
     },
-    "order": 329,
+    "order": 331,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Moments_rangerhat.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/2slots_Moments_rangerhat.jpg",
@@ -333,7 +333,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Jolly_Geologist#Face_Accessory"
     },
-    "order": 110
+    "order": 112
   },
   {
     "id": 1664,
@@ -351,7 +351,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Moments_geologist.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Moments_geologist.jpg"
     },
-    "order": 262,
+    "order": 264,
     "group": "SeasonPass"
   },
   {
@@ -414,7 +414,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Jolly_Geologist#Prop"
     },
-    "order": 660,
+    "order": 662,
     "group": "SeasonPass"
   },
   {
@@ -484,7 +484,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ascetic_Monk#Mask"
     },
-    "order": 483,
+    "order": 485,
     "group": "SeasonPass"
   },
   {
@@ -501,7 +501,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Moments_monk.jpg"
     },
-    "order": 261
+    "order": 263
   },
   {
     "id": 1677,
@@ -589,7 +589,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nightbird_Whisperer#Hair"
     },
-    "order": 260
+    "order": 262
   },
   {
     "id": 1685,
@@ -616,7 +616,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nightbird_Whisperer#Hair_Accessory"
     },
-    "order": 330,
+    "order": 332,
     "group": "SeasonPass"
   },
   {
@@ -662,7 +662,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nightbird_Whisperer#Shoes"
     },
-    "order": 127,
+    "order": 129,
     "group": "SeasonPass"
   },
   {
@@ -683,6 +683,20 @@
   {
     "id": 2831,
     "guid": "QTswVTW5ZI",
+    "type": "WingBuff",
+    "name": "Wing Buff",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Winglight.png"
+  },
+  {
+    "id": 2925,
+    "guid": "Mm-MV6h2OD",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 2926,
+    "guid": "87cmyNbT-i",
     "type": "WingBuff",
     "name": "Wing Buff",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Winglight.png"

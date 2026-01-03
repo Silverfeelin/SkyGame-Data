@@ -925,9 +925,15 @@
     "tree": "Gb_GeDCrwH"
   },
   {
-    "guid": "mBbEFlUMng",
+    "guid": "mBbEFlUMng", // 155 - Crab Whisperer
     "date": "2025-12-18",
     "spirit": "tZG5hNcINX",
     "tree": "JH_nMv1JJX"
+  },
+  {
+    "guid": "X9rqcJsH7V", // 156 - Ascetic Monk
+    "date": "2026-01-01",
+    "spirit": "EMMZ8KSCjP",
+    "tree": "D0WazSJ6Mx"
   }
 ]

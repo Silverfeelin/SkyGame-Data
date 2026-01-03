@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Summer_Lights#Days_of_Summer_Lights_Pack"
     },
-    "order": 619
+    "order": 621
   },
   {
     "id": 1903,
@@ -21,7 +21,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Summer_Lights#Summer_Lights_Accessory"
     },
-    "order": 378
+    "order": 380
   },
   {
     "id": 1904,
@@ -33,7 +33,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Summer#Days_of_Summer_Umbrella"
     },
-    "order": 620
+    "order": 622
   },
   {
     "id": 1905,
@@ -52,7 +52,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Summer#Summer_Hat"
     },
-    "order": 377,
+    "order": 379,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Sunlight_hat.jpg",
       "primary": {}
@@ -68,7 +68,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hiking_Grouch#Prop"
     },
-    "order": 710
+    "order": 712
   },
   {
     "id": 1908,
@@ -80,6 +80,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Summer#Days_of_Summer_Shell_Hairpin"
     },
-    "order": 376
+    "order": 378
   }
 ]

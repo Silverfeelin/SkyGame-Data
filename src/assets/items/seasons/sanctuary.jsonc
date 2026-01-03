@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sanctuary_Guide#Ultimate_Gifts"
     },
-    "order": 519
+    "order": 521
   },
   {
     "id": 394,
@@ -24,7 +24,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sanctuary_Guide#Ultimate_Gifts"
     },
-    "order": 581
+    "order": 583
   },
   {
     "id": 395,
@@ -37,7 +37,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sanctuary_Guide#Ultimate_Gifts"
     },
-    "order": 880
+    "order": 882
   },
   {
     "id": 396,
@@ -189,7 +189,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Jelly_Whisperer#Hair"
     },
-    "order": 208
+    "order": 210
   },
   {
     "id": 999,
@@ -255,7 +255,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Jelly_Whisperer#Prop"
     },
-    "order": 707
+    "order": 709
   },
   {
     "id": 1006,
@@ -298,7 +298,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Timid_Bookworm#Hair"
     },
-    "order": 209
+    "order": 211
   },
   {
     "id": 1010,
@@ -329,7 +329,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Timid_Bookworm#Cape"
     },
-    "order": 879,
+    "order": 881,
     "group": "SeasonPass"
   },
   {
@@ -388,7 +388,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rallying_Thrillseeker#Hair"
     },
-    "order": 210
+    "order": 212
   },
   {
     "id": 1019,
@@ -504,7 +504,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hiking_Grouch#Mask"
     },
-    "order": 439,
+    "order": 441,
     "group": "SeasonPass"
   },
   {
@@ -540,7 +540,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hiking_Grouch#Hair"
     },
-    "order": 211
+    "order": 213
   },
   {
     "id": 1034,
@@ -567,7 +567,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hiking_Grouch#Neck_Accessory"
     },
-    "order": 541,
+    "order": 543,
     "group": "SeasonPass"
   },
   {
@@ -633,7 +633,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Grateful_Shell_Collector#Hair"
     },
-    "order": 212,
+    "order": 214,
     "group": "SeasonPass"
   },
   {
@@ -675,7 +675,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Grateful_Shell_Collector#Cape"
     },
-    "order": 881
+    "order": 883
   },
   {
     "id": 1047,
@@ -703,7 +703,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Grateful_Shell_Collector#Prop"
     },
-    "order": 709
+    "order": 711
   },
   {
     "id": 1050,
@@ -760,7 +760,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Chill_Sunbather#Mask"
     },
-    "order": 107,
+    "order": 109,
     "group": "SeasonPass"
   },
   {
@@ -796,7 +796,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Chill_Sunbather#Hair"
     },
-    "order": 321,
+    "order": 323,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Sanctuary_chillhat.jpg",
       "primary": {}
@@ -824,7 +824,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Chill_Sunbather#Cape"
     },
-    "order": 882
+    "order": 884
   },
   {
     "id": 1061,
@@ -852,7 +852,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Chill_Sunbather#Prop"
     },
-    "order": 708
+    "order": 710
   },
   {
     "id": 1064,

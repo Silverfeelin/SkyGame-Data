@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Abyss_Guide#Ultimate_Gifts"
     },
-    "order": 525
+    "order": 527
   },
   {
     "id": 492,
@@ -23,7 +23,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Abyss_Guide#Ultimate_Gifts"
     },
-    "order": 391
+    "order": 393
   },
   {
     "id": 493,
@@ -42,7 +42,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Abyss_Guide#Ultimate_Gifts"
     },
-    "order": 904
+    "order": 906
   },
   {
     "id": 494,
@@ -61,7 +61,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Abyss_Guide#Ultimate_Gifts"
     },
-    "order": 460
+    "order": 462
   },
   {
     "id": 495,
@@ -164,7 +164,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Abyss_Guide#Oxygen_Mask"
     },
-    "order": 461
+    "order": 463
   },
   {
     "id": 1371,
@@ -207,7 +207,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Anxious_Angler#Mask"
     },
-    "order": 462,
+    "order": 464,
     "group": "SeasonPass"
   },
   {
@@ -224,7 +224,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Abyss_angler.jpg"
     },
-    "order": 238
+    "order": 240
   },
   {
     "id": 1376,
@@ -278,7 +278,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Anxious_Angler#Cape"
     },
-    "order": 902,
+    "order": 904,
     "group": "SeasonPass"
   },
   {
@@ -370,7 +370,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ceasing_Commodore#Hair"
     },
-    "order": 237,
+    "order": 239,
     "group": "SeasonPass"
   },
   {
@@ -389,7 +389,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ceasing_Commodore#Mask"
     },
-    "order": 458
+    "order": 460
   },
   {
     "id": 1389,
@@ -436,7 +436,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ceasing_Commodore#Cape"
     },
-    "order": 900
+    "order": 902
   },
   {
     "id": 1393,
@@ -509,7 +509,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Bumbling_Boatswain#Mask"
     },
-    "order": 457,
+    "order": 459,
     "group": "SeasonPass"
   },
   {
@@ -578,7 +578,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Bumbling_Boatswain#Cape"
     },
-    "order": 903,
+    "order": 905,
     "group": "SeasonPass"
   },
   {
@@ -591,7 +591,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Bumbling_Boatswain#Hair_Accessory"
     },
-    "order": 326
+    "order": 328
   },
   {
     "id": 1406,
@@ -663,7 +663,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cackling_Cannoneer#Mask"
     },
-    "order": 459
+    "order": 461
   },
   {
     "id": 1413,
@@ -712,7 +712,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cackling_Cannoneer#Cape"
     },
-    "order": 901
+    "order": 903
   },
   {
     "id": 1417,
@@ -739,7 +739,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cackling_Cannoneer#Hair"
     },
-    "order": 236,
+    "order": 238,
     "group": "SeasonPass"
   },
   {

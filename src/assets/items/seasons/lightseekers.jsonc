@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightseekers_Guide#Ultimate_Gifts"
     },
-    "order": 515
+    "order": 517
   },
   {
     "id": 371,
@@ -23,7 +23,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightseekers_Guide#Ultimate_Gifts"
     },
-    "order": 604
+    "order": 606
   },
   {
     "id": 709,
@@ -51,7 +51,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Piggyback_Lightseeker#Mask"
     },
-    "order": 420
+    "order": 422
   },
   {
     "id": 711,
@@ -95,7 +95,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Lightseeker_piggyback.jpg"
     },
-    "order": 192
+    "order": 194
   },
   {
     "id": 715,
@@ -113,7 +113,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Piggyback_Lightseeker#Cape"
     },
-    "order": 868,
+    "order": 870,
     "group": "SeasonPass"
   },
   {
@@ -163,7 +163,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Lightseeker_doublefive.jpg"
     },
-    "order": 194,
+    "order": 196,
     "group": "SeasonPass"
   },
   {
@@ -180,7 +180,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Doublefive_Light_Catcher#Mask"
     },
-    "order": 421
+    "order": 423
   },
   {
     "id": 722,
@@ -213,7 +213,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Doublefive_Light_Catcher#Instrument"
     },
-    "order": 574,
+    "order": 576,
     "group": "SeasonPass"
   },
   {
@@ -255,7 +255,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Laidback_Pioneer#Mask"
     },
-    "order": 422
+    "order": 424
   },
   {
     "id": 729,
@@ -295,7 +295,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Laidback_Pioneer#Hair"
     },
-    "order": 193
+    "order": 195
   },
   {
     "id": 733,
@@ -322,7 +322,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Laidback_Pioneer#Prop"
     },
-    "order": 602,
+    "order": 604,
     "group": "SeasonPass"
   },
   {
@@ -384,7 +384,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Twirling_Champion#Mask"
     },
-    "order": 423,
+    "order": 425,
     "group": "SeasonPass"
   },
   {
@@ -420,7 +420,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Twirling_Champion#Hair"
     },
-    "order": 191
+    "order": 193
   },
   {
     "id": 745,
@@ -433,7 +433,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Twirling_Champion#Instrument"
     },
-    "order": 575,
+    "order": 577,
     "group": "SeasonPass"
   },
   {
@@ -482,7 +482,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Crab_Whisperer#Mask"
     },
-    "order": 424
+    "order": 426
   },
   {
     "id": 751,
@@ -541,7 +541,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Lightseeker_crab.jpg"
     },
-    "order": 190
+    "order": 192
   },
   {
     "id": 757,
@@ -557,7 +557,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Crab_Whisperer#Cape"
     },
-    "order": 867,
+    "order": 869,
     "group": "SeasonPass"
   },
   {
@@ -570,7 +570,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Crab_Whisperer#Prop"
     },
-    "order": 636
+    "order": 638
   },
   {
     "id": 759,
@@ -631,7 +631,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Shushing_Light_Scholar#Mask"
     },
-    "order": 425,
+    "order": 427,
     "group": "SeasonPass"
   },
   {
@@ -680,7 +680,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Shushing_Light_Scholar#Cape"
     },
-    "order": 869,
+    "order": 871,
     "group": "SeasonPass"
   },
   {

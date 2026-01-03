@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2020#Earth_Cape"
     },
-    "order": 966
+    "order": 968
   },
   {
     "id": 1779,
@@ -21,7 +21,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2021#Ocean_Necklace"
     },
-    "order": 554,
+    "order": 556,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Nature_shellnecklace.jpg",
       "primary": {}
@@ -41,7 +41,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2021#Ocean_Cape"
     },
-    "order": 967
+    "order": 969
   },
   {
     "id": 1781,
@@ -53,7 +53,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2022#Nature_Turtle_Cape"
     },
-    "order": 968
+    "order": 970
   },
   {
     "id": 1782,
@@ -65,7 +65,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2022#Nature_Turtle_Pack"
     },
-    "order": 555
+    "order": 557
   },
   {
     "id": 1783,
@@ -77,7 +77,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2022#Nature_Coral_Crown_Accessory"
     },
-    "order": 353
+    "order": 355
   },
   {
     "id": 1784,
@@ -103,7 +103,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2023#Nature_School_Cape"
     },
-    "order": 970
+    "order": 972
   },
   {
     "id": 1787,
@@ -115,7 +115,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2023#Nature_Glasses_Pack"
     },
-    "order": 115
+    "order": 117
   },
   {
     "id": 1788,
@@ -127,7 +127,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2023#Nature_Sonorous_Seashell"
     },
-    "order": 722
+    "order": 724
   },
   {
     "id": 2166,
@@ -139,7 +139,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave_Pack"
     },
-    "order": 971
+    "order": 973
   },
   {
     "id": 2167,
@@ -151,7 +151,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave-Touched_Hair"
     },
-    "order": 294
+    "order": 296
   },
   {
     "id": 2168,
@@ -167,7 +167,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave_Mask"
     },
-    "order": 500
+    "order": 502
   },
   {
     "id": 2169,
@@ -179,7 +179,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave_Scarf"
     },
-    "order": 556,
+    "order": 558,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Nature_Riverscarf.jpg",
       "primary": {}
@@ -225,7 +225,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Manta_Hair"
     },
-    "order": 295
+    "order": 297
   },
   {
     "id": 2624,
@@ -244,7 +244,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Sea_Foam_Set"
     },
-    "order": 969
+    "order": 971
   },
   {
     "id": 2626,
@@ -256,7 +256,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Sea_Foam_Set"
     },
-    "order": 148
+    "order": 150
   },
   {
     "id": 2627,
@@ -272,6 +272,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Waves_Mask"
     },
-    "order": 501
+    "order": 503
   }
 ]

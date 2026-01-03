@@ -71,9 +71,9 @@ export class SkyDataResolver {
   }
 
   private registerGuid(obj: IGuid): void {
-    if (!obj.guid) { throw new Error('Missing GUID'); }
-    if (obj.guid?.length !== 10) { throw new Error(`Invalid GUID: ${obj.guid}`); }
-    if (this.guids.has(obj.guid)) { throw new Error(`Duplicate GUID: ${obj.guid}`); }
+    if (!obj.guid) { console.log(obj); throw new Error('Missing GUID'); }
+    if (obj.guid?.length !== 10) { console.log(obj); throw new Error(`Invalid GUID: ${obj.guid}`); }
+    if (this.guids.has(obj.guid)) { console.log(obj); throw new Error(`Duplicate GUID: ${obj.guid}`); }
     this.guids.set(obj.guid, obj);
   }
 

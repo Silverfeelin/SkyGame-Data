@@ -10,9 +10,11 @@
   { "guid": "ncEK0wS3c6", "item": "T0wsTbmzvv", "ac": 6, "n": "jqNuraptWZ" },
   { "guid": "jqNuraptWZ", "item": "ay0lwFyush", "ac": 250 },
   // Valley Elders
-  { "guid": "lxz9_FA5lW", "item": "tnhmHAHeo4", "n": "-fyqgqgPHx", "ne": "IAXvSy1zSG", "nw": "PVXjRO0TDh", "ac": 2 },
-  { "guid": "PVXjRO0TDh", "item": "YdtLj5dJE7", "ac": 5 },
-  { "guid": "IAXvSy1zSG", "item": "AjiVTxnCly", "ac": 6 },
+  { "guid": "lxz9_FA5lW", "item": "tnhmHAHeo4", "ac": 2, "nw": "PVXjRO0TDh", "n": "-fyqgqgPHx", "ne": "IAXvSy1zSG" },
+  { "guid": "PVXjRO0TDh", "item": "YdtLj5dJE7", "ac": 5, "n": "0FImNOUHCt" },
+  { "guid": "0FImNOUHCt", "item": "VK3b1RyEwA", "ac": 150 },
+  { "guid": "IAXvSy1zSG", "item": "AjiVTxnCly", "ac": 6, "n": "5jxMyDhBtf" },
+  { "guid": "5jxMyDhBtf", "item": "oOmRXIzleH", "ac": 150 },
   { "guid": "-fyqgqgPHx", "item": "fap0foDD3-", "ac": 2 },
   // Wasteland Elder
   { "guid": "6COu8N6od3", "item": "SSrCZW8Cf-", "ac": 6 },

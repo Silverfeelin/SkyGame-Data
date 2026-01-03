@@ -60,7 +60,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Spirit_of_Mural#Hair_Accessory"
     },
-    "order": 334
+    "order": 336
   },
   {
     "id": 2041,
@@ -100,7 +100,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Spirit_of_Mural#Mask"
     },
-    "order": 486
+    "order": 488
   },
   {
     "id": 2045,
@@ -113,7 +113,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_the_Nine-Colored_Deer#Gift_of_the_Nine-Colored_Deer"
     },
-    "order": 487
+    "order": 489
   },
   {
     "id": 2046,
@@ -126,7 +126,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_the_Nine-Colored_Deer#Gift_of_the_Nine-Colored_Deer"
     },
-    "order": 395
+    "order": 397
   },
   {
     "id": 2047,
@@ -139,7 +139,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_the_Nine-Colored_Deer#Radiance_of_the_Nine-Colored_Deer"
     },
-    "order": 936
+    "order": 938
   },
   {
     "id": 2031,
@@ -152,7 +152,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Spirit_of_Mural#Ultimate_Pendant"
     },
-    "order": 533
+    "order": 535
   },
   {
     "id": 2032,
@@ -165,7 +165,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Hair"
     },
-    "order": 267
+    "order": 269
   },
   {
     "id": 2033,
@@ -191,7 +191,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Cape"
     },
-    "order": 932
+    "order": 934
   },
   {
     "id": 1986,
@@ -247,7 +247,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Herb_Gatherer#Hair"
     },
-    "order": 268
+    "order": 270
   },
   {
     "id": 1991,
@@ -290,7 +290,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Herb_Gatherer#Prop"
     },
-    "order": 661
+    "order": 663
   },
   {
     "id": 1995,
@@ -392,7 +392,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hunter#Hair"
     },
-    "order": 270,
+    "order": 272,
     "group": "SeasonPass"
   },
   {
@@ -405,7 +405,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hunter#Cape"
     },
-    "order": 934
+    "order": 936
   },
   {
     "id": 2048,
@@ -465,7 +465,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Feudal_Lord#Hair_Accessory"
     },
-    "order": 335,
+    "order": 337,
     "group": "SeasonPass"
   },
   {
@@ -478,7 +478,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Feudal_Lord#Mask"
     },
-    "order": 485
+    "order": 487
   },
   {
     "id": 2012,
@@ -505,7 +505,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Feudal_Lord#Cape"
     },
-    "order": 935,
+    "order": 937,
     "group": "SeasonPass"
   },
   {
@@ -570,7 +570,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Princess#Mask"
     },
-    "order": 484
+    "order": 486
   },
   {
     "id": 2021,
@@ -597,7 +597,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Princess#Hair"
     },
-    "order": 269,
+    "order": 271,
     "group": "SeasonPass"
   },
   {
@@ -660,7 +660,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Princess#Cape"
     },
-    "order": 933,
+    "order": 935,
     "group": "SeasonPass"
   },
   {

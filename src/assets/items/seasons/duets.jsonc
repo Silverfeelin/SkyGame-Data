@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Seasonal_Pendant"
     },
-    "order": 535
+    "order": 537
   },
   {
     "id": 2237,
@@ -29,7 +29,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Duets_Ultimate_Cape"
     },
-    "order": 938
+    "order": 940
   },
   {
     "id": 2238,
@@ -42,7 +42,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Duets_Ultimate_Instrument"
     },
-    "order": 819
+    "order": 821
   },
   {
     "id": 2239,
@@ -55,7 +55,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Duets_Ultimate_Prop"
     },
-    "order": 806
+    "order": 808
   },
   {
     "id": 2240,
@@ -71,7 +71,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Mask"
     },
-    "order": 488
+    "order": 490
   },
   {
     "id": 2241,
@@ -97,7 +97,7 @@
     "name": "The Pianist's Beginnings Poster",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Pianists-Beginnings-Poster-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fe/Pianists-Beginnings-Poster-Prop.png",
-    "order": 810,
+    "order": 812,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Beginnings#Piano_Keys_Wall_Poster"
     },
@@ -113,7 +113,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Beginnings#Hair"
     },
-    "order": 272
+    "order": 274
   },
   {
     "id": 2245,
@@ -144,7 +144,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Beginnings#Small_Blue_Rug"
     },
-    "order": 820
+    "order": 822
   },
   {
     "id": 2247,
@@ -194,7 +194,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Beginnings#Hair"
     },
-    "order": 273
+    "order": 275
   },
   {
     "id": 2253,
@@ -206,7 +206,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Beginnings#Prop"
     },
-    "order": 809,
+    "order": 811,
     "group": "SeasonPass"
   },
   {
@@ -268,7 +268,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Musicians'_Legacy#Grand_Piano"
     },
-    "order": 818,
+    "order": 820,
     "group": "SeasonPass"
   },
   {
@@ -282,7 +282,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Musicians'_Legacy#Cello"
     },
-    "order": 592
+    "order": 594
   },
   {
     "id": 2261,
@@ -362,7 +362,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Flourishing#Cape"
     },
-    "order": 939
+    "order": 941
   },
   {
     "id": 2268,
@@ -374,7 +374,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Flourishing#Small_Pink_Rug"
     },
-    "order": 821
+    "order": 823
   },
   {
     "id": 2269,
@@ -386,7 +386,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Flourishing#Cello_Wall_Poster"
     },
-    "order": 808,
+    "order": 810,
     "group": "SeasonPass"
   },
   {
@@ -456,7 +456,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Flourishing#Shoes"
     },
-    "order": 131
+    "order": 133
   },
   {
     "id": 2277,
@@ -468,7 +468,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Flourishing#Prop"
     },
-    "order": 807,
+    "order": 809,
     "group": "SeasonPass"
   },
   {
@@ -518,7 +518,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Compassionate_Cellist#Face_Accessory"
     },
-    "order": 111
+    "order": 113
   },
   {
     "id": 2296,
@@ -530,7 +530,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Compassionate_Cellist#Instrument"
     },
-    "order": 593
+    "order": 595
   },
   {
     "id": 2297,

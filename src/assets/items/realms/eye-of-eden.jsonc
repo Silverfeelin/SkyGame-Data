@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Isle_Elder#Hair"
     },
-    "order": 180
+    "order": 182
   },
   {
     "id": 359,
@@ -36,7 +36,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Prairie_Elder#Hair"
     },
-    "order": 181
+    "order": 183
   },
   {
     "id": 361,
@@ -62,7 +62,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Forest_Elder#Hair"
     },
-    "order": 182
+    "order": 184
   },
   {
     "id": 363,
@@ -88,7 +88,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Valley_Elders#Hair"
     },
-    "order": 184
+    "order": 186
   },
   {
     "id": 365,
@@ -101,7 +101,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Valley_Elders#Hair"
     },
-    "order": 183
+    "order": 185
   },
   {
     "id": 366,
@@ -114,7 +114,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Wasteland_Elder#Hair"
     },
-    "order": 185
+    "order": 187
   },
   {
     "id": 367,
@@ -127,7 +127,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vault_Elder#Hair"
     },
-    "order": 186
+    "order": 188
   },
   {
     "id": 2923,
@@ -142,5 +142,31 @@
     "type": "Special",
     "name": "Blessing",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
+  },
+  {
+    "id": 2927,
+    "guid": "VK3b1RyEwA",
+    "type": "FaceAccessory",
+    "group": "Elder",
+    "name": "Valley Ultimate Mask A",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Elders-of-Valley-Ultimate-Mask-A-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Elders-of-Valley-Ultimate-Mask-A.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Elder_of_the_Valley#Face_Accessory"
+    },
+    "order": 107
+  },
+  {
+    "id": 2928,
+    "guid": "oOmRXIzleH",
+    "type": "FaceAccessory",
+    "group": "Elder",
+    "name": "Valley Ultimate Mask B",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Elders-of-Valley-Ultimate-Mask-B-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Elders-of-Valley-Ultimate-Mask-B.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Elder_of_the_Valley#Face_Accessory"
+    },
+    "order": 108
   }
 ]
