@@ -1,7 +1,7 @@
 [
   {
     "guid": "LUkrOYNjEy",
-    "name": "Valley Social Space",
+    "name": "Valley Gateway",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/social-720.webp",
     "mapShrines": ["-R9H4i_Jz3"],
     "mapData": { "position": [-257.13, 189.63] },
@@ -9,7 +9,7 @@
   },
   {
     "guid": "u3rc8C3sMb",
-    "name": "Ice Rink",
+    "name": "Frozen Lake",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/rink-720.webp",
     "spirits": ["4KCKJxR56G", "JROKFatVLC", "bHCSyFQ4u-", "9y_5scrYa9"],
     "wingedLights": ["5BM1uqQvM4", "vKEMuduC0F", "_rmaySa6NL"],
@@ -23,7 +23,7 @@
   },
   {
     "guid": "iRWfJCMxFB",
-    "name": "Citadel",
+    "name": "The Citadel",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/citadel-720.webp",
     "spirits": ["yUp189PWVS", "CfXORyMFx4", "H5iKZChQIK"],
     "wingedLights": ["DjuNbgmKq5", "D9Z9c3mRDf"],
@@ -33,7 +33,7 @@
   },
   {
     "guid": "8Zn5GPbx1U",
-    "name": "Sliding Race",
+    "name": "Lower Valley Track",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/slide-720.webp",
     "wingedLights": ["Tmg19lVERk"],
     "mapShrines": ["r2NNvf4jdl"],
@@ -42,7 +42,7 @@
   },
   {
     "guid": "uMoS_cHn0R",
-    "name": "Flying Race",
+    "name": "Upper Valley Track",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/fly-720.webp",
     "wingedLights": ["sfDl46vj4O", "N6KMjaxez6"],
     "mapShrines": ["Aq4k2P-fVB"],
@@ -59,7 +59,7 @@
   },
   {
     "guid": "GC4SmA2CUz",
-    "name": "Coliseum",
+    "name": "The Coliseum",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/coliseum-720.webp",
     "spirits": [
       "OaAUJHNIjE",

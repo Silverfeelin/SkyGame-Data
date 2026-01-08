@@ -1,7 +1,7 @@
 [
   {
     "guid": "Cmo9TPPpyH",
-    "name": "Prairie Social Space",
+    "name": "Prairie Gateway",
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/social-720.webp",
     "wingedLights": ["fl1Z3bEx81"],
     "mapShrines": ["UZU8IWRFTQ"],
@@ -25,7 +25,7 @@
   },
   {
     "guid": "V17jvM6lWL",
-    "name": "Village Islands",
+    "name": "Prairie Village",
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/islands-720.webp",
     "spirits": ["48jm5EQzfU", "K3CIxcDSjq", "WFjSczlPTV", "R4ILdPamhd"],
     "wingedLights": ["_SJva8zUYc", "D22kvZx25W", "4lNlq0Raah"],
@@ -41,7 +41,7 @@
   },
   {
     "guid": "bq6AFJ7avU",
-    "name": "8-Player Puzzle Area",
+    "name": "Prairie Heights",
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/8p-720.webp",
     "spirits": ["gtbbZnpLbt"],
     "wingedLights": ["Sc2aim9ro1"],
@@ -67,7 +67,7 @@
   },
   {
     "guid": "BwpwRMfq1X",
-    "name": "Prairie Caves",
+    "name": "Prairie Cave",
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/cave-720.webp",
     "spirits": ["MyLI80npmW", "Q-N8n-0b8O"],
     "wingedLights": ["tGV1WQd1yk", "K-eoMvklId"],
@@ -81,7 +81,7 @@
   },
   {
     "guid": "HHem4xrBb6",
-    "name": "Bird's Nest",
+    "name": "Bird Nest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/nest-720.webp",
     "spirits": ["KM1xzU9v5P", "jncJKA4IaM", "PYsLThJYPx"],
     "wingedLights": ["GNDWMxbvTD", "PBt-1vrXFA"],
@@ -95,7 +95,7 @@
   },
   {
     "guid": "W4xXNx8SSq",
-    "name": "Sanctuary Island",
+    "name": "Sanctuary Islands",
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/sanctuary-720.webp",
     "spirits": [
       "0IoADuWn1P",

@@ -15,7 +15,7 @@
   },
   {
     "guid": "wKZdWMMIWa",
-    "name": "Vault Elevator",
+    "name": "Lower Vault",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/elevator-720.webp",
     "spirits": ["_8CvQjUnQg", "CH6e-TQz6n"],
     "mapShrines": ["Mt6uDBigUP"],
@@ -32,7 +32,7 @@
   },
   {
     "guid": "-xkmkbpRyN",
-    "name": "Vault Third Floor",
+    "name": "Middle Vault",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/third-720.webp",
     "spirits": ["1OGD_H3a7X"],
     "wingedLights": ["Hn7mU7ktxt"],
@@ -42,7 +42,7 @@
   },
   {
     "guid": "BxTngnB1PV",
-    "name": "Vault Fourth Floor",
+    "name": "Upper Vault",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/fourth-720.webp",
     "spirits": ["HeJISF946a", "Gi75RcvXd0", "KZaVtTUdlR", "mZZ-MkZJ1x"],
     "wingedLights": ["Zzvpdwh0wl", "I-vGwH81iB"],
@@ -60,7 +60,7 @@
   },
   {
     "guid": "ZiqYHd176H",
-    "name": "Vault Summit",
+    "name": "Vault Temple",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/summit-720.webp",
     "wingedLights": ["uiNKKn25L-"],
     "mapShrines": ["4jtpTFZ39o"],
@@ -69,7 +69,7 @@
   },
   {
     "guid": "HbKvg_BOyc",
-    "name": "Vault Archives",
+    "name": "The Archive",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/archive-720.webp",
     "spirits": ["7EzWoLR1w4"],
     "wingedLights": ["W9fiK8mWQK", "4uUGCJEgq3"],
@@ -79,7 +79,7 @@
   },
   {
     "guid": "wrHKGEg2Kc",
-    "name": "Vault Collab Room",
+    "name": "Hall of Stories",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/new-collab-temp.webp",
     "mapShrines": ["eroCc1CGcC"],
     "mapData": { "position": [-214, 395.5] },
@@ -144,7 +144,7 @@
   },
   {
     "guid": "schNrmq0ID",
-    "name": "Office",
+    "name": "Secret Area",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/secret-720.webp",
     "spirits": [
       "ExkE9a7QJ0",
@@ -207,7 +207,7 @@
   },
   {
     "guid": "wOM-k6pjot",
-    "name": "Moominvalley Glade",
+    "name": "Moominvalley",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/moomin-glade-720.webp",
     "spirits": [
       "vW9xp55w6t",

@@ -1,7 +1,7 @@
 [
   {
     "guid": "A2--yR5CJk",
-    "name": "Forest Social Space",
+    "name": "Forest Gateway",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/social-720.webp",
     "mapShrines": ["AKRMG2oyjD"],
     "mapData": { "position": [-373.5, 120.5] },
@@ -26,7 +26,7 @@
   },
   {
     "guid": "ZlV4HpsDGF",
-    "name": "Rainy Forest",
+    "name": "Forest Courtyard",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/rainy-720.webp",
     "spirits": ["LwcCtbnGuF", "94UEgV7ic1", "RG-Z1xwway"],
     "wingedLights": ["zJCYOFxRNR"],
@@ -76,7 +76,7 @@
   },
   {
     "guid": "FlcxMwdsU7",
-    "name": "Underground Cavern",
+    "name": "Forest Cavern",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/cavern-720.webp",
     "spirits": ["gcEV41jg3U"],
     "wingedLights": ["iaLuQ06e4T", "pBAU_FHObL", "3NFT1aCRpY", "xF6rfLZpef"],
@@ -103,7 +103,7 @@
   },
   {
     "guid": "iYC53UMrvL",
-    "name": "Broken Bridge",
+    "name": "Boneyard",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/bridge-720.webp",
     "spirits": [
       "L_0YoE4O8Z",
@@ -134,7 +134,7 @@
   },
   {
     "guid": "jY6mM3Io4T",
-    "name": "Forest End",
+    "name": "Sacred Pond",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/end-720.webp",
     "wingedLights": ["s_UlGNscIQ"],
     "mapShrines": ["nlqV1yGTCM"],
@@ -143,7 +143,7 @@
   },
   {
     "guid": "Ay0oFK8FSv",
-    "name": "Assembly Treehouse",
+    "name": "The Treehouse",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/treehouse-720.webp",
     "spirits": ["cpwvdVEzKN"],
     "wingedLights": ["H7uvC7nb8U", "7_WXb7Uu8Z"],
@@ -158,7 +158,7 @@
   },
   {
     "guid": "_dSyX-Uwrh",
-    "name": "Wind Paths",
+    "name": "The Wind Paths",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/wind-720.webp",
     "spirits": [
       "FF8u1g9XI_",

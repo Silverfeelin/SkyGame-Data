@@ -1,7 +1,7 @@
 [
   {
     "guid": "R4I-lYbUUO",
-    "name": "Wasteland Social Space",
+    "name": "Wasteland Gateway",
     "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/social-720.webp",
     "mapShrines": ["EaNImb7KpI"],
     "mapData": { "position": [-283, 339.25] },
@@ -76,7 +76,7 @@
   },
   {
     "guid": "jP2N7n1mcw",
-    "name": "Battlefield",
+    "name": "Wasteland Battlefield",
     "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/battlefield-720.webp",
     "spirits": ["nwpDbbbWcw"],
     "wingedLights": ["3rn0JHgV53", "MVmgO5kOUE"],
@@ -140,7 +140,7 @@
   },
   {
     "guid": "pZbxK8tM_J",
-    "name": "The Land in the Distant Past",
+    "name": "The Last City",
     "spirits": ["aO0n7dAWvc", "Jq1bIftHV5", "zdstJkDMg5", "2FQrdh4aCQ"],
     "connections": [{ "area": "mT6bVNovBW" }]
   }

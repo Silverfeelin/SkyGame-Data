@@ -39,7 +39,7 @@
   },
   {
     "guid": "6MuptjUV8B",
-    "name": "Isle Temple",
+    "name": "Dawn Temple",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/temple-720.webp",
     "mapShrines": ["gZHTmFJ0_S"],
     "mapData": { "position": [-398.13, 305.5] },
@@ -60,7 +60,7 @@
   },
   {
     "guid": "ht8PxRB-MY",
-    "name": "Butterfly Cave",
+    "name": "Dawn Overlook",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/butterfly-720.webp",
     "wingedLights": ["vGCXUjMLfB"],
     "mapData": { "position": [-405.13, 321.5] },

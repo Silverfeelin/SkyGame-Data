@@ -1,7 +1,7 @@
 [
   {
     "guid": "vWlW190-P1",
-    "name": "Eden Entrance",
+    "name": "Gate of Eden",
     "imageUrl": "https://sky-planner.com/assets/game/areas/eden/entrance-720.webp",
     "mapShrines": ["QBGEZURf1h"],
     "mapData": { "position": [-193.25, 275.75] },
@@ -65,7 +65,7 @@
   },
   {
     "guid": "Ub5s1RiDA1",
-    "name": "Orbit",
+    "name": "The Passage",
     "imageUrl": "https://sky-planner.com/assets/game/areas/eden/orbit-720.webp",
     "spirits": [
       "l8tl0mHCWH",
