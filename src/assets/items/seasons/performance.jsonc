@@ -17,7 +17,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Performance_Guide#Ultimate_Gifts"
     },
-    "order": 528
+    "order": 536
   },
   {
     "id": 508,
@@ -36,7 +36,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Performance_Guide#Ultimate_Gifts"
     },
-    "order": 465
+    "order": 473
   },
   {
     "id": 509,
@@ -53,7 +53,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Performance_Guide#Ultimate_Gifts"
     },
-    "order": 907
+    "order": 915
   },
   {
     "id": 510,
@@ -66,7 +66,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Performance_Guide#Ultimate_Gifts"
     },
-    "order": 241
+    "order": 244
   },
   {
     "id": 511,
@@ -119,7 +119,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Performance_Guide#Mask"
     },
-    "order": 468
+    "order": 476
   },
   {
     "id": 517,
@@ -224,7 +224,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Performance_Guide#Prop"
     },
-    "order": 654
+    "order": 662
   },
   {
     "id": 1424,
@@ -259,7 +259,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Performance_stagehand.jpg"
     },
-    "order": 243,
+    "order": 246,
     "group": "SeasonPass"
   },
   {
@@ -312,7 +312,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Frantic_Stagehand#Mask"
     },
-    "order": 467
+    "order": 475
   },
   {
     "id": 1432,
@@ -394,7 +394,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Forgetful_Storyteller#Mask"
     },
-    "order": 469,
+    "order": 477,
     "group": "SeasonPass"
   },
   {
@@ -413,7 +413,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Performance_storyteller.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Performance_storyteller.jpg"
     },
-    "order": 244
+    "order": 247
   },
   {
     "id": 1439,
@@ -488,7 +488,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Forgetful_Storyteller#Cape"
     },
-    "order": 908
+    "order": 916
   },
   {
     "id": 1445,
@@ -554,7 +554,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Mellow_Musician#Mask"
     },
-    "order": 470
+    "order": 478
   },
   {
     "id": 1450,
@@ -585,7 +585,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Mellow_Musician#Cape"
     },
-    "order": 909,
+    "order": 917,
     "group": "SeasonPass"
   },
   {
@@ -629,7 +629,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Mellow_Musician#Instrument"
     },
-    "order": 589,
+    "order": 597,
     "group": "SeasonPass"
   },
   {
@@ -646,7 +646,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Performance_mellow.jpg"
     },
-    "order": 245
+    "order": 248
   },
   {
     "id": 2287,
@@ -720,7 +720,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Modest_Dancer#Mask"
     },
-    "order": 466
+    "order": 474
   },
   {
     "id": 1464,
@@ -782,7 +782,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Performance_modest.jpg"
     },
-    "order": 242,
+    "order": 245,
     "group": "SeasonPass"
   },
   {

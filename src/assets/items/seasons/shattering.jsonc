@@ -17,7 +17,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Void_of_Shattering#Ultimate_Gifts"
     },
-    "order": 529
+    "order": 537
   },
   {
     "id": 532,
@@ -30,7 +30,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Void_of_Shattering#Ultimate_Gifts"
     },
-    "order": 914
+    "order": 922
   },
   {
     "id": 533,
@@ -43,7 +43,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Void_of_Shattering#Ultimate_Gifts"
     },
-    "order": 911
+    "order": 919
   },
   {
     "id": 534,
@@ -157,7 +157,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Light#Hair"
     },
-    "order": 248
+    "order": 251
   },
   {
     "id": 1471,
@@ -184,7 +184,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Light#Hair_Accessory"
     },
-    "order": 330,
+    "order": 333,
     "group": "SeasonPass"
   },
   {
@@ -197,7 +197,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Light#Cape"
     },
-    "order": 912
+    "order": 920
   },
   {
     "id": 1475,
@@ -252,7 +252,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Light#Hair"
     },
-    "order": 247,
+    "order": 250,
     "group": "SeasonPass"
   },
   {
@@ -265,7 +265,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Light#Cape"
     },
-    "order": 913
+    "order": 921
   },
   {
     "id": 1482,
@@ -313,7 +313,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Darkness#Hair_Accessory"
     },
-    "order": 329
+    "order": 332
   },
   {
     "id": 1487,
@@ -340,7 +340,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Darkness#Mask"
     },
-    "order": 471,
+    "order": 479,
     "group": "SeasonPass"
   },
   {
@@ -380,7 +380,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Darkness#Cape"
     },
-    "order": 910,
+    "order": 918,
     "group": "SeasonPass"
   },
   {
@@ -401,7 +401,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Darkness#Neck_Accessory"
     },
-    "order": 546
+    "order": 554
   },
   {
     "id": 1496,
@@ -429,7 +429,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Darkness#Prop"
     },
-    "order": 591,
+    "order": 599,
     "group": "SeasonPass"
   },
   {
@@ -442,7 +442,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ancient_Darkness#Hair"
     },
-    "order": 246
+    "order": 249
   },
   {
     "id": 1500,

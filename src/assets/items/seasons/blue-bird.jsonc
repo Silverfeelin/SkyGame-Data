@@ -24,7 +24,7 @@
     "group": "Ultimate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Season-of-Blue-Bird-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/46/Season-of-the-Blue-Bird-Pendant.png",
-    "order": 540,
+    "order": 548,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Blue_Bird_Guide#Seasonal_Pendant"
     }
@@ -54,7 +54,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_whitecape.jpg"
     },
-    "order": 951,
+    "order": 959,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Blue_Bird_Guide#Ultimate_Gifts"
     }
@@ -213,7 +213,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Blue_Bird_Guide#Prop"
     },
-    "order": 667
+    "order": 675
   },
   {
     "id": 2569,
@@ -239,7 +239,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_grandpacape.jpg"
     },
-    "order": 950,
+    "order": 958,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Divining_Wise_Grandparent#Cape"
     }
@@ -304,7 +304,7 @@
     "name": "Costumed Confetti Cousin Hair Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Costumed-Confetti-Cousin-Hairpiece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f1/Costumed-Confetti-Cousin-Hairpiece.png",
-    "order": 344,
+    "order": 347,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Costumed_Confetti_Cousin#Hair_Accessory"
     }
@@ -323,7 +323,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_mask.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/2slots_Bluebird_mask.jpg"
     },
-    "order": 492,
+    "order": 500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Costumed_Confetti_Cousin#Mask"
     }
@@ -356,7 +356,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_confettihat.jpg"
     },
-    "order": 280,
+    "order": 283,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Costumed_Confetti_Cousin#Hair"
     }
@@ -473,7 +473,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_tousleheadphones.jpg"
     },
-    "order": 399,
+    "order": 407,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Royal_Hairtousle_Teen#Head_Accessory"
     }
@@ -510,7 +510,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_touslecape.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/2slots_Bluebird_touslecape.jpg"
     },
-    "order": 948,
+    "order": 956,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Royal_Hairtousle_Teen#Cape"
     }
@@ -553,7 +553,7 @@
     "group": "SeasonPass",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ca/Nostalgic-Sparkler-Parent-Hairpiece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/ba/Nostalgic-Sparkler-Parent-Hairpiece.png",
-    "order": 345,
+    "order": 348,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nostalgic_Sparkler_Parent#Hair_Accessory"
     }
@@ -569,7 +569,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_beetlecape.jpg"
     },
-    "order": 949,
+    "order": 957,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nostalgic_Sparkler_Parent#Cape"
     }
@@ -651,7 +651,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Bluebird_pleafulboots.jpg"
     },
-    "order": 137,
+    "order": 140,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Woodcutting_Pleaful_Parent#Shoes"
     }

@@ -27,7 +27,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Bunny_Slippers"
     },
-    "order": 145
+    "order": 148
   },
   {
     "id": 1843,
@@ -75,7 +75,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Silk_Ballet_Slippers"
     },
-    "order": 144
+    "order": 147
   },
   {
     "id": 1847,
@@ -87,7 +87,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Top_Hat"
     },
-    "order": 370,
+    "order": 373,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Style_tophat.jpg",
       "primary": {}
@@ -107,7 +107,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2023#Style_Runway_Makeup_Mask"
     },
-    "order": 506
+    "order": 514
   },
   {
     "id": 1849,
@@ -146,7 +146,7 @@
     "name": "Style Fascinator",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Style-Darkness-Fascinator-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/01/Style-Darkness-Fascinator.png",
-    "order": 371,
+    "order": 374,
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Style_veil.jpg"
@@ -199,7 +199,7 @@
     "name": "Style Dapper Necktie",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Style-Dapper-Necktie-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Style-Dapper-Necktie.png",
-    "order": 560,
+    "order": 568,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2024#Style_Dapper_Trio"
     }

@@ -99,7 +99,7 @@
     "group": "Ultimate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/98/Season-of-the-Two-Embers-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Season-of-Ember-P1-Pendant.png",
-    "order": 541,
+    "order": 549,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vault_Elder%27s_Lantern#Seasonal_Pendant"
     }
@@ -112,7 +112,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Vault-Elder-Lantern-Ultimate-Constellation-Hairpiece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d0/Vault-Elder-Lantern-Ultimate-Constellation-Hairpiece.png",
     "group": "Ultimate",
-    "order": 347,
+    "order": 350,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vault_Elder%27s_Lantern#Ultimate_Hairpiece"
     }
@@ -131,7 +131,7 @@
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slot_2E-P1_ultcape.jpg"
     },
     "group": "Ultimate",
-    "order": 954,
+    "order": 962,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vault_Elder%27s_Lantern#Ultimate_Cape"
     }
@@ -151,7 +151,7 @@
     "group": "SeasonPass",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b0/Tender-Toymaker-Crab-Figurine-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/08/Tender-Toymaker-Crab-Figurine-Prop.png",
-    "order": 670,
+    "order": 678,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tender_Toymaker#Prop"
     }
@@ -163,7 +163,7 @@
     "name": "Manatee Toy",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Tender-Toymaker-Manatee-Figurine-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Tender-Toymaker-Manatee-Figurine-Prop.png",
-    "order": 611,
+    "order": 619,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tender_Toymaker#Prop"
     }
@@ -215,7 +215,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/2E-P1_Toymakerhijab.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slot_2E-P1_Toymakerhijab.jpg"
     },
-    "order": 283,
+    "order": 286,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tender_Toymaker#Hair"
     }
@@ -256,7 +256,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/de/Stern-Shepherd-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b1/Stern-Shepherd-Fluffy-Manatee-Hair.png",
     "group": "SeasonPass",
-    "order": 284,
+    "order": 287,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stern_Shepherd#Hair"
     }
@@ -302,7 +302,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ef/Stern-Shepherd-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Stern-Shepherd-Staff-Prop.png",
     "group": "SeasonPass",
-    "order": 610,
+    "order": 618,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stern_Shepherd#Prop"
     }
@@ -314,7 +314,7 @@
     "name": "Stern Shepherd Mask",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/18/Stern-Shepherd-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7f/Stern-Shepherd-Mask.png",
-    "order": 494,
+    "order": 502,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stern_Shepherd#Mask"
     }
@@ -342,7 +342,7 @@
     "name": "Resourceful Recluse Mask",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cc/Resourceful-Recluse-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Resourceful-Recluse-mask.png",
-    "order": 493,
+    "order": 501,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Resourceful_Recluse#Mask"
     }
@@ -388,7 +388,7 @@
     "name": "Resourceful Recluse Tea Table",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2c/Resourceful-Recluse-Tea-Stall-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f5/Resourceful-Recluse-Tea-Stall-Prop.png",
-    "order": 672,
+    "order": 680,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Resourceful_Recluse#Prop"
     }
@@ -416,7 +416,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Resourceful-Recluse-Vine-plant-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/ba/Resourceful-Recluse-Vine-plant-Prop.png",
     "group": "SeasonPass",
-    "order": 671,
+    "order": 679,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Resourceful_Recluse#Vine_Plant"
     }
@@ -436,7 +436,7 @@
     "name": "Scarred Sentry Cracked Helmet",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3f/Scarred-Sentry-Cracked-Helmet-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6c/Scarred-Sentry-Cracked-Helmet-Hair.png",
-    "order": 282,
+    "order": 285,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry#Hair"
     }
@@ -449,7 +449,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/89/Scarred-Sentry-Plumed-Helmet-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6d/Scarred-Sentry-Plumed-Helmet-Hair.png",
     "group": "SeasonPass",
-    "order": 281,
+    "order": 284,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry#Hair"
     }
@@ -473,7 +473,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/2E-P1_Sentrycape.jpg"
     },
     "group": "SeasonPass",
-    "order": 952,
+    "order": 960,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry#Cape"
     }
@@ -504,7 +504,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Scarred-Sentry-Shoes-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Scarred-Sentry-Shoes.png",
     "group": "SeasonPass",
-    "order": 138,
+    "order": 141,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry#Shoes"
     }
@@ -516,7 +516,7 @@
     "name": "Scarred Sentry Shield",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bf/Scarred-Sentry-Shield-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Scarred-Sentry-Shield-Prop.png",
-    "order": 613,
+    "order": 621,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry#Sentry_Shield"
     }
@@ -544,7 +544,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Scarred-Sentry-Spear-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a6/Scarred-Sentry-Spear-Prop.png",
     "group": "SeasonPass",
-    "order": 612,
+    "order": 620,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry#Sentry_Spear"
     }
@@ -568,7 +568,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Butterfly_Blossom_Memento"
     },
-    "order": 346
+    "order": 349
   },
   {
     "id": 2717,
@@ -581,7 +581,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Cloak_of_Darkness"
     },
-    "order": 953
+    "order": 961
   },
   {
     "id": 2718,
@@ -594,7 +594,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Mini_Manatee_Accessory"
     },
-    "order": 348
+    "order": 351
   },
   {
     "id": 2719,
@@ -640,7 +640,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Caring_Companion#Prop"
     },
-    "order": 668
+    "order": 676
   },
   {
     "id": 2725,
@@ -653,7 +653,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble"
     },
-    "order": 401
+    "order": 409
   },
   {
     "id": 2726,
@@ -666,7 +666,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble"
     },
-    "order": 566
+    "order": 574
   },
   {
     "id": 2727,
@@ -679,7 +679,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons"
     },
-    "order": 400
+    "order": 408
   },
   {
     "id": 2728,
@@ -692,7 +692,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons"
     },
-    "order": 565
+    "order": 573
   },
   {
     "id": 2729,
@@ -705,7 +705,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Manatee_Plush"
     },
-    "order": 669
+    "order": 677
   },
   {
     "id": 2737,
@@ -722,7 +722,7 @@
     "group": "Limited",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0b/Season-of-Ember-P1-movie-poster-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b2/Season-of-Ember-P1-movie-poster.png",
-    "order": 673,
+    "order": 681,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Additional_Cosmetics"
     }
@@ -754,6 +754,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Projector_of_Memories"
     },
-    "order": 708
+    "order": 682
   }
 ]

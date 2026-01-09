@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Seasonal_Pendant"
     },
-    "order": 537
+    "order": 545
   },
   {
     "id": 2237,
@@ -29,7 +29,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Duets_Ultimate_Cape"
     },
-    "order": 940
+    "order": 948
   },
   {
     "id": 2238,
@@ -42,7 +42,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Duets_Ultimate_Instrument"
     },
-    "order": 821
+    "order": 829
   },
   {
     "id": 2239,
@@ -55,7 +55,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Duets_Ultimate_Prop"
     },
-    "order": 808
+    "order": 816
   },
   {
     "id": 2240,
@@ -71,7 +71,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Mask"
     },
-    "order": 490
+    "order": 498
   },
   {
     "id": 2241,
@@ -97,7 +97,7 @@
     "name": "The Pianist's Beginnings Poster",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Pianists-Beginnings-Poster-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fe/Pianists-Beginnings-Poster-Prop.png",
-    "order": 812,
+    "order": 820,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Beginnings#Piano_Keys_Wall_Poster"
     },
@@ -113,7 +113,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Beginnings#Hair"
     },
-    "order": 274
+    "order": 277
   },
   {
     "id": 2245,
@@ -144,7 +144,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Beginnings#Small_Blue_Rug"
     },
-    "order": 822
+    "order": 830
   },
   {
     "id": 2247,
@@ -194,7 +194,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Beginnings#Hair"
     },
-    "order": 275
+    "order": 278
   },
   {
     "id": 2253,
@@ -206,7 +206,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Beginnings#Prop"
     },
-    "order": 811,
+    "order": 819,
     "group": "SeasonPass"
   },
   {
@@ -268,7 +268,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Musicians'_Legacy#Grand_Piano"
     },
-    "order": 820,
+    "order": 828,
     "group": "SeasonPass"
   },
   {
@@ -282,7 +282,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Musicians'_Legacy#Cello"
     },
-    "order": 594
+    "order": 602
   },
   {
     "id": 2261,
@@ -362,7 +362,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Flourishing#Cape"
     },
-    "order": 941
+    "order": 949
   },
   {
     "id": 2268,
@@ -374,7 +374,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Flourishing#Small_Pink_Rug"
     },
-    "order": 823
+    "order": 831
   },
   {
     "id": 2269,
@@ -386,7 +386,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Flourishing#Cello_Wall_Poster"
     },
-    "order": 810,
+    "order": 818,
     "group": "SeasonPass"
   },
   {
@@ -456,7 +456,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Flourishing#Shoes"
     },
-    "order": 133
+    "order": 136
   },
   {
     "id": 2277,
@@ -468,7 +468,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Flourishing#Prop"
     },
-    "order": 809,
+    "order": 817,
     "group": "SeasonPass"
   },
   {
@@ -530,7 +530,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Compassionate_Cellist#Instrument"
     },
-    "order": 595
+    "order": 603
   },
   {
     "id": 2297,
