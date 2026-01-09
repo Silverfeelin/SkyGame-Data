@@ -4,7 +4,8 @@
     "name": "Personality Quiz Event",
     "shortName": "Personality Event",
     "recurring": false,
-    "imageUrl": "",
+    "imageUrl": "https://a.storyblok.com/f/108104/1920x1080/1299dd6c52/quiz_blogheader-choices_sls_na_na_2512.jpg",
+    "imagePosition": "top",
     "instances": ["FNAfkticD7"],
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event"
