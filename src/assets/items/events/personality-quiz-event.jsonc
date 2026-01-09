@@ -6,7 +6,7 @@
     "name": "Blue Pinned Cap",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2c/Blue-Pinned-Cap-Hair-Accessory-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Blue-Pinned-Cap-Hair-Accessory.png",
-    "wiki": {
+    "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Blue_Pinned_Cap"
     },
     "order": 390
@@ -18,7 +18,7 @@
     "name": "Purple Spectacles",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Purple-Spectacles-Face-Accessory-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Purple-Spectacles-Face-Accessory.png",
-    "wiki": {
+    "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Purple_Spectacles"
     },
     "order": 125
@@ -30,7 +30,7 @@
     "name": "Green Folded Ears",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d8/Green-Folded-Ears-Hair-Accessory-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3d/Green-Folded-Ears-Hair-Accessory.png",
-    "wiki": {
+    "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Green_Folded_Ears"
     },
     "order": 389
@@ -42,7 +42,7 @@
     "name": "Yellow Paintbrush",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Yellow-Paintbrush-Hair-Accessory-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Yellow-Paintbrush-Hair-Accessory.png",
-    "wiki": {
+    "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Yellow_Paintbrush"
     },
     "order": 391
@@ -54,7 +54,7 @@
     "name": "Heart-Shaped Monocle",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a2/Heart-Shaped-Monocle-Face-Accessory-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f8/Heart-Shaped-Monocle-Face-Accessory.png",
-    "wiki": {
+    "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Heart-Shaped_Monocle"
     },
     "order": 126
@@ -66,7 +66,7 @@
     "name": "Gear-Shaped Monocle",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Gear-Shaped-Monocle-Face-Accessory-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2a/Gear-Shaped-Monocle-Face-Accessory.png",
-    "wiki": {
+    "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Gear-Shaped_Monocle"
     },
     "order": 127
@@ -78,7 +78,7 @@
     "name": "Straight Star-Shaped Hair Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Straight-Star-Shaped-Hair-Accessory-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Straight-Star-Shaped-Hair-Accessory.png",
-    "wiki": {
+    "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Straight_Star-Shaped_Hair_Accessory"
     },
     "order": 392
@@ -90,7 +90,7 @@
     "name": "Curved Star-Shaped Hair Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Curved-Star-Shaped-Hair-Accessory-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Curved-Star-Shaped-Hair-Accessory.png",
-    "wiki": {
+    "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Curved_Star-Shaped_Hair_Accessory"
     },
     "order": 393
