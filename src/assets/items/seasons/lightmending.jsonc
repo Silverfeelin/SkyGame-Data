@@ -4,8 +4,8 @@
     "guid": "Oe5QyiRFtk",
     "type": "Necklace",
     "name": "Lightmending Ultimate Pendant",
-    "icon": "",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/60/Season-of-Lightmending-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4b/Lightmending-Guide-Ultimate-Necklace.png",
     "group": "Ultimate",
     "_wiki": {
       "href": ""
@@ -17,7 +17,7 @@
     "type": "Mask",
     "name": "Lightmending Ultimate Mask",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Lightmending-Guide-Ultimate-Mask.png",
     "group": "Ultimate",
     "_wiki": {
       "href": ""
@@ -29,7 +29,7 @@
     "type": "Hair",
     "name": "Lightmending Ultimate Hair",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/32/Lightmending-Guide-Ultimate-Hair.png",
     "group": "Ultimate",
     "_wiki": {
       "href": ""
@@ -59,7 +59,7 @@
     }
   },
   {
-    "id": 2942, // Light Scholar 1st blessing
+    "id": 2942,
     "guid": "tkrkeFVQUF",
     "type": "Special",
     "name": "Blessing",
@@ -78,7 +78,7 @@
     "type": "Hair",
     "name": "Lightmending Light Scholar Hairstyle",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Lightmending-Light-Scholar-Hair.png",
     "_wiki": {
       "href": ""
     }
@@ -130,7 +130,7 @@
     }
   },
   {
-    "id": 2949, // Light Scholar 2nd blessing
+    "id": 2949,
     "guid": "Ccu24qLkcN",
     "type": "Special",
     "name": "Blessing",
@@ -161,7 +161,7 @@
     }
   },
   {
-    "id": 2952, // Light Scholar season heart
+    "id": 2952,
     "guid": "1-7EMYtTlW",
     "type": "Special",
     "name": "Season Heart",
@@ -185,7 +185,7 @@
     "type": "Mask",
     "name": "Lightmending Light Catcher Mask",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Lightmending-Light-Catcher-Mask.png",
     "_wiki": {
       "href": ""
     }
@@ -198,7 +198,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
   },
   {
-    "id": 2956, // Light Catcher 1st blessing
+    "id": 2956,
     "guid": "TNWOWM1mwM",
     "type": "Special",
     "name": "Blessing",
@@ -252,7 +252,7 @@
     "type": "Cape",
     "name": "Lightmending Light Catcher Cape",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0c/Lightmending-Light-Catcher-Cape-back.png",
     "_wiki": {
       "href": ""
     }
@@ -283,7 +283,7 @@
     }
   },
   {
-    "id": 2964, // Light Catcher season heart
+    "id": 2964,
     "guid": "97Ki9O26NJ",
     "type": "Special",
     "name": "Season Heart",
@@ -302,7 +302,7 @@
     }
   },
   {
-    "id": 2966, // Champion 1st blessing
+    "id": 2966,
     "guid": "KE9pnFJUvM",
     "type": "Special",
     "name": "Blessing",
@@ -321,13 +321,13 @@
     "type": "Mask",
     "name": "Lightmending Champion Mask",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/01/Lightmending-Champion-Mask.png",
     "_wiki": {
       "href": ""
     }
   },
   {
-    "id": 2969, // Champion 2nd blessing
+    "id": 2969,
     "guid": "7NlSfQ2Kee",
     "type": "Special",
     "name": "Blessing",
@@ -357,7 +357,7 @@
     }
   },
   {
-    "id": 2972, // Champion 3rd blessing
+    "id": 2972,
     "guid": "bDIRHtqkEs",
     "type": "Special",
     "name": "Blessing",
@@ -369,7 +369,7 @@
     "type": "HeadAccessory",
     "name": "Lightmending Champion Head Accessory",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e8/Lightmending-Champion-Head-accessory-front.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
@@ -400,14 +400,14 @@
     "type": "Outfit",
     "name": "Lightmending Champion Outfit",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Lightmending-Champion-Outfit-front.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
     }
   },
   {
-    "id": 2977, // Champion season heart
+    "id": 2977,
     "guid": "1hESI5NwEc",
     "type": "Special",
     "name": "Season Heart",
@@ -426,7 +426,7 @@
     }
   },
   {
-    "id": 2979, // Pioneer 1st blessing
+    "id": 2979,
     "guid": "KCCTtBFD4U",
     "type": "Special",
     "name": "Blessing",
@@ -440,7 +440,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
   },
   {
-    "id": 2981, // Pioneer 2nd blessing
+    "id": 2981,
     "guid": "xb0esZuVtG",
     "type": "Special",
     "name": "Blessing",
@@ -517,14 +517,14 @@
     "type": "Outfit",
     "name": "Lightmending Pioneer Outfit",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Lightmending-Pioneer-Outfit-front.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
     }
   },
   {
-    "id": 2989, // Pioneer season heart
+    "id": 2989,
     "guid": "_yA0yWVjD3",
     "type": "Special",
     "name": "Season Heart",
