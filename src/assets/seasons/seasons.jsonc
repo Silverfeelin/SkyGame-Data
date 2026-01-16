@@ -692,6 +692,31 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=2828261c87dd80819d77d8d2309a9228&pm=c"
     }
+  },
+  {
+    "guid": "dVTgD21HBv",
+    "name": "Season of Lightmending",
+    "shortName": "Lightmending",
+    "iconUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/60/Season-of-Lightmending-icon.png",
+    "imageUrl": "https://a.storyblok.com/f/108104/1920x1080/c5a7f570fd/s29_sls_na_na_2512.png",
+    "year": 2026,
+    "date": "2026-01-16",
+    "endDate": "2026-04-02",
+    "spirits": [
+      "XEv6O28-r7",
+      "la4vZslNOy",
+      "haE7sC8lPX",
+      "xbjjYxXUsV",
+      "a4cDauac0X"
+    ],
+    "shops": [],
+    "draft": true,
+    "_wiki": {
+      "href": ""
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=2e08261c87dd80f6adf1da85bc843023&pm=c"
+    }
   }
   // #endregion
 ]

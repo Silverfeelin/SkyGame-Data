@@ -1632,6 +1632,13 @@
   { "guid": "nCGzsegB0l", "tier": "tCeG5a_2u0" },
   { "guid": "iFANrbgSY4", "tier": "aXYjAZqvIr" },
   { "guid": "nrvSEyff0h", "tier": "neQv9N0Pk5" },
-  { "guid": "ko9lr8M4J5", "tier": "kXNj5sSsss" }
+  { "guid": "ko9lr8M4J5", "tier": "kXNj5sSsss" },
+  // #endregion
+  // #region Lightmending
+  { "guid": "9QWYwAUdDG", "tier": "EHygTVGLkz" },
+  { "guid": "rMUUnF9HAB", "tier": "DNEXP6auGW" },
+  { "guid": "ZSQVVHlhVX", "tier": "J6nbAbqnXG" },
+  { "guid": "lSXt9gZtGb", "tier": "JsL9EQOhVM" },
+  { "guid": "QOhdakPpfv", "tier": "2NXsY6jnB_" }
   // #endregion
 ]

@@ -1,0 +1,626 @@
+[
+  {
+    "id": 2937,
+    "guid": "Oe5QyiRFtk",
+    "type": "Necklace",
+    "name": "Lightmending Ultimate Pendant",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/60/Season-of-Lightmending-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4b/Lightmending-Guide-Ultimate-Necklace.png",
+    "group": "Ultimate",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2938,
+    "guid": "1ohT-Y7uUe",
+    "type": "Mask",
+    "name": "Lightmending Ultimate Mask",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/65/Lightmending-Guide-Ultimate-Mask-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Lightmending-Guide-Ultimate-Mask.png",
+    "group": "Ultimate",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Lightmending_ultmask.jpg"
+    },
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2939,
+    "guid": "bR78DxxVAu",
+    "type": "Hair",
+    "name": "Lightmending Ultimate Hair",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Lightmending-Guide-Ultimate-Hair-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/32/Lightmending-Guide-Ultimate-Hair.png",
+    "group": "Ultimate",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2940,
+    "guid": "16L7u4aZjO",
+    "type": "Cape",
+    "name": "Lightmending Ultimate Cape",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ac/Lightmending-Guide-Ultimate-Cape-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/87/Lightmending-Guide-Ultimate-Cape-front.png",
+    "group": "Ultimate",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Lightmending_ultcape.jpg"
+    },
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2941,
+    "guid": "Uy8gfBccKe",
+    "type": "Emote",
+    "name": "Whispering",
+    "level": 1,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2942,
+    "guid": "tkrkeFVQUF",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 2943,
+    "guid": "WMoF7T9QSV",
+    "type": "Special",
+    "name": "Accompany Lightmending Light Scholar",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
+  },
+  {
+    "id": 2944,
+    "guid": "6kEm2pWNBt",
+    "type": "Hair",
+    "name": "Lightmending Light Scholar Hairstyle",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/61/Lightmending-Light-Scholar-Hair-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Lightmending-Light-Scholar-Hair.png",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Lightmending_LightScholar_hair.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Lightmending_LightScholar_hair.jpg"
+    },
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2945,
+    "guid": "JVyiutV_rJ",
+    "type": "Emote",
+    "name": "Whispering",
+    "level": 2,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2946,
+    "guid": "tvP_BdKeGx",
+    "type": "Emote",
+    "name": "Whispering",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2947,
+    "guid": "9zaq8aRIES",
+    "type": "Cape",
+    "name": "Lightmending Light Scholar Cape",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Lightmending-Light-Scholar-Cape-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/aa/Lightmending-Light-Scholar-Cape-back.png",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Lightmending_LightScholar_cape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Lightmending_LightScholar_cape.jpg"
+    },
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2948,
+    "guid": "17lku63DsW",
+    "type": "Mask",
+    "name": "Lightmending Light Scholar Mask",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Lightmending-Light-Scholar-Mask-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c6/Lightmending-Light-Scholar-Mask.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2949,
+    "guid": "Ccu24qLkcN",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 2950,
+    "guid": "hdBoIp8DSt",
+    "type": "Emote",
+    "name": "Whispering",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2951,
+    "guid": "1FsEawa0kl",
+    "type": "OutfitShoes",
+    "name": "Lightmending Light Scholar Outfit",
+    "icon": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Lightmending-Light-Scholar-Outfit-front.png",
+    "group": "SeasonPass",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Lightmending_LightScholar_pants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Lightmending_LightScholar_pants.jpg"
+    },
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2952,
+    "guid": "1-7EMYtTlW",
+    "type": "Special",
+    "name": "Season Heart",
+    "group": "SeasonPass",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Lightmending-Heart.png"
+  },
+  {
+    "id": 2953,
+    "guid": "ioqUMksYlE",
+    "type": "Emote",
+    "name": "Secret Handshake",
+    "level": 1,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2954,
+    "guid": "-Qs-NBvxNL",
+    "type": "Mask",
+    "name": "Lightmending Light Catcher Mask",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/Lightmending-Light-Catcher-Mask-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Lightmending-Light-Catcher-Mask.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2955,
+    "guid": "wV8vOnvC_1",
+    "type": "Special",
+    "name": "Accompany Lightmending Light Catcher",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
+  },
+  {
+    "id": 2956,
+    "guid": "TNWOWM1mwM",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 2957,
+    "guid": "ls4f2BZMa1",
+    "type": "Emote",
+    "name": "Secret Handshake",
+    "level": 2,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2958,
+    "guid": "aTjwu2WW5P",
+    "type": "Emote",
+    "name": "Secret Handshake",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2959,
+    "guid": "HH4YxuAsDU",
+    "type": "Special",
+    "name": "Cyan dye",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f5/Cyan-dye-container-icon.png"
+  },
+  {
+    "id": 2960,
+    "guid": "i4svkDR_tC",
+    "type": "HairAccessory",
+    "name": "Lightmending Light Catcher Hat",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a8/Lightmending-Light-Catcher-Hairpiece-icon.png",
+    "previewUrl": "",
+    "group": "SeasonPass",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Lightmending_LightCatcher_hat.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/2slots_Lightmending_LightCatcher_hat.jpg"
+    },
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2961,
+    "guid": "zh7hpIVWaU",
+    "type": "Cape",
+    "name": "Lightmending Light Catcher Cape",
+    "icon": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0c/Lightmending-Light-Catcher-Cape-back.png",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Lightmending_LightCatcher_cape.jpg"
+    },
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2962,
+    "guid": "1FdKshQoK5",
+    "type": "Emote",
+    "name": "Secret Handshake",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2963,
+    "guid": "lwpJUPEbaC",
+    "type": "Held",
+    "subtype": "Instrument",
+    "name": "Lightmending Light Catcher Flute",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6b/Lightmending-Light-Catcher-Instrument-icon.png",
+    "previewUrl": "",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2964,
+    "guid": "97Ki9O26NJ",
+    "type": "Special",
+    "name": "Season Heart",
+    "group": "SeasonPass",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Lightmending-Heart.png"
+  },
+  {
+    "id": 2965,
+    "guid": "7Vk8riRhAG",
+    "type": "Emote",
+    "name": "Revolving Dance",
+    "level": 1,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2966,
+    "guid": "KE9pnFJUvM",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 2967,
+    "guid": "EAYD6hc9nz",
+    "type": "Special",
+    "name": "Accompany Lightmending Champion",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
+  },
+  {
+    "id": 2968,
+    "guid": "_5pq4lv01o",
+    "type": "Mask",
+    "name": "Lightmending Champion Mask",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2969,
+    "guid": "7NlSfQ2Kee",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 2970,
+    "guid": "qo1qe-9isU",
+    "type": "Emote",
+    "name": "Revolving Dance",
+    "level": 2,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2971,
+    "guid": "yTVzbInwXw",
+    "type": "Emote",
+    "name": "Revolving Dance",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2972,
+    "guid": "bDIRHtqkEs",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 2973,
+    "guid": "4sh2mjgwwA",
+    "type": "HeadAccessory",
+    "name": "Lightmending Champion Head Accessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Lightmending-Champion-Head-accessory-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e8/Lightmending-Champion-Head-accessory-front.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2974,
+    "guid": "o2-Rc1G4qV",
+    "type": "Special",
+    "name": "White dye",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png"
+  },
+  {
+    "id": 2975,
+    "guid": "EFu-yq3gzB",
+    "type": "Emote",
+    "name": "Revolving Dance",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2976,
+    "guid": "1JSMUuGg_s",
+    "type": "OutfitShoes",
+    "name": "Lightmending Champion Outfit",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Lightmending-Champion-Outfit-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Lightmending-Champion-Outfit-front.png",
+    "group": "SeasonPass",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Lightmending_Champion_pants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Lightmending_Champion_pants.jpg"
+    },
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2977,
+    "guid": "1hESI5NwEc",
+    "type": "Special",
+    "name": "Season Heart",
+    "group": "SeasonPass",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Lightmending-Heart.png"
+  },
+  {
+    "id": 2978,
+    "guid": "rfAkXMwR1X",
+    "type": "Emote",
+    "name": "Cute Clap",
+    "level": 1,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Pioneer-Emote-icon.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2979,
+    "guid": "KCCTtBFD4U",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 2980,
+    "guid": "vcQEfxS3Us",
+    "type": "Special",
+    "name": "Accompany Lightmending Pioneer",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
+  },
+  {
+    "id": 2981,
+    "guid": "xb0esZuVtG",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 2982,
+    "guid": "Z1H-F3x-BN",
+    "type": "Emote",
+    "name": "Cute Clap",
+    "level": 2,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Pioneer-Emote-icon.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2983,
+    "guid": "715sJByLub",
+    "type": "Emote",
+    "name": "Cute Clap",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Pioneer-Emote-icon.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2984,
+    "guid": "OkF8hPi0dS",
+    "type": "Hair",
+    "name": "Lightmending Pioneer Hair",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Lightmending-Pioneer-Hair-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b0/Lightmending-Pioneer-Hair.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2985,
+    "guid": "4hyAA18D5F",
+    "type": "Mask",
+    "name": "Lightmending Pioneer Mask",
+    "icon": "",
+    "previewUrl": "",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2986,
+    "guid": "ew9fZCbrde",
+    "type": "Special",
+    "name": "Blue dye",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0b/Blue-dye-container-icon.png"
+  },
+  {
+    "id": 2987,
+    "guid": "GZ7Uz2eOCO",
+    "type": "Emote",
+    "name": "Cute Clap",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Pioneer-Emote-icon.png",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2988,
+    "guid": "YUWfHisXjv",
+    "type": "OutfitShoes",
+    "name": "Lightmending Pioneer Outfit",
+    "icon": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Lightmending-Pioneer-Outfit-front.png",
+    "group": "SeasonPass",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Lightmending_Pioneer_pants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Lightmending_Pioneer_pants.jpg"
+    },
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2989,
+    "guid": "_yA0yWVjD3",
+    "type": "Special",
+    "name": "Season Heart",
+    "group": "SeasonPass",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Lightmending-Heart.png"
+  },
+  {
+    "id": 2990,
+    "guid": "fas1vCSYhL",
+    "type": "Quest",
+    "name": "Quest 1",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2991,
+    "guid": "f4HdPwg9Sd",
+    "type": "Special",
+    "name": "Lightmending Warp",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Icon_warp.png"
+  },
+  {
+    "id": 2992, // Quest 2
+    "guid": "S2CmbF6ZM2",
+    "type": "Special",
+    "name": "Placeholder",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2993,
+    "guid": "RcY1hWSqz-",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 2994, // Quest 3
+    "guid": "ttbcIi-2zb",
+    "type": "Special",
+    "name": "Placeholder",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  }
+]

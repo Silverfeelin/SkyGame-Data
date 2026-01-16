@@ -1,0 +1,133 @@
+[
+  // Lightmending Guide
+  {
+    "guid": "EHygTVGLkz",
+    "next": "lqIFJzutCw",
+    "rows": [
+      ["U65O1DVwDs", "z3-VIUI_6l", "2eANYDUQpF"],
+      ["c1FH1Cn71T", "Wr3ARpnOvj", "37oFviI-ys"],
+      ["ZvrM10f_vq", null, null]
+    ]
+  },
+  {
+    "guid": "lqIFJzutCw",
+    "next": "21pRd61CQX",
+    "rows": [[null, null, "ovE247wsyc"]]
+  },
+  {
+    "guid": "21pRd61CQX",
+    "rows": [[null, null, "OC1a3zYwA-"]]
+  },
+  // Lightmending Light Scholar
+  {
+    "guid": "DNEXP6auGW",
+    "next": "qgBLFpyPVJ",
+    "rows": [["SxWBTQYaZA", "Vjl-c7o7h6", "vcocEogpqJ"]]
+  },
+  {
+    "guid": "qgBLFpyPVJ",
+    "next": "D75veh7msV",
+    "rows": [["CxCWXH199r", null, "VSYyKQ1JgS"]]
+  },
+  {
+    "guid": "D75veh7msV",
+    "next": "cGHSp5QNyv",
+    "rows": [["xhgKyOuSsa", "FEMmw6bRCU", "Mqzp2uplfE"]]
+  },
+  {
+    "guid": "cGHSp5QNyv",
+    "next": "lXf16xPblq",
+    "rows": [
+      ["pDNhApH6kw", null, "c6RMMopRnW"],
+      [null, null, "x5PPWU-Ptm"]
+    ]
+  },
+  {
+    "guid": "lXf16xPblq",
+    "rows": [[null, null, "jF-1nYFfnq"]]
+  },
+  // Lightmending Light Catcher
+  {
+    "guid": "J6nbAbqnXG",
+    "next": "iM_ypwWUtn",
+    "rows": [["CxaO3OjkhV", "n7ajf0aV_S", "_XkkIGPI_n"]]
+  },
+  {
+    "guid": "iM_ypwWUtn",
+    "next": "5x6UWOW-hF",
+    "rows": [["Zw9odKbWoW", null, "De-CsBD7tU"]]
+  },
+  {
+    "guid": "5x6UWOW-hF",
+    "next": "refOTxSKOC",
+    "rows": [["U9VxMLet4v", "aYbFbqvxUf", "aUTR1YtObd"]]
+  },
+  {
+    "guid": "refOTxSKOC",
+    "next": "eIaPw3gZQ4",
+    "rows": [
+      ["_SnOSC80f-", null, "0EpjMB6B5v"],
+      [null, null, "mdU1qA2K1q"]
+    ]
+  },
+  {
+    "guid": "eIaPw3gZQ4",
+    "rows": [[null, null, "TxY1sZJlh1"]]
+  },
+  // Lightmending Champion
+  {
+    "guid": "JsL9EQOhVM",
+    "next": "PxZlu63Nlu",
+    "rows": [["umtNWkzISP", "unuoUv0VV3", "MTFbDRaoMZ"]]
+  },
+  {
+    "guid": "PxZlu63Nlu",
+    "next": "0gJ3dSy4w2",
+    "rows": [["IaDl81rBBx", "BuHQ-GU6kk", "_xef3C6ePG"]]
+  },
+  {
+    "guid": "0gJ3dSy4w2",
+    "next": "hDcBgVqfI9",
+    "rows": [["V5BuZfqOgq", "cFoFHoAQKq", "-lxl5ajMvn"]]
+  },
+  {
+    "guid": "hDcBgVqfI9",
+    "next": "3XOKzWf0vc",
+    "rows": [
+      ["CHDzkfCDKD", null, "djHpd5YJyY"],
+      [null, null, "Fgi9qitlWA"]
+    ]
+  },
+  {
+    "guid": "3XOKzWf0vc",
+    "rows": [[null, null, "6ID-ExeP7-"]]
+  },
+  // Lightmending Pioneer
+  {
+    "guid": "2NXsY6jnB_",
+    "next": "6W9NhnV99Q",
+    "rows": [["Q6DtaMcNaz", "UJADhQXd7g", "0Z7QmSuUi6"]]
+  },
+  {
+    "guid": "6W9NhnV99Q",
+    "next": "IQSQe2shqc",
+    "rows": [["T17pBR0Skq", null, "07-pst62Dj"]]
+  },
+  {
+    "guid": "IQSQe2shqc",
+    "next": "5A0bNZV2zt",
+    "rows": [["p52_wLIKYr", "YJ9gjrTo37", "xc5I8s8ChU"]]
+  },
+  {
+    "guid": "5A0bNZV2zt",
+    "next": "ja1XPfhYE3",
+    "rows": [
+      ["W3Qeflp8bq", null, "gLAPuhFmHA"],
+      [null, null, "Zm-WHQKxek"]
+    ]
+  },
+  {
+    "guid": "ja1XPfhYE3",
+    "rows": [[null, null, "5Yz9Apj9fH"]]
+  }
+]
