@@ -644,5 +644,39 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Lightmending#Quest_#3"
     }
+  },
+  {
+    "id": 2995,
+    "guid": "rzTxvn-C-L",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 2996, // Quest 4
+    "guid": "Vy7ojXH_pW",
+    "type": "Special",
+    "name": "Placeholder",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2997, // Quest 5
+    "guid": "XGQV5cpTVc",
+    "type": "Special",
+    "name": "Placeholder",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 2998,
+    "guid": "SWbjGomlNC",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   }
 ]
