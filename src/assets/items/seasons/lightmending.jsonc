@@ -646,14 +646,14 @@
     }
   },
   {
-    "id": 2995,
+    "id": 2997,
     "guid": "rzTxvn-C-L",
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
   {
-    "id": 2996, // Quest 4
+    "id": 2998, // Quest 4
     "guid": "Vy7ojXH_pW",
     "type": "Special",
     "name": "Placeholder",
@@ -663,7 +663,7 @@
     }
   },
   {
-    "id": 2997, // Quest 5
+    "id": 2999, // Quest 5
     "guid": "XGQV5cpTVc",
     "type": "Special",
     "name": "Placeholder",
@@ -673,7 +673,7 @@
     }
   },
   {
-    "id": 2998,
+    "id": 3000,
     "guid": "SWbjGomlNC",
     "type": "Special",
     "name": "Heart",
