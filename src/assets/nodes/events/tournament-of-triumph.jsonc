@@ -1,5 +1,5 @@
 [
-  // #region Tournament of Triumph
+  // #region Tournament of Triumph (2024)
   {
     "guid": "Qbd0xTuOq-",
     "item": "ToJLow6n9C",
@@ -9,13 +9,21 @@
   },
   {
     "guid": "o-TRLpPEk-",
-    "item": "JXXQvwug8B",
+    "item": "JXXQvwug8B"
     "ec": 25
   },
   {
     "guid": "Txa1da2rdg",
     "item": "TdAUrYLequ",
     "ec": 37
-  }
+  },
+  // #endregion
+  // #region Tournament of Triumph (2026)
+  { "guid": "dKNSLGcj_I", "item": "0GUGpJRuHV", "n": "ZNtbEQOpKN", "ne": "gk880g03yt", "nw": "sirDC7l-ik"}, 
+  { "guid": "sirDC7l-ik", "item": "oWEDCHWjbr", "ec": 48}, 
+  { "guid": "gk880g03yt", "item": "PwIov7bp-r", "ec": 12 }, 
+  { "guid": "ZNtbEQOpKN", "item": "ToJLow6n9C", "n": "q6HMl206Tj", "nw": "pvaYXw6nqd", "c": 5 },
+  { "guid": "q6HMl206Tj", "item": "TdAUrYLequ", "ac": 36 }, 
+  { "guid": "pvaYXw6nqd", "item": "JXXQvwug8B", "c": 42 } 
   // #endregion
 ]

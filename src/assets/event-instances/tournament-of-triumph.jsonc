@@ -31,5 +31,27 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Tournament-of-Triumph-3b3e45786a8043db84ae25297b7e446d"
     }
+  },
+  {
+    "guid": "ggXv-ZpiZq",
+    "date": "2026-01-30",
+    "endDate": "2026-02-12",
+    "spirits": ["7hfl68K0Jz"], 
+    "shops": ["7Cwj4qYjLb", "ks3Nq6v05P", "EIyZbaPXnz"],
+    "draft": true,
+    "calculatorData": { 
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "ulQyfzTTtS",
+          "date": "2026-01-30",
+          "endDate": "2026-02-12",
+          "amount": 15
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Tournament-of-Triumph-2e08261c87dd807a964ec3c21541ffa1"
+    }
   }
 ]

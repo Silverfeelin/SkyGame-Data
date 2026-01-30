@@ -57,5 +57,166 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Tunic"
     }
+  },
+  {
+    "id": 3001,
+    "guid": "oWEDCHWjbr",
+    "type": "Held",
+    "name": "Tournament Ice Board",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3002,
+    "guid": "PwIov7bp-r",
+    "type": "Hair",
+    "name": "Tournament Wind Hairstyle",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3003,
+    "guid": "c1sclAR_k8",
+    "type": "Outfit",
+    "name": "Tournament Sleek Skating Outfit",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3004,
+    "guid": "SVDLcIYgsD",
+    "type": "Shoes",
+    "name": "Tournament Sleek Skating Shoes",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3005,
+    "guid": "29-dCJ_YgP",
+    "type": "Cape",
+    "name": "Tournament Crystalline Cape",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3006,
+    "guid": "Lymcgpd4Sv",
+    "type": "Cape",
+    "name": "Tournament Prairie Cape",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3007,
+    "guid": "HVd__mHdZO",
+    "type": "Cape",
+    "name": "Tournament Forest Cape",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3008,
+    "guid": "DjGSTi5m5d",
+    "type": "Cape",
+    "name": "Tournament Valley Cape",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3009,
+    "guid": "37qkM3gfQr",
+    "type": "Cape",
+    "name": "Tournament Wasteland Cape",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3010,
+    "guid": "bFbmlKZtGO",
+    "type": "Furniture",
+    "name": "Tournament Podium",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3011,
+    "guid": "XOVXV5EpMk",
+    "type": "Prop",
+    "name": "Tournament Prairie Banner",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3012,
+    "guid": "-QuJTqtrn0",
+    "type": "Prop",
+    "name": "Tournament Forest Banner",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3013,
+    "guid": "vLvSsUTN0P",
+    "type": "Prop",
+    "name": "Tournament Valley Banner",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3014,
+    "guid": "--wyCei-uH",
+    "type": "Prop",
+    "name": "Tournament Wasteland Banner",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3015, 
+    "guid": "0GUGpJRuHV",
+    "name": "Cutscene",
+    "type": "Special",
+    "icon": ""
   }
 ]

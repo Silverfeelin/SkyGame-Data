@@ -1,9 +1,29 @@
 [
-  // #region Tournament of Triumph
+  // #region Tournament of Triumph (2024)
   {
     "guid": "6_PNbhldnO",
     "type": "Store",
     "iaps": ["iuoxDhmZA1", "qF83KsIFIn"]
-  }
+  },
   // #endregion
+  // #region Tournament of Triumph (2026)
+  {
+    "guid": "ks3Nq6v05P",
+    "type": "Object",
+    "name": "Event Prop Box",
+    "itemList": "aAjB0icu1X"
+  },
+  {
+    "guid": "7Cwj4qYjLb",
+    "type": "Store",
+    "iaps": ["r7v9117BfR", "zO58rzWe04"]
+  },
+  {
+    "guid": "EIyZbaPXnz",
+    "type": "Spirit",
+    "spirit": "xbGBFC0rnu",
+    "name": "Blushing Prospector",
+    "iaps": ["Jza924pvjl", "SC9aX-6IB4"]
+  }
+   // #endregion
 ]

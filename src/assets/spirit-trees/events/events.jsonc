@@ -24,8 +24,7 @@
     "guid": "QbHVq43AMl",
     "node": "ZtC0aan5z-"
   },
-  // #endregion
-  // #region Days of Fortune (2025)
+  // Days of Fortune (2025)
   {
     "guid": "8rT8bSDhqL",
     "node": "B0N05K4Bre"
@@ -60,14 +59,14 @@
     "guid": "3B4XeRLIrO",
     "node": "yUNUCsYx9f"
   },
-  // #endregion
-  // #region Days of Love (2025)
+  // Days of Love (2025)
   {
     "guid": "xnZrEGPst_",
     "node": "OnOHDkxayL"
   },
   // #endregion
-  // #region Days of Treasure (2025)
+  // #region Days of Treasure
+  // Days of Treasure (2025)
   { "guid": "JU8XT42DBX", "node": "lIGOW1C9eA" },
   // #endregion
   // #region Days of Bloom
@@ -94,7 +93,7 @@
     "guid": "yvuc0d_gC7",
     "node": "KXsWsk9Zou"
   },
-  // #region Days of Bloom (2024)
+  // Days of Bloom (2024)
   {
     "guid": "95O0Urqxm0",
     "node": "7DsPuIDwHZ"
@@ -103,10 +102,9 @@
     "guid": "oDa9O5v-13",
     "node": "0Oe41ToBtQ"
   },
-  // #endregion
-  // #region Days of Bloom (2025)
+  // Days of Bloom (2025)
   { "guid": "YPSUX96fFc", "node": "wtmkTbdQzf" },
-  // #endregion
+
   // #endregion
   // #region Days of Nature
   // Days of Nature 2022
@@ -124,13 +122,11 @@
     "guid": "SyEw6hUkqc",
     "node": "dDjdcgzxXb"
   },
-  // #endregion
-  // #region Days of Nature (2025)
+  // Days of Nature (2025)
   {
     "guid": "Ashb6wg0jD",
     "node": "lS85mkzLID"
   },
-  // #endregion
   // #endregion
   // #region Days of Rainbow
   // Days of Rainbow 2021
@@ -143,14 +139,12 @@
     "guid": "cfK8l5Lor8",
     "node": "Af7yfGmO9l"
   },
-  // #endregion
-  // #region Days of Color (2023)
+  // Days of Color (2023)
   {
     "guid": "RcVnZHdgZ6",
     "node": "DThw1pOZyJ"
   },
-  // #endregion
-  // #region Days of Color (2024)
+  // Days of Color (2024)
   {
     "guid": "3YJalWDFZ7",
     "node": "9OdKeadQcE"
@@ -160,17 +154,16 @@
   { "guid": "J8x_QrviU0", "node": "VY3t0JMl3q" },
   // #endregion
   // #region Days of Music (2023)
+  // Days of Music (2023)
   {
     "guid": "l1qSIM0q3H",
     "node": "MRl3tWIDfb"
   },
-  // #endregion
-  // #region Days of Music (2024)
+  // Days of Music (2024)
   {
     "guid": "jOEcQRyMJ-",
     "node": "jDAnKekiFv"
   },
-  // #endregion
   // #region Sky Anniversary
   // Sky Anniversary 2020
   {
@@ -192,12 +185,11 @@
     "guid": "JDrrgPjDCY",
     "node": "Eeq1DptgjA"
   },
-  // #region SkyFest (2024)
+  // SkyFest (2024)
   {
     "guid": "Tp3TGsdzEb",
     "node": "5Z8NmDaupw"
   },
-  // #endregion
   // Sky Anniversary 2025
   { "guid": "DuDLYuznJK", "node": "GNFh2wSha5" },
   // #endregion
@@ -212,23 +204,21 @@
     "guid": "QKeMWsP0vc",
     "node": "WyUSJvIpdD"
   },
-  // #endregion
-  // #region Days of Sunlight (2024)
+  // Days of Sunlight (2024)
   {
     "guid": "OBkSXsVvcQ",
     "node": "1mezfgzjRi"
   },
-  // #endregion
-  // #region Days of Sunlight (2025)
+  // Days of Sunlight (2025)
   { "guid": "WvS399OTqy", "node": "BfFrc98Kea" },
   // #endregion
-  // #region Days of Moonlight (2024)
+  // #region Days of Moonlight
+  // Days of Moonlight (2024)
   {
     "guid": "i_k3DZGBKo",
     "node": "y1mrONbyUB"
   },
-  // #endregion
-  // #region Days of Moonlight (2025)
+  // Days of Moonlight (2025)
   { "guid": "CX1CIWT9Vw", "node": "XLtugqdh-y" },
   // #endregion
   // #region Lazy Days
@@ -244,12 +234,11 @@
     "guid": "IhEcryXJD_",
     "node": "n7lKdvhcO1"
   },
-  // #region Days of Style (2024)
+  // Days of Style (2024)
   {
     "guid": "FBCPxTV_1R",
     "node": "I8SYjbvjyt"
   },
-  // #endregion
   // #endregion
   // #region Days of Mischief
   // Mischief 2021
@@ -267,18 +256,16 @@
     "guid": "OvltVBKe--",
     "node": "DdcPH9g4AB"
   },
-  // #region Days of Mischief (2025)
-  {
-    "guid": "EEU4caBgcq",
-    "node": "T8L7f4pFlA"
-  },
-  // #endregion
-  // #region Days of Mischief (2024)
+  // Mischief 2024
   {
     "guid": "fqxSeHyZf1",
     "node": "9qE6w9Oefi"
   },
-  // #endregion
+  // Mischief 2025
+  {
+    "guid": "EEU4caBgcq",
+    "node": "T8L7f4pFlA"
+  },
   // #endregion
   // #region Days of Feast
   // Feast 2020
@@ -308,7 +295,7 @@
     "guid": "wZKU-sX365",
     "node": "62SxiNsM5D"
   },
-  // #region Feast 2023
+  // Feast 2023
   {
     "guid": "jJU_PYq-f6",
     "node": "l0lL5ysOr0"
@@ -330,14 +317,12 @@
     "guid": "yvElaQPmYD",
     "node": "bXvejgWpLD"
   },
-  // #endregion
-  // #region Feast 2024
+  // Feast 2024
   { "guid": "qMoUmkx_mj", "node": "pEledYU8hw" },
   { "guid": "9ZM5bafAP6", "node": "_utmP-13Q7" },
-  // #endregion
-  //#region Feast 2025
+  // Feast 2025
   { "guid": "StL5eWMWkl", "node": "gszI-cAWaq" },
-  { "guid": "BBv3xwg87L", "node": "t0ssDtYtLs" }
+  { "guid": "BBv3xwg87L", "node": "t0ssDtYtLs" },
   // #endregion
   // #region Harmony Hall Grand Opening
   {
@@ -378,9 +363,15 @@
   },
   // #endregion
   // #region Tournament of Triumph
+  // Tournament of Triumph 2024
   {
     "guid": "FnovR0E6SH",
     "node": "Qbd0xTuOq-"
+  },
+  // Tournament of Triumph 2026
+  {
+    "guid": "WY5VEPEJ8C",
+    "node": "dKNSLGcj_I"
   }
   // #endregion
 ]
