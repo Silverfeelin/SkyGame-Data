@@ -3,15 +3,15 @@
   {
     "guid": "aAjB0icu1X",
     "items": [
-      { "guid": "Z5GU7r2jal", "item": "Lymcgpd4Sv", "c": 49 }, //prairie cape
-      { "guid": "hjgNWLV2N8", "item": "HVd__mHdZO", "c": 49 }, //forest cape
-      { "guid": "CT1tpFaZVs", "item": "DjGSTi5m5d", "c": 49 }, //valley cape
-      { "guid": "uo7XWyQa1V", "item": "37qkM3gfQr", "c": 49 }, //wasteland cape
-      { "guid": "25VWwY6Byu", "item": "bFbmlKZtGO", "c": 35 }, //podium
-      { "guid": "3XYXj8mGyY", "item": "XOVXV5EpMk", "c": 15 }, //prarie banner
-      { "guid": "DOrxYwY2jH", "item": "-QuJTqtrn0", "c": 15 }, //forest banner
-      { "guid": "1d6jbO7tno", "item": "vLvSsUTN0P", "c": 15 }, //valley banner
-      { "guid": "burEo6nGNo", "item": "--wyCei-uH", "c": 15 } //wasteland banner
+      { "guid": "Z5GU7r2jal", "item": "Lymcgpd4Sv", "c": 49 },
+      { "guid": "hjgNWLV2N8", "item": "HVd__mHdZO", "c": 49 },
+      { "guid": "CT1tpFaZVs", "item": "DjGSTi5m5d", "c": 49 },
+      { "guid": "uo7XWyQa1V", "item": "37qkM3gfQr", "c": 49 },
+      { "guid": "25VWwY6Byu", "item": "bFbmlKZtGO", "c": 35 },
+      { "guid": "3XYXj8mGyY", "item": "XOVXV5EpMk", "c": 15 },
+      { "guid": "DOrxYwY2jH", "item": "-QuJTqtrn0", "c": 15 },
+      { "guid": "1d6jbO7tno", "item": "vLvSsUTN0P", "c": 15 },
+      { "guid": "burEo6nGNo", "item": "--wyCei-uH", "c": 15 }
     ]
   }
 ] 
