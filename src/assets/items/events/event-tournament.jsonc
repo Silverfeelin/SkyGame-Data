@@ -63,10 +63,10 @@
     "guid": "oWEDCHWjbr",
     "type": "Held",
     "name": "Tournament Ice Board",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a5/Tournament-Snowboard-icon.png",
     "previewUrl": "",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Snowboard"
     },
     "order": 648
   },
@@ -75,10 +75,10 @@
     "guid": "PwIov7bp-r",
     "type": "Hair",
     "name": "Tournament Wind Hairstyle",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/Tournament-Hairstyle-icon.png",
     "previewUrl": "",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Hairstyle"
     },
     "order": 330
   },
@@ -88,13 +88,13 @@
     "type": "Outfit",
     "name": "Tournament Sleek Skating Outfit",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Tournament-Sleek-Skating-Outfit-icon.png",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fe/Tournament-Sleek-Skating-Outfit-front.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Tournament_vestpants.jpg"
     },
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Sleek_Skating_Outfit"
     },
     "order": 100
   },
@@ -104,13 +104,13 @@
     "type": "Shoes",
     "name": "Tournament Sleek Skating Shoes",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/72/Tournament-Sleek-Skating-Shoes-icon.png",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Tournament-Sleek-Skating-Shoes.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/shoes/Tournament_iceskates.jpg"
     },
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Sleek_Skating_Shoes"
     },
     "order": 159
   },
@@ -122,7 +122,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/25/Tournament-Crystalline-Cape-icon.png",
     "previewUrl": "",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Crystalline_Cape"
     },
     "order": 1044
   },
