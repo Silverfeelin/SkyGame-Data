@@ -76,6 +76,27 @@
       "MOhYCFQgyc",
       "TjwhHy9niu"
     ]
+  },
+  {
+    "guid": "IhJWqtHlfY",
+    "type": "Spirit",
+    "spirit": "G2seKIqYu1",
+    "iaps": [
+      "H2mdNW8b-H",
+      "UR1d4t5PmH",
+      "IgsQg-Dlwf",
+      "f7R6tOi88R",
+      "Wjoy5DA6Jk",
+      "yHPwbuR9wh",
+      "YCfVPq7pPE",
+      "h6pP7xxTyo"
+    ]
+  },
+  {
+    "guid": "r4-5JRQNUh",
+    "type": "Object",
+    "name": "Spell Box",
+    "itemList": "8pX0kDQ4-p"
   }
   // #endregion
 ]

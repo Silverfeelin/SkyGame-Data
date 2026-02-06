@@ -243,4 +243,81 @@
     ]
   },
   // #endregion
+    // #region Days of Love (2026)
+  {
+    "guid": "H2mdNW8b-H",
+    "name": "Days of Love Amethyst-Tipped Tails",
+    "returning": true,
+    "price": 6.99,
+    "items": [
+      "Yxt4jz3je6"
+    ]
+  },
+  {
+    "guid": "UR1d4t5PmH",
+    "name": "Days of Love Amethyst Accessory",
+    "returning": true,
+    "price": 2.99,
+    "items": [
+      "-ZIWymGtlX"
+    ]
+  },
+  {
+    "guid": "IgsQg-Dlwf",
+    "name": "Days of Love Meteor Mantle",
+    "price": 17.99,
+    "returning": true,
+    "items": [
+      "svUBdDQ945"
+    ]
+  },
+  {
+    "guid": "f7R6tOi88R",
+    "name": "Days of Love Serendipitous Scepter",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "Tf45PqqIsn"
+    ]
+  },
+  {
+    "guid": "Wjoy5DA6Jk",
+    "name": "Days of Love Classy Cravat",
+    "price": 4.99,
+    "returning": true,
+    "items": [
+      "PuFWddickP"
+    ]
+  },
+  {
+    "guid": "yHPwbuR9wh",
+    "name": "Days of Love Seesaw Pack",
+    "price": 19.99,
+    "returning": true,
+    "sc": 35,
+    "items": [
+      "yWCpBlHsWa"
+    ]
+  },
+  {
+    "guid": "YCfVPq7pPE",
+    "name": "Days of Love Swing Pack",
+    "price": 19.99,
+    "returning": true,
+    "sc": 35,
+    "items": [
+      "w7byhvh3Xa"
+    ]
+  },
+  {
+    "guid": "h6pP7xxTyo",
+    "name": "Days of Love Gondola Pack",
+    "price": 19.99,
+    "returning": true,
+    "sc": 35,
+    "items": [
+      "EZ_nfEHgOx"
+    ]
+  }
+  // #endregion
 ]
