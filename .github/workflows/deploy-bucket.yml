@@ -25,7 +25,15 @@ jobs:
 
           npx wrangler r2 object put \
             skygame-data/assets/pr/${PR_NUMBER}-everything.json \
-            --file=./assets/everything.json
+            --file=./assets/everything.json --remote
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+
+      - name: Comment on PR
+        if: github.event_name == 'pull_request'
+        run: |
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          gh pr comment $PR_NUMBER --body "Preview: https://sandbox.sky-planner.com/?dataUrl=${PR_NUMBER}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
