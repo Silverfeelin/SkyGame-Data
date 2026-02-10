@@ -21,7 +21,7 @@ jobs:
 
       - name: Upload to R2
         run: |
-          PR_NUMBER=${{ github.event.pull_request.number }}
+          PR_NUMBER=${{ github.event.pull_request.number || '1' }}
 
           npx wrangler r2 object put \
             skygame-data/assets/pr/${PR_NUMBER}-everything.json \
