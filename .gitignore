@@ -143,3 +143,6 @@ vite.config.ts.timestamp-*
 
 # Compiled assets
 /assets
+
+# Wrangler
+.wrangler/**
