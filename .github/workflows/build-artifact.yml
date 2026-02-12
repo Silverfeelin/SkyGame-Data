@@ -25,9 +25,7 @@ jobs:
 
       - name: Write PR number
         shell: bash
-        env:
-          PR_NUMBER: ${{ github.event.pull_request.number }}
-        run: echo $PR_NUMBER > pr_number.txt
+        run: echo -n ${{ github.event.pull_request.number }} > pr_number.txt
 
       - name: Upload PR artifact
         uses: actions/upload-artifact@v4
