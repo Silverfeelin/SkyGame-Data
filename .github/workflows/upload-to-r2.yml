@@ -22,21 +22,30 @@ jobs:
     if: github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch'
 
     steps:
-      - name: Get PR number
-        id: pr
-        uses: actions/github-script@v7
+      - name: Download PR artifact
+        uses: actions/download-artifact@v4
         with:
-          script: |
-            if (context.eventName === 'workflow_run') {
-              const prs = context.payload.workflow_run.pull_requests;
-              if (prs && prs.length > 0) {
-                core.setOutput('number', prs[0].number.toString());
-              } else {
-                core.setFailed('No pull request associated with this workflow run.');
-              }
-            } else {
-              core.setOutput('number', context.inputs.pr_number);
-            }
+          name: pr-number
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+
+      - name: Read PR
+        id: pr
+        uses: juliangruber/read-file-action@v1.0.0
+        with:
+          path: ./pr_number.txt
+
+      - name: Echo PR
+        run: echo "${{ steps.pr.outputs.content }}"
+
+      - name: Validate PR
+        run: |
+          PR_NUMBER="${{ steps.pr.outputs.content }}"
+          if ! [[ "$PR_NUMBER" =~ ^[0-9]+$ ]]; then
+            echo "Error: PR_NUMBER is not a valid number: $PR_NUMBER"
+            exit 1
+          fi
+          echo "PR number validated: $PR_NUMBER"
 
       - name: Download build artifact
         uses: actions/download-artifact@v4
@@ -47,7 +56,7 @@ jobs:
 
       - name: Upload to R2
         run: |
-          PR_NUMBER=${{ steps.pr.outputs.number }}
+          PR_NUMBER=${{ steps.pr.outputs.content }}
           echo "Uploading with PR_NUMBER: $PR_NUMBER"
 
           npx wrangler r2 object put \
@@ -62,7 +71,7 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const pr_number = ${{ steps.pr.outputs.number }};
+            const pr_number = ${{ steps.pr.outputs.content }};
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
