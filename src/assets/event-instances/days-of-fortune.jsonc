@@ -66,5 +66,27 @@
         "_calendar": {
           "href": "https://skydreamers.notion.site/Days-of-Fortune-17d8261c87dd8099bcf5e331f83f5e84"
         }
+      },
+      {
+        "guid": "2-n5EUz1QT",
+        "date": "2026-02-13",
+        "endDate": "2025-03-01",
+        "spirits": ["sdasEX1aQf"],
+        "shops": ["wfrrBoHD7L", "2HOBNDsLZB"],
+        "calculatorData": {
+          "dailyCurrencyAmount": 5,
+          "timedCurrency": [
+            {
+              "guid": "3B00VfiK3O",
+              "date": "2026-02-13",
+              "endDate": "2025-03-01",
+              "amount": 15,
+              "description": "Coins around the Ice Rink"
+            }
+          ]
+        },
+        "_calendar": {
+          "href": "https://skydreamers.notion.site/Days-of-Fortune-2e78261c87dd8035b0efda30e446ab5b?pvs=25"
+        }
       }
 ]

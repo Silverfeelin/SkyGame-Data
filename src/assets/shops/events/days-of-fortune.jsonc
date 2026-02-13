@@ -87,6 +87,35 @@
     "type": "Object",
     "name": "Spell Box",
     "itemList": "vod3TNMT3W"
-  }
+  },
   // #endregion
+  {
+    "guid": "2HOBNDsLZB",
+    "type": "Object",
+    "name": "IAP Table",
+    "iaps": [
+      "Pql0BnYS7m",
+      "aoIrDXlacz",
+      "RWgSxQR5Zr",
+      "tA32uatGAp",
+      "E7O187lhfq",
+      "WjjjybN-2R",
+      "hk6IL24o1V",
+      "sha4FtW9PN",
+      "ROgB4_8jhE",
+      "-RQOnjiSgH",
+      "oEap0dhfoX",
+      "VhLYMKt0TU",
+      "T8QbxGA_wL",
+      "9X-j7kU2Co",
+      "bZd24wIljC",
+      "SVX0Z6ZxBe"
+    ]
+  },
+  {
+    "guid": "wfrrBoHD7L",
+    "type": "Object",
+    "name": "Spell Box",
+    "itemList": "Eo6xwJSvKy"
+  },
 ]

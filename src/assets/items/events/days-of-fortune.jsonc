@@ -3,7 +3,7 @@
     "id": 1723,
     "guid": "hLJjrHH-Ag",
     "type": "Mask",
-    "name": "Days of Fortune Bull Mask",
+    "name": "Fortune Bull Mask",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Icon_mask_ox.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Ox_mask.png",
     "dye": {
@@ -19,7 +19,7 @@
     "id": 1724,
     "guid": "LgDGqWw-NO",
     "type": "Hair",
-    "name": "Days of Fortune Lion Headdress",
+    "name": "Fortune Lion Headdress",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/47/Icon_hair_new_years_headpiece.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Chinese_new_year_hat_hair_v2.png",
     "_wiki": {
@@ -101,7 +101,7 @@
     "id": 1730,
     "guid": "c1YroXxA9Z",
     "type": "Mask",
-    "name": "Days of Fortune Tiger Mask",
+    "name": "Fortune Tiger Mask",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/07/Days_of_Fortune_-_Tiger_mask_head_icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Days-of-fortune-2021-tiger-mask.png",
     "dye": {
@@ -347,7 +347,7 @@
     "guid": "8KXtBlvNRO",
     "type": "Held",
     "subtype": "Instrument",
-    "name": "Days of Fortune Drum",
+    "name": "Fortune Drum",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Days-of-Fortune-Drum-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bb/Days-of-Fortune-Drum.png",
     "order": 628,
@@ -530,6 +530,94 @@
     "order": 401,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Dragon_Dance_Music_Sheet"
+    }
+  },
+  {
+    "id": 3016,
+    "guid": "9Wqllerxa-",
+    "name": "Fortune Plush Mount",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Fortune-Plush-Mount-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Fortune-Plush-Mount-front.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune#Fortune_Plush_Mount"
+    }
+  },
+  {
+    "id": 3017,
+    "guid": "uw30fc8L-C",
+    "name": "Fortune Pleated Dress",
+    "type": "Outfit",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bf/Fortune-Pleated-Dress-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ad/Fortune-Pleated-Dress-front.png",
+    "dye": {
+      "primary": {},
+      "secondary": {}
+    },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune#Fortune_Pleated_Dress"
+    }
+  },
+  {
+    "id": 3018,
+    "guid": "qpl9PPDD8z",
+    "name": "Fortune Ribboned Ponytail",
+    "type": "Hair",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/27/Fortune-Ribboned-Ponytail-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1b/Fortune-Ribboned-Ponytail-front.png",
+    "dye": {
+      "primary": {}
+    },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune#Fortune_Ribboned_Ponytail"
+    }
+  },
+  {
+    "id": 3019,
+    "guid": "pGinCIs2W7",
+    "name": "Fortune Token Glasses",
+    "type": "FaceAccessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7b/Fortune-Token-Glasses-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0b/Fortune-Token-Glasses-side.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune#Fortune_Token_Glasses"
+    }
+  },
+  {
+    "id": 3020,
+    "guid": "hZb7w1uo8r", 
+    "name": "Fortune Horse Mask", 
+    "type": "Mask", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6b/Fortune-Horse-Mask-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/21/Fortune-Horse-Mask-front.png", 
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune#Fortune_Horse_Mask" 
+    }
+  },
+  { 
+    "id": 3021,
+    "guid": "BxcM9aaV_8", 
+    "name": "Fortune Carousel Music Box", 
+    "type": "Prop", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Fortune-Carousel-Music-Box-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Fortune-Carousel-Music-box-using.png", 
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune#Fortune_Carousel_Music_Box"
+      }
+  },
+  { 
+    "id": 3022,
+    "guid": "ypho6Kltp2", 
+    "name": "Fortune Horse Cape", 
+    "type": "Cape", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Fortune-Horse-Cape-icon.png", 
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c4/Fortune-Horse-Cape-front.png", 
+    "dye": {
+      "primary": {},
+      "secondary": {}
+    },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune#Fortune_Horse_Cape" 
     }
   }
 ]

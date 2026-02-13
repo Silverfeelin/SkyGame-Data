@@ -185,6 +185,13 @@
     "name": "Crab of Triumph",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Tournament-of-Triumph-Crab-of-Triumph.png"
   },
+  // Days of Fortune (2026)
+  {
+    "guid": "ycbsRB5D4K",
+    "type": "Event",
+    "name": "Auspicious Visitor",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2a/Days-of-Fortune-Guide-2026.png"
+  },
   // Look, I know it's not a spirit. That said, the objects TGC makes sure act like one sometimes.
   // The mannequins from AURORA and Revival were watching...
   {

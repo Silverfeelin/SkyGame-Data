@@ -55,5 +55,16 @@
   { "guid": "TdsKCh1F7s", "item": "hLJjrHH-Ag", "c": 56 },
   { "guid": "hIVk1hnHwl", "item": "PjDfa0MBz3", "n": "IkCEjHlfRP", "nw": "U8TVWab51I", "c": 5 },
   { "guid": "U8TVWab51I", "item": "LgDGqWw-NO", "c": 66 },
-  { "guid": "IkCEjHlfRP", "item": "bFJ_OQoA3b", "ec": 10 } 
+  { "guid": "IkCEjHlfRP", "item": "bFJ_OQoA3b", "ec": 10 },
+  // #region Days of Fortune (2026)
+  { "guid": "JrEDPMezU4", "item": "t6nJrp1wWD", "n": "SpgqfsDvEz", "c": 5, "nw": "UeN3cfvgB_", "ne": "XG2dM7yn7S" },
+  { "guid": "UeN3cfvgB_", "item": "hZb7w1uo8r", "ec": 2 },
+  { "guid": "XG2dM7yn7S", "item": "BxcM9aaV_8", "h": 2 },
+  { "guid": "SpgqfsDvEz", "item": "QB-SWz3oTJ", "nw": "CPJBj6GrR4", "n": "F9nu7Fr6pX", "ne": "5d76tKPmX1", "c": 5 },
+  { "guid": "CPJBj6GrR4", "item": "ypho6Kltp2", "ec": 2 },
+  { "guid": "5d76tKPmX1", "item": "kWvg1ATKfE", "c": 15 },
+  { "guid": "F9nu7Fr6pX", "item": "bFJ_OQoA3b", "nw": "D8GFGO5A2f", "n": "JM89aez_SM", "c": 2 },
+  { "guid": "D8GFGO5A2f", "item": "OVAIVV5-Q6", "c": 2 },
+  { "guid": "JM89aez_SM", "item": "ZmPfYe6tPD", "c": 2 }
+  // #endregion
 ]

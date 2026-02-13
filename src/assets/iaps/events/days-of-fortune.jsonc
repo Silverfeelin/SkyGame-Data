@@ -345,4 +345,150 @@
     ]
   },
   // #endregion
+  // #region Days of Fortune (2026)
+  {
+    "guid": "Pql0BnYS7m",
+    "name": "Fortune Plush Mount",
+    "price": 2,
+    "items": [
+      "9Wqllerxa-"
+    ]
+  },
+  {
+    "guid": "aoIrDXlacz",
+    "name": "Fortune Pleated Dress",
+    "price": 2,
+    "items": [
+      "uw30fc8L-C"
+    ]
+  },
+  {
+    "guid": "RWgSxQR5Zr",
+    "name": "Fortune Ribboned Ponytail",
+    "price": 2,
+    "items": [
+      "qpl9PPDD8z"
+    ]
+  },
+  {
+    "guid": "tA32uatGAp",
+    "name": "Fortune Token Glasses",
+    "price": 2,
+    "items": [
+      "pGinCIs2W7"
+    ]
+  },
+  {
+    "guid": "E7O187lhfq",
+    "name": "Fortune Snake Coif and Cloak",
+    "price": 19.99,
+    "returning": true,
+    "items": [
+      "u_CN5B-cYN",
+      "293EzlKBBS"
+    ]
+  },
+  {
+    "guid": "WjjjybN-2R",
+    "name": "Fortune Hand Fan",
+    "price": 4.99,
+    "returning": true,
+    "items": [
+      "HEV8fvTQwQ"
+    ]
+  },
+  {
+    "guid": "hk6IL24o1V",
+    "name": "Days of Fortune Dragon Vestment",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "wkCxoe9zSP"
+    ]
+  },
+  {
+    "guid": "sha4FtW9PN",
+    "name": "Days of Fortune Dragon Stole",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "LGaX4cqdOe"
+    ]
+  },
+  {
+    "guid": "ROgB4_8jhE",
+    "name": "Days of Fortune Dragon Bangles",
+    "price": 1.99,
+    "returning": true,
+    "items": [
+      "xsTxIqIX8E"
+    ]
+  },
+  {
+    "guid": "-RQOnjiSgH",
+    "name": "Days of Fortune Orange",
+    "price": 0.99,
+    "returning": true,
+    "items": [
+      "aRgiKoKavp"
+    ]
+  },
+  {
+    "guid": "oEap0dhfoX",
+    "name": "Days of Fortune Wool Hat",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "udspGJd38_"
+    ]
+  },
+  {
+    "guid": "VhLYMKt0TU",
+    "name": "Days of Fortune Pack",
+    "price": 24.99,
+    "returning": true,
+    "items": [
+      "o8CAzM0x1c",
+      "HnCWgj7aoA",
+      "rNDDbcjS4G"
+    ]
+  },
+  {
+    "guid": "T8QbxGA_wL",
+    "name": "Days of Fortune Fish Accessory",
+    "price": 1.99,
+    "returning": true,
+    "items": [
+      "OjSfpOgFoR"
+    ]
+  },
+  {
+    "guid": "9X-j7kU2Co",
+    "name": "Days of Fortune Fish Pack",
+    "price": 19.99,
+    "returning": true,
+    "items": [
+      "mzF6ZaHa1s",
+      "A26TJj3cSl"
+    ]
+  },
+  {
+    "guid": "bZd24wIljC",
+    "name": "Days of Fortune Enchanted Umbrella",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "uzos22Ysp3"
+    ]
+  },
+  {
+    "guid": "SVX0Z6ZxBe",
+    "name": "Days of Fortune Muralist's Smock",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "ADJiva5H2Z"
+    ]
+  },
+  // #endregion
 ]
