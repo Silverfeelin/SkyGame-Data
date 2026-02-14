@@ -349,7 +349,8 @@
   {
     "guid": "Pql0BnYS7m",
     "name": "Fortune Plush Mount",
-    "price": 2,
+    "price": 19.99,
+    "sc": 35,
     "items": [
       "9Wqllerxa-"
     ]
@@ -357,7 +358,7 @@
   {
     "guid": "aoIrDXlacz",
     "name": "Fortune Pleated Dress",
-    "price": 2,
+    "price": 9.99,
     "items": [
       "uw30fc8L-C"
     ]
@@ -365,7 +366,7 @@
   {
     "guid": "RWgSxQR5Zr",
     "name": "Fortune Ribboned Ponytail",
-    "price": 2,
+    "price": 4.99,
     "items": [
       "qpl9PPDD8z"
     ]
@@ -373,7 +374,7 @@
   {
     "guid": "tA32uatGAp",
     "name": "Fortune Token Glasses",
-    "price": 2,
+    "price": 2.99,
     "items": [
       "pGinCIs2W7"
     ]
