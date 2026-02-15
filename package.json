@@ -1,6 +1,6 @@
 {
   "name": "skygame-data",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "Data repository for SkyGame-Planner.",
   "scripts": {
     "json-build": "node ./src/scripts/json-build.cjs",
