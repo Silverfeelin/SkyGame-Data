@@ -665,6 +665,47 @@
   {
     "id": 2999,
     "guid": "XGQV5cpTVc",
+    "type": "Quest",
+    "name": "Quest 5",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Lightmending#Quest_#5"
+    }
+  },
+  {
+    "id": 3000,
+    "guid": "SWbjGomlNC",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 3023,
+    "guid": "Q6B2R3Ths0",
+    "type": "Quest",
+    "name": "Quest 6",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3024,
+    "guid": "VQ4KRlmObB",
+    "type": "Special",
+    "name": "Placeholder",
+    "icon": ""
+  },
+  {
+    "id": 3025,
+    "guid": "7JfGJ7SciM",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 3026,
+    "guid": "XkOsm-SXq0",
     "type": "Special",
     "name": "Placeholder",
     "icon": "",
@@ -673,8 +714,8 @@
     }
   },
   {
-    "id": 3000,
-    "guid": "SWbjGomlNC",
+    "id": 3027,
+    "guid": "Z10jNHU46P",
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
