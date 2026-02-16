@@ -719,5 +719,39 @@
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 3028,
+    "guid": "iU4SddpHiA",
+    "type": "Special",
+    "name": "Placeholder",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3029,
+    "guid": "x3qmX6Ozq8",
+    "type": "Special",
+    "name": "Placeholder",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3030,
+    "guid": "sKT8LvMLjD",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 3031,
+    "guid": "BliLw-6mPb",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   }
 ]
