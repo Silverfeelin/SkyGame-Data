@@ -170,8 +170,25 @@
     "date": "2025-11-17",
     "endDate": "2025-11-30",
     "spirits": [ "r4UQqanXXe", "yFy97eBh0E", "Cfm2LGHWwS", "NFp-TXTUKD" ],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Returning_Spirits#November_17,_2025"
+    },
     "_calendar": {
       "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=2a18261c87dd80a3bf2bf0fe2f4e1b56&pm=c"
     }
-  }
+  },
+  {
+    "guid": "1xQyPNNynR",
+    "name": "Special Visit #12",
+    "area": "",
+    "date": "2026-02-27",
+    "endDate": "2026-03-12",
+    "spirits": ["aXqXgWbDvC", "5W0EyIvjwK", "AV5iA4CpX8", "iPF1nRScD0", "-YtGR0BNa2", "-gdOXDH9z7"],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Returning_Spirits#February_27,_2026"
+    },
+    "_calendar": {
+      "href": ""
+    }
+  },
 ]
