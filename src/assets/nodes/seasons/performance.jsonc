@@ -45,6 +45,27 @@
   { "guid": "Y7EDZchWZo", "item": "A_Thh0cGjn", "nw": "OGGOWDtfLm", "n": "9dSx4-sImZ" },
   { "guid": "OGGOWDtfLm", "item": "-naooktwJY", "c": 3 },
   { "guid": "9dSx4-sImZ", "item": "P8hCjt0Cpn", "c": 52 },
+  // Patch 32.5
+  { "guid": "vqtTpmWvVW", "item": "372sosqEJH", "n": "RGXDbAUo9q" },
+  { "guid": "RGXDbAUo9q", "item": "zEvxnuBJf1", "nw": "9100-RAx4E", "n": "v6Fbt818LB" },
+  { "guid": "9100-RAx4E", "item": "eoG1GK-RmF" },
+  { "guid": "v6Fbt818LB", "item": "c8_ZLp9iaS", "nw": "8sT3Kd-fLn", "n": "HKBR1kjv34" },
+  { "guid": "8sT3Kd-fLn", "item": "5g17gSJBUj", "c": 3 },
+  { "guid": "HKBR1kjv34", "item": "so8M_6pkle", "nw": "VVx55dTkZb", "n": "ODg7Hn3zK3" },
+  { "guid": "VVx55dTkZb", "item": "HsIlEsnI4A", "c": 42 },
+  { "guid": "ODg7Hn3zK3", "item": "WKPWSGukRo", "nw": "57LErTpb1o", "n": "CNkojM7BjU" },
+  { "guid": "57LErTpb1o", "item": "vFJAitmzkx" },
+  { "guid": "CNkojM7BjU", "item": "gCZ2rqRL6s", "nw": "iGxcGtmDVr", "n": "GBjouAuWPN" },
+  { "guid": "iGxcGtmDVr", "item": "i6OtHRDrbp", "c": 3 },
+  { "guid": "GBjouAuWPN", "item": "NERbBLZV7z", "nw": "SLXJZ6tphM", "n": "bia7tsRk57" },
+  { "guid": "SLXJZ6tphM", "item": "--TRCRQn3G" },
+  { "guid": "bia7tsRk57", "item": "-vYFjLWhNW", "nw": "HmknG58cPH", "n": "MWS_bMFfyj" },
+  { "guid": "HmknG58cPH", "item": "1ADCbzCXoo", "c": 3 },
+  { "guid": "MWS_bMFfyj", "item": "sldyWGHPcu", "nw": "vTLMekmiK2", "n": "jrv3xXO2aa" },
+  { "guid": "vTLMekmiK2", "item": "oUvBhidcuD" },
+  { "guid": "jrv3xXO2aa", "item": "A_Thh0cGjn", "nw": "SZOOSecdMI", "n": "VrSIDSscIk" },
+  { "guid": "SZOOSecdMI", "item": "-naooktwJY", "c": 3 },
+  { "guid": "VrSIDSscIk", "item": "P8hCjt0Cpn", "c": 52 },
   // #endregion
   // #region Performance
   // #region Frantic Stagehand

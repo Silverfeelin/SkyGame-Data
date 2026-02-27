@@ -829,5 +829,33 @@
     "type": "WingBuff",
     "name": "Wing Buff",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Winglight.png"
+  },
+  {
+    "id": 3038,
+    "guid": "L1tJ5T0BMK",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 3039,
+    "guid": "a8Q6aXj-MS",
+    "type": "Spell",
+    "name": "Color Trail",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Color-trail.png"
+  },
+  {
+    "id": 3040,
+    "guid": "H69zJ7ObRc",
+    "type": "Spell",
+    "name": "Color Trail",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Color-trail.png"
+  },
+  {
+    "id": 3041,
+    "guid": "fC2mncb_4Q",
+    "type": "Spell",
+    "name": "Color Trail",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Color-trail.png"
   }
 ]

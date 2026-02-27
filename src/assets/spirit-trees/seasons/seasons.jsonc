@@ -68,7 +68,7 @@
   {
     "guid": "WKeFg1cVbG",
     "revisionType": "AfterSeason",
-    "node": "Udd-_n5nht"
+    "node": "TP_fHiRKo-"
   },
   // The Rose
   {
@@ -110,6 +110,11 @@
     "revisionType": "AfterSeason",
     "node": "OkBUwidGyI"
   },
+  {
+    "guid": "PNFPkSOfaC",
+    "revisionType": "AfterSeason",
+    "node": "vqtTpmWvVW"
+  },
   // The Void of Shattering
   {
     "guid": "BK8jQyPH_n",
@@ -141,6 +146,11 @@
     "guid": "mUeWL1WW-T",
     "revisionType": "AfterSeason",
     "node": "tODSjyH4Rw"
+  },
+  {
+    "guid": "ljR5JtCBeX",
+    "revisionType": "AfterSeason",
+    "node": "syYU-yQLJP"
   },
   // Passage Guide
   {
@@ -1578,6 +1588,11 @@
   {
     "guid": "4uhy67a14a",
     "node": "JbSDLaN0Xu"
+  },
+  {
+    "guid": "g3xQG0GfCH",
+    "node": "vUaItiu_CS",
+    "revisionType": "AfterSeason"
   },
   // #endregion
   // #region Moomin
