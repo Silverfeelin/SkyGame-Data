@@ -709,11 +709,11 @@
   {
     "id": 3026,
     "guid": "XkOsm-SXq0",
-    "type": "Special",
-    "name": "Placeholder",
-    "icon": "",
+    "type": "Quest",
+    "name": "Quest 8",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Lightmending#Quest_#8"
     }
   },
   {
