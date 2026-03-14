@@ -62,7 +62,7 @@
     "guid": "GvpCsJFSNW",
     "date": "2026-03-13",
     "endDate": "2026-04-02",
-    "spirits": ["pDhJzwjbYD"],
+    "spirits": ["OtY-5RdEgB"],
     "shops": ["JQbK7Uh7V7", "9MdwwwuJLP", "rqP9QFOrjd"],
     "calculatorData": {
       "dailyCurrencyAmount": 5,
@@ -72,12 +72,12 @@
           "date": "2026-03-13",
           "endDate": "2026-04-02",
           "amount": 15,
-          "description": ""
+          "description": "Flowers around Prairie Village"
         }
       ]
     },
     "_calendar": {
-      "href": ""
+      "href": "https://skydreamers.notion.site/Days-of-Bloom-31a8261c87dd8031b6a3ebe045d6d846"
     }
   }
 ]
