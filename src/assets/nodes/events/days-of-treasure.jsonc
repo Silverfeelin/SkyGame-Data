@@ -3,6 +3,15 @@
   { "guid": "lIGOW1C9eA", "item": "2TW_W4bbLe", "n": "djTXyybCwb" },
   { "guid": "djTXyybCwb", "item": "_JA3vTiLd4", "n": "ZFeMVjgUzY", "nw": "bBCQWAtLEi", "c": 5 },
   { "guid": "bBCQWAtLEi", "item": "aU_ZGHomyy", "ec": 30 },
-  { "guid": "ZFeMVjgUzY", "item": "iMG2NRQ96n", "ec": 30 }
+  { "guid": "ZFeMVjgUzY", "item": "iMG2NRQ96n", "ec": 30 },
+  // #endregion 
+  // #region Days of Treasure (2026)
+  { "guid": "OJ2rtvChyp", "item": "2TW_W4bbLe", "n": "iC7FbwVDTD", "nw": "3lX_DY_VkY", "ne": "0WxfS34MH1" },
+  { "guid": "3lX_DY_VkY", "item": "RIhIuaVYSL", "ec": 25 },
+  { "guid": "0WxfS34MH1", "item": "iWBlE2ByGK", "ec": 14 },
+  { "guid": "iC7FbwVDTD", "item": "_JA3vTiLd4", "c": 5, "nw": "BIj9HZm6Ml", "n": "u90XB4bKGy", "ne": "YhAyT9oN3c" },
+  { "guid": "BIj9HZm6Ml", "item": "Vo5Sew0Ql4", "ec": 19 },
+  { "guid": "YhAyT9oN3c", "item": "iMG2NRQ96n", "c": 32 },
+  { "guid": "u90XB4bKGy", "item": "aU_ZGHomyy", "c": 35 }
   // #endregion 
 ]

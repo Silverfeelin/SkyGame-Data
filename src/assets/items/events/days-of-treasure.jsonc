@@ -90,5 +90,26 @@
     "name": "White dye",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png",
     "quantity": 1
+  },
+  { 
+    "id": 3060,
+    "guid": "RIhIuaVYSL", 
+    "name": "treassure 2026 outfit", 
+    "type": "Outfit", 
+    "icon": "" 
+  },
+  { 
+    "id": 3061,
+    "guid": "iWBlE2ByGK", 
+    "name": "treassure 2026 hair", 
+    "type": "Hair", 
+    "icon": "" 
+  },
+  { 
+    "id": 3062,
+    "guid": "Vo5Sew0Ql4", 
+    "type": "Special", 
+    "name": "Placeholder", 
+    "icon": "/assets/icons/question.webp" 
   }
 ]
