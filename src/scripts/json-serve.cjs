@@ -45,12 +45,16 @@ const notFound = (res) => {
 };
 
 // Create the server
+const urls = new Set(['/everything.json', '/candles.json']);
 const server = http.createServer((req, res) => {
-  if (req.method !== 'GET' || req.url !== '/everything.json') {    
+  if (req.method !== 'GET' || !urls.has(req.url)) {    
     return notFound(res);
   }
 
-  fs.readFile(path.resolve(__dirname, '../../assets/everything.json'), 'utf8', (err, data) => {
+  const relativePath = req.url.substring(1);
+  const filePath = path.resolve(__dirname, '../../assets', relativePath);
+  
+  fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
       res.writeHead(500, { 'Content-Type': 'text/plain' });
       res.end('Error reading file');
