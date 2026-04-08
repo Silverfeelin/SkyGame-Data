@@ -89,6 +89,16 @@
   { "guid": "pup2fRj2Wp", "item": "BkptA-MKN8", "h": 14 },
   { "guid": "gCq3u3-BS0", "item": "eCE_k13rE-", "c": 5, "nw": "7OhgpMWaFS", "n": "hxwSn0t7c1" },
   { "guid": "7OhgpMWaFS", "item": "RLhtVkyDy3", "c": 180 },
-  { "guid": "hxwSn0t7c1", "item": "OvPPfhXnwW", "h": 20 }
+  { "guid": "hxwSn0t7c1", "item": "OvPPfhXnwW", "h": 20 },
+  // #endregion
+  // #region Days of Nature (2026)
+  { "guid": "8JwCq61yj1", "item": "sGfbOLONB6", "n": "5P8LICh9Zz" },
+  { "guid": "5P8LICh9Zz", "item": "J3SQU_2koY", "c": 5, "nw": "JSDBJOOzzE", "n": "Ink4ZjHUHK", "ne": "5rnbsqw4lY" },
+  { "guid": "JSDBJOOzzE", "item": "57_e_eF6Ek", "ec": 22 },
+  { "guid": "5rnbsqw4lY", "item": "asVBCLu2vH", "ec": 21 },
+  { "guid": "Ink4ZjHUHK", "item": "-Tb65IaCRm", "c": 5, "nw": "poBhv1-2gb", "n": "f95RIT0wnu", "ne": "Hhmk0w73L5" },
+  { "guid": "poBhv1-2gb", "item": "-p1MlW49el", "ec": 17 },
+  { "guid": "Hhmk0w73L5", "item": "B57ZJ9lCAE", "c": 45 },
+  { "guid": "f95RIT0wnu", "item": "O-9eA-N9si", "c": 70 }
   // #endregion
 ]

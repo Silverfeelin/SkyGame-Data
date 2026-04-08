@@ -273,5 +273,71 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Waves_Mask"
     },
     "order": 534
+  },
+  {
+    "id": 3061,
+    "guid": "57_e_eF6Ek",
+    "name": "Hair",
+    "type": "Hair",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3062,
+    "guid": "asVBCLu2vH",
+    "name": "Flag",
+    "type": "Prop",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3063,
+    "guid": "-p1MlW49el",
+    "name": "clam",
+    "type": "Prop",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3064,
+    "guid": "cIoFd4K5Q8",
+    "name": "oceanveil",
+    "type": "HairAccessory",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3065,
+    "guid": "M8hJo0UtxX",
+    "name": "oceanskirt",
+    "type": "Outfit",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3066,
+    "guid": "DTesE2jxOl",
+    "name": "creatureear",
+    "type": "FaceAccessory",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
   }
 ]

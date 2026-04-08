@@ -94,6 +94,37 @@
       "oLtbdA_bjP",
       "dUfEqImdWR"
     ]
+  },
+  // #endregion
+  // #region Days of Nature (2026)
+  {
+    "guid": "gLkXHtdEQa",
+    "type": "Object",
+    "name": "Days of Nature Crate",
+    "itemList": "ivHyA2hESc"
+  },
+  {
+    "guid": "ZO0ETtqplu",
+    "type": "Store",
+    "iaps": ["HfuaMWbIKF", "sEFrE7c4v4"]
+  },
+  {
+    "guid": "26woipmegY",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "iaps": [
+      "KLEF2ZNll3",
+      "qyFUQJoAhi",
+      "nhG5D97amV",
+      "NlbDnrAvpE",
+      "-gGiPg8b0n",
+      "EXoC1Np1et",
+      "ZiW-DChA4L",
+      "JSZ3Wb-ibK",
+      "5WGYzx-ptx",
+      "uJu139k3Ry",
+      "x4vtF0OjiI"
+    ]
   }
   // #endregion
 ]

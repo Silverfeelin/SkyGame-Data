@@ -62,5 +62,27 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Days-of-Nature-1d78261c87dd8072bf51e1603a78e97e"
     }
+  },
+  {
+    "guid": "8O6yUY7OGU",
+    "date": "2026-04-10",
+    "endDate": "2026-04-23",
+    "spirits": ["2ei6Vf3o3t"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "SN4BZkAQCF",
+          "date": "2026-04-10",
+          "endDate": "2026-04-23",
+          "amount": 15,
+          "description": "Shells around Sanctuary Island"
+        }
+      ]
+    },
+    "shops": ["gLkXHtdEQa", "ZO0ETtqplu", "26woipmegY"],
+    "_calendar": {
+      "href": ""
+    }
   }
 ]

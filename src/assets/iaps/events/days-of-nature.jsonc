@@ -248,7 +248,7 @@
     "c": 30,
     "items": [
       "6Kn8VMa4go",
-      "EMG3a7883l",
+      "EMG3a7883l"
     ]
   },
   {
@@ -335,5 +335,128 @@
       "YUqENRc8rQ"
     ]
   },
+  // #endregion
+  // #region Days of Nature (2023)
+  {
+    "guid": "HfuaMWbIKF",
+    "name": "Ocean Veil Pack",
+    "price": 19.99,
+    "c": 75,
+    "items": [
+      "cIoFd4K5Q8"
+    ]
+  },
+  {
+    "guid": "sEFrE7c4v4",
+    "name": "Beach Creature Pack",
+    "price": 14.99,
+    "items": [
+      "M8hJo0UtxX","DTesE2jxOl"
+    ]
+  },
+  {
+    "guid": "KLEF2ZNll3",
+    "name": "Ocean Wave Mask",
+    "price": 19.99,
+    "c": 75,
+    "items": [
+      "EocwmiV_Vf"
+    ]
+  },
+  {
+    "guid": "qyFUQJoAhi",
+    "name": "Ocean Sea Foam Set",
+    "price": 24.99,
+    "returning": true,
+    "c": 30,
+    "items": [
+      "6Kn8VMa4go",
+      "EMG3a7883l"
+    ]
+  },
+  {
+    "guid": "nhG5D97amV",
+    "name": "Nature Wave Pack",
+    "price": 19.99,
+    "returning": true,
+    "c": 75,
+    "items": [
+      "wMsUtkvt3s"
+    ]
+  },
+  {
+    "guid": "NlbDnrAvpE",
+    "name": "Nature Wave-Touched Hair",
+    "price": 6.99,
+    "returning": true,
+    "items": [
+      "jWAPWGsEd-"
+    ]
+  },
+  {
+    "guid": "-gGiPg8b0n",
+    "name": "Nature Glasses Pack",
+    "price": 19.99,
+    "returning": true,
+    "c": 75,
+    "items": [
+      "IOBWcIpOY9"
+    ]
+  },
+  {
+    "guid": "EXoC1Np1et",
+    "name": "Nature Sonorous Seashell",
+    "price": 4.99,
+    "returning": true,
+    "items": [
+      "gHfkqCK-A8"
+    ]
+  },
+  {
+    "guid": "ZiW-DChA4L",
+    "name": "Nature Turtle Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "znjZlpHSt4"
+    ]
+  },
+  {
+    "guid": "JSZ3Wb-ibK",
+    "name": "Nature Turtle Pack",
+    "price": 19.99,
+    "returning": true,
+    "c": 75,
+    "items": [
+      "_Y-80G-t_2"
+    ]
+  },
+  {
+    "guid": "5WGYzx-ptx",
+    "name": "Ocean Necklace",
+    "price": 1.99,
+    "returning": true,
+    "items": [
+      "KZ6aQtgCqt"
+    ]
+  },
+  {
+    "guid": "uJu139k3Ry",
+    "name": "Ocean Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "MjA9EoD-pe"
+    ]
+  },
+  {
+    "guid": "x4vtF0OjiI",
+    "name": "Earth Cape",
+    "price": 4.99,
+    "returning": true,
+    "items": [
+      "YUqENRc8rQ"
+    ]
+  }
   // #endregion
 ]
