@@ -273,5 +273,71 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Waves_Mask"
     },
     "order": 534
+  },
+  {
+    "id": 3061,
+    "guid": "57_e_eF6Ek",
+    "name": "Nature Underwater Hair",
+    "type": "Hair",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Nature-Underwater-Hair-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Nature-Underwater-Hair-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Nature_Underwater_Hair"
+    }
+  },
+  {
+    "id": 3062,
+    "guid": "asVBCLu2vH",
+    "name": "Blue Flag",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ec/Blue-Flag-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ac/Blue-Flag-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Blue_Flag_Prop"
+    }
+  },
+  {
+    "id": 3063,
+    "guid": "-p1MlW49el",
+    "name": "Shiny Clamshell",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Charming-Creature-Head-Accessory-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7a/Shiny-Clamshell-Prop-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Shiny_Clamshell_Prop"
+    }
+  },
+  {
+    "id": 3064,
+    "guid": "cIoFd4K5Q8",
+    "name": "Ocean Veil",
+    "type": "HairAccessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Ocean-Veil-Hair-Accessory-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/Ocean-Veil-Hair-Accessory-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Ocean_Veil"
+    }
+  },
+  {
+    "id": 3065,
+    "guid": "M8hJo0UtxX",
+    "name": "Charming Creature Outfit",
+    "type": "Outfit",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e0/Charming-Creature-Outfit-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e4/Charming-Creature-Outfit-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Charming_Creature_Outfit"
+    }
+  },
+  {
+    "id": 3066,
+    "guid": "DTesE2jxOl",
+    "name": "Charming Creature Head Accessory",
+    "type": "HeadAccessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Charming-Creature-Head-Accessory-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/85/Charming-Creature-Head-Accessory-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature#Charming_Creature_Head_Accessory"
+    }
   }
 ]
