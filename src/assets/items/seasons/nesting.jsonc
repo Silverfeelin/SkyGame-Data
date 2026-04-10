@@ -1315,5 +1315,16 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Large_Circle_Rug"
     },
     "order": 829
+  },
+  {
+    "id": 3060,
+    "guid": "Kuo5r3BpFu",
+    "type": "Prop",
+    "name": "Stone Candle Holder",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/43/Stone-Candle-Holder-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f0/Stone-Candle-Holder-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Candle_Holder"
+    }
   }
 ]
