@@ -10,5 +10,11 @@
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Home-Map-Shrine.webp",
     "mapData": { "position": [-480.56, 396.56] }
+  },
+  {
+    "guid": "rb0TinRFgW",
+    "description": "",
+    "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wandering-Carnival-Map-Shrine.webp",
+    "mapData": { "position": [-440, 397] }
   }
 ]

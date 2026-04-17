@@ -718,6 +718,31 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Season-of-Lightmending-2e08261c87dd80f6adf1da85bc843023"
     }
+  },
+  {
+    "guid": "V6dEMBpbBH",
+    "name": "Season of Carnival",
+    "shortName": "Carnival",
+    "iconUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Season-of-Carnival-icon.png",
+    "imageUrl": "https://image.thatskygame.com/cdn-cgi/image/w=1280,h=1200,f=webp/https://a.storyblok.com/f/108104/1920x1080/c0901f9234/s30_landscape-boatwide_sls_na_na_2603.png",
+    "year": 2026,
+    "date": "2026-04-17",
+    "endDate": "2026-07-16",
+    "draft": true,
+    "spirits": [
+      "JGWXCmBmxi",
+      "-tFOmsGdoa",
+      "PHK8kWbPjy",
+      "Ygn2Cf0DJL",
+      "BuejYIbW1r"
+    ],
+    "shops": [],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Carnival"
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Season-of-Carnival-3368261c87dd80e29dcfe248756a9a87"
+    }
   }
   // #endregion
 ]

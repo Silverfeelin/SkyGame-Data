@@ -1,0 +1,15 @@
+[
+  // Wandering Carnival
+  {
+    "guid": "ivqHuU0pEV",
+    "order": 6501,
+    "description": "On the Boat with the Carousel in the Wandering Carnival.",    
+    "mapData": { "position": [-436, 399], "videoUrl": "Aviary/1.mp4" }
+  },
+    {
+    "guid": "zXGJG4Y_OE",
+    "order": 6502,
+    "description": "Behind a shelf on the lower deck of the Wandering Carnival boat. Light the lantern to open the room.",
+    "mapData": { "position": [-440, 393], "videoUrl": "Aviary/2.mp4" }
+  },
+]

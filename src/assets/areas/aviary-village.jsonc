@@ -59,7 +59,8 @@
       { "area": "LUkrOYNjEy" },
       { "area": "R4I-lYbUUO" },
       { "area": "QM7Kuv1Ekg" },
-      { "area": "vWlW190-P1" }
+      { "area": "vWlW190-P1" },
+      { "area": "mcf2f3KR7R" }
     ]
   },
   {
@@ -131,5 +132,21 @@
     ],
     "mapData": { "position": [-461.88, 374.5] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
+  },
+  {
+    "guid": "mcf2f3KR7R",
+    "name": "Wandering Carnival",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/carnival-720.webp",
+    "spirits": [
+      "JGWXCmBmxi",
+      "-tFOmsGdoa",
+      "PHK8kWbPjy",
+      "Ygn2Cf0DJL",
+      "BuejYIbW1r"
+    ],
+    "wingedLights": [ "ivqHuU0pEV", "zXGJG4Y_OE" ],
+    "mapData": { "position": [-437, 395] },
+    "mapShrines": [ "rb0TinRFgW" ],
+    "connections": [{ "area": "5kw7myrDPU" }]
   }
 ]

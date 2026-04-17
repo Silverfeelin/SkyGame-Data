@@ -1,0 +1,182 @@
+[
+  //Carnival Guide
+  {
+    "guid": "QVot1WV5PF",
+    "next": "5OXJX_WlUS",
+    "rows": [
+      ["ZQJXf88hyx", "kybez3XHgY", "lNLHILtVQX"],
+      [null, null , "7328exK2tY"]
+    ]
+  },
+  {
+    "guid": "5OXJX_WlUS",
+    "next": "Oh1jCW2mHW",
+    "rows": [
+      ["ZAjT74eH3m", "W2QSmuvsWN", "RtqRuRH6fZ"],
+      [null, "XQLqNFLZBI", null]
+    ]
+  },
+  {
+    "guid": "Oh1jCW2mHW",
+    "next": "_A9Dndweyt",
+    "rows": [
+      [null, null , null]
+    ]
+  },
+  {
+    "guid": "_A9Dndweyt",
+    "next": "vUFycSwZx4",
+    "rows": [
+      [null, null , null]
+    ]
+  },
+  {
+    "guid": "vUFycSwZx4",
+    "rows": [
+      [null, "HyEQTfK7EW" , null]
+    ]
+  },
+  // Carnival Juggler
+  {
+    "guid": "kVs4MAAnAG",
+    "next": "JUPRhvlwOs",
+    "rows": [
+      ["GBgQPyA-H8", "4b7FEEFQ5L" , "kHQdxaX6Q7"]
+    ]
+  },
+  {
+    "guid": "JUPRhvlwOs",
+    "next": "iTNsaYETeI",
+    "rows": [
+      ["70oacTGQNy", "ylqNHGHbQ6" , "UZlFV2fjpN"]
+    ]
+  },
+  {
+    "guid": "iTNsaYETeI",
+    "next": "X9cwjTwVBn",
+    "rows": [
+      ["-Qbi6bt8kX", "7qmmAj3Y38" , "pO8QuDZgl5"]
+    ]
+  },
+  {
+    "guid": "X9cwjTwVBn",
+    "next": "0skKGxebdl",
+    "rows": [
+      ["o0yLYlBDq7", null, "rX6BUQ1g7H"],
+      [null, null , "JSSGmDIdXl"]
+    ]
+  },
+  {
+    "guid": "0skKGxebdl",
+    "rows": [
+      [null, null , "IKGd-Mi9iv"]
+    ]
+  },
+  // Carnival Athletic Dancer
+  {
+    "guid": "RoFKQ08wCA",
+    "next": "Q20llObCU_",
+    "rows": [
+      ["K0S48xik2S", "0_KLKqzV6b" , "Lsy30Kv5V9"]
+    ]
+  },
+  {
+    "guid": "Q20llObCU_",
+    "next": "pEeTRZkJ2z",
+    "rows": [
+      ["UhGXXgioR8", "2Q1P81R8Rt" , "KsD_l_s9f8"]
+    ]
+  },
+  {
+    "guid": "pEeTRZkJ2z",
+    "next": "O9wIAq9K6v",
+    "rows": [
+      ["RtvTbAXIpp", "_T8EMvA7Bc" , "cWaYzrJKgT"]
+    ]
+  },
+  {
+    "guid": "O9wIAq9K6v",
+    "next": "j6D_XlkSwD",
+    "rows": [
+      ["ZpPOIE3GzM", null, "C_n1m3qfL7"],
+    ]
+  },
+  {
+    "guid": "j6D_XlkSwD",
+    "rows": [
+      [null, null , "1OtzQ9hLyr"]
+    ]
+  },
+  // Carnival Puzzle Director
+  {
+    "guid": "s1lSUCbctb",
+    "next": "bczawUZ0yC",
+    "rows": [
+      ["Ly2aIHieyC", "eKvMLEttxW" , "-iZbGEnmt-"]
+    ]
+  },
+  {
+    "guid": "bczawUZ0yC",
+    "next": "87NstFc4aK",
+    "rows": [
+      ["5PCT6UTPLN", "wjNgeGEqQp" , "r9BxVDHPG-"]
+    ]
+  },
+  {
+    "guid": "87NstFc4aK",
+    "next": "qHf6sHQp0T",
+    "rows": [
+      ["QvNkzI_EpY", "Kj7M1cCihe" , "Ygsp5WHlAl"]
+    ]
+  },
+  {
+    "guid": "qHf6sHQp0T",
+    "next": "fJGUMFRW5d",
+    "rows": [
+      ["fpLYw7GYu6", null, "6NjuVh1BBF"],
+      [null, null , "fUijpYjsJG"]
+    ]
+  },
+  {
+    "guid": "fJGUMFRW5d",
+    "rows": [
+      [null, null , "3gCHHGkiJw"]
+    ]
+  },
+  // Carnival Stunt Actor
+  {
+    "guid": "lOqgAAfNn7",
+    "next": "zv1fXs5_42",
+    "rows": [
+      ["-_PzIMzppy", "Ynnf3Ln5AU" , "FN6V7yDZBS"]
+    ]
+  },
+  {
+    "guid": "zv1fXs5_42",
+    "next": "caReztHRnx",
+    "rows": [
+      ["-H7OpPLboW", "RlUsPEBewo" , "6g94ULL0P-"]
+    ]
+  },
+  {
+    "guid": "caReztHRnx",
+    "next": "DC7_uB2Q5z",
+    "rows": [
+      ["LCsiuE8ktj", "W_0I4DSv-4", "xwUwBvX_CZ"]
+    ]
+  },
+  {
+    "guid": "DC7_uB2Q5z",
+    "next": "jxMQF8gtRS",
+    "rows": [
+      ["RXwnGQ3oVv", null, "fwlhQvBqyx"],
+      [null, null , "jttR7EfxcD"]
+    ]
+  },
+  {
+    "guid": "jxMQF8gtRS",
+    "rows": [
+      [null, null , "Q4ymklncQy"]
+    ]
+   }
+]
