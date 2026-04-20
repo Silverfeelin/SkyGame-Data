@@ -28,7 +28,7 @@
     "guid": "zZUdfICRQ2",
     "type": "Cape",
     "name": "Carnival Ultimate Cape",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ee/Carnival-Ultimate-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Carnival-Ultimate-Cape-back.png",
     "dye": {
       "primary": {},
@@ -47,7 +47,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Carnival-Ultimate-Rhythm-Bird-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ca/Carnival-Ultimate-Rhythm-Bird-Prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Ultimate_Gifts"
     }
   },
   {
@@ -257,7 +257,7 @@
     "guid": "gY0PT3KyNh",
     "type": "Special",
     "name": "White dye",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png"
   },
   {
     "id": 3092,
@@ -602,7 +602,10 @@
     "type": "Prop",
     "name": "Challenge Ball Dispenser Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Challenge-Ball-Dispenser-Prop-icon.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Challenge-Ball-Dispenser-Prop.png"
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Challenge-Ball-Dispenser-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
   },
   {
     "id": 3127,
@@ -610,7 +613,10 @@
     "type": "Prop",
     "name": "Challenge Target Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Challenge-Target-Prop-icon.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Challenge-Target-Prop.png"
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Challenge-Target-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
   },
   {
     "id": 3128,
@@ -618,7 +624,10 @@
     "type": "Prop",
     "name": "Challenge Token Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Challenge-Token-Prop-icon.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Challenge-Token-Prop.png"
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Challenge-Token-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
   },
   {
     "id": 3129,
@@ -626,7 +635,10 @@
     "type": "Prop",
     "name": "Challenge Bounce Pad Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5b/Challenge-Bounce-Pad-icon.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Challenge-Bounce-Pad-Prop.png"
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Challenge-Bounce-Pad-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
   },
   {
     "id": 3130,
@@ -634,6 +646,9 @@
     "type": "Prop",
     "name": "Challenge Platform Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/39/Challenge-Platform-Prop-icon.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Challenge-Platform-Prop.png"
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Challenge-Platform-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
   }
 ]
