@@ -87,5 +87,12 @@
     "name": "Mannequin at Cafe",
     "permanent": "wonderland",
     "itemList": "Lu78MMHJp7"
+  },
+  {
+    "guid": "joQYfxi-yB",
+    "type": "Object",
+    "name": "Web Store (unavailable)",
+    "permanent": true,
+    "iaps": ["z-ApX7yPrr"]
   }
 ]

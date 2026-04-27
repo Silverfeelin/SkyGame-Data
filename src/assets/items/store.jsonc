@@ -283,5 +283,17 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Transcendent_Journey_Pack"
     },
     "order": 561
+  },
+  {
+    "id": 3133,
+    "guid": "-0MdVdgbqv",
+    "type": "HairAccessory",
+    "name": "Spring Clover Sprout",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/83/Netease-Clover-Hairpin-Icon-777-Ed.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/05/Clover-Head-Accessory.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/NetEase/Tree_Planting_Day#Clover_Head_Accessory"
+    },
+    "order": ""
   }
 ]
