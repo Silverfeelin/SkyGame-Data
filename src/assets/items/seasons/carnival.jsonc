@@ -295,7 +295,9 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/09/Carnival-Athletic-Dancer-Outfit-front.png",
     "dye": {
       "primary": {},
-      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Carnival_directorpants.jpg"
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Carnival_dancerpants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Carnival_dancerpants.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Athletic_Dancer#Outfit"
@@ -405,6 +407,10 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2f/Carnival-Puzzle-Director-Outfit-front.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Puzzle_Director#Outfit"
+    },
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Carnival_directorpants.jpg"
     },
     "order": 79
   },
@@ -542,6 +548,12 @@
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Outfit"
+    },
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Carnival_stuntpants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Carnival_stuntpants.jpg"
     },
     "order": 78
   },
