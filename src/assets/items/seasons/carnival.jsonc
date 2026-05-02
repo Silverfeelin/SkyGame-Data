@@ -683,5 +683,22 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
     }
+  },
+  {
+    "id": 3131,
+    "guid": "57EO-fkbji",
+    "type": "Quest",
+    "name": "Quest 3",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Carnival#Quest_#3"
+    }
+  },
+  {
+    "id": 3132,
+    "guid": "cq-IJWqb7_",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   }
 ]
