@@ -5,41 +5,59 @@
       "name": "Migration Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Migration-Ultimate-Guide.png",
       "tree": "IVb8WCKt8D",
-      "treeRevisions": [ "xBmtGsKU2a" ]
+      "treeRevisions": [ "xBmtGsKU2a" ],
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Migration_Guide"
+      }
     },
     {
       "guid": "1mYa5Pnpdy",
       "type": "Season",
       "name": "Migrating Jelly Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a1/Migrating-Jelly-Whisperer-Spirit-cutout.png",
-      "tree": "zK7AFf0rvZ"
+      "tree": "zK7AFf0rvZ",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Jelly_Whisperer"
+      }
     },
     {
       "guid": "Mxs_zZGt7y",
       "type": "Season",
       "name": "Migrating Butterfly Charmer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/29/Migrating-Butterfly-Charmer-cutout.png",
-      "tree": "nCGzsegB0l"
+      "tree": "nCGzsegB0l",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Butterfly_Charmer"
+      }
     },
     {
       "guid": "k9ZI3GoyPE",
       "type": "Season",
       "name": "Migrating Manta Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/Migrating-Manta-Whisperer-Spirit-cutout.png",
-      "tree": "iFANrbgSY4"
+      "tree": "iFANrbgSY4",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Manta_Whisperer"
+      }
     },
     {
       "guid": "yfmzfJGyRp",
       "type": "Season",
       "name": "Migrating Bird Whisperer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Migrating-Bird-Whisperer-cutout.png",
-      "tree": "nrvSEyff0h"
+      "tree": "nrvSEyff0h",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Bird_Whisperer"
+      }
     },
     {
       "guid": "gHhy04B7r9",
       "type": "Season",
       "name": "Migrating Bellmaker",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cf/Migrating-Bellmaker-cutout.png",
-      "tree": "ko9lr8M4J5"
+      "tree": "ko9lr8M4J5",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Bellmaker"
+      }
     }
 ]

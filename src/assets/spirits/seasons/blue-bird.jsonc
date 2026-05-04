@@ -5,41 +5,59 @@
       "name": "Blue Bird Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Blue-Bird-Ultimate-Guide.png",
       "tree": "9ZMGsZeH1U",
-      "treeRevisions": [ "Z-lDboKqdB" ]
+      "treeRevisions": [ "Z-lDboKqdB" ],
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Blue_Bird_Guide"
+      }
     },
     {
       "guid": "2iDZqeJXTf",
       "type": "Season",
       "name": "Divining Wise Grandparent",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f0/Divining-Wise-Grandparent-cutout.png",
-      "tree": "me0kc6RN7J"
+      "tree": "me0kc6RN7J",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Divining_Wise_Grandparent"
+      }
     },
     {
       "guid": "faWKshu5Vh",
       "type": "Season",
       "name": "Costumed Confetti Cousin",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/08/Costumed-Confetti-Cousin-cutout.png",
-      "tree": "GEOf9iPZiz"
+      "tree": "GEOf9iPZiz",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Costumed_Confetti_Cousin"
+      }
     },
     {
       "guid": "RMOKUIDWOs",
       "type": "Season",
       "name": "Royal Hairtousle Teen",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0b/Royal-Hairtousle-Teen-cutout.png",
-      "tree": "DU7kdfkbq7"
+      "tree": "DU7kdfkbq7",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Royal_Hairtousle_Teen"
+      }
     },
     {
       "guid": "hcQtoG_IlW",
       "type": "Season",
       "name": "Nostalgic Sparkler Parent",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Nostalgic-Sparkler-Parent-cutout.png",
-      "tree": "O7hDEtXXLQ"
+      "tree": "O7hDEtXXLQ",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Nostalgic_Sparkler_Parent"
+      }
     },
     {
       "guid": "jWCKf1cR1l",
       "type": "Season",
       "name": "Woodcutting Pleaful Parent",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ef/Woodcutting-Pleaful-Parent-cutout.png",
-      "tree": "qLiBf_BpI4"
+      "tree": "qLiBf_BpI4",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Woodcutting_Pleaful_Parent"
+      }
     }
 ]

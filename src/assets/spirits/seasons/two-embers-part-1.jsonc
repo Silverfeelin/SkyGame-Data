@@ -5,37 +5,55 @@
       "name": "Vault Elder's Lantern",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/Vault-Elder-Lantern-Ultimate-Guide-cutout.png",
       "tree": "lHlnmVDICn",
-      "treeRevisions": [ "GpcMalckm5" ]
+      "treeRevisions": [ "GpcMalckm5" ],
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Vault_Elder%27s_Lantern"
+      }
     },
     {
       "guid": "aO0n7dAWvc",
       "type": "Season",
       "name": "Tender Toymaker",
-      "tree": "SI9Q8J2Fm-"
+      "tree": "SI9Q8J2Fm-",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Tender_Toymaker"
+      }
     },
     {
       "guid": "2FQrdh4aCQ",
       "type": "Season",
       "name": "Stern Shepherd",
-      "tree": "RDergQu3Vd"
+      "tree": "RDergQu3Vd",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Stern_Shepherd"
+      }
     },
     {
       "guid": "Jq1bIftHV5",
       "type": "Season",
       "name": "Resourceful Recluse",
-      "tree": "fdQpzNAjCw"
+      "tree": "fdQpzNAjCw",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Resourceful_Recluse"
+      }
     },
     {
       "guid": "zdstJkDMg5",
       "type": "Season",
       "name": "Scarred Sentry",
-      "tree": "r-emIwzMih"
+      "tree": "r-emIwzMih",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry"
+      }
     },
     {
       "guid": "TDQC4wg3G9",
       "type": "Season",
       "name": "Caring Companion",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/86/Caring-Companion-cutout.png",
-      "tree": "PzoY-Wkk8O"
+      "tree": "PzoY-Wkk8O",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Caring_Companion"
+      }
     }
 ]

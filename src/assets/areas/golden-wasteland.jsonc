@@ -142,7 +142,7 @@
     "guid": "pZbxK8tM_J",
     "name": "The Last City",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/lost-city-720.webp",
-    "spirits": ["aO0n7dAWvc", "Jq1bIftHV5", "zdstJkDMg5", "2FQrdh4aCQ"],
+    "spirits": ["aO0n7dAWvc", "Jq1bIftHV5", "zdstJkDMg5", "2FQrdh4aCQ", "TDQC4wg3G9"],
     "mapShrines": ["JzCzw4xQBl"],
     "mapData": { "position": [-250, 415] },
     "connections": [{ "area": "mT6bVNovBW" }]
