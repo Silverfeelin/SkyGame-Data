@@ -22,10 +22,9 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/village-720.webp",
     "spirits": [
       "0Ab0zVwBa0",
-      "53sRWu-bTI",
-      "yRKMk_Xw4G",
-      "118ghc8_me",
-      "iz40tYocEn"
+      "SS7FZgJDLx",
+      "xeu9NyCBVR",
+      "JpMqGkF6E1"
     ],
     "mapShrines": ["HPtacUHQMo"],
     "mapData": { "position": [-460.38, 365.5] },
@@ -66,6 +65,12 @@
   {
     "guid": "H2FgLkSRQw",
     "name": "Revival Season Shop",
+    "spirits": [
+      "53sRWu-bTI",
+      "yRKMk_Xw4G",
+      "118ghc8_me",
+      "iz40tYocEn"
+    ],
     "mapData": { "position": [-455.13, 355.75] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
@@ -87,6 +92,9 @@
     "guid": "rTIqNgvA4N",
     "name": "Aviary Shopping Area",
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/shops-720.webp",
+    "spirits": [
+      "JWj113We5R"
+    ],
     "mapData": { "position": [-453.38, 362.13] },
     "connections": [{ "area": "Mhbh0g9OdG" }, { "area": "JdoOxvcKlP" }]
   },

@@ -15,27 +15,39 @@
       "type": "Season",
       "name": "Nesting Nook",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c9/Nesting-Nook-Shop.png",
-      "tree": "Hj9s2djkbp"
+      "tree": "Hj9s2djkbp",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Nook"
+      }
     },
     {
       "guid": "r5FVxLgLrp",
       "type": "Season",
       "name": "Nesting Solarium",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/69/Nesting-Solarium-Shop.png",
-      "tree": "wLTOEjYiho"
+      "tree": "wLTOEjYiho",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Solarium"
+      }
     },
     {
       "guid": "Ha10I4vIO7",
       "type": "Season",
       "name": "Nesting Atrium",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e4/Nesting-Atrium-Shop.png",
-      "tree": "_7Cm8XUK5N"
+      "tree": "_7Cm8XUK5N",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Atrium"
+      }
     },
     {
       "guid": "8p_1kKYu7_",
       "type": "Season",
       "name": "Nesting Loft",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a7/Nesting-Loft-Shop.png",
-      "tree": "hmjRFtvfCa"
+      "tree": "hmjRFtvfCa",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Loft"
+      }
     }
 ]

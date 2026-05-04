@@ -4,34 +4,49 @@
     "type": "Guide",
     "name": "Carnival Guide",
     "imageUrl": "",
-    "tree": "vBTjT3BmeP"
+    "tree": "vBTjT3BmeP",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide"
+      }
   },
   {
     "guid": "-tFOmsGdoa",
     "type": "Season",
     "name": "Carnival Juggler",
     "imageUrl": "",
-    "tree": "7PdRlqapa0"
+    "tree": "7PdRlqapa0",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Juggler"
+      }
   },
   {
     "guid": "PHK8kWbPjy",
     "type": "Season",
     "name": "Carnival Athletic Dancer",
     "imageUrl": "",
-    "tree": "MJ_0dbbk3P"
+    "tree": "MJ_0dbbk3P",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Athletic_Dancer"
+      }
   },
   {
     "guid": "Ygn2Cf0DJL",
     "type": "Season",
     "name": "Carnival Puzzle Director",
     "imageUrl": "",
-    "tree": "pdkcSLvzdU"
+    "tree": "pdkcSLvzdU",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Puzzle_Director"
+      }
   },
   {
     "guid": "BuejYIbW1r",
     "type": "Season",
     "name": "Carnival Stunt Actor",
     "imageUrl": "",
-    "tree": "X9HCSZXJOs"
+    "tree": "X9HCSZXJOs",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor"
+      }
   }
 ]

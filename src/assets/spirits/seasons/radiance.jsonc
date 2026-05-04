@@ -5,27 +5,39 @@
       "name": "Radiance Guide",
       "tree": "QveGTQI48L",
       "treeRevisions": [ "Vvd8vzwFLd" ],
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bb/Radiance-Ultimate-Guide.png"
+      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bb/Radiance-Ultimate-Guide.png",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Radiance_Guide"
+      }
     },
     {
       "guid": "SS7FZgJDLx",
       "type": "Season",
       "name": "Radiance Leaping Dancer",
       "tree": "s8oDPElH2z",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5c/Radiance-Leaping-Dancer-spirit-cutout-undyed.png"
+      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5c/Radiance-Leaping-Dancer-spirit-cutout-undyed.png",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Radiance_Leaping_Dancer"
+      }
     },
     {
       "guid": "xeu9NyCBVR",
       "type": "Season",
       "name": "Radiance Provoking Performer",
       "tree": "wFupf-tJk-",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Radiance-Provoking-Performer-spirit-cutout-undyed.png"
+      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Radiance-Provoking-Performer-spirit-cutout-undyed.png",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Radiance_Provoking_Performer"
+      }
     },
     {
       "guid": "JpMqGkF6E1",
       "type": "Season",
       "name": "Radiance Greeting Shaman",
       "tree": "AUH6M6CbGC",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6a/Radiance-Greeting-Shaman-spirit-cutout-original.png"
+      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6a/Radiance-Greeting-Shaman-spirit-cutout-original.png",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Radiance_Greeting_Shaman"
+      }
     }
 ]
