@@ -92,24 +92,73 @@
     "quantity": 1
   },
   { 
-    "id": 3060,
+    "id": 3095,
     "guid": "RIhIuaVYSL", 
     "name": "treassure 2026 outfit", 
     "type": "Outfit", 
-    "icon": "" 
+    "icon": "", 
+    "_wiki": {
+      "href": ""
+    }
   },
   { 
-    "id": 3061,
+    "id": 3096,
     "guid": "iWBlE2ByGK", 
     "name": "treassure 2026 hair", 
     "type": "Hair", 
-    "icon": "" 
+    "icon": "", 
+    "_wiki": {
+      "href": ""
+    } 
   },
   { 
-    "id": 3062,
+    "id": 3097,
     "guid": "Vo5Sew0Ql4", 
-    "type": "Special", 
-    "name": "Placeholder", 
-    "icon": "/assets/icons/question.webp" 
+    "name": "treassure flag",
+    "type": "prop", 
+    "icon": "", 
+    "_wiki": {
+      "href": ""
+    } 
+  },
+  { 
+    "id": 3098,
+    "guid": "yv8WuDrV-e", 
+    "name": "Treassure Mate Companion", 
+    "type": "Necklace", 
+    "icon": "", 
+    "_wiki": {
+      "href": ""
+    } 
+  },
+  { 
+    "id": 3099,
+    "guid": "1YM9K1fWqF", 
+    "name": "Treassure Seeker's Hat", 
+    "type": "HeadAccessory", 
+    "icon": "", 
+    "_wiki": {
+      "href": ""
+    } 
+  },
+  { 
+    "id": 3100,
+    "guid": "aGS2A9wzQ8", 
+    "name": "Treassure Coin Cape", 
+    "type": "Cape", 
+    "icon": "", 
+    "_wiki": {
+      "href": ""
+    } 
+  },
+  { 
+    "id": 3101,
+    "guid": "wNcWl08Omp", 
+    "name": "Treassure Boat Bed", 
+    "type": "Prop", 
+    "icon": "", 
+    "_wiki": {
+      "href": ""
+    } 
   }
 ]
