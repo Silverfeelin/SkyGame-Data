@@ -49,6 +49,12 @@
     "type": "Event",
     "name": "Days of Treasure Guide"
   },
+  {
+    "guid": "__ouqYVk1e",
+    "type": "Event",
+    "name": "Treasure Guide",   //2026
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/02/Days-of-Adventure-Guide-2026.png"
+  },
   // Days of Bloom
   {
     "guid": "IqShB-6_rY",

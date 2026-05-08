@@ -1,9 +1,22 @@
 [
-  // #region Days of Treasure (2025)
+  // #region 2025
   {
     "guid": "8avc2MnBQV",
     "type": "Store",
     "iaps": ["lSAbeEJM_i"]
+  },
+  // #endregion
+  // #region 2026
+  {
+    "guid": "8AyoiJzXnM",
+    "type": "Store",
+    "iaps": ["_r8zDSMcf_", "EXGHGMNv7m", "fjSZZjwl1g", "9mH8z44XCV"]
+  },
+  {
+    "guid": "kqGGrYGgZk",
+    "type": "Object",
+    "name": "Mini Treasure Box",
+    "itemList": "FTKtT2cCT-"
   }
   // #endregion
 ]

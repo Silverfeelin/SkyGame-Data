@@ -8,8 +8,46 @@
       "vzTKSjFPYL",
       "9dKZTaVQaT",
       "gKAVZMtzO3",
-      "x3sXLzLPdH",
+      "x3sXLzLPdH"
     ]
   },
+  // #endregion
+  // #region 2026
+  { 
+    "guid": "_r8zDSMcf_",
+    "name": "Treasure Seeker's Bounty",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "vzTKSjFPYL",
+      "9dKZTaVQaT",
+      "gKAVZMtzO3",
+      "x3sXLzLPdH"
+    ]
+  },
+  {
+    "guid": "EXGHGMNv7m",
+    "name": "Treasure Coin Cape",
+    "price": 14.99,
+    "items": [
+      "aGS2A9wzQ8"
+    ]
+  },
+  {
+    "guid": "fjSZZjwl1g",
+    "name": "Treasure Seeker's Hat",
+    "price": 9.99,
+    "items": [
+      "1YM9K1fWqF"
+    ]
+  },
+  {
+    "guid": "9mH8z44XCV",
+    "name": "Treasure Mate Companion",
+    "price": 2.99,
+    "items": [
+      "yv8WuDrV-e"
+    ]
+  }
   // #endregion
 ]

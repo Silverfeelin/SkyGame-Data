@@ -20,5 +20,27 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Days-of-Treasure-1a58261c87dd802eb7dbe7d892a50260"
     }
+  },
+  {
+    "guid": "o_88WLUYKp",
+    "date": "2026-05-08",
+    "endDate": "2026-05-22",
+    "spirits": ["yx8mYgSGVV"],
+    "shops": ["8AyoiJzXnM", "kqGGrYGgZk"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "gPsIDhZyIJ",
+          "date": "2026-05-08",
+          "endDate": "2026-05-22",
+          "amount": 15,
+          "description": "Coins around Treasure Reef"
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Treasure-3578261c87dd809280ede3cacd5f9fb5"
+    }
   }
 ]
