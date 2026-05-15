@@ -645,7 +645,7 @@
     "id": 3126,
     "guid": "9_k0CQ1YsG",
     "type": "Prop",
-    "name": "Challenge Ball Dispenser Prop",
+    "name": "Challenge Ball Dispenser",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Challenge-Ball-Dispenser-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Challenge-Ball-Dispenser-Prop.png",
     "_wiki": {
@@ -656,7 +656,7 @@
     "id": 3127,
     "guid": "2Vy0pNifOU",
     "type": "Prop",
-    "name": "Challenge Target Prop",
+    "name": "Challenge Target",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Challenge-Target-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Challenge-Target-Prop.png",
     "_wiki": {
@@ -667,7 +667,7 @@
     "id": 3128,
     "guid": "Arp_S5eGTr",
     "type": "Prop",
-    "name": "Challenge Token Prop",
+    "name": "Challenge Token",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Challenge-Token-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Challenge-Token-Prop.png",
     "_wiki": {
@@ -678,7 +678,7 @@
     "id": 3129,
     "guid": "MyKYmUPlXn",
     "type": "Prop",
-    "name": "Challenge Bounce Pad Prop",
+    "name": "Challenge Bounce Pad",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5b/Challenge-Bounce-Pad-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Challenge-Bounce-Pad-Prop.png",
     "_wiki": {
@@ -689,7 +689,7 @@
     "id": 3130,
     "guid": "zgRZHjhJ7s",
     "type": "Prop",
-    "name": "Challenge Platform Prop",
+    "name": "Challenge Platform",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/39/Challenge-Platform-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Challenge-Platform-Prop.png",
     "_wiki": {
@@ -715,17 +715,6 @@
   },
   {
     "id": 3144,
-    "guid": "5v4XYtnprj",
-    "type": "Prop",
-    "name": "Challenge Bounce Pad",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5b/Challenge-Bounce-Pad-icon.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Challenge-Bounce-Pad-Prop.png",
-    "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Bounce_Pad_Prop"
-    }
-  },
-  {
-    "id": 3145,
     "guid": "vhXYdRL_PV",
     "type": "Quest",
     "name": "Quest 4",
@@ -735,18 +724,7 @@
     }
   },
   {
-    "id": 3146,
-    "guid": "c82lFW5KPG",
-    "type": "Prop",
-    "name": "Challenge Platform",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/39/Challenge-Platform-Prop-icon.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Challenge-Platform-Prop.png",
-    "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Platform_Prop"
-    }
-  },
-  {
-    "id": 3147,
+    "id": 3145,
     "guid": "gJDxcAtnqL",
     "type": "Quest",
     "name": "Quest 5",
@@ -756,7 +734,7 @@
     }
   },
   {
-    "id": 3148,
+    "id": 3146,
     "guid": "i8phf_Ylpt",
     "type": "Special",
     "name": "Heart",
