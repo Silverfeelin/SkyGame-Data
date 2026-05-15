@@ -712,5 +712,54 @@
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 3144,
+    "guid": "5v4XYtnprj",
+    "type": "Prop",
+    "name": "Challenge Bounce Pad",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5b/Challenge-Bounce-Pad-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Challenge-Bounce-Pad-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Bounce_Pad_Prop"
+    }
+  },
+  {
+    "id": 3145,
+    "guid": "vhXYdRL_PV",
+    "type": "Quest",
+    "name": "Quest 4",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3146,
+    "guid": "c82lFW5KPG",
+    "type": "Prop",
+    "name": "Challenge Platform",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/39/Challenge-Platform-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Challenge-Platform-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Platform_Prop"
+    }
+  },
+  {
+    "id": 3147,
+    "guid": "gJDxcAtnqL",
+    "type": "Quest",
+    "name": "Quest 5",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3148,
+    "guid": "i8phf_Ylpt",
+    "type": "Special",
+    "name": "Heart",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   }
 ]
