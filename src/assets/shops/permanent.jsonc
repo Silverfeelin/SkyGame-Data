@@ -89,6 +89,12 @@
     "itemList": "Lu78MMHJp7"
   },
   {
+    "guid": "XmHsnm-o7t",
+    "type": "Store",
+    "permanent": true,
+    "iaps": ["G6SF2VMPE3"]
+  },
+  {
     "guid": "joQYfxi-yB",
     "type": "Object",
     "name": "Web Store (unavailable)",

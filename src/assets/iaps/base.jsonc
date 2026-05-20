@@ -100,7 +100,7 @@
     "items": [
       "6Nac-p14-9",
       "8P8dL_Zp8q",
-      "sDNG_Nt7Ew",
+      "sDNG_Nt7Ew"
     ]
   },
   {
@@ -110,7 +110,7 @@
     "items": [
       "OfOc3xQdCQ",
       "TfItBIVTeP",
-      "RpAC3rlPrR",
+      "RpAC3rlPrR"
     ]
   },
   {
@@ -127,6 +127,15 @@
     "price": 24.99,
     "items": [
       "JmFT0Q3IZ2"
+    ]
+  },
+  {
+    "guid": "G6SF2VMPE3",
+    "name": "Flower + FlOw Pack",
+    "price": 14.99,
+    "items": [
+      "VRB1mcOeYv",
+      "e8qFeoyXxK"
     ]
   },
   {
@@ -150,6 +159,6 @@
       "MHArTLwxyq",
       "BDfLuCSmaF"
     ]
-  },
+  }
   // #endregion
 ]

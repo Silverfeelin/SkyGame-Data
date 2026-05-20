@@ -187,7 +187,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival#Moth_Appreciation_Pack"
     },
-    "order": 7700
+    "order": 7800
   },
   {
     "id": 1962,
@@ -289,11 +289,30 @@
     "guid": "-0MdVdgbqv",
     "type": "HairAccessory",
     "name": "Spring Clover Sprout",
+    "group": "Limited",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/83/Netease-Clover-Hairpin-Icon-777-Ed.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/05/Clover-Head-Accessory.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/NetEase/Tree_Planting_Day#Clover_Head_Accessory"
     },
     "order": 7400
+  },
+  {
+    "id": 3147,
+    "guid": "VRB1mcOeYv",
+    "type": "Cape",
+    "name": "FlOw Cape",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/FlOw-Cape-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/TGC_20_Year_Anniversary_FlOw_Cape_back.png",
+    "order": 18100
+  },
+  {
+    "id": 3148,
+    "guid": "e8qFeoyXxK",
+    "type": "HairAccessory",
+    "name": "Flower Hair Accessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b1/Flower-hair-accessory-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/TGC_20_Year_Anniversary_Flower_Hair_Accessory_side.png",
+    "order": 7700
   }
 ]
