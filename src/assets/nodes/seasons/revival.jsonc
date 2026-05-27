@@ -62,6 +62,24 @@
   { "guid": "MWeMaq6JsY", "item": "C2QyP140Rm" },
   { "guid": "rrRgDjcCYQ", "item": "6J0eF-rleF" },
   { "guid": "LTejN0I19V", "item": "xB3Auq2DFR", "c": 46 },
+  // V4 (0.33.5)
+  { "guid": "lYDaXJDz0C", "item": "ueFGjjCL-f", "nw": "LSUW2irFWr", "n": "GP6j5EJGRy" },
+  { "guid": "LSUW2irFWr", "item": "iPKhdXjEDN", "c": 3 },
+  { "guid": "GP6j5EJGRy", "item": "C9Ch2JYV8r", "nw": "VI1ZhHLx6e", "n": "0cGYsfmwwS", "c": 0 },
+  { "guid": "VI1ZhHLx6e", "item": "x9W_UOZ61W", "c": 3 },
+  { "guid": "0cGYsfmwwS", "item": "RrWXNJ8_8U", "nw": "_EaHMc0rKM", "n": "ddCnd2uZ8o", "ne": "CXWB-2pI0v" },
+  { "guid": "_EaHMc0rKM", "item": "-O5kRr08TU", "c": 3 },
+  { "guid": "CXWB-2pI0v", "item": "BkvIh_1cID" },
+  { "guid": "ddCnd2uZ8o", "item": "LPhMFiY1Gn", "nw": "PYH26uSIzP", "n": "rWwz4Khvtv" },
+  { "guid": "PYH26uSIzP", "item": "9ZSG_CwRwt", "c": 3 },
+  { "guid": "rWwz4Khvtv", "item": "2htYztTTLh", "nw": "balVA8IIwc", "n": "M9njlsU7rJ" },
+  { "guid": "balVA8IIwc", "item": "_5Z1Ee33iH", "c": 3 },
+  { "guid": "M9njlsU7rJ", "item": "7NBQOMY8Os", "nw": "bG513-ozD1", "n": "lCOYa1KxvH" },
+  { "guid": "bG513-ozD1", "item": "N2BbtfMv-4", "c": 3 },
+  { "guid": "lCOYa1KxvH", "item": "LKCSYIoEKs", "nw": "-Xk7ZAkean", "n": "9saWW3ate7", "ne": "aFvxt8VyqZ" },
+  { "guid": "-Xk7ZAkean", "item": "C2QyP140Rm" },
+  { "guid": "aFvxt8VyqZ", "item": "6J0eF-rleF" },
+  { "guid": "9saWW3ate7", "item": "xB3Auq2DFR", "c": 46 }
   // #endregion
   // #region Revival
   // #region Vestige of a Deserted Oasis

@@ -20,7 +20,7 @@
     "id": 641,
     "guid": "5pM1uL5euH",
     "type": "Quest",
-    "name": "Quest 2 (removed)",
+    "name": "Quest 2 (removed 0.25.0)",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#cite_note-Revival_Quest_changes-1"
@@ -37,7 +37,7 @@
     "id": 643,
     "guid": "UtjY-O5GfN",
     "type": "Quest",
-    "name": "Quest 2",
+    "name": "Quest 2 (removed 0.33.5)",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#2"
@@ -54,10 +54,10 @@
     "id": 645,
     "guid": "RrWXNJ8_8U",
     "type": "Quest",
-    "name": "Quest 3",
+    "name": "Quest 2",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#3"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#2"
     }
   },
   {
@@ -78,10 +78,10 @@
     "id": 1968,
     "guid": "LPhMFiY1Gn",
     "type": "Quest",
-    "name": "Quest 4",
+    "name": "Quest 3",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#4"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#3"
     }
   },
   {
@@ -95,10 +95,10 @@
     "id": 1970,
     "guid": "2htYztTTLh",
     "type": "Quest",
-    "name": "Quest 5",
+    "name": "Quest 4",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#5"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#4"
     }
   },
   {
@@ -112,10 +112,10 @@
     "id": 1972,
     "guid": "7NBQOMY8Os",
     "type": "Quest",
-    "name": "Quest 6",
+    "name": "Quest 5",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#6"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#5"
     }
   },
   {
@@ -129,10 +129,10 @@
     "id": 1974,
     "guid": "LKCSYIoEKs",
     "type": "Quest",
-    "name": "Quest 7",
+    "name": "Quest 6",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#7"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#6"
     }
   },
   {
@@ -151,20 +151,20 @@
     "id": 1984,
     "guid": "C2QyP140Rm",
     "type": "Quest",
-    "name": "Quest 8",
+    "name": "Quest 7",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#8"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#7"
     }
   },
   {
     "id": 1985,
     "guid": "6J0eF-rleF",
     "type": "Quest",
-    "name": "Quest 9",
+    "name": "Quest 8",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#9"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Revival#Quest_#8"
     }
   },
   {
@@ -521,5 +521,12 @@
     "name": "Season Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2a/Revival-seasonal-heart-icon.png",
     "group": "SeasonPass"
-  }
+  },
+  {
+    "id": 3153,
+    "guid": "C9Ch2JYV8r",
+    "type": "Special",
+    "name": "High Five",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/94/Icon_high_five.png"
+  },
 ]

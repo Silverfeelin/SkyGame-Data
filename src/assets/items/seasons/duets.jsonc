@@ -623,5 +623,29 @@
     "type": "Special",
     "name": "Blessing",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 3151,
+    "guid": "PeEt2Wdee8",
+    "type": "Emote",
+    "subtype": "FriendEmote",
+    "name": "Duet Bow",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Duets-Guide-Action-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Expression"
+    }
+  },
+  {
+    "id": 3152,
+    "guid": "aDHnv20PVR",
+    "type": "Emote",
+    "subtype": "FriendEmote",
+    "name": "Duet Bow",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Duets-Guide-Action-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Expression"
+    }
   }
 ]
