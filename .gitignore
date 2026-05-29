@@ -146,3 +146,6 @@ vite.config.ts.timestamp-*
 
 # Wrangler
 .wrangler/**
+
+# Playwright
+.playwright-mcp/*

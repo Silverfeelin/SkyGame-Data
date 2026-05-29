@@ -310,4 +310,136 @@
     ]
   },
   // #endregion
+  // #region Days of Color (2026)
+  {
+    "guid": "MuH3uzQoFZ",
+    "name": "Rainbow Beret",
+    "price": 19.99,
+    "c": 75,
+    "items": [
+      "m39NUv_Jz9"
+    ]
+  },
+  {
+    "guid": "ta8C0sqwnf",
+    "name": "Rainbow Tied Jumpsuit",
+    "price": 9.99,
+    "items": [
+      "EsxTOk-gmG"
+    ]
+  },
+  {
+    "guid": "CeyYXM0VRN",
+    "name": "Rainbow Mask",
+    "price": 4.99,
+    "items": [
+      "bQIy02O8pa"
+    ]
+  },
+  {
+    "guid": "uRL1SmEzDu",
+    "name": "Rainbow Face Paint Mask",
+    "price": 19.99,
+    "returning": true,
+    "c": 75,
+    "items": [
+      "Z9HZ5p9DX7",
+      "UzLX3RxGme"
+    ]
+  },
+  {
+    "guid": "XMU6WRulMj",
+    "name": "Rainbow Ribbon Shawl",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "zG11dMlH61"
+    ]
+  },
+  {
+    "guid": "PFXdeVMfSr",
+    "name": "Dark Rainbow Loafers",
+    "price": 19.99,
+    "returning": true,
+    "c": 75,
+    "items": [
+      "xFcmMsHvA0"
+    ]
+  },
+  {
+    "guid": "ZQL7oxOvH2",
+    "name": "Color Bubble Machine",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "vLeyYAngWk"
+    ]
+  },
+  {
+    "guid": "kWkRBn46kW",
+    "name": "Rainbow Pack",
+    "price": 19.99,
+    "returning": true,
+    "c": 75,
+    "items": [
+      "KpS-2FdasB"
+    ]
+  },
+  {
+    "guid": "RI6F1JJr40",
+    "name": "Rainbow Hat",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "cMLcvRtjoh"
+    ]
+  },
+  {
+    "guid": "1nb5tGQT-i",
+    "name": "Rainbow Earring",
+    "price": 2.99,
+    "returning": true,
+    "items": [
+      "f-X2dDeB9w"
+    ]
+  },
+  {
+    "guid": "ZmV8dlVkWv",
+    "name": "Double Rainbow Pack",
+    "price": 9.99,
+    "returning": true,
+    "c": 40,
+    "items": [
+      "gNWmRUkpFo"
+    ]
+  },
+  {
+    "guid": "srxtIsZsyL",
+    "name": "Rainbow Headphones",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "j51xlBBIZX"
+    ]
+  },
+  {
+    "guid": "5f7QqQElff",
+    "name": "Dark Rainbow Pack",
+    "price": 9.99,
+    "returning": true,
+    "c": 40,
+    "items": [
+      "krzIL86J83"
+    ]
+  },
+  {
+    "guid": "NJJI4pYeZZ",
+    "name": "Dark Rainbow Tunic",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "9ETwx3n-UZ"
+    ]
+  },
+  // #endregion
 ]

@@ -71,5 +71,24 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Days-of-Color-1d78261c87dd8081bf56e7b8ff9a91d5"
     }
+  },
+  {
+    "guid": "ief3cPflAz",
+    "date": "2026-05-29",
+    "endDate": "2026-06-18",
+    "spirits": ["fiOrTcTWkf"],
+    "shops": ["F-1TX1Mkm2", "mSgV4mIjiz", "c57Iqsledg"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "ejo3KSwmFh",
+          "date": "2026-05-29",
+          "endDate": "2026-06-18",
+          "amount": 15,
+          "description": "Bonus event currency"
+        }
+      ]
+    }
   }
 ]

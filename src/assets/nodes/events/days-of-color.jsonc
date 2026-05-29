@@ -109,6 +109,15 @@
   { "guid": "2iQhutvZxw", "item": "4XMYa4Wj-M", "h": 20 },
   { "guid": "wayznj2XqD", "item": "W5Y_p83sp1", "n": "IGAFW8hIdi", "nw": "OfKCWeojm_", "c": 5 },
   { "guid": "OfKCWeojm_", "item": "0rrPORrk7O", "c": 95 },
-  { "guid": "IGAFW8hIdi", "item": "BUTwFt6PGm", "c": 175 }
+  { "guid": "IGAFW8hIdi", "item": "BUTwFt6PGm", "c": 175 },
+  // #endregion
+  // #region Days of Color (2026)
+  { "guid": "Lf2eTK2QeG", "item": "-QxOiNQJtq", "nw": "XOap4jzZW2", "n": "NbRbncjbv9", "ne": "qk0tOzwLSG", "ec": 2 },
+  { "guid": "XOap4jzZW2", "item": "DMzialA7Ve", "ec": 19 },
+  { "guid": "qk0tOzwLSG", "item": "RL14anXFvE", "ec": 21 },
+  { "guid": "NbRbncjbv9", "item": "DJDxdj9eMj", "nw": "GEkMyrBDwH", "n": "SxxuVdVmUA", "ne": "KzQ3AV5vAG", "c": 5 },
+  { "guid": "GEkMyrBDwH", "item": "R85a61FIvo", "ec": 30 },
+  { "guid": "KzQ3AV5vAG", "item": "SgIsK6N6pA", "c": 36 },
+  { "guid": "SxxuVdVmUA", "item": "iJ92oZ6f5q", "c": 75 }
   // #endregion
 ]

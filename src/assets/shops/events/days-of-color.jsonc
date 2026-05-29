@@ -60,6 +60,37 @@
       "v2IWAJCRM0",
       "6d47mXYSYb"
     ]
+  },
+  // #endregion
+  // #region Days of Color (2026)
+  {
+    "guid": "F-1TX1Mkm2",
+    "type": "Store",
+    "iaps": ["MuH3uzQoFZ", "ta8C0sqwnf", "CeyYXM0VRN"]
+  },
+  {
+    "guid": "mSgV4mIjiz",
+    "type": "Spirit",
+    "spirit": "8govamcy_2",
+    "iaps": [
+      "uRL1SmEzDu",
+      "XMU6WRulMj",
+      "PFXdeVMfSr",
+      "ZQL7oxOvH2",
+      "kWkRBn46kW",
+      "RI6F1JJr40",
+      "1nb5tGQT-i",
+      "ZmV8dlVkWv",
+      "srxtIsZsyL",
+      "5f7QqQElff",
+      "NJJI4pYeZZ"
+    ]
+  },
+  {
+    "guid": "c57Iqsledg",
+    "type": "Object",
+    "name": "Flight Guide",
+    "itemList": "WZgAEF_BMr"
   }
   // #endregion
 ]

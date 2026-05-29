@@ -414,5 +414,173 @@
     "type": "Special",
     "name": "White dye (3)",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png"
+  },
+  {
+    "id": 3154,
+    "guid": "EsxTOk-gmG",
+    "name": "Rainbow Tied Jumpsuit",
+    "type": "Outfit",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Rainbow-Tied-Jumpsuit-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Rainbow-Tied-Jumpsuit-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Tied_Jumpsuit"
+    }
+  },
+  {
+    "id": 3155,
+    "guid": "bQIy02O8pa",
+    "name": "Rainbow Mask",
+    "type": "Mask",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/76/Rainbow-Mask-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/Rainbow-Mask-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Mask"
+    }
+  },
+  {
+    "id": 3156,
+    "guid": "m39NUv_Jz9",
+    "name": "Rainbow Beret",
+    "type": "HairAccessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bb/Rainbow-Beret-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Rainbow-Beret-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Beret"
+    }
+  },
+  {
+    "id": 3157,
+    "guid": "R85a61FIvo",
+    "name": "Rainbow Paintbrush Cape",
+    "type": "Cape",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Rainbow-Paintbrush-Cape-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Rainbow-Paintbrush-Cape-back.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Paintbrush_Cape"
+    }
+  },
+  {
+    "id": 3158,
+    "guid": "RL14anXFvE",
+    "name": "Rainbow Tufted Hair",
+    "type": "Hair",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Rainbow-Tufted-Hair-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/29/Rainbow-Tufted-Hair-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Rainbow_Tufted_Hair"
+    }
+  },
+  {
+    "id": 3159,
+    "guid": "DMzialA7Ve",
+    "name": "Butterfly Kite",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/16/Butterfly-Kite-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/72/Butterfly-Kite-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Butterfly_Kite"
+    }
+  },
+  {
+    "id": 3160,
+    "guid": "zezcUYDk32",
+    "name": "Bird Kite",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/65/Bird-Kite-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Bird-Kite-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Bird_Kite"
+    }
+  },
+  {
+    "id": 3161,
+    "guid": "mu-1lcgLyM",
+    "name": "Crab Kite",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/94/Crab-Kite-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Crab-Kite-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Crab_Kite"
+    }
+  },
+  {
+    "id": 3162,
+    "guid": "fMlFO9YMqp",
+    "name": "Jellyfish Kite",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Jellyfish-Kite-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/af/Jellyfish-Kite-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Jellyfish_Kite"
+    }
+  },
+  {
+    "id": 3163,
+    "guid": "PtirMJeXBS",
+    "name": "Lighthorn Kite",
+    "type": "Furniture",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f4/Lighthorn-Kite-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Lighthorn-Kite-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Lighthorn_Kite"
+    }
+  },
+  {
+    "id": 3164,
+    "guid": "P9jex-v5SX",
+    "name": "Manatee Kite",
+    "type": "Furniture",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Manatee-Kite-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/Manatee-Kite-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Manatee_Kite"
+    }
+  },
+  {
+    "id": 3165,
+    "guid": "G-YytABnZX",
+    "name": "Manta Kite",
+    "type": "Furniture",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Manta-Kite-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/84/Manta-Kite-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Manta_Kite"
+    }
+  },
+  {
+    "id": 3166,
+    "guid": "lQvCDRZ4g6",
+    "name": "Turtle Kite",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bb/Turtle-Kite-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/34/Turtle-Kite-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Turtle_Kite"
+    }
+  },
+  {
+    "id": 3167,
+    "guid": "1NqdTvGfIw",
+    "name": "Whale Kite",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Whale-Kite-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3f/Whale-Kite-real.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Color/2026#Whale_Kite"
+    }
+  },
+  {
+    "id": 3168,
+    "guid": "-QxOiNQJtq",
+    "type": "Special",
+    "name": "Random Trail Spell",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Color-trail.png"
+  },
+  {
+    "id": 3169,
+    "guid": "DJDxdj9eMj",
+    "type": "Special",
+    "name": "Random Trail Spell",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Color-trail.png"
   }
 ]
