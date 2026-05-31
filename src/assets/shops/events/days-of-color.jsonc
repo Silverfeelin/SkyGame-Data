@@ -91,6 +91,12 @@
     "type": "Object",
     "name": "Flight Guide",
     "itemList": "WZgAEF_BMr"
+  },
+  {
+    "guid": "IXSqfGMP4t",
+    "type": "Object",
+    "name": "Color Gift Box",
+    "itemList": "sbR_V9Q-pW"
   }
   // #endregion
 ]
