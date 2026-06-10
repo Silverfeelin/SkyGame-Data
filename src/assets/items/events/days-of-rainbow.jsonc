@@ -626,5 +626,26 @@
     "type": "Special",
     "name": "Random Trail Spell",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Color-trail.png"
+  },
+  {
+    "id": 3170,
+    "guid": "Uoi6ehv6eH",
+    "type": "Special",
+    "name": "Purple dye",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/34/Purple-dye-container-icon.png"
+  },
+  {
+    "id": 3171,
+    "guid": "WkWjon3pXX",
+    "type": "Special",
+    "name": "Yellow dye",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ad/Yellow-dye-container-icon.png"
+  },
+  {
+    "id": 3172,
+    "guid": "xIIzSlMi1n",
+    "type": "Special",
+    "name": "White dye",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png"
   }
 ]
