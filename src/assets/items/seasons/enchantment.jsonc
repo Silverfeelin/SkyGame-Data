@@ -888,5 +888,29 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Playfighting_Herbalist#Prop"
     },
     "order": 400
+  },
+  {
+    "id": 3173,
+    "guid": "U3YshimiUo",
+    "type": "Emote",
+    "subtype": "FriendEmote",
+    "name": "Play Fight",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Playfighting_Herbalist#Friend_Action"
+    },
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Play_fight_lvl_2_white_on_black.png"
+  },
+  {
+    "id": 3174,
+    "guid": "XH9iJLNF4F",
+    "type": "Emote",
+    "subtype": "FriendEmote",
+    "name": "Play Fight",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Playfighting_Herbalist#Friend_Action"
+    },
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Play_fight_lvl_2_white_on_black.png"
   }
 ]
