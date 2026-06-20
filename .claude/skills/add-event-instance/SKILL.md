@@ -1,6 +1,7 @@
 ---
 name: add-event-instance
 description: Add a new instance of an existing (recurring) event — instance, spirit, tree, nodes, items, IAPs and shops.
+disable-model-invocation: true
 ---
 
 Task:

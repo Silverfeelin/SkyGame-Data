@@ -1,6 +1,7 @@
 ---
 name: add-traveling-spirit
 description: Add a Traveling Spirit
+disable-model-invocation: true
 ---
 
 Task:

@@ -41,6 +41,17 @@
   { "guid": "TzEVqnLGQO", "item": "aDHnv20PVR", "h": 8 },
   { "guid": "bWmU0G_mix", "item": "pronMA7m25", "n": "3WFLfZ66cZ" },
   { "guid": "3WFLfZ66cZ", "item": "kvggIFZaT3" },
+  // After Season (no level 2-4 emote upgrades)
+  { "guid": "etN0qA-p4X", "item": "DtfPuD-xSP", "n": "SUla4Z1843" },
+  { "guid": "SUla4Z1843", "item": "g5if_hfGQ-", "nw": "4cFCjz1OXt", "n": "LCF2tOawLB" },
+  { "guid": "4cFCjz1OXt", "item": "diBkeTRe1G", "c": 65 },
+  { "guid": "LCF2tOawLB", "item": "25PSOB8TyZ", "nw": "obbTLsbaeO", "n": "lSoWuJgg6E" },
+  { "guid": "obbTLsbaeO", "item": "mEvAN9gteG" },
+  { "guid": "lSoWuJgg6E", "item": "kSUpmc7BGK", "nw": "uwpfnTwhbR", "n": "1x5TX8bifK" },
+  { "guid": "uwpfnTwhbR", "item": "xGUAqqh4hK" },
+  { "guid": "1x5TX8bifK", "item": "a2jmBtI7SB", "n": "WCFGQzKmfl" },
+  { "guid": "WCFGQzKmfl", "item": "pronMA7m25", "n": "Jrti0-3iHp" },
+  { "guid": "Jrti0-3iHp", "item": "kvggIFZaT3" },
   // #endregion
   // #region Duets
   // #region Cellist's Beginnings
