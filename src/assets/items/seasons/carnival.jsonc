@@ -746,5 +746,25 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Bounce_Pad_Prop"
     },
     "order": 12000
+  },
+  {
+    "id": 3183,
+    "guid": "O4xqaYqznq",
+    "type": "Quest",
+    "name": "Quest 4",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Carnival#Quest_#3"
+    }
+  },
+  {
+    "id": 3184,
+    "guid": "Q_lEEUIZr4",
+    "type": "Quest",
+    "name": "Quest 5",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Carnival#Quest_#3"
+    }
   }
 ]
