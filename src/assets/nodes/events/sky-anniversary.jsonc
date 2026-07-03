@@ -306,6 +306,18 @@
   { "guid": "e4J2CI4wKu", "item": "pOhVennRp0", "nw": "0cvGP4_JIh", "n": "yn_yEdHGAI", "ne": "3FmxDsSFYp", "c": 4 },
   { "guid": "0cvGP4_JIh", "item": "8A96KlMPQC", "c": 30 },
   { "guid": "3FmxDsSFYp", "item": "Xbb3BpzDZT", "h": 20 },
-  { "guid": "yn_yEdHGAI", "item": "BQi3QIoOwq", "h": 33 }
+  { "guid": "yn_yEdHGAI", "item": "BQi3QIoOwq", "h": 33 },
+  // #endregion
+  // #region Sky Anniversary (2026)
+  { "guid": "coW1RUglku", "item": "avN500gyNA", "n": "kzGKV18TJ5", "nw": "mlDSaukIM5", "ne": "u3-bTDXg9f" },
+  { "guid": "mlDSaukIM5", "item": "kXLOaiW5sq", "ec": 25 },
+  { "guid": "u3-bTDXg9f", "item": "Yy7tRZUNEY", "ec": 18 },
+  { "guid": "kzGKV18TJ5", "item": "FjtQU-Da97", "c": 2, "nw": "JCt3V6F9Qz", "n": "6InUQZFVvX", "ne": "i2drp4deRF" },
+  { "guid": "JCt3V6F9Qz", "item": "cTvlz4Z8-3", "ec": 29 },
+  { "guid": "i2drp4deRF", "item": "y54CllfiMA", "c": 45 },
+  { "guid": "6InUQZFVvX", "item": "0hJ9DXTWh2", "nw": "Gi-LoOyvs8", "n": "gwp6IVLV4M", "ne": "xCPnntr4c1", "c": 2 },
+  { "guid": "Gi-LoOyvs8", "item": "P09UDA73qQ", "c": 52 },
+  { "guid": "xCPnntr4c1", "item": "IKHiSSA9oN", "c": 22 },
+  { "guid": "gwp6IVLV4M", "item": "gOGjcPJJok", "c": 72 }
   // #endregion
 ]

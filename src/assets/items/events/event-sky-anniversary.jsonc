@@ -527,5 +527,78 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2025#Anniversary_Tuxedo_Cape"
     },
     "order": 17200
+  },
+  { 
+    "id": "3185",
+    "guid": "avN500gyNA", 
+    "type": "Special", 
+    "name": "Placeholder", 
+    "icon": "/assets/icons/question.webp"
+  },
+  { 
+    "id": "3186",
+    "guid": "kXLOaiW5sq", 
+    "type": "Held", 
+    "name": "Flight Camera", 
+    "icon": "/assets/icons/question.webp",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  { 
+    "id": "3187",
+    "guid": "Yy7tRZUNEY", 
+    "type": "HairAccessory", 
+    "name": "Swag Cap", 
+    "icon": "/assets/icons/question.webp",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  { 
+    "id": "3188",
+    "guid": "cTvlz4Z8-3", 
+    "type": "Prop", 
+    "name": "Company Issued Laptop", 
+    "icon": "/assets/icons/question.webp",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    } 
+  },
+  { 
+    "id": "3189",
+    "guid": "8Xr81aJbUN", 
+    "type": "Cape", 
+    "name": "Black and Blue Swag Hoodie", 
+    "icon": "/assets/icons/question.webp",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    } 
+  },
+  { 
+    "id": "3190",
+    "guid": "YdP0vtpTMi", 
+    "type": "Shoes", 
+    "name": "Oreo WFH Slippers", 
+    "icon": "/assets/icons/question.webp",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    } 
+  },
+  { 
+    "id": "3191",
+    "guid": "-6zxMb-xk9", 
+    "type": "Plush", 
+    "name": "Moth Plush", 
+    "icon": "/assets/icons/question.webp",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    } 
   }
 ]
