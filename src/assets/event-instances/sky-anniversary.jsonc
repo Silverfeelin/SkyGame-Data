@@ -115,6 +115,7 @@
     "endDate": "2026-07-23",
     "spirits": ["FFPe4L4CFC"],
     "shops": ["d6FmufhkDL", "gCLk6dtZ_s", "vSaIq-OEQk"],
+    "draft": true,
     "calculatorData": {
       "dailyCurrencyAmount": 5,
       "timedCurrency": [
@@ -122,7 +123,8 @@
           "guid": "igKcbfMtSf",
           "date": "2026-07-03",
           "endDate": "2026-07-23",
-          "amount": 20
+          "amount": 20,
+          "description": "Bonus event currency"
         }
       ]
     },

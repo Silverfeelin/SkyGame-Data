@@ -528,77 +528,77 @@
     },
     "order": 17200
   },
-  { 
-    "id": "3185",
-    "guid": "avN500gyNA", 
-    "type": "Special", 
-    "name": "Placeholder", 
+  {
+    "id": 3185,
+    "guid": "avN500gyNA",
+    "type": "Special",
+    "name": "Placeholder",
     "icon": "/assets/icons/question.webp"
   },
-  { 
-    "id": "3186",
-    "guid": "kXLOaiW5sq", 
-    "type": "Held", 
-    "name": "Flight Camera", 
-    "icon": "/assets/icons/question.webp",
-    "previewUrl": "",
+  {
+    "id": 3186,
+    "guid": "kXLOaiW5sq",
+    "type": "Held",
+    "name": "Flight Camera",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ea/Moment-Camera-upgraded-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/Moment-Camera-upgraded-using.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Upgraded_Moment_Camera"
     }
   },
-  { 
-    "id": "3187",
-    "guid": "Yy7tRZUNEY", 
-    "type": "HairAccessory", 
-    "name": "Swag Cap", 
-    "icon": "/assets/icons/question.webp",
-    "previewUrl": "",
+  {
+    "id": 3187,
+    "guid": "Yy7tRZUNEY",
+    "type": "HairAccessory",
+    "name": "Swag Cap",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b5/Anniversary-Swag-Cap-Accessory-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d4/Anniversary-Swag-Cap-Accessory-front.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Swag_Cap"
     }
   },
-  { 
-    "id": "3188",
-    "guid": "cTvlz4Z8-3", 
-    "type": "Prop", 
-    "name": "Company Issued Laptop", 
-    "icon": "/assets/icons/question.webp",
-    "previewUrl": "",
+  {
+    "id": 3188,
+    "guid": "cTvlz4Z8-3",
+    "type": "Prop",
+    "name": "Company Issued Laptop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/44/Anniversary-Company-Issued-Laptop-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/ba/Anniversary-Company-Issued-Laptop-Prop-using.png",
     "_wiki": {
-      "href": ""
-    } 
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Company_Issued_Laptop"
+    }
   },
-  { 
-    "id": "3189",
-    "guid": "8Xr81aJbUN", 
-    "type": "Cape", 
-    "name": "Black and Blue Swag Hoodie", 
-    "icon": "/assets/icons/question.webp",
-    "previewUrl": "",
+  {
+    "id": 3189,
+    "guid": "8Xr81aJbUN",
+    "type": "Cape",
+    "name": "Black and Blue Swag Hoodie",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fd/Anniversary-Black-and-Blue-Swag-Hoodie-Cape-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/90/Anniversary-Black-and-Blue-Swag-Hoodie-Cape-front.png",
     "_wiki": {
-      "href": ""
-    } 
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Black_and_Blue_Swag_Hoodie"
+    }
   },
-  { 
-    "id": "3190",
-    "guid": "YdP0vtpTMi", 
-    "type": "Shoes", 
-    "name": "Oreo WFH Slippers", 
-    "icon": "/assets/icons/question.webp",
-    "previewUrl": "",
+  {
+    "id": 3190,
+    "guid": "YdP0vtpTMi",
+    "type": "Shoes",
+    "name": "Oreo WFH Slippers",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Anniversary-Oreo-WFH-Slippers-Shoes-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Anniversary-Oreo-WFH-Slippers-Shoes-side.png",
     "_wiki": {
-      "href": ""
-    } 
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Oreo_Slippers"
+    }
   },
-  { 
-    "id": "3191",
-    "guid": "-6zxMb-xk9", 
-    "type": "Plush", 
-    "name": "Moth Plush", 
-    "icon": "/assets/icons/question.webp",
-    "previewUrl": "",
+  {
+    "id": 3191,
+    "guid": "-6zxMb-xk9",
+    "type": "Prop",
+    "name": "Moth Plush",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/33/Anniversary-Moth-Plush-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/88/Anniversary-Moth-Plush-Prop-holding.png",
     "_wiki": {
-      "href": ""
-    } 
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Moth_Plush"
+    }
   }
 ]
