@@ -27,5 +27,19 @@
   {
     "guid": "Lu78MMHJp7",
     "items": [{ "guid": "sQR21VFBap", "item": "lgu5DNRE7k", "c": 150 }]
+  },
+  // Flight Guide (Prairie Heights)
+  {
+    "guid": "AaCyOGpIcf",
+    "items": [
+      { "guid": "4bnzQiApzK", "item": "mu-1lcgLyM", "c": 19 },
+      { "guid": "cYcM8jPIN8", "item": "zezcUYDk32", "c": 19 },
+      { "guid": "lMrJzAzY_E", "item": "G-YytABnZX", "c": 19 },
+      { "guid": "-WMBB5uXw0", "item": "fMlFO9YMqp", "c": 19 },
+      { "guid": "PjDKj6DXei", "item": "lQvCDRZ4g6", "c": 19 },
+      { "guid": "vHrH7fP4kW", "item": "P9jex-v5SX", "c": 19 },
+      { "guid": "G7UjccTiPL", "item": "1NqdTvGfIw", "c": 19 },
+      { "guid": "sp_FVv_Tr2", "item": "PtirMJeXBS", "c": 19 }
+    ]
   }
 ]

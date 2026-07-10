@@ -87,5 +87,12 @@
     "name": "Web Store (unavailable)",
     "permanent": true,
     "iaps": ["z-ApX7yPrr"]
+  },
+  {
+    "guid": "Gai_jFs5AO",
+    "type": "Object",
+    "name": "Flight Guide",
+    "permanent": "prairieheights",
+    "itemList": "AaCyOGpIcf"
   }
 ]
