@@ -92,6 +92,16 @@
   { "guid": "gClqCzuBYV", "item": "k_dtQhg8Ii", "c": 50 },
   { "guid": "2o4wIK5UU6", "item": "Y7j3ljNdYp", "c": 65 },
   { "guid": "lOlI6sGuX_", "item": "1IwU-ZZu1g", "c": 70 },
+  //TS 170
+  { "guid": "BMYGVg8LJT", "item": "YiLDQF0uDU", "n": "M5E2mtxllE" },
+  { "guid": "M5E2mtxllE", "item": "Ld2u4cjPes", "c": 5, "nw": "0r7F0KrOTp", "n": "3v3W-3cJYJ", "ne": "I-pkx7y8YI" },
+  { "guid": "0r7F0KrOTp", "item": "Dt5aDX9Osc", "c": 45 },
+  { "guid": "I-pkx7y8YI", "item": "oF1ZpY_EyV", "c": 3 },
+  { "guid": "3v3W-3cJYJ", "item": "kwgBrM-KbA", "ac": 2, "n": "jY1Z6qAuiI" },
+  { "guid": "jY1Z6qAuiI", "item": "T_syKqfzht", "c": 5, "nw": "dJox7hPuKG", "n": "lYQmZXDpCw", "ne": "IMQ_OW-Nxu" },
+  { "guid": "dJox7hPuKG", "item": "k_dtQhg8Ii", "c": 50 },
+  { "guid": "IMQ_OW-Nxu", "item": "Y7j3ljNdYp", "c": 65 },
+  { "guid": "lYQmZXDpCw", "item": "1IwU-ZZu1g", "c": 70 },
   // #endregion
   // #region Tinkering Chimesmith
   { "guid": "wcUvdoaglf", "item": "Jgp0s63dVZ", "n": "8YT3kpt0_o" },
