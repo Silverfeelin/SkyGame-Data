@@ -60,7 +60,7 @@
     "name": "Fledgling Upright Piano",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b2/Fledgling-upright-Piano-instrument-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Fledgling-upright-Piano-instrument.png",
-    "order": 11300,
+    "order": 11700,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Music/2024#Fledgling_Upright_Piano"
     }
@@ -114,7 +114,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nintendo_Pack"
     },
-    "order": 17900
+    "order": 18500
   },
   {
     "id": 1944,
@@ -126,7 +126,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nintendo_Pack"
     },
-    "order": 17800
+    "order": 18400
   },
   {
     "id": 1945,
@@ -138,7 +138,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_Nintendo_Switch#Nintendo_Pack"
     },
-    "order": 18000
+    "order": 18300
   },
   {
     "id": 1946,
@@ -163,7 +163,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival#Sparrow_Appreciation_Pack"
     },
-    "order": 17500
+    "order": 18100
   },
   {
     "id": 1960,
@@ -187,7 +187,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival#Moth_Appreciation_Pack"
     },
-    "order": 7900
+    "order": 8300
   },
   {
     "id": 1962,
@@ -199,7 +199,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival#Moth_Appreciation_Pack"
     },
-    "order": 17600
+    "order": 18200
   },
   {
     "id": 1947,
@@ -223,7 +223,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Journey_Pack"
     },
-    "order": 18000
+    "order": 18600
   },
   {
     "id": 1949,
@@ -235,7 +235,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Journey_Pack"
     },
-    "order": 18100
+    "order": 18400
   },
   {
     "id": 2408,
@@ -246,7 +246,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Mask_Hanger"
     },
-    "order": 8900
+    "order": 9300
   },
   {
     "id": 2543,
@@ -258,7 +258,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Transcendent_Journey_Pack"
     },
-    "order": 18100
+    "order": 18700
   },
   {
     "id": 2544,
@@ -270,7 +270,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Transcendent_Journey_Pack"
     },
-    "order": 18200
+    "order": 18500
   },
   {
     "id": 2545,
@@ -295,7 +295,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/NetEase/Tree_Planting_Day#Clover_Head_Accessory"
     },
-    "order": 7500
+    "order": 7900
   },
   {
     "id": 3147,
@@ -304,7 +304,7 @@
     "name": "FlOw Cape",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/FlOw-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/TGC_20_Year_Anniversary_FlOw_Cape_back.png",
-    "order": 18200,
+    "order": 18800,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Premium_Candle_Shop#Secret_Area"
     }
@@ -316,7 +316,7 @@
     "name": "Flower Hair Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b1/Flower-hair-accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/TGC_20_Year_Anniversary_Flower_Hair_Accessory_side.png",
-    "order": 7800,
+    "order": 8200,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Premium_Candle_Shop#Secret_Area"
     }

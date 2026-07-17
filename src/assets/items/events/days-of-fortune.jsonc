@@ -25,7 +25,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2021#Days_of_Fortune_Lion_Headdress"
     },
-    "order": 14400
+    "order": 14700
   },
   {
     "id": 1725,
@@ -37,7 +37,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2021#Days_of_Fortune_Orange"
     },
-    "order": 3200
+    "order": 3500
   },
   {
     "id": 1726,
@@ -53,7 +53,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Fortune_pompom.jpg"
     },
-    "order": 14300
+    "order": 14600
   },
   {
     "id": 1727,
@@ -65,7 +65,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2021#Days_of_Fortune_Pack"
     },
-    "order": 12200
+    "order": 12700
   },
   {
     "id": 1728,
@@ -95,7 +95,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2021#Days_of_Fortune_Pack"
     },
-    "order": 14200
+    "order": 14500
   },
   {
     "id": 1730,
@@ -123,7 +123,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2022#Days_of_Fortune_Fish_Accessory"
     },
-    "order": 3300,
+    "order": 3600,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Fortune_fish.jpg",
       "primary": {}
@@ -139,7 +139,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2022#Days_of_Fortune_Fish_Pack"
     },
-    "order": 12300
+    "order": 12800
   },
   {
     "id": 1733,
@@ -155,7 +155,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Fortune_fishe.jpg"
     },
-    "order": 14500
+    "order": 14800
   },
   {
     "id": 1734,
@@ -305,7 +305,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Fortune_DragonCape.jpg"
     },
-    "order": 12400,
+    "order": 12900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2024#Days_of_Fortune_Dragon_Stole"
     }
@@ -387,7 +387,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Fortune_snek.jpg"
     },
-    "order": 14600,
+    "order": 14900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Fortune_Snake_Coif_and_Cloak"
     }
@@ -399,7 +399,7 @@
     "name": "Fortune Snake Cloak",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/87/Days-of-Fortune-Snake-Cloak-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6e/Days-of-Fortune-Snake-Cloak-back.png",
-    "order": 12500,
+    "order": 13000,
     "dye": {
       "primary": {},
       "secondary": {},
@@ -493,7 +493,7 @@
     "name": "Fortune Snake Outfit",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1d/Fortune-Snake-Pants-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bf/Fortune-Snake-Pants.png",
-    "order": 6300,
+    "order": 6400,
     "dye": {
       "primary": {},
       "secondary": {},
@@ -576,7 +576,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Ribboned_Ponytail"
     },
-    "order": 17600
+    "order": 17900
   },
   {
     "id": 3019,
@@ -616,7 +616,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Carousel_Music_Box"
     },
-    "order": 4400
+    "order": 4800
   },
   {
     "id": 3022,
@@ -634,6 +634,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Horse_Cape"
     },
-    "order": 17400
+    "order": 18000
   }
 ]

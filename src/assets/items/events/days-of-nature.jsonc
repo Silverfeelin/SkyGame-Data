@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2020#Earth_Cape"
     },
-    "order": 13200
+    "order": 13700
   },
   {
     "id": 1779,
@@ -21,7 +21,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2021#Ocean_Necklace"
     },
-    "order": 4400,
+    "order": 4500,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Nature_shellnecklace.jpg",
       "primary": {}
@@ -41,7 +41,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2021#Ocean_Cape"
     },
-    "order": 13300
+    "order": 13800
   },
   {
     "id": 1781,
@@ -53,7 +53,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2022#Nature_Turtle_Cape"
     },
-    "order": 13400
+    "order": 13900
   },
   {
     "id": 1782,
@@ -65,7 +65,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2022#Nature_Turtle_Pack"
     },
-    "order": 4500
+    "order": 4600
   },
   {
     "id": 1783,
@@ -77,7 +77,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2022#Nature_Coral_Crown_Accessory"
     },
-    "order": 3600
+    "order": 3900
   },
   {
     "id": 1784,
@@ -103,7 +103,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2023#Nature_School_Cape"
     },
-    "order": 13600
+    "order": 14100
   },
   {
     "id": 1787,
@@ -127,7 +127,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2023#Nature_Sonorous_Seashell"
     },
-    "order": 5700
+    "order": 6100
   },
   {
     "id": 2166,
@@ -139,7 +139,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave_Pack"
     },
-    "order": 13700
+    "order": 14200
   },
   {
     "id": 2167,
@@ -151,7 +151,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave-Touched_Hair"
     },
-    "order": 15200
+    "order": 15500
   },
   {
     "id": 2168,
@@ -179,7 +179,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave_Scarf"
     },
-    "order": 4600,
+    "order": 4700,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Nature_Riverscarf.jpg",
       "primary": {}
@@ -213,7 +213,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Waves_Outfit"
     },
-    "order": 4700
+    "order": 4800
   },
   {
     "id": 2623,
@@ -225,7 +225,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Manta_Hair"
     },
-    "order": 15300
+    "order": 15600
   },
   {
     "id": 2624,
@@ -244,7 +244,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Sea_Foam_Set"
     },
-    "order": 13500
+    "order": 14000
   },
   {
     "id": 2626,
@@ -256,7 +256,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Sea_Foam_Set"
     },
-    "order": 2500
+    "order": 2600
   },
   {
     "id": 2627,
@@ -284,7 +284,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2026#Nature_Underwater_Hair"
     },
-    "order": 17800
+    "order": 18100
   },
   {
     "id": 3062,
@@ -314,7 +314,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2026#Shiny_Clamshell"
     },
-    "order": 11900
+    "order": 12300
   },
   {
     "id": 3064,
@@ -326,7 +326,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2026#Ocean_Veil_Pack"
     },
-    "order": 7400
+    "order": 7800
   },
   {
     "id": 3065,
@@ -342,7 +342,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Nature_bottledress.jpg"
     },
-    "order": 6700
+    "order": 6800
   },
   {
     "id": 3066,

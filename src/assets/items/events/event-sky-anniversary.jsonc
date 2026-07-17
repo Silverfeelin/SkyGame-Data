@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2020#1_Year_Anniversary_Hat"
     },
-    "order": 4000
+    "order": 4300
   },
   {
     "id": 1817,
@@ -23,7 +23,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2021#2nd_Birthday_Hat"
     },
-    "order": 4100
+    "order": 4400
   },
   {
     "id": 1818,
@@ -41,7 +41,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2021#Anniversary_Birthday_Flag"
     },
-    "order": 4700
+    "order": 5100
   },
   {
     "id": 1819,
@@ -117,7 +117,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2022#3rd_Birthday_Hat"
     },
-    "order": 4200
+    "order": 4500
   },
   {
     "id": 1829,
@@ -155,7 +155,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2022#Anniversary_Balloons"
     },
-    "order": 4800
+    "order": 5200
   },
   {
     "id": 1833,
@@ -179,7 +179,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2022#Anniversary_Confetti_Launcher"
     },
-    "order": 4900
+    "order": 5300
   },
   {
     "id": 1835,
@@ -198,7 +198,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2023#Anniversary_Plush"
     },
-    "order": 6000
+    "order": 6400
   },
   {
     "id": 1837,
@@ -218,7 +218,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2023#4th_Anniversary_Hat"
     },
-    "order": 4300
+    "order": 4600
   },
   {
     "id": 1839,
@@ -230,7 +230,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2023#Anniversary_Sonorous_Seashell"
     },
-    "order": 5800
+    "order": 6200
   },
   {
     "id": 1840,
@@ -255,7 +255,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2024#SkyFest_Wireframe_Cape"
     },
-    "order": 14200
+    "order": 14800
   },
   {
     "id": 2230,
@@ -264,7 +264,7 @@
     "name": "Skyfest Oreo Headband",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f1/SkyFest-Oreo-Headband-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/SkyFest-Oreo-Headband.png",
-    "order": 4900,
+    "order": 5300,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2024#SkyFest_Oreo_Headband"
     }
@@ -280,7 +280,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2024#5th_Anniversary_Headband"
     },
-    "order": 4400
+    "order": 4700
   },
   {
     "id": 2232,
@@ -289,7 +289,7 @@
     "name": "Skyfest Star Jar",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d6/SkyFest-Star-Jar-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f9/SkyFest-Star-Jar.png",
-    "order": 11000,
+    "order": 11400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2024#SkyFest_Star_Jar"
     }
@@ -302,7 +302,7 @@
     "group": "Limited",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9e/SkyFest-5th-Anniversary-T-shirt-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/42/SkyFest-5th-Anniversary-T-shirt-front.png",
-    "order": 5000,
+    "order": 5100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2024#SkyFest_5th_Anniversary_T-shirt"
     }
@@ -361,7 +361,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2025#6th_Anniversary_Hat"
     },
-    "order": 4500
+    "order": 4800
   },
   {
     "id": 2651,
@@ -408,7 +408,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2025#Anniversary_Cinema_Set"
     },
-    "order": 6100
+    "order": 6200
   },
   {
     "id": 2657,
@@ -432,7 +432,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2025#TGC_Wireframe_Cape"
     },
-    "order": 14300
+    "order": 14900
   },
   {
     "id": 2673,
@@ -441,7 +441,7 @@
     "name": "Anniversary Blue Carpet",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/53/Cinema-Blue-Carpet-Prop-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Cinema-Blue-Carpet-Prop.png",
-    "order": 3600,
+    "order": 3900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2025#Anniversary_Blue_Carpet"
     }
@@ -498,7 +498,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2025#Anniversary_Gown_Ensemble"
     },
-    "order": 2600
+    "order": 2700
   },
   {
     "id": 2731,
@@ -514,7 +514,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2025#Anniversary_Gown_Ensemble"
     },
-    "order": 6400
+    "order": 6500
   },
   {
     "id": 2732,
@@ -532,7 +532,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2025#Anniversary_Tuxedo_Cape"
     },
-    "order": 17200
+    "order": 17800
   },
   {
     "id": 3185,
@@ -562,7 +562,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Swag_Cap"
     },
-    "order": 4550
+    "order": 4900
   },
   {
     "id": 3188,
@@ -574,7 +574,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Company_Issued_Laptop"
     },
-    "order": 6050
+    "order": 6100
   },
   {
     "id": 3189,
@@ -586,7 +586,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Black_and_Blue_Swag_Hoodie"
     },
-    "order": 14150
+    "order": 14700
   },
   {
     "id": 3190,
@@ -598,7 +598,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Oreo_Slippers"
     },
-    "order": 2800
+    "order": 2900
   },
   {
     "id": 3191,
@@ -610,6 +610,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2026#Moth_Plush"
     },
-    "order": 3650
+    "order": 4000
   }
 ]

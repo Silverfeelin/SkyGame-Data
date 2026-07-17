@@ -21,7 +21,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Summer_Lights#Summer_Lights_Accessory"
     },
-    "order": 6200
+    "order": 6600
   },
   {
     "id": 1904,
@@ -52,7 +52,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Summer#Summer_Hat"
     },
-    "order": 6100,
+    "order": 6500,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Sunlight_hat.jpg",
       "primary": {}
@@ -86,6 +86,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Summer#Days_of_Summer_Shell_Hairpin"
     },
-    "order": 6000
+    "order": 6400
   }
 ]

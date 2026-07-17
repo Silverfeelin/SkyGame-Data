@@ -16,7 +16,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2022#Jelly_Shoulder_Buddy"
     },
-    "order": 4700
+    "order": 4800
   },
   {
     "id": 1914,
@@ -45,7 +45,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2022#Campfire_Snack_Kit"
     },
-    "order": 5500
+    "order": 5900
   },
   {
     "id": 1916,
@@ -57,7 +57,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Pink_Beach_Towel_Cape"
     },
-    "order": 14900
+    "order": 15500
   },
   {
     "id": 1917,
@@ -69,7 +69,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Yellow_Beach_Towel_Cape"
     },
-    "order": 15000
+    "order": 15600
   },
   {
     "id": 1918,
@@ -81,7 +81,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Blue_Beach_Towel_Cape"
     },
-    "order": 14800
+    "order": 15400
   },
   {
     "id": 1919,
@@ -107,7 +107,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Chunky_Sandals"
     },
-    "order": 1600
+    "order": 1700
   },
   {
     "id": 1922,
@@ -119,7 +119,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Surfboard"
     },
-    "order": 6200
+    "order": 6600
   },
   {
     "id": 2289,
@@ -134,7 +134,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sunlight_manta.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Sunlight_manta.jpg"
     },
-    "order": 15200,
+    "order": 15800,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2024#Sunlight_Woven_Wrap"
     }
@@ -176,7 +176,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sunlight_dadpants.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Sunlight_dadpants.jpg"
     },
-    "order": 5400,
+    "order": 5500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2024#Sunlight_Beach_Shorts"
     }
@@ -195,7 +195,7 @@
     "name": "Sunlight Bonnet",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f4/Sunlight-Bonnet-Hat-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/57/Sunlight-Bonnet-Hat-front.png",
-    "order": 8000,
+    "order": 8400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Bonnet_Bundle"
     }
@@ -211,7 +211,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sunlight_toga.jpg"
     },
-    "order": 5500,
+    "order": 5600,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Bonnet_Bundle"
     }
@@ -223,7 +223,7 @@
     "name": "Sunlight Wave Projector",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bd/Sunlight-Wave-Projector-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Sunlight-Wave-Projector.png",
-    "order": 2700,
+    "order": 3000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Wave_Projector"
     }
@@ -239,7 +239,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sunlight_teenycape.jpg"
     },
-    "order": 15100,
+    "order": 15700,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Shawl_Cape"
     }
@@ -251,7 +251,7 @@
     "name": "Sandcastle Small Tower",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Sancastle-Small-Tower-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0b/Sancastle-Small-Tower-Piece.png",
-    "order": 2800,
+    "order": 3100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -263,7 +263,7 @@
     "name": "Sandcastle Large Tower",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/Sancastle-Large-Tower-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bb/Sancastle-Large-Tower-Piece.png",
-    "order": 2900,
+    "order": 3200,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -275,7 +275,7 @@
     "name": "Sandcastle Small Gate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Sancastle-Small-Gate-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6c/Sancastle-Small-Gate-Piece.png",
-    "order": 3000,
+    "order": 3300,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -287,7 +287,7 @@
     "name": "Sandcastle Wall",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/17/Sancastle-Wall-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/92/Sancastle-Wall-Piece.png",
-    "order": 3100,
+    "order": 3400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -299,7 +299,7 @@
     "name": "Sandcastle Large Gate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Sancastle-Large-Gate-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e4/Sancastle-Large-Gate-Piece.png",
-    "order": 3200,
+    "order": 3500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -311,7 +311,7 @@
     "name": "Sandcastle Sand Lot",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Sancastle-Sand-Lot-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ab/Sancastle-Sand-Lot.png",
-    "order": 3300,
+    "order": 3600,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -323,7 +323,7 @@
     "name": "Sandcastle Flag",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/18/Sandcastle-Flag-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/ba/Sandcastle-Flag.png",
-    "order": 3400,
+    "order": 3700,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
