@@ -304,7 +304,10 @@
     "name": "FlOw Cape",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/FlOw-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/TGC_20_Year_Anniversary_FlOw_Cape_back.png",
-    "order": 18200
+    "order": 18200,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Premium_Candle_Shop#Secret_Area"
+    }
   },
   {
     "id": 3148,
@@ -313,6 +316,9 @@
     "name": "Flower Hair Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b1/Flower-hair-accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/TGC_20_Year_Anniversary_Flower_Hair_Accessory_side.png",
-    "order": 7800
+    "order": 7800,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Premium_Candle_Shop#Secret_Area"
+    }
   }
 ]
