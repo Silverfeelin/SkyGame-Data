@@ -4,7 +4,7 @@
     "guid": "FSFieG0auQ",
     "type": "Quest",
     "name": "Quest 1",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#1"
     }
@@ -14,8 +14,8 @@
     "guid": "_GHnVtEpOA",
     "type": "Necklace",
     "name": "Dear Van Gogh Ultimate Pendant",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/Dear-Van-Gogh-Ultimate-Guide-Pendant.png/revision/latest",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/Dear-Van-Gogh-Ultimate-Guide-Pendant.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/Dear-Van-Gogh-Ultimate-Guide-Pendant.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/Dear-Van-Gogh-Ultimate-Guide-Pendant.png",
     "group": "Ultimate",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Ultimate_Gifts"
@@ -27,7 +27,7 @@
     "guid": "ROMpZZAmoj",
     "type": "Quest",
     "name": "Quest 2",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#2"
     }
@@ -37,7 +37,7 @@
     "guid": "QtIKu1yrWz",
     "type": "Prop",
     "name": "Bulb Field Painting Prop",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c0/Dear-Van-Gogh-Bulb-Field-Painting-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c0/Dear-Van-Gogh-Bulb-Field-Painting-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Prop"
     },
@@ -48,7 +48,7 @@
     "guid": "2cm-8PvvzE",
     "type": "Hair",
     "name": "Dear Van Gogh Ultimate Hair",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Dear-Van-Gogh-Ultimate-Hair-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Dear-Van-Gogh-Ultimate-Hair-icon.png",
     "group": "Ultimate",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Ultimate_Gifts"
@@ -60,7 +60,7 @@
     "guid": "79IJJygQsw",
     "type": "Prop",
     "name": "Self-Portrait with Grey Felt Hat",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3d/Dear-Van-Gogh-Self-Portrait-Painting-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3d/Dear-Van-Gogh-Self-Portrait-Painting-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Prop"
     },
@@ -71,14 +71,14 @@
     "guid": "mfoVfazSNx",
     "type": "Special",
     "name": "Heart",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
   {
     "id": 3199,
     "guid": "xSiJ9g0eum",
     "type": "Prop",
     "name": "Bedroom in Arles Painting Prop",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b3/Dear-Van-Gogh-Bedroom-in-Arles-Painting-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b3/Dear-Van-Gogh-Bedroom-in-Arles-Painting-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Prop"
     },
@@ -89,7 +89,7 @@
     "guid": "qOfG2a7-e0",
     "type": "Quest",
     "name": "Quest 3",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#3"
     }
@@ -99,7 +99,7 @@
     "guid": "WEh6XDpC2I",
     "type": "Prop",
     "name": "Almond Blossoms Painting Prop",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/Dear-Van-Gogh-Almond-Blossoms-Painting-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/Dear-Van-Gogh-Almond-Blossoms-Painting-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Prop"
     },
@@ -110,7 +110,7 @@
     "guid": "LEMuAPds0I",
     "type": "Cape",
     "name": "Dear Van Gogh Ultimate Cape",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Dear-Van-Gogh-Ultimate-Cape-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Dear-Van-Gogh-Ultimate-Cape-icon.png",
     "group": "Ultimate",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Ultimate_Gifts"
@@ -122,7 +122,7 @@
     "guid": "cyHa3tGo0U",
     "type": "Quest",
     "name": "Quest 4",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#4"
     }
@@ -132,7 +132,7 @@
     "guid": "-DKvcVY8de",
     "type": "Prop",
     "name": "Wheatfield with Crows Painting Prop",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Dear-Van-Gogh-Wheatfield-with-Crows-Painting-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Dear-Van-Gogh-Wheatfield-with-Crows-Painting-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Prop"
     },
@@ -143,7 +143,7 @@
     "guid": "_e_B0Ow2pM",
     "type": "Quest",
     "name": "Quest 5",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#5"
     }
@@ -153,14 +153,14 @@
     "guid": "1wQzUDtFrC",
     "type": "Special",
     "name": "Heart",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
   {
     "id": 3207,
     "guid": "ltxvv3j5NL",
     "type": "Prop",
     "name": "Starry Night Painting Prop",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/Dear-Van-Gogh-Starry-Night-Painting-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/Dear-Van-Gogh-Starry-Night-Painting-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Prop"
     },
@@ -171,7 +171,7 @@
     "guid": "te5dxg40i2",
     "type": "Prop",
     "name": "Dear Van Gogh Ultimate Teaset",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2c/Dear-Van-Gogh-Ultimate-Tea-Table-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2c/Dear-Van-Gogh-Ultimate-Tea-Table-Prop-icon.png",
     "group": "Ultimate",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Ultimate_Gifts"
@@ -183,7 +183,7 @@
     "guid": "jIgAsmOXcH",
     "type": "Special",
     "name": "Heart",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
   {
     "id": 3210,
@@ -191,7 +191,7 @@
     "type": "Emote",
     "name": "Draw",
     "level": 1,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Dear-Van-Gogh-Artistic-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Dear-Van-Gogh-Artistic-Memory-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Expression"
     }
@@ -201,7 +201,7 @@
     "guid": "D11xEIctcT",
     "type": "Prop",
     "name": "Sunflower Painting",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/87/Dear-Van-Gogh-Artistic-Memory-Painting-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/87/Dear-Van-Gogh-Artistic-Memory-Painting-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Prop"
     },
@@ -212,14 +212,14 @@
     "guid": "ncPCXfReMI",
     "type": "Special",
     "name": "Accompany Artistic Memory",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
   },
   {
     "id": 3213,
     "guid": "1Nw-82lc8Y",
     "type": "HairAccessory",
     "name": "Artistic Memory Hair Accessory",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Dear-Van-Gogh-Artistic-Memory-Hair-Accessory-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Dear-Van-Gogh-Artistic-Memory-Hair-Accessory-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Hair_Accessory"
     },
@@ -230,7 +230,7 @@
     "guid": "y40oNdUUlF",
     "type": "Special",
     "name": "Blessing",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
     "id": 3215,
@@ -238,7 +238,7 @@
     "type": "Emote",
     "name": "Draw",
     "level": 2,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Dear-Van-Gogh-Artistic-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Dear-Van-Gogh-Artistic-Memory-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Expression"
@@ -250,7 +250,7 @@
     "type": "Emote",
     "name": "Draw",
     "level": 3,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Dear-Van-Gogh-Artistic-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Dear-Van-Gogh-Artistic-Memory-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Expression"
     }
@@ -260,7 +260,7 @@
     "guid": "2B2TyIS_Qd",
     "type": "Prop",
     "name": "Vase with Sunflowers",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/Dear-Van-Gogh-Artistic-Memory-Vase-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/Dear-Van-Gogh-Artistic-Memory-Vase-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Prop"
     },
@@ -271,14 +271,14 @@
     "guid": "Isgs7VLR2k",
     "type": "Special",
     "name": "Yellow Dye",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ad/Yellow-dye-container-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ad/Yellow-dye-container-icon.png"
   },
   {
     "id": 3219,
     "guid": "kW-Rm5SKd-",
     "type": "Special",
     "name": "Blessing",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
     "id": 3220,
@@ -286,7 +286,7 @@
     "type": "Emote",
     "name": "Draw",
     "level": 4,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Dear-Van-Gogh-Artistic-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Dear-Van-Gogh-Artistic-Memory-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Expression"
@@ -297,7 +297,7 @@
     "guid": "1g5d2r6nNZ",
     "type": "Cape",
     "name": "Artistic Memory Cape",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/96/Dear-Van-Gogh-Artistic-Memory-Cape-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/96/Dear-Van-Gogh-Artistic-Memory-Cape-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Cape"
@@ -309,7 +309,7 @@
     "guid": "kvTAfbjBgH",
     "type": "Special",
     "name": "Season Heart",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Dear-Van-Gogh-Heart-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Dear-Van-Gogh-Heart-icon.png",
     "group": "SeasonPass"
   },
   {
@@ -318,7 +318,7 @@
     "type": "Emote",
     "name": "Frustration",
     "level": 1,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Dear-Van-Gogh-Dutch-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Dear-Van-Gogh-Dutch-Memory-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Expression"
     }
@@ -328,21 +328,21 @@
     "guid": "FNpsPGjBxG",
     "type": "Special",
     "name": "Blessing",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
     "id": 3225,
     "guid": "BcT4k9rDrD",
     "type": "Special",
     "name": "Accompany Dutch Memory",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
   },
   {
     "id": 3226,
     "guid": "n9g_apvXj1",
     "type": "Prop",
     "name": "Vase with Blue Flowers",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0a/Dear-Van-Gogh-Dutch-Memory-Vase-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0a/Dear-Van-Gogh-Dutch-Memory-Vase-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Prop"
     },
@@ -353,7 +353,7 @@
     "guid": "br4g7KU3Ji",
     "type": "Special",
     "name": "Blessing",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
     "id": 3228,
@@ -361,7 +361,7 @@
     "type": "Emote",
     "name": "Frustration",
     "level": 2,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Dear-Van-Gogh-Dutch-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Dear-Van-Gogh-Dutch-Memory-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Expression"
@@ -373,7 +373,7 @@
     "type": "Emote",
     "name": "Frustration",
     "level": 3,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Dear-Van-Gogh-Dutch-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Dear-Van-Gogh-Dutch-Memory-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Expression"
     }
@@ -383,14 +383,14 @@
     "guid": "sUZM_ToguJ",
     "type": "Special",
     "name": "White Dye",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png"
   },
   {
     "id": 3231,
     "guid": "q8EsW2_NSv",
     "type": "Hair",
     "name": "Dutch Memory Hair",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ab/Dear-Van-Gogh-Dutch-Memory-Hair-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ab/Dear-Van-Gogh-Dutch-Memory-Hair-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Hair"
@@ -402,7 +402,7 @@
     "guid": "2HdZgHTgIZ",
     "type": "Cape",
     "name": "Dutch Memory Cape",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/85/Dear-Van-Gogh-Dutch-Memory-Cape-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/85/Dear-Van-Gogh-Dutch-Memory-Cape-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Cape"
     },
@@ -414,7 +414,7 @@
     "type": "Emote",
     "name": "Frustration",
     "level": 4,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Dear-Van-Gogh-Dutch-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Dear-Van-Gogh-Dutch-Memory-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Expression"
@@ -425,7 +425,7 @@
     "guid": "SqV6jxQbnM",
     "type": "Outfit",
     "name": "Dutch Memory Outfit",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a1/Dear-Van-Gogh-Dutch-Memory-Outfit-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a1/Dear-Van-Gogh-Dutch-Memory-Outfit-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Outfit"
@@ -437,7 +437,7 @@
     "guid": "N_8t1f1Ye1",
     "type": "Special",
     "name": "Season Heart",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Dear-Van-Gogh-Heart-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Dear-Van-Gogh-Heart-icon.png",
     "group": "SeasonPass"
   },
   {
@@ -446,7 +446,7 @@
     "type": "Emote",
     "name": "Slow Walk",
     "level": 1,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Dear-Van-Gogh-Joyful-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Dear-Van-Gogh-Joyful-Memory-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Expression"
     }
@@ -456,7 +456,7 @@
     "guid": "uMssFAmBnv",
     "type": "Prop",
     "name": "The Yellow House Painting",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/62/Dear-Van-Gogh-Joyful-Memory-Painting-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/62/Dear-Van-Gogh-Joyful-Memory-Painting-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Prop"
     },
@@ -467,14 +467,14 @@
     "guid": "EBAmsQLj1E",
     "type": "Special",
     "name": "Accompany Joyful Memory",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
   },
   {
     "id": 3239,
     "guid": "fvoqm5Br_9",
     "type": "Special",
     "name": "Blessing",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
     "id": 3240,
@@ -482,7 +482,7 @@
     "type": "Emote",
     "name": "Slow Walk",
     "level": 2,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Dear-Van-Gogh-Joyful-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Dear-Van-Gogh-Joyful-Memory-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Expression"
@@ -493,7 +493,7 @@
     "guid": "rfUuNEtFPe",
     "type": "HairAccessory",
     "name": "Joyful Memory Hair Accessory",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ca/Dear-Van-Gogh-Joyful-Memory-Hair-Accessory-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ca/Dear-Van-Gogh-Joyful-Memory-Hair-Accessory-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Hair_Accessory"
@@ -506,7 +506,7 @@
     "type": "Emote",
     "name": "Slow Walk",
     "level": 3,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Dear-Van-Gogh-Joyful-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Dear-Van-Gogh-Joyful-Memory-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Expression"
     }
@@ -516,7 +516,7 @@
     "guid": "awbPVRa_Fw",
     "type": "Hair",
     "name": "Joyful Memory Hair",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/77/Dear-Van-Gogh-Joyful-Memory-Hair-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/77/Dear-Van-Gogh-Joyful-Memory-Hair-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Hair"
     },
@@ -527,14 +527,14 @@
     "guid": "YaWk638J97",
     "type": "Special",
     "name": "Blessing",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
     "id": 3245,
     "guid": "DMaDfY9Ddl",
     "type": "Cape",
     "name": "Joyful Memory Cape",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Dear-Van-Gogh-Joyful-Memory-Cape-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Dear-Van-Gogh-Joyful-Memory-Cape-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Cape"
     },
@@ -545,7 +545,7 @@
     "guid": "kk7a5glFHD",
     "type": "Special",
     "name": "Black Dye",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/97/Black-dye-container-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/97/Black-dye-container-icon.png"
   },
   {
     "id": 3247,
@@ -553,7 +553,7 @@
     "type": "Emote",
     "name": "Slow Walk",
     "level": 4,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Dear-Van-Gogh-Joyful-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Dear-Van-Gogh-Joyful-Memory-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Expression"
@@ -564,7 +564,7 @@
     "guid": "JjSSyKQPEY",
     "type": "Special",
     "name": "Season Heart",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Dear-Van-Gogh-Heart-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Dear-Van-Gogh-Heart-icon.png",
     "group": "SeasonPass"
   },
   {
@@ -573,7 +573,7 @@
     "type": "Emote",
     "name": "Bask",
     "level": 1,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Dear-Van-Gogh-Rustic-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Dear-Van-Gogh-Rustic-Memory-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rustic_Memory#Expression"
     }
@@ -583,21 +583,21 @@
     "guid": "T9jzszI0hV",
     "type": "Special",
     "name": "Blessing",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
     "id": 3251,
     "guid": "r5Wb1z2P-8",
     "type": "Special",
     "name": "Accompany Rustic Memory",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
   },
   {
     "id": 3252,
     "guid": "biyNrvTRa6",
     "type": "Prop",
     "name": "Windmill Painting",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f2/Dear-Van-Gogh-Rustic-Memory-Painting-Prop-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f2/Dear-Van-Gogh-Rustic-Memory-Painting-Prop-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rustic_Memory#Prop"
     },
@@ -608,7 +608,7 @@
     "guid": "lqByBRP4v5",
     "type": "Special",
     "name": "Red Dye",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6c/Red-dye-container-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6c/Red-dye-container-icon.png"
   },
   {
     "id": 3254,
@@ -616,7 +616,7 @@
     "type": "Emote",
     "name": "Bask",
     "level": 2,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Dear-Van-Gogh-Rustic-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Dear-Van-Gogh-Rustic-Memory-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rustic_Memory#Expression"
@@ -628,7 +628,7 @@
     "type": "Emote",
     "name": "Bask",
     "level": 3,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Dear-Van-Gogh-Rustic-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Dear-Van-Gogh-Rustic-Memory-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rustic_Memory#Expression"
     }
@@ -638,14 +638,14 @@
     "guid": "AAl-2aJtUw",
     "type": "Special",
     "name": "Blessing",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png/revision/latest"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
     "id": 3257,
     "guid": "NeLwhNn3KZ",
     "type": "Shoes",
     "name": "Rustic Memory Shoes",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Dear-Van-Gogh-Rustic-Memory-Shoes-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Dear-Van-Gogh-Rustic-Memory-Shoes-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rustic_Memory#Shoes"
@@ -657,7 +657,7 @@
     "guid": "xsuo6-58kt",
     "type": "HairAccessory",
     "name": "Rustic Memory Hair Accessory",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/Dear-Van-Gogh-Rustic-Memory-Hair-Accessory-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/Dear-Van-Gogh-Rustic-Memory-Hair-Accessory-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rustic_Memory#Hair_Accessory"
     },
@@ -669,7 +669,7 @@
     "type": "Emote",
     "name": "Bask",
     "level": 4,
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Dear-Van-Gogh-Rustic-Memory-Emote-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Dear-Van-Gogh-Rustic-Memory-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rustic_Memory#Expression"
@@ -680,7 +680,7 @@
     "guid": "8STJebiuKW",
     "type": "Cape",
     "name": "Rustic Memory Cape",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/24/Dear-Van-Gogh-Rustic-Memory-Cape-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/24/Dear-Van-Gogh-Rustic-Memory-Cape-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rustic_Memory#Cape"
@@ -692,7 +692,7 @@
     "guid": "rWMp_LAHlT",
     "type": "Special",
     "name": "Season Heart",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Dear-Van-Gogh-Heart-icon.png/revision/latest",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Dear-Van-Gogh-Heart-icon.png",
     "group": "SeasonPass"
   }
 ]
