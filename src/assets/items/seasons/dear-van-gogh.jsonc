@@ -56,6 +56,16 @@
     "order": 14300
   },
   {
+    "id": 3200,
+    "guid": "qOfG2a7-e0",
+    "type": "Quest",
+    "name": "Quest 3",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#3"
+    }
+  },
+  {
     "id": 3197,
     "guid": "79IJJygQsw",
     "type": "Prop",
@@ -85,13 +95,13 @@
     "order": 13300
   },
   {
-    "id": 3200,
-    "guid": "qOfG2a7-e0",
+    "id": 3203,
+    "guid": "cyHa3tGo0U",
     "type": "Quest",
-    "name": "Quest 3",
+    "name": "Quest 4",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#3"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#4"
     }
   },
   {
@@ -118,13 +128,13 @@
     "order": 12200
   },
   {
-    "id": 3203,
-    "guid": "cyHa3tGo0U",
+    "id": 3205,
+    "guid": "_e_B0Ow2pM",
     "type": "Quest",
-    "name": "Quest 4",
+    "name": "Quest 5",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#4"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#5"
     }
   },
   {
@@ -139,10 +149,10 @@
     "order": 13700
   },
   {
-    "id": 3205,
-    "guid": "_e_B0Ow2pM",
+    "id": 3263,
+    "guid": "Z2IzvWRyeV",
     "type": "Quest",
-    "name": "Quest 5",
+    "name": "Quest 6",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Quest_#5"
