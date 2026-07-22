@@ -73,15 +73,10 @@ Rules:
 ## Step 4: Add item data (new items only)
 
 For each new item referenced by the new nodes that does not already exist, add it to
-`src/assets/items/seasons/<season>.jsonc`.
+`src/assets/items/seasons/<season>.jsonc` following the **`add-item`** skill for the item
+data model, ids and conventions. In addition:
 
-Rules:
-- Add an `id` property to each new item.
-- Use `node scripts/next-item-id.mjs` once to get the starting item id, then increment by 1
-  for each additional new item across all spirits in this visit.
-- If the script returns nothing, derive the starting id from the highest existing `id` in
-  the target file(s) plus 1, then keep incrementing.
-- Preserve provided item guids and metadata. Do not duplicate items that already exist.
+- Do not duplicate items that already exist (returning trees re-offer existing cosmetics, only the nodes are new).
 
 ## Step 5: Add spirit tree data
 

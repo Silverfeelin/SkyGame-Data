@@ -116,13 +116,10 @@ user before writing.
 ## Step 2: Add items
 
 Create `src/assets/items/seasons/<season>.jsonc` (a JSONC array) and add every new cosmetic
-unlocked across all the season's trees **and its IAP packs** (Step 7). IAP cosmetics are items
-too — add them here, then reference their guids from the IAPs.
+unlocked across all the season's trees **and its IAP packs** (Step 7), following the
+**`add-item`** skill for the item data model, ids, image links and conventions. IAP cosmetics
+are items too — add them here, then reference their guids from the IAPs. Season-specific notes:
 
-- Run `node scripts/next-item-id.mjs` once for the starting numeric `id`, then increment by 1
-  per new item. If it errors, use the highest existing `id` across `items/**` + 1.
-- New `guid` per item. Set `type` (`ItemType`), `name`, `icon`, and
-  `previewUrl`/`dye`/`group`/`order`/`_wiki` where known — match neighbouring season items.
 - Set `group` (`ItemGroup`) only by **availability**, not by "it's an IAP": use `"Limited"`
   **only** for items not planned to return (collab / limited-time). IAP cosmetics that the wiki
   says are **available permanently** get **no `group`**. Match neighbouring items.

@@ -55,10 +55,10 @@ Confirm anything ambiguous with the user before writing.
 
 ## Step 2: Add items
 
-Append the instance's **new** items to the items file (Step 0). Reuse existing guids for any returning item — do not duplicate.
+Append the instance's **new** items to the items file (Step 0), following the **`add-item`**
+skill for the item data model, ids, image links and conventions. Reuse existing guids for any
+returning item — do not duplicate. Event-specific notes:
 
-- Run `node scripts/next-item-id.mjs` once for the starting numeric `id`, then increment by 1 per new item. If it errors, use highest existing `id` + 1.
-- New `guid` per item. Set `type` (`ItemType`), `name`, `icon`, and `previewUrl`/`dye`/`order`/`_wiki` where known — match neighbouring items.
 - Do **not** set `season` on event items (`season` is only for season trees and IAPs).
 - "Random Trail Spell", "Cutscene", warps etc. are `type: "Special"` filler nodes — include them if the tree has them.
 

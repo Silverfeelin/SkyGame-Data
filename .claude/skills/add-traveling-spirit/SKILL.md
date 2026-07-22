@@ -56,16 +56,11 @@ Add node entries from the provided data to the correct season nodes file:
 
 Step 5: Add item data (if provided)
 
-If the provided data includes items, add them to:
+If the provided data includes items, add them to
+`/src/assets/items/seasons/<season-file>.jsonc` following the **`add-item`** skill for the
+item data model, ids and conventions. In addition:
 
-- `/src/assets/items/seasons/<season-file>.jsonc`
-
-Rules:
-- Add an `id` property to each new item.
-- Use `/scripts/next-item-id.mjs` once to get the starting item id, then increment by 1 for each additional new item in this import.
-- If the script does not return a value, derive the starting id from the highest existing `id` in the target season items file plus 1, then continue incrementing.
-- Preserve provided item guids and metadata.
-- Avoid duplicate items by guid.
+- Do not duplicate items that already exist (returning trees re-offer existing cosmetics, only the nodes are new).
 
 Step 6: Validate references and consistency
 
