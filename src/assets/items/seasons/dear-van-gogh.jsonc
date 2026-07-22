@@ -733,24 +733,26 @@
   {
     "id": 3264,
     "guid": "Yqwe0k-zzj",
-    "type":"Cape",
+    "type": "Cape",
     "name": "Wheatfield Cape",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7a/Dear-Van-Gogh-Wheatfield-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/92/Dear-Van-Gogh-Wheatfield-Cape-back.png",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 12350
   },
   {
     "id": 3265,
     "guid": "C3Amjr4SgJ",
-    "type":"Mask",
+    "type": "Mask",
     "name": "Starry Night's Visage",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/aa/Dear-Van-Gogh-Starry-Night-Visage-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/Dear-Van-Gogh-Starry-Night-Visage-Mask.png",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 9050
   },
   {
     "id": 3266,
@@ -761,7 +763,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/56/Dear-Van-Gogh-Starry-Night-Kiss-Accessory.png",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 1350
   },
   {
     "id": 3267,
@@ -772,7 +775,8 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Dear-Van-Gogh-Starry-Night-Mantle-Cape-back.png",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 12150
   },
   {
     "id": 3268,
@@ -783,6 +787,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Dear-Van-Gogh-Starry-Night-Mantle-Accessory-front.png",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 4350
   }
 ]
