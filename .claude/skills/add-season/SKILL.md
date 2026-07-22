@@ -123,7 +123,9 @@ too — add them here, then reference their guids from the IAPs.
   per new item. If it errors, use the highest existing `id` across `items/**` + 1.
 - New `guid` per item. Set `type` (`ItemType`), `name`, `icon`, and
   `previewUrl`/`dye`/`group`/`order`/`_wiki` where known — match neighbouring season items.
-- IAP cosmetics are conventionally `"group": "Limited"` — match neighbouring season IAP items.
+- Set `group` (`ItemGroup`) only by **availability**, not by "it's an IAP": use `"Limited"`
+  **only** for items not planned to return (collab / limited-time). IAP cosmetics that the wiki
+  says are **available permanently** get **no `group`**. Match neighbouring items.
 - Do **not** set `season` on the item (this holds for tree items **and** IAP items).
 - "Random Trail Spell", "Cutscene", warps, Heart/Wing Buff placeholder nodes etc. are
   `type: "Special"` filler nodes — include them if the trees have them.
