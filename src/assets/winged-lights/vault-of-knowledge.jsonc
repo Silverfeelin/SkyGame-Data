@@ -15,7 +15,7 @@
     "guid": "Qz-2auzQan",
     "order": 6002,
     "description": "On top of the jar to the right of the Starlight Desert.",
-    "mapData": { "position": [-201.5, 435.63], "videoUrl": "Vault/3.mp4" },
+    "mapData": { "position": [-214.98, 424.38], "videoUrl": "Vault/3.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Starlight_Desert"
     }
@@ -24,7 +24,7 @@
     "guid": "DFxZJcPENY",
     "order": 6003,
     "description": "On top of the lighthouse to the left of the Starlight Desert.",
-    "mapData": { "position": [-203.63, 420.63], "videoUrl": "Vault/2.mp4" },
+    "mapData": { "position": [-217.11, 409.38], "videoUrl": "Vault/2.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Starlight_Desert"
     }
@@ -33,7 +33,7 @@
     "guid": "r_r5vLWj-6",
     "order": 6004,
     "description": "On the bottom floor of the king's island in the Starlight Desert.",
-    "mapData": { "position": [-194.13, 423], "videoUrl": "Vault/4.mp4" },
+    "mapData": { "position": [-207.61, 411.75], "videoUrl": "Vault/4.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Starlight_Desert"
     }
@@ -43,7 +43,7 @@
     "guid": "ZDqubWevQx",
     "order": 6005,
     "description": "On the other side of the Mural wall in the Crescent Oasis.",
-    "mapData": { "position": [-185.25, 393.63], "videoUrl": "Vault/13.mp4" },
+    "mapData": { "position": [-187.61, 392.06], "videoUrl": "Vault/13.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Crescent_Oasis"
     }
@@ -52,7 +52,7 @@
     "guid": "HdrkYqqX3_",
     "order": 6006,
     "description": "Under the large tree in the Crescent Oasis.",
-    "mapData": { "position": [-180.88, 392.38], "videoUrl": "Vault/15.mp4" },
+    "mapData": { "position": [-183.24, 390.81], "videoUrl": "Vault/15.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Crescent_Oasis"
     }
@@ -61,7 +61,7 @@
     "guid": "fWLJNq1H3v",
     "order": 6007,
     "description": "Behind the peak of the main building in the Crescent Oasis.",
-    "mapData": { "position": [-176.88, 398.75], "videoUrl": "Vault/14.mp4" },
+    "mapData": { "position": [-179.24, 397.18], "videoUrl": "Vault/14.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Crescent_Oasis"
     }
@@ -71,7 +71,7 @@
     "guid": "bqAgpNc9km",
     "order": 6008,
     "description": "In the distant gazebo in Moominvalley. Requires completion of the quests.",
-    "mapData": { "position": [-152.94, 410.25], "videoUrl": "Vault/16.mp4" },
+    "mapData": { "position": [-181.67, 425.56], "videoUrl": "Vault/16.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Moominvalley"
     }
@@ -100,7 +100,7 @@
     "guid": "_RSC0jqGCh",
     "order": 6011,
     "description": "In a locked cell on the outside of the main building in the Repository of Refuge.",
-    "mapData": { "position": [-244.5, 324.5], "videoUrl": "Vault/7.mp4" },
+    "mapData": { "position": [-252.67, 326.18], "videoUrl": "Vault/7.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Repository_of_Refuge"
     }
@@ -110,7 +110,7 @@
     "guid": "Hn7mU7ktxt",
     "order": 6012,
     "description": "On top of the gazebo on the Third Floor of the Vault.",
-    "mapData": { "position": [-209.13, 345.38], "videoUrl": "Vault/8.mp4" },
+    "mapData": { "position": [-209.49, 350.57], "videoUrl": "Vault/8.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Third_Floor"
     }
@@ -120,7 +120,7 @@
     "guid": "Zzvpdwh0wl",
     "order": 6013,
     "description": "In a small roofed building on the Fourth Floor of the Vault.",
-    "mapData": { "position": [-200.13, 334.25], "videoUrl": "Vault/9.mp4" },
+    "mapData": { "position": [-200.55, 336.5], "videoUrl": "Vault/9.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Fourth_Floor"
     }
@@ -129,7 +129,7 @@
     "guid": "I-vGwH81iB",
     "order": 6014,
     "description": "At the highest point of the Fourth Floor of the Vault, surrounded by small pillars.",
-    "mapData": { "position": [-198.13, 337.5], "videoUrl": "Vault/10.mp4" },
+    "mapData": { "position": [-198.55, 339.75], "videoUrl": "Vault/10.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Fourth_Floor"
     }
@@ -139,7 +139,7 @@
     "guid": "vP7uVXrDUu",
     "order": 6015,
     "description": "On top of one of the floating bones at the Fifth Floor of the Vault.",
-    "mapData": { "position": [-196.13, 312.75], "videoUrl": "Vault/11.mp4" },
+    "mapData": { "position": [-196.55, 315], "videoUrl": "Vault/11.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Fifth_Floor"
     }

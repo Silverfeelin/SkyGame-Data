@@ -10,13 +10,13 @@
     "guid": "9TfCpBgmXW",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Vault-third-floor-map-shrine.webp",
-    "mapData": { "position": [-211.44, 349.69] }
+    "mapData": { "position": [-211.8, 354.88] }
   },
   {
     "guid": "oxZXdByjCg",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Vault-fourth-floor-map-shrine.webp",
-    "mapData": { "position": [-201.88, 331.06] }
+    "mapData": { "position": [-202.3, 333.31] }
   },
   {
     "guid": "4jtpTFZ39o",
@@ -34,31 +34,31 @@
     "guid": "Jgcu1-kVCL",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Vault-Crescent-Oasis-Map-Shrine.webp",
-    "mapData": { "position": [-181.94, 395.56] }
+    "mapData": { "position": [-184.3, 393.99] }
   },
   {
     "guid": "ndvHza3wbp",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Vault-Moominvalley-Glade-Map-Shrine.webp",
-    "mapData": { "position": [-152.94, 406.25] }
+    "mapData": { "position": [-190.23, 420.13] }
   },
   {
     "guid": "AwpiTWfg3K",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Vault-Gargen-Map-Shrine.webp",
-    "mapData": { "position": [-201.25, 430.13] }
+    "mapData": { "position": [-214.73, 418.88] }
   },
   {
     "guid": "l0yhcYX1ll",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Vault-Refuge-Map-Shrine.webp",
-    "mapData": { "position": [-249.13, 324.94] }
+    "mapData": { "position": [-257.3, 326.62] }
   },
   {
     "guid": "MCbsuqr0_p",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Fractured-Lantern-Storage-Map-Shrine.webp",
-    "mapData": { "position": [-226.25, 331.75] }
+    "mapData": { "position": [-234.11, 333.75] }
   },
   {
     "guid": "JSPUuuqHRw",
@@ -76,7 +76,7 @@
     "guid": "hV0pfzWtGg",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/starry-gallery.webp",
-    "mapData": { "position": [-226.25, 419.75] }
+    "mapData": { "position": [-228.67, 446.56] }
   }
   // #endregion
 ]

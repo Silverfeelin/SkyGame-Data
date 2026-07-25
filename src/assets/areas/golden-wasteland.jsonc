@@ -144,7 +144,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/lost-city-720.webp",
     "spirits": ["aO0n7dAWvc", "Jq1bIftHV5", "zdstJkDMg5", "2FQrdh4aCQ", "TDQC4wg3G9"],
     "mapShrines": ["JzCzw4xQBl"],
-    "mapData": { "position": [-254.25, 402.75] },
+    "mapData": { "position": [-253.73, 411.81] },
     "connections": [{ "area": "mT6bVNovBW" }]
   }
 ]
