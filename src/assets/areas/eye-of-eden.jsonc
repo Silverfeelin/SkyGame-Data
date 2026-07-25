@@ -5,7 +5,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/eden/entrance-720.webp",
     "wingedLights": ["DSTxmpHUbB"],
     "mapShrines": ["QBGEZURf1h"],
-    "mapData": { "position": [-193.25, 275.75] },
+    "mapData": { "position": [-197.5, 263.5] },
     "connections": [{ "area": "xYRxil02Bm" }]
   },
   {
@@ -23,7 +23,7 @@
       "wyDIoyrZbw",
       "ng2YT7SXkx"
     ],
-    "mapData": { "position": [-150.75, 250.5] },
+    "mapData": { "position": [-155, 238.25] },
     "mapShrines": ["NqwRQmN5QP"],
     "connections": [{ "area": "vWlW190-P1" }, { "area": "1-S3ZsNdV0" }]
   },
@@ -31,7 +31,7 @@
     "guid": "1-S3ZsNdV0",
     "name": "Eye of Eden",
     "imageUrl": "https://sky-planner.com/assets/game/areas/eden/return-720.webp",
-    "mapData": { "position": [-109, 265.25] },
+    "mapData": { "position": [-113.25, 253] },
     "connections": [{ "area": "xYRxil02Bm" }, { "area": "3-YDmI4uL8" }]
   },
   {
@@ -39,7 +39,7 @@
     "name": "Ascent",
     "imageUrl": "https://sky-planner.com/assets/game/areas/eden/ascent-720.webp",
     "mapShrines": ["9SpZphlSnX"],
-    "mapData": { "position": [-66.5, 263.75] },
+    "mapData": { "position": [-70.75, 251.5] },
     "connections": [{ "area": "Ub5s1RiDA1" }]
   },
   {
@@ -56,7 +56,7 @@
     ],
     "wingedLights": ["DvYGWvjeOC"],
     "mapShrines": ["qaA1pBOjjn"],
-    "mapData": { "position": [-183.2, 197.57] },
+    "mapData": { "position": [-187.45, 185.32] },
     "connections": [{ "area": "zewkN917oz" }, { "area": "Mhbh0g9OdG" }]
   }
 ]

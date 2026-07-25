@@ -4,7 +4,7 @@
     "guid": "-8ZzA17gRA",
     "order": 1001,
     "description": "On top of the mountain at the start of Isle of Dawn.",
-    "mapData": { "position": [-462.88, 303.88], "videoUrl": "Isle/1.mp4" },
+    "mapData": { "position": [-467.13, 291.63], "videoUrl": "Isle/1.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Passage_Rock"
     }
@@ -13,7 +13,7 @@
     "guid": "zhBAUiJptT",
     "order": 1002,
     "description": "On top of a small boat before the Passage Rock.",
-    "mapData": { "position": [-459.44, 309.06], "videoUrl": "Isle/2.mp4" },
+    "mapData": { "position": [-463.69, 296.81], "videoUrl": "Isle/2.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Passage_Rock"
     }
@@ -22,7 +22,7 @@
     "guid": "OS7R6fkcT9",
     "order": 1003,
     "description": "Behind a light gate on the right side of the Passage Rock.",
-    "mapData": { "position": [-448, 315.25], "videoUrl": "Isle/3.mp4" },
+    "mapData": { "position": [-452.25, 303], "videoUrl": "Isle/3.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sand_Dunes"
     }
@@ -31,7 +31,7 @@
     "guid": "9fPSNUhxmp",
     "order": 1004,
     "description": "Behind the Migration campsite.",
-    "mapData": { "position": [-452, 280], "videoUrl": "Isle/10.mp4" },
+    "mapData": { "position": [-456.25, 267.75], "videoUrl": "Isle/10.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sand_Dunes"
     }
@@ -40,7 +40,7 @@
     "guid": "gfQnk_B1mN",
     "order": 1005,
     "description": "On the ramp leading up to the Isle Temple.",
-    "mapData": { "position": [-430.38, 294], "videoUrl": "Isle/4.mp4" },
+    "mapData": { "position": [-434.63, 281.75], "videoUrl": "Isle/4.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sand_Dunes"
     }
@@ -50,7 +50,7 @@
     "guid": "vGCXUjMLfB",
     "order": 1006,
     "description": "In the tunnel at the top of Butterfly Cave.",
-    "mapData": { "position": [-406.81, 321.56], "videoUrl": "Isle/5.mp4" },
+    "mapData": { "position": [-411.06, 309.31], "videoUrl": "Isle/5.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Butterfly_Cave"
     }
@@ -60,7 +60,7 @@
     "guid": "LOr9OqWHQv",
     "order": 1007,
     "description": "At the end of the Trial of Water.",
-    "mapData": { "position": [-396.5, 336], "videoUrl": "Isle/6.mp4" },
+    "mapData": { "position": [-400.75, 323.75], "videoUrl": "Isle/6.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Cave_of_Prophecies"
     }
@@ -69,7 +69,7 @@
     "guid": "BPnMAjL286",
     "order": 1008,
     "description": "At the end of the Trial of Earth.",
-    "mapData": { "position": [-387.75, 345.38], "videoUrl": "Isle/7.mp4" },
+    "mapData": { "position": [-392, 333.13], "videoUrl": "Isle/7.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Cave_of_Prophecies"
     }
@@ -78,7 +78,7 @@
     "guid": "7IpuFMAIXe",
     "order": 1009,
     "description": "At the end of the Trial of Air.",
-    "mapData": { "position": [-387.5, 358.5], "videoUrl": "Isle/8.mp4" },
+    "mapData": { "position": [-391.75, 346.25], "videoUrl": "Isle/8.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Cave_of_Prophecies"
     }
@@ -87,7 +87,7 @@
     "guid": "89a0rCfJL-",
     "order": 1010,
     "description": "At the end of the Trial of Fire.",
-    "mapData": { "position": [-397.69, 362.88], "videoUrl": "Isle/9.mp4" },
+    "mapData": { "position": [-401.94, 350.63], "videoUrl": "Isle/9.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Cave_of_Prophecies"
     }

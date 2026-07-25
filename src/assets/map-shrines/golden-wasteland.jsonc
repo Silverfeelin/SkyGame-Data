@@ -3,54 +3,54 @@
     "guid": "EaNImb7KpI",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-Social-space-Map-Shrine.webp",
-    "mapData": { "position": [-282, 340.56] }
+    "mapData": { "position": [-286.25, 328.31] }
   },
   {
     "guid": "M8hQkhleyp",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-Broken-Temple-Map-Shrine.webp",
-    "mapData": { "position": [-328.5, 370.56] }
+    "mapData": { "position": [-332.75, 358.31] }
   },
   {
     "guid": "WlpStWBJaD",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-Graveyard-map-shrine.webp",
-    "mapData": { "position": [-314.19, 383.69] }
+    "mapData": { "position": [-318.44, 371.44] }
   },
   {
     "guid": "y5INBIKCXK",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-Crabs-field--Map-Shrine.webp",
-    "mapData": { "position": [-314.69, 411.25] }
+    "mapData": { "position": [-318.94, 399] }
   },
   {
     "guid": "XCCgbwMp3Y",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-Battlefield-map-shrine.webp",
-    "mapData": { "position": [-293.19, 385.44] }
+    "mapData": { "position": [-297.44, 373.19] }
   },
   {
     "guid": "78BXBDmd2d",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-Temple-map-shrine.webp",
-    "mapData": { "position": [-265.5, 393.06] }
+    "mapData": { "position": [-269.75, 380.81] }
   },
   {
     "guid": "rULgp7ynZ-",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-Ark-Maze-Map-Shrine.webp",
-    "mapData": { "position": [-313.38, 460.13] }
+    "mapData": { "position": [-317.63, 447.88] }
   },
   {
     "guid": "1RjdboXv9j",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Treasure-Reef-map-shrine.webp",
-    "mapData": { "position": [-366.56, 411.56] }
+    "mapData": { "position": [-370.81, 399.31] }
   },
   {
     "guid": "JzCzw4xQBl",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-The-Two-Embers-City-Map-Shrine.webp",
-    "mapData": { "position": [-250, 420] }
+    "mapData": { "position": [-254.25, 407.75] }
   }
 ]

@@ -5,7 +5,7 @@
     "guid": "5BM1uqQvM4",
     "order": 4001,
     "description": "On the left side down the slope towards the Ice Rink.",
-    "mapData": { "position": [-256.88, 197.5], "videoUrl": "Valley/1.mp4" },
+    "mapData": { "position": [-261.13, 185.25], "videoUrl": "Valley/1.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Slope_and_Icerink"
     }
@@ -14,7 +14,7 @@
     "guid": "vKEMuduC0F",
     "order": 4002,
     "description": "In the middle of the Ice Rink.",
-    "mapData": { "position": [-259.56, 217.81], "videoUrl": "Valley/2.mp4" },
+    "mapData": { "position": [-263.81, 205.56], "videoUrl": "Valley/2.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Slope_and_Icerink"
     }
@@ -23,7 +23,7 @@
     "guid": "_rmaySa6NL",
     "order": 4003,
     "description": "Below the ice of the Ice Rink.",
-    "mapData": { "position": [-256.25, 216.13], "videoUrl": "Valley/3.mp4" },
+    "mapData": { "position": [-260.5, 203.88], "videoUrl": "Valley/3.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Slope_and_Icerink"
     }
@@ -33,7 +33,7 @@
     "guid": "DjuNbgmKq5",
     "order": 4004,
     "description": "At the top of the Citadel.",
-    "mapData": { "position": [-235.88, 229.75], "videoUrl": "Valley/4.mp4" },
+    "mapData": { "position": [-240.13, 217.5], "videoUrl": "Valley/4.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Citadel"
     }
@@ -42,7 +42,7 @@
     "guid": "D9Z9c3mRDf",
     "order": 4005,
     "description": "In a window on the side of one of the tallest towers of the Citadel.",
-    "mapData": { "position": [-238.75, 232.13], "videoUrl": "Valley/5.mp4" },
+    "mapData": { "position": [-243, 219.88], "videoUrl": "Valley/5.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Citadel"
     }
@@ -52,7 +52,7 @@
     "guid": "sfDl46vj4O",
     "order": 4006,
     "description": "In the right of two buildings with a skywalk connecting them during the Flying Race.",
-    "mapData": { "position": [-236.88, 252.75], "videoUrl": "Valley/6.mp4" },
+    "mapData": { "position": [-241.13, 240.5], "videoUrl": "Valley/6.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Flying_Race"
     }
@@ -61,7 +61,7 @@
     "guid": "N6KMjaxez6",
     "order": 4007,
     "description": "Atop a spire between floating rocks during the Flying Race.",
-    "mapData": { "position": [-236.88, 255.63], "videoUrl": "Valley/7.mp4" },
+    "mapData": { "position": [-241.13, 243.38], "videoUrl": "Valley/7.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Flying_Race"
     }
@@ -71,7 +71,7 @@
     "guid": "Tmg19lVERk",
     "order": 4008,
     "description": "Near the end of the Sliding Race.",
-    "mapData": { "position": [-255.13, 249], "videoUrl": "Valley/17.mp4" },
+    "mapData": { "position": [-259.38, 236.75], "videoUrl": "Valley/17.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sliding_Race"
     }
@@ -81,7 +81,7 @@
     "guid": "HqV6qmTkzQ",
     "order": 4009,
     "description": "On the slope at the end of the race before reaching the Coliseum.",
-    "mapData": { "position": [-259.13, 292], "videoUrl": "Valley/8.mp4" },
+    "mapData": { "position": [-263.38, 279.75], "videoUrl": "Valley/8.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Coliseum"
     }
@@ -91,7 +91,7 @@
     "guid": "McAh-VzlJH",
     "order": 4010,
     "description": "On the shoulder of the statue left of the Temple of the Valley entrance.",
-    "mapData": { "position": [-243.88, 287.13], "videoUrl": "Valley/9.mp4" },
+    "mapData": { "position": [-248.13, 274.88], "videoUrl": "Valley/9.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Coliseum"
     }
@@ -101,7 +101,7 @@
     "guid": "E-f38yRTaj",
     "order": 4011,
     "description": "In a room through the upper hole in the left wall inside the Temple of the Valley.",
-    "mapData": { "position": [-238.88, 291.75], "videoUrl": "Valley/10.mp4" },
+    "mapData": { "position": [-243.13, 279.5], "videoUrl": "Valley/10.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Valley_Temple"
     }
@@ -111,7 +111,7 @@
     "guid": "U6oebtceIH",
     "order": 4012,
     "description": "In a cave in front of the Village of Dreams hot springs.",
-    "mapData": { "position": [-286.5, 280.25], "videoUrl": "Valley/11.mp4" },
+    "mapData": { "position": [-290.75, 268], "videoUrl": "Valley/11.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Village_of_Dreams"
     }
@@ -120,7 +120,7 @@
     "guid": "xF36ISKLHe",
     "order": 4013,
     "description": "In a cave near the top of a smaller mountain on the side of the Village of Dreams.",
-    "mapData": { "position": [-282.75, 268.13], "videoUrl": "Valley/12.mp4" },
+    "mapData": { "position": [-287, 255.88], "videoUrl": "Valley/12.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Village_of_Dreams"
     }
@@ -129,7 +129,7 @@
     "guid": "orOMQkGltm",
     "order": 4014,
     "description": "On top of a small tower between the two elevators leading to Hermit Valley.",
-    "mapData": { "position": [-275.13, 261.25], "videoUrl": "Valley/13.mp4" },
+    "mapData": { "position": [-279.38, 249], "videoUrl": "Valley/13.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Village_of_Dreams"
     }
@@ -139,7 +139,7 @@
     "guid": "8_EY7L74TI",
     "order": 4015,
     "description": "Looking back at the elevator at Hermit's Cave, in a cave on the right side.",
-    "mapData": { "position": [-286.38, 244.75], "videoUrl": "Valley/14.mp4" },
+    "mapData": { "position": [-290.63, 232.5], "videoUrl": "Valley/14.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Hermit_Valley"
     }
@@ -148,7 +148,7 @@
     "guid": "KFqwmitUni",
     "order": 4016,
     "description": "On the back side of Hermit's cave.",
-    "mapData": { "position": [-278.5, 244], "videoUrl": "Valley/15.mp4" },
+    "mapData": { "position": [-282.75, 231.75], "videoUrl": "Valley/15.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Hermit_Valley"
     }
@@ -158,7 +158,7 @@
     "guid": "JRTI3BsjIZ",
     "order": 4017,
     "description": "Hidden behind some boxes, backstage of the Village Theatre and to the left.",
-    "mapData": { "position": [-287.38, 301.88], "videoUrl": "Valley/16.mp4" },
+    "mapData": { "position": [-291.63, 289.63], "videoUrl": "Valley/16.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Village_Theater"
     }

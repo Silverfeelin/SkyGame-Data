@@ -4,67 +4,67 @@
     "guid": "AKRMG2oyjD",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-Social-Space-Map-Shrine.webp",
-    "mapData": { "position": [-373.31, 122] }
+    "mapData": { "position": [-377.56, 109.75] }
   },
   {
     "guid": "QgjhOZjQ-n",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-Clearing-Map-Shrine.webp",
-    "mapData": { "position": [-366.06, 112.88] }
+    "mapData": { "position": [-370.31, 100.63] }
   },
   {
     "guid": "8IFQ0Mi8Hk",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-Main-Treehouse-Map-Shrine.webp",
-    "mapData": { "position": [-336.5, 65.94] }
+    "mapData": { "position": [-340.75, 53.69] }
   },
   {
     "guid": "l5pWa40d6g",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-Brook-Map-Shrine.webp",
-    "mapData": { "position": [-324.81, 104.56] }
+    "mapData": { "position": [-329.06, 92.31] }
   },
   {
     "guid": "NMH_NIElGP",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-Elevated-Clearing-Map-Shrine.webp",
-    "mapData": { "position": [-325, 138.63] }
+    "mapData": { "position": [-329.25, 126.38] }
   },
   {
     "guid": "ZzKKzgMfUM",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-Underground-Cavern-Map-Shrine.webp",
-    "mapData": { "position": [-312.13, 159.56] }
+    "mapData": { "position": [-316.38, 147.31] }
   },
   {
     "guid": "0r1aX2gq4d",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-Blue-Bird-Map-Shrine.webp",
-    "mapData": { "position": [-341.56, 159] }
+    "mapData": { "position": [-345.81, 146.75] }
   },
   {
     "guid": "-J5jHK37oF",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-Boneyard-Map-Shrine.webp",
-    "mapData": { "position": [-312.25, 128.19] }
+    "mapData": { "position": [-316.5, 115.94] }
   },
   {
     "guid": "doMFpBkpt9",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-Temple-Map-Shrine.webp",
-    "mapData": { "position": [-284, 136.25] }
+    "mapData": { "position": [-288.25, 124] }
   },
   {
     "guid": "nlqV1yGTCM",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Forest-End-clearing-Map-Shrine.webp",
-    "mapData": { "position": [-276.75, 164] }
+    "mapData": { "position": [-281, 151.75] }
   },
   {
     "guid": "m2ju90tQ5x",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Flight-Area-Angle-Map-Shrine.webp",
-    "mapData": { "position": [-346.25, 265.38] }
+    "mapData": { "position": [-350.5, 253.13] }
   }
   // #endregion
 ]

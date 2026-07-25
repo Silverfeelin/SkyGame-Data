@@ -4,61 +4,61 @@
     "guid": "-R9H4i_Jz3",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Valley-Social-Space-Map-Shrine.webp",
-    "mapData": { "position": [-258.5, 184.63] }
+    "mapData": { "position": [-262.75, 172.38] }
   },
   {
     "guid": "GKHfiJzwUw",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Valley-Ice-Rink-Map-Shrine.webp",
-    "mapData": { "position": [-258.44, 213.94] }
+    "mapData": { "position": [-262.69, 201.69] }
   },
   {
     "guid": "fog6ZHU6Mx",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Citadel-Map-Shrine.webp",
-    "mapData": { "position": [-246.56, 234.06] }
+    "mapData": { "position": [-250.81, 221.81] }
   },
   {
     "guid": "r2NNvf4jdl",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Valley-Sliding-Race-Temple-Map-Shrine.webp",
-    "mapData": { "position": [-260.25, 248.75] }
+    "mapData": { "position": [-264.5, 236.5] }
   },
   {
     "guid": "Aq4k2P-fVB",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Valley-Flying-Race-Temple-Map-Shrine.webp",
-    "mapData": { "position": [-242.25, 254.38] }
+    "mapData": { "position": [-246.5, 242.13] }
   },
   {
     "guid": "LXnirIMnYf",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Coliseum-map-shrine.webp",
-    "mapData": { "position": [-250.06, 295.69] }
+    "mapData": { "position": [-254.31, 283.44] }
   },
   {
     "guid": "9_0DXKlub6",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Valley-Village-of-Dreams-Map-Shrine.webp",
-    "mapData": { "position": [-281, 272.38] }
+    "mapData": { "position": [-285.25, 260.13] }
   },
   {
     "guid": "Lg9btBXFWr",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Harmony-Hall-Map-shrine.webp",
-    "mapData": { "position": [-287.56, 289.44] }
+    "mapData": { "position": [-291.81, 277.19] }
   },
   {
     "guid": "dssBJwnc5Z",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Village-Theater-Map-Shrine.webp",
-    "mapData": { "position": [-291.69, 301.13] }
+    "mapData": { "position": [-295.94, 288.88] }
   },
   {
     "guid": "Nqlcq4Eqj5",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Valley-Hermit-Hideout-Map-Shrine.webp",
-    "mapData": { "position": [-277.13, 241.88] }
+    "mapData": { "position": [-281.38, 229.63] }
   }
   // #endregion
 ]

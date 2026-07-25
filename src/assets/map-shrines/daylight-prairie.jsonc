@@ -4,55 +4,55 @@
     "guid": "UZU8IWRFTQ",
     "description": "At the Prairie Social Space.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Prairie-Social-Space-Map-Shrine.webp",
-    "mapData": { "position": [-410.38, 233] }
+    "mapData": { "position": [-414.63, 220.75] }
   },
   {
     "guid": "jARCAHLdYn",
     "description": "In front of the Prairie Cave.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Prairie-Cave-Map-Shrine.webp",
-    "mapData": { "position": [-410.69, 160.69] }
+    "mapData": { "position": [-414.94, 148.44] }
   },
   {
     "guid": "4GI2OaP7Uw",
     "description": "At the Butterfly Fields.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Prairie-Butterfly-field-Map-Shrine.webp",
-    "mapData": { "position": [-407.19, 199.81] }
+    "mapData": { "position": [-411.44, 187.56] }
   },
   {
     "guid": "QDnkz_qE9i",
     "description": "On the left island of the Village Islands.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Prairie-Village-Map-Shrine.webp",
-    "mapData": { "position": [-397.75, 161.19] }
+    "mapData": { "position": [-402, 148.94] }
   },
   {
     "guid": "ZjUhH0OVu1",
     "description": "At the side of the Koi Pond.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Prairie-Temple-Map-Shrine.webp",
-    "mapData": { "position": [-382.25, 151.88] }
+    "mapData": { "position": [-386.5, 139.63] }
   },
   {
     "guid": "3_cCUrfyTX",
     "description": "At the top of the 8-Player Puzzle.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Prairie-8-Players-Puzzle-Map-Shrine.webp",
-    "mapData": { "position": [-380.81, 183.75] }
+    "mapData": { "position": [-385.06, 171.5] }
   },
   {
     "guid": "vcq5hgkduA",
     "description": "At the Bird's Nest.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Prairie-Bird-nest-map-shrine.webp",
-    "mapData": { "position": [-384.13, 208.69] }
+    "mapData": { "position": [-388.38, 196.44] }
   },
   {
     "guid": "8ONaIKF9Ft",
     "description": "Next to the Sanctuary Guide on Sanctuary Island.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Prairie-Sanctuary-Island-Map-Shrine.webp",
-    "mapData": { "position": [-348.94, 203.56] }
+    "mapData": { "position": [-353.19, 191.31] }
   },
   {
     "guid": "__Hemxvej4",
     "description": "Next to the Moments Guide in Prairie Peaks.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Prairie-Prairie-Peaks-Map-Shrine.webp",
-    "mapData": { "position": [-416.69, 137.19] }
+    "mapData": { "position": [-420.94, 124.94] }
   }
   // #endregion
 ]

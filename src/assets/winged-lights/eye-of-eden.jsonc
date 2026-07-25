@@ -5,7 +5,7 @@
     "guid": "DSTxmpHUbB",
     "order": 7001,
     "description": "In the building at the end of the opening area in Eye of Eden.",
-    "mapData": { "position": [-182.5, 267.31], "videoUrl": "Eden/1.mp4" },
+    "mapData": { "position": [-186.75, 255.06], "videoUrl": "Eden/1.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -15,7 +15,7 @@
     "guid": "1kVW4x7nYj",
     "order": 7002,
     "description": "In front of the tunnel at the end before the point of no return.",
-    "mapData": { "position": [-130.88, 256.13], "videoUrl": "Eden/2.mp4" },
+    "mapData": { "position": [-135.13, 243.88], "videoUrl": "Eden/2.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -24,7 +24,7 @@
     "guid": "kxJmOLwH6e",
     "order": 7003,
     "description": "First in the tunnel before the point of no return.",
-    "mapData": { "position": [-130.88, 258.63], "videoUrl": "Eden/3.mp4" },
+    "mapData": { "position": [-135.13, 246.38], "videoUrl": "Eden/3.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -33,7 +33,7 @@
     "guid": "3zT-KHGHA_",
     "order": 7004,
     "description": "Second in the tunnel before the point of no return.",
-    "mapData": { "position": [-130.88, 261.13], "videoUrl": "Eden/4.mp4" },
+    "mapData": { "position": [-135.13, 248.88], "videoUrl": "Eden/4.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -42,7 +42,7 @@
     "guid": "ahUFYVXgT8",
     "order": 7005,
     "description": "Third in the tunnel before the point of no return.",
-    "mapData": { "position": [-128.38, 256.13], "videoUrl": "Eden/5.mp4" },
+    "mapData": { "position": [-132.63, 243.88], "videoUrl": "Eden/5.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -51,7 +51,7 @@
     "guid": "NYSbSHTslP",
     "order": 7006,
     "description": "Fourth in the tunnel before the point of no return.",
-    "mapData": { "position": [-128.38, 258.63], "videoUrl": "Eden/6.mp4" },
+    "mapData": { "position": [-132.63, 246.38], "videoUrl": "Eden/6.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -60,7 +60,7 @@
     "guid": "uqOdibxRjD",
     "order": 7007,
     "description": "Fifth in the tunnel before the point of no return.",
-    "mapData": { "position": [-128.38, 261.13], "videoUrl": "Eden/7.mp4" },
+    "mapData": { "position": [-132.63, 248.88], "videoUrl": "Eden/7.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -69,7 +69,7 @@
     "guid": "WulN9av6-P",
     "order": 7008,
     "description": "Sixth in the tunnel before the point of no return.",
-    "mapData": { "position": [-125.88, 256.13], "videoUrl": "Eden/8.mp4" },
+    "mapData": { "position": [-130.13, 243.88], "videoUrl": "Eden/8.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -78,7 +78,7 @@
     "guid": "wyDIoyrZbw",
     "order": 7009,
     "description": "Seventh in the tunnel before the point of no return.",
-    "mapData": { "position": [-125.88, 258.63], "videoUrl": "Eden/9.mp4" },
+    "mapData": { "position": [-130.13, 246.38], "videoUrl": "Eden/9.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -87,7 +87,7 @@
     "guid": "ng2YT7SXkx",
     "order": 7010,
     "description": "Eight in the tunnel before the point of no return.",
-    "mapData": { "position": [-125.88, 261.13], "videoUrl": "Eden/10.mp4" },
+    "mapData": { "position": [-130.13, 248.88], "videoUrl": "Eden/10.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eye_of_Eden"
     }
@@ -98,7 +98,7 @@
     "guid": "DvYGWvjeOC",
     "order": 7011,
     "description": "Automatically received after leaving Orbit.",
-    "mapData": { "position": [-181.13, 197.38] },
+    "mapData": { "position": [-185.38, 185.13] },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Orbit"
     }

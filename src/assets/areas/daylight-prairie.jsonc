@@ -5,7 +5,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/social-720.webp",
     "wingedLights": ["fl1Z3bEx81"],
     "mapShrines": ["UZU8IWRFTQ"],
-    "mapData": { "position": [-410.38, 238] },
+    "mapData": { "position": [-414.63, 225.75] },
     "connections": [{ "area": "z3uQqa5KVZ" }]
   },
   {
@@ -15,7 +15,7 @@
     "spirits": ["ulvP8R6C6a", "5u3TXZON81"],
     "wingedLights": ["YmuL-2fCV7", "CuJ61KtkL2"],
     "mapShrines": ["4GI2OaP7Uw"],
-    "mapData": { "position": [-403.88, 194] },
+    "mapData": { "position": [-408.13, 181.75] },
     "connections": [
       { "area": "Cmo9TPPpyH" },
       { "area": "BwpwRMfq1X" },
@@ -30,7 +30,7 @@
     "spirits": ["48jm5EQzfU", "K3CIxcDSjq", "WFjSczlPTV", "R4ILdPamhd"],
     "wingedLights": ["_SJva8zUYc", "D22kvZx25W", "4lNlq0Raah"],
     "mapShrines": ["QDnkz_qE9i"],
-    "mapData": { "position": [-395.38, 165.25] },
+    "mapData": { "position": [-399.63, 153] },
     "connections": [
       { "area": "z3uQqa5KVZ" },
       { "area": "BwpwRMfq1X" },
@@ -46,7 +46,7 @@
     "spirits": ["gtbbZnpLbt"],
     "wingedLights": ["Sc2aim9ro1"],
     "mapShrines": ["3_cCUrfyTX"],
-    "mapData": { "position": [-380, 186.88] },
+    "mapData": { "position": [-384.25, 174.63] },
     "connections": [{ "area": "V17jvM6lWL" }, { "area": "JrcYJTvEhh" }]
   },
   {
@@ -55,14 +55,14 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/koi-720.webp",
     "wingedLights": ["vz0IBqoGta", "RPvwKSjUXE"],
     "mapShrines": ["ZjUhH0OVu1"],
-    "mapData": { "position": [-381.88, 154.88] },
+    "mapData": { "position": [-386.13, 142.63] },
     "connections": [{ "area": "LdFAYVlCli" }, { "area": "V17jvM6lWL" }]
   },
   {
     "guid": "LdFAYVlCli",
     "name": "Temple of the Prairie",
     "imageUrl": "https://sky-planner.com/assets/game/areas/prairie/temple-720.webp",
-    "mapData": { "position": [-372.75, 155.25] },
+    "mapData": { "position": [-377, 143] },
     "connections": [{ "area": "JrcYJTvEhh" }, { "area": "A2--yR5CJk" }]
   },
   {
@@ -72,7 +72,7 @@
     "spirits": ["MyLI80npmW", "Q-N8n-0b8O"],
     "wingedLights": ["tGV1WQd1yk", "K-eoMvklId"],
     "mapShrines": ["jARCAHLdYn"],
-    "mapData": { "position": [-406.88, 165.75] },
+    "mapData": { "position": [-411.13, 153.5] },
     "connections": [
       { "area": "z3uQqa5KVZ" },
       { "area": "V17jvM6lWL" },
@@ -86,7 +86,7 @@
     "spirits": ["KM1xzU9v5P", "jncJKA4IaM", "PYsLThJYPx"],
     "wingedLights": ["GNDWMxbvTD", "PBt-1vrXFA"],
     "mapShrines": ["vcq5hgkduA"],
-    "mapData": { "position": [-383.5, 206.25] },
+    "mapData": { "position": [-387.75, 194] },
     "connections": [
       { "area": "z3uQqa5KVZ" },
       { "area": "V17jvM6lWL" },
@@ -117,7 +117,7 @@
       "cBNCxRNiPa"
     ],
     "mapShrines": ["8ONaIKF9Ft"],
-    "mapData": { "position": [-352.25, 206.25] },
+    "mapData": { "position": [-356.5, 194] },
     "connections": [{ "area": "HHem4xrBb6" }, { "area": "_dSyX-Uwrh" }]
   },
   {
@@ -133,7 +133,7 @@
     ],
     "wingedLights": ["JU8ya-Tjjm", "FzLNyBQ5ZA", "oRmSQSKfpm"],
     "mapShrines": ["__Hemxvej4"],
-    "mapData": { "position": [-412.38, 134.5] },
+    "mapData": { "position": [-416.63, 122.25] },
     "connections": [{ "area": "BwpwRMfq1X" }]
   }
 ]

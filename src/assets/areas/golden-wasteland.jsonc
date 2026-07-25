@@ -4,7 +4,7 @@
     "name": "Wasteland Rest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/social-720.webp",
     "mapShrines": ["EaNImb7KpI"],
-    "mapData": { "position": [-283, 339.25] },
+    "mapData": { "position": [-287.25, 327] },
     "connections": [
       { "area": "L1O2yEHfvX" },
       { "area": "LNcVZMfuWm" },
@@ -16,7 +16,7 @@
     "guid": "LNcVZMfuWm",
     "name": "Switch Secret Area",
     "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/switch-720.webp",
-    "mapData": { "position": [-279.63, 339.06] },
+    "mapData": { "position": [-283.88, 326.81] },
     "connections": [
       { "area": "oEnKoTrbCt" },
       { "area": "Cmo9TPPpyH" },
@@ -34,7 +34,7 @@
     "spirits": ["TqswdiTmEC", "k8nqBtLJ0R"],
     "wingedLights": ["M_ouc0fx7z", "-jaWbsOO-B"],
     "mapShrines": ["M8hQkhleyp"],
-    "mapData": { "position": [-329.25, 366.5] },
+    "mapData": { "position": [-333.5, 354.25] },
     "connections": [{ "area": "CCmW2Ad_v_" }, { "area": "xr7mTSgK1O" }]
   },
   {
@@ -57,7 +57,7 @@
       "NmYlVIsugI"
     ],
     "mapShrines": ["WlpStWBJaD"],
-    "mapData": { "position": [-314, 380.25] },
+    "mapData": { "position": [-318.25, 368] },
     "connections": [
       { "area": "4Vw0MHl11q" },
       { "area": "jjiMqCABVw" },
@@ -71,7 +71,7 @@
     "spirits": ["6GO0ISasq7", "tZG5hNcINX"],
     "wingedLights": ["pZ5N0156oQ", "U8Bo3YBBh2", "rSQzx1yNcr"],
     "mapShrines": ["y5INBIKCXK"],
-    "mapData": { "position": [-311, 406.5] },
+    "mapData": { "position": [-315.25, 394.25] },
     "connections": [{ "area": "CCmW2Ad_v_" }, { "area": "jP2N7n1mcw" }]
   },
   {
@@ -81,7 +81,7 @@
     "spirits": ["nwpDbbbWcw"],
     "wingedLights": ["3rn0JHgV53", "MVmgO5kOUE"],
     "mapShrines": ["XCCgbwMp3Y"],
-    "mapData": { "position": [-294.25, 388.75] },
+    "mapData": { "position": [-298.5, 376.5] },
     "connections": [
       { "area": "CCmW2Ad_v_" },
       { "area": "jjiMqCABVw" },
@@ -94,7 +94,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/temple-720.webp",
     "wingedLights": ["NtcClN4SsY"],
     "mapShrines": ["78BXBDmd2d"],
-    "mapData": { "position": [-269, 392.75] },
+    "mapData": { "position": [-273.25, 380.5] },
     "connections": [{ "area": "QM7Kuv1Ekg" }]
   },
   {
@@ -112,7 +112,7 @@
     ],
     "wingedLights": ["1zsvpsvviY", "wtWGz0QLVx"],
     "mapShrines": ["rULgp7ynZ-"],
-    "mapData": { "position": [-314, 463.25] },
+    "mapData": { "position": [-318.25, 451] },
     "connections": [{ "area": "4Vw0MHl11q" }, { "area": "_dSyX-Uwrh" }]
   },
   {
@@ -128,14 +128,14 @@
     ],
     "wingedLights": ["ij47DZ1EJi", "LoX2Z_gAeA"],
     "mapShrines": ["1RjdboXv9j"],
-    "mapData": { "position": [-373.25, 414] },
+    "mapData": { "position": [-377.5, 401.75] },
     "connections": [{ "area": "R4I-lYbUUO" }, { "area": "QroH22BPGJ" }]
   },
   {
     "guid": "QroH22BPGJ",
     "name": "Abyss Depths",
     "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/depths.webp",
-    "mapData": { "position": [-373.25, 419] },
+    "mapData": { "position": [-377.5, 406.75] },
     "connections": [{ "area": "fng8QLVMr1" }]
   },
   {
@@ -144,7 +144,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/lost-city-720.webp",
     "spirits": ["aO0n7dAWvc", "Jq1bIftHV5", "zdstJkDMg5", "2FQrdh4aCQ", "TDQC4wg3G9"],
     "mapShrines": ["JzCzw4xQBl"],
-    "mapData": { "position": [-250, 415] },
+    "mapData": { "position": [-254.25, 402.75] },
     "connections": [{ "area": "mT6bVNovBW" }]
   }
 ]

@@ -4,7 +4,7 @@
     "name": "Vault Social Space",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/social-720.webp",
     "wingedLights": ["r9CmlnAmRm"],
-    "mapData": { "position": [-236.13, 367] },
+    "mapData": { "position": [-240.38, 354.75] },
     "connections": [
       { "area": "d3WmuQ2TEm" },
       { "area": "schNrmq0ID" },
@@ -19,7 +19,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/elevator-720.webp",
     "spirits": ["_8CvQjUnQg", "CH6e-TQz6n"],
     "mapShrines": ["Mt6uDBigUP"],
-    "mapData": { "position": [-227.38, 366.88] },
+    "mapData": { "position": [-231.63, 354.63] },
     "connections": [{ "area": "XG3_0khlw9" }, { "area": "DfBQowH4AN" }, { "area": "KLweYQTEIp" }],
   },
   {
@@ -27,7 +27,7 @@
     "name": "Vault Second Floor",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/second-720.webp",
     "spirits": ["Im7m8syitV"],
-    "mapData": { "position": [-221, 366.88] },
+    "mapData": { "position": [-225.25, 354.63] },
     "connections": [{ "area": "-xkmkbpRyN" }],
   },
   {
@@ -37,7 +37,7 @@
     "spirits": ["1OGD_H3a7X"],
     "wingedLights": ["Hn7mU7ktxt"],
     "mapShrines": ["9TfCpBgmXW"],
-    "mapData": { "position": [-210.5, 358.75] },
+    "mapData": { "position": [-214.75, 346.5] },
     "connections": [{ "area": "BxTngnB1PV" }],
   },
   {
@@ -47,7 +47,7 @@
     "spirits": ["HeJISF946a", "Gi75RcvXd0", "KZaVtTUdlR", "mZZ-MkZJ1x"],
     "wingedLights": ["Zzvpdwh0wl", "I-vGwH81iB"],
     "mapShrines": ["oxZXdByjCg"],
-    "mapData": { "position": [-194.88, 346.88] },
+    "mapData": { "position": [-199.13, 334.63] },
     "connections": [{ "area": "Zx40zFvrqG" }],
   },
   {
@@ -55,7 +55,7 @@
     "name": "Vault Fifth Floor",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/fifth-720.webp",
     "wingedLights": ["vP7uVXrDUu"],
-    "mapData": { "position": [-185.5, 346.88] },
+    "mapData": { "position": [-189.75, 334.63] },
     "connections": [{ "area": "ZiqYHd176H" }],
   },
   {
@@ -64,7 +64,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/summit-720.webp",
     "wingedLights": ["uiNKKn25L-"],
     "mapShrines": ["4jtpTFZ39o"],
-    "mapData": { "position": [-179.25, 327.88] },
+    "mapData": { "position": [-183.5, 315.63] },
     "connections": [{ "area": "vWlW190-P1" }],
   },
   {
@@ -74,7 +74,7 @@
     "spirits": ["7EzWoLR1w4"],
     "wingedLights": ["W9fiK8mWQK", "4uUGCJEgq3"],
     "mapShrines": ["ioChKfj63j"],
-    "mapData": { "position": [-232.5, 390.5] },
+    "mapData": { "position": [-236.75, 378.25] },
     "connections": [{ "area": "QM7Kuv1Ekg" }],
   },
   {
@@ -82,7 +82,7 @@
     "name": "Hall of Stories",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/new-collab-temp.webp",
     "mapShrines": ["eroCc1CGcC"],
-    "mapData": { "position": [-214, 395.5] },
+    "mapData": { "position": [-218.25, 383.25] },
     "connections": [
       { "area": "QM7Kuv1Ekg" },
       { "area": "GC4SmA2CUz" },
@@ -97,7 +97,7 @@
     "guid": "d3WmuQ2TEm",
     "name": "Story Space",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/story-space-720.webp",
-    "mapData": { "position": [-208, 395.5] },
+    "mapData": { "position": [-212.25, 383.25] },
     "connections": [
       { "area": "Mhbh0g9OdG" },
       { "area": "QM7Kuv1Ekg" },
@@ -122,7 +122,7 @@
     ],
     "wingedLights": ["DFxZJcPENY", "Qz-2auzQan", "r_r5vLWj-6"],
     "mapShrines": ["AwpiTWfg3K"],
-    "mapData": { "position": [-195.5, 440] },
+    "mapData": { "position": [-199.75, 427.75] },
     "connections": [
       { "area": "d3WmuQ2TEm" },
       { "area": "TenYOMK1pK" },
@@ -135,7 +135,7 @@
     "name": "Starlight Desert Jar",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/jar-720.webp",
     "spirits": ["iweb5Sk2Xk"],
-    "mapData": { "position": [-196.75, 448.5] },
+    "mapData": { "position": [-201, 436.25] },
     "connections": [{ "area": "IrChmrOevd" }],
   },
   {
@@ -143,14 +143,14 @@
     "name": "Jellyfish Beach",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/jellyfish-720.webp",
     "spirits": ["dEQ1GVQOx7"],
-    "mapData": { "position": [-193.25, 428.75] },
+    "mapData": { "position": [-197.5, 416.5] },
     "connections": [{ "area": "IrChmrOevd" }],
   },
   {
     "guid": "p3vJrJBcfy",
     "name": "Starlight Dunes",
     "imageUrl": "https://sky-planner.com/assets/game/areas/vault/dunes-720.webp",
-    "mapData": { "position": [-191, 455.5] },
+    "mapData": { "position": [-195.25, 443.25] },
     "connections": [{ "area": "IrChmrOevd" }],
   },
   {
@@ -173,7 +173,7 @@
       "GUwL23XDTb",
     ],
     "mapShrines": ["JSPUuuqHRw"],
-    "mapData": { "position": [-242.25, 365.06] },
+    "mapData": { "position": [-246.5, 352.81] },
     "connections": [{ "area": "QM7Kuv1Ekg" }],
   },
   {
@@ -198,7 +198,7 @@
     ],
     "wingedLights": ["_RSC0jqGCh"],
     "mapShrines": ["l0yhcYX1ll"],
-    "mapData": { "position": [-240.63, 342.38] },
+    "mapData": { "position": [-244.88, 330.13] },
     "connections": [{ "area": "wKZdWMMIWa" }],
   },
   {
@@ -214,7 +214,7 @@
     ],
     "wingedLights": ["ZDqubWevQx", "HdrkYqqX3_", "fWLJNq1H3v"],
     "mapShrines": ["Jgcu1-kVCL"],
-    "mapData": { "position": [-176.5, 413.38] },
+    "mapData": { "position": [-180.75, 401.13] },
   },
   {
     "guid": "QnPzVZ6PyJ",
@@ -234,7 +234,7 @@
     ],
     "wingedLights": ["bqAgpNc9km"],
     "mapShrines": ["ndvHza3wbp"],
-    "mapData": { "position": [-148.69, 422.5] },
+    "mapData": { "position": [-152.94, 410.25] },
     "connections": [{ "area": "2YCd4ckP6e" }],
   },
   {
@@ -249,7 +249,7 @@
       "a4cDauac0X"
     ],
     "mapShrines": ["MCbsuqr0_p"],
-    "mapData": { "position": [-222, 348] },
+    "mapData": { "position": [-226.25, 335.75] },
     "connections": [{ "area": "wKZdWMMIWa" }],
   },
   {
@@ -269,7 +269,7 @@
       "ZngKNBX8dc",
     ],
     "mapShrines": ["hV0pfzWtGg"],
-    "mapData": { "position": [-224, 433] },
+    "mapData": { "position": [-228.25, 420.75] },
     "connections": [{ "area": "d3WmuQ2TEm" }],
   },
   {

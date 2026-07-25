@@ -16,7 +16,7 @@
       "zhBAUiJptT"
     ],
     "mapShrines": ["XjPXrh4ygg"],
-    "mapData": { "position": [-455, 308] },
+    "mapData": { "position": [-459.25, 295.75] },
     "connections": [{ "area": "MBcbvhRFfz" }, { "area": "Xr2ZiVSV7p" }]
   },
   {
@@ -36,7 +36,7 @@
       "gfQnk_B1mN"
     ],
     "mapShrines": ["7qrYs-HaOu"],
-    "mapData": { "position": [-440, 292] },
+    "mapData": { "position": [-444.25, 279.75] },
     "connections": [{ "area": "oEnKoTrbCt" }, { "area": "LanOVr1JCo" }, { "area": "Xr2ZiVSV7p" }]
   },
   {
@@ -44,7 +44,7 @@
     "name": "Temple of the Isle Entrance",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/temple-entrance-720.webp",
     "spirits": ["bmYjIuJ6Qf", "Q5pn7wxwUD"],
-    "mapData": { "position": [-416.13, 299.25] },
+    "mapData": { "position": [-420.38, 287] },
     "connections": [
       { "area": "MBcbvhRFfz" },
       { "area": "6MuptjUV8B" },
@@ -56,7 +56,7 @@
     "name": "Temple of the Isle",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/temple-720.webp",
     "mapShrines": ["gZHTmFJ0_S"],
-    "mapData": { "position": [-398.13, 305.5] },
+    "mapData": { "position": [-402.38, 293.25] },
     "connections": [{ "area": "LanOVr1JCo" }, { "area": "Cmo9TPPpyH" }]
   },
   {
@@ -65,7 +65,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/island-720.webp",
     "spirits": ["f3AD39Q2Il"],
     "mapShrines": ["s-TcDLSu2E"],
-    "mapData": { "position": [-408.75, 322.5] },
+    "mapData": { "position": [-413, 310.25] },
     "connections": [
       { "area": "LanOVr1JCo" },
       { "area": "ht8PxRB-MY" },
@@ -77,7 +77,7 @@
     "name": "Dawn Overlook",
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/butterfly-720.webp",
     "wingedLights": ["vGCXUjMLfB"],
-    "mapData": { "position": [-405.13, 321.5] },
+    "mapData": { "position": [-409.38, 309.25] },
     "connections": [{ "area": "hDN-ciwGc-" }]
   },
   {
@@ -92,7 +92,7 @@
       "kH5B_M20Fl"
     ],
     "mapShrines": ["GwJI638m4x"],
-    "mapData": { "position": [-404.25, 349.38] },
+    "mapData": { "position": [-408.5, 337.13] },
     "connections": [
       { "area": "oEnKoTrbCt" },
       { "area": "4fDcMVcdYD" },
@@ -108,7 +108,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/water-720.webp",
     "wingedLights": ["LOr9OqWHQv"],
     "mapShrines": ["aGV5eAoQGR"],
-    "mapData": { "position": [-396.63, 336.25] },
+    "mapData": { "position": [-400.88, 324] },
     "connections": [{ "area": "Xr2ZiVSV7p" }]
   },
   {
@@ -117,7 +117,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/earth-720.webp",
     "wingedLights": ["BPnMAjL286"],
     "mapShrines": ["elvKIlUjPQ"],
-    "mapData": { "position": [-388, 345.63] },
+    "mapData": { "position": [-392.25, 333.38] },
     "connections": [{ "area": "Xr2ZiVSV7p" }]
   },
   {
@@ -126,7 +126,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/air-720.webp",
     "wingedLights": ["7IpuFMAIXe"],
     "mapShrines": ["xPzPNehmaS"],
-    "mapData": { "position": [-387.88, 358.75] },
+    "mapData": { "position": [-392.13, 346.5] },
     "connections": [{ "area": "Xr2ZiVSV7p" }]
   },
   {
@@ -135,7 +135,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/isle/fire-720.webp",
     "wingedLights": ["89a0rCfJL-"],
     "mapShrines": ["5Xrgsi0oOP"],
-    "mapData": { "position": [-398.5, 364.63] },
+    "mapData": { "position": [-402.75, 352.38] },
     "connections": [{ "area": "Xr2ZiVSV7p" }]
   }
 ]

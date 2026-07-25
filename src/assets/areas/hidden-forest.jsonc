@@ -4,7 +4,7 @@
     "name": "Forest Rest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/social-720.webp",
     "mapShrines": ["AKRMG2oyjD"],
-    "mapData": { "position": [-373.5, 120.5] },
+    "mapData": { "position": [-377.75, 108.25] },
     "connections": [
       { "area": "LdFAYVlCli" },
       { "area": "tU23ZgPP_g" },
@@ -17,7 +17,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/clearing-720.webp",
     "wingedLights": ["0o9-mt5q1s"],
     "mapShrines": ["QgjhOZjQ-n"],
-    "mapData": { "position": [-366.19, 117.44] },
+    "mapData": { "position": [-370.44, 105.19] },
     "connections": [
       { "area": "A2--yR5CJk" },
       { "area": "ZlV4HpsDGF" },
@@ -30,7 +30,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/rainy-720.webp",
     "spirits": ["LwcCtbnGuF", "94UEgV7ic1", "RG-Z1xwway"],
     "wingedLights": ["zJCYOFxRNR"],
-    "mapData": { "position": [-347.69, 103.75] },
+    "mapData": { "position": [-351.94, 91.5] },
     "connections": [
       { "area": "tU23ZgPP_g" },
       { "area": "qVu1RHulPp" },
@@ -52,7 +52,7 @@
     ],
     "wingedLights": ["E_vpwUyVcM", "5F7jGqG9xU", "irgdECMxtI", "Zv6jq5_IzP"],
     "mapShrines": ["l5pWa40d6g"],
-    "mapData": { "position": [-326.94, 100.31] },
+    "mapData": { "position": [-331.19, 88.06] },
     "connections": [
       { "area": "ZlV4HpsDGF" },
       { "area": "L3F8Z9vbYs" },
@@ -66,7 +66,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/elevated-720.webp",
     "wingedLights": ["MpcHkLWwol", "DIK2gBZ_FA"],
     "mapShrines": ["NMH_NIElGP"],
-    "mapData": { "position": [-328.63, 132.38] },
+    "mapData": { "position": [-332.88, 120.13] },
     "connections": [
       { "area": "qVu1RHulPp" },
       { "area": "FlcxMwdsU7" },
@@ -81,7 +81,7 @@
     "spirits": ["gcEV41jg3U"],
     "wingedLights": ["iaLuQ06e4T", "pBAU_FHObL", "3NFT1aCRpY", "xF6rfLZpef"],
     "mapShrines": ["ZzKKzgMfUM"],
-    "mapData": { "position": [-312.75, 152.5] },
+    "mapData": { "position": [-317, 140.25] },
     "connections": [{ "area": "L3F8Z9vbYs" }, { "area": "_dSyX-Uwrh" }]
   },
   {
@@ -98,7 +98,7 @@
     ],
     "wingedLights": ["iwWXLcHG4t"],
     "mapShrines": ["0r1aX2gq4d"],
-    "mapData": { "position": [-334.88, 154.88] },
+    "mapData": { "position": [-339.13, 142.63] },
     "connections": [{ "area": "L3F8Z9vbYs" }]
   },
   {
@@ -116,7 +116,7 @@
     ],
     "wingedLights": ["XlmWJaLSNr", "J1boiLeD4w", "uFoLDIogSU"],
     "mapShrines": ["-J5jHK37oF"],
-    "mapData": { "position": [-311, 117.19] },
+    "mapData": { "position": [-315.25, 104.94] },
     "connections": [
       { "area": "qVu1RHulPp" },
       { "area": "L3F8Z9vbYs" },
@@ -129,7 +129,7 @@
     "name": "Temple of the Forest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/temple-720.webp",
     "mapShrines": ["doMFpBkpt9"],
-    "mapData": { "position": [-284, 134.25] },
+    "mapData": { "position": [-288.25, 122] },
     "connections": [{ "area": "iYC53UMrvL" }, { "area": "jY6mM3Io4T" }]
   },
   {
@@ -138,7 +138,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/forest/end-720.webp",
     "wingedLights": ["s_UlGNscIQ"],
     "mapShrines": ["nlqV1yGTCM"],
-    "mapData": { "position": [-275.13, 166.25] },
+    "mapData": { "position": [-279.38, 154] },
     "connections": [{ "area": "-y0hYE5huj" }, { "area": "LUkrOYNjEy" }]
   },
   {
@@ -148,7 +148,7 @@
     "spirits": ["cpwvdVEzKN"],
     "wingedLights": ["H7uvC7nb8U", "7_WXb7Uu8Z"],
     "mapShrines": ["8IFQ0Mi8Hk"],
-    "mapData": { "position": [-339.5, 66.13] },
+    "mapData": { "position": [-343.75, 53.88] },
     "connections": [
       { "area": "tU23ZgPP_g" },
       { "area": "ZlV4HpsDGF" },
@@ -173,7 +173,7 @@
     ],
     "wingedLights": ["CZ99GFJVyE", "JKD88MzDkk"],
     "mapShrines": ["m2ju90tQ5x"],
-    "mapData": { "position": [-345, 269.75] },
+    "mapData": { "position": [-349.25, 257.5] },
     "connections": [
       { "area": "A2--yR5CJk" },
       { "area": "Mhbh0g9OdG" },

@@ -5,7 +5,7 @@
     "guid": "H7uvC7nb8U",
     "order": 3002,
     "description": "In a hollow part of a tree on the right side of the path in front of the Treehouse.",
-    "mapData": { "position": [-339.5, 73.75], "videoUrl": "Forest/1.mp4" },
+    "mapData": { "position": [-343.75, 61.5], "videoUrl": "Forest/1.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#The_Treehouse"
     }
@@ -14,7 +14,7 @@
     "guid": "7_WXb7Uu8Z",
     "order": 3003,
     "description": "Through a tunnel at the bottom of the Treehouse tree.",
-    "mapData": { "position": [-344.5, 65.88], "videoUrl": "Forest/2.mp4" },
+    "mapData": { "position": [-348.75, 53.63], "videoUrl": "Forest/2.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#The_Treehouse"
     }
@@ -24,7 +24,7 @@
     "guid": "0o9-mt5q1s",
     "order": 3001,
     "description": "On a platform in a tree to the right before the first gate of the Forest Clearing.",
-    "mapData": { "position": [-360.38, 119.88], "videoUrl": "Forest/3.mp4" },
+    "mapData": { "position": [-364.63, 107.63], "videoUrl": "Forest/3.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Clearing_and_Walled_Areas"
     }
@@ -34,7 +34,7 @@
     "guid": "zJCYOFxRNR",
     "order": 3004,
     "description": "Directly in front of a gate at the end of the Rainy Forest.",
-    "mapData": { "position": [-347.5, 103.63], "videoUrl": "Forest/4.mp4" },
+    "mapData": { "position": [-351.75, 91.38], "videoUrl": "Forest/4.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Clearing_and_Walled_Areas"
     }
@@ -44,7 +44,7 @@
     "guid": "E_vpwUyVcM",
     "order": 3005,
     "description": "In a tree house in the Forest Brook, above the entrance to the Elevated Clearing.",
-    "mapData": { "position": [-324, 108.75], "videoUrl": "Forest/5.mp4" },
+    "mapData": { "position": [-328.25, 96.5], "videoUrl": "Forest/5.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Brook"
     }
@@ -53,7 +53,7 @@
     "guid": "irgdECMxtI",
     "order": 3006,
     "description": "In a small cave on the left side of the Forest Brook, behind some dark plants.",
-    "mapData": { "position": [-329.13, 94.38], "videoUrl": "Forest/8.mp4" },
+    "mapData": { "position": [-333.38, 82.13], "videoUrl": "Forest/8.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Brook"
     }
@@ -62,7 +62,7 @@
     "guid": "5F7jGqG9xU",
     "order": 3007,
     "description": "In a tree house to the back side of the Forest Brook.",
-    "mapData": { "position": [-321.13, 98.13], "videoUrl": "Forest/6.mp4" },
+    "mapData": { "position": [-325.38, 85.88], "videoUrl": "Forest/6.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Brook"
     }
@@ -71,7 +71,7 @@
     "guid": "Zv6jq5_IzP",
     "order": 3008,
     "description": "At the end of the Forest Brook, directly in front of the entrance to the Forest Boneyard.",
-    "mapData": { "position": [-323.63, 102.38], "videoUrl": "Forest/7.mp4" },
+    "mapData": { "position": [-327.88, 90.13], "videoUrl": "Forest/7.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Brook"
     }
@@ -81,7 +81,7 @@
     "guid": "MpcHkLWwol",
     "order": 3009,
     "description": "On the platforms up in the tree next to the large hollow tree of the Elevated Clearing.",
-    "mapData": { "position": [-325, 141.25], "videoUrl": "Forest/9.mp4" },
+    "mapData": { "position": [-329.25, 129], "videoUrl": "Forest/9.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Elevated_Clearing"
     }
@@ -90,7 +90,7 @@
     "guid": "DIK2gBZ_FA",
     "order": 3010,
     "description": "On a platform between the hollow tree and the bridge of the Elevated Clearing.",
-    "mapData": { "position": [-327.25, 131.25], "videoUrl": "Forest/10.mp4" },
+    "mapData": { "position": [-331.5, 119], "videoUrl": "Forest/10.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Elevated_Clearing"
     }
@@ -100,7 +100,7 @@
     "guid": "3NFT1aCRpY",
     "order": 3012,
     "description": "Behind a gate on the lower right side of the Underground Cavern.",
-    "mapData": { "position": [-315.5, 158.25], "videoUrl": "Forest/12.mp4" },
+    "mapData": { "position": [-319.75, 146], "videoUrl": "Forest/12.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Underground_Cavern"
     }
@@ -109,7 +109,7 @@
     "guid": "iaLuQ06e4T",
     "order": 3013,
     "description": "On the left side of the Underground Cavern, after following the flock of birds. Above the Wind Paths tunnel.",
-    "mapData": { "position": [-314, 144.88], "videoUrl": "Forest/11.mp4" },
+    "mapData": { "position": [-318.25, 132.63], "videoUrl": "Forest/11.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Underground_Cavern"
     }
@@ -118,7 +118,7 @@
     "guid": "pBAU_FHObL",
     "order": 3014,
     "description": "In a small cave to the left of the Underground Cavern with butterflies trapped in jars. Fly up by calling the butterflies.",
-    "mapData": { "position": [-310.5, 147.25], "videoUrl": "Forest/13.mp4" },
+    "mapData": { "position": [-314.75, 135], "videoUrl": "Forest/13.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Underground_Cavern"
     }
@@ -127,7 +127,7 @@
     "guid": "xF6rfLZpef",
     "order": 3015,
     "description": "At the end of the Underground Cavern, next to the gate back to the Elevated Clearing.",
-    "mapData": { "position": [-309, 157.5], "videoUrl": "Forest/14.mp4" },
+    "mapData": { "position": [-313.25, 145.25], "videoUrl": "Forest/14.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Underground_Cavern"
     }
@@ -137,7 +137,7 @@
     "guid": "iwWXLcHG4t",
     "order": 3011,
     "description": "In the Blue Bird theater, between the return shrine and map shrine.",
-    "mapData": { "position": [-341.69, 151.63], "videoUrl": "Forest/20.mp4" },
+    "mapData": { "position": [-345.94, 139.38], "videoUrl": "Forest/20.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light"
     }
@@ -147,7 +147,7 @@
     "guid": "XlmWJaLSNr",
     "order": 3016,
     "description": "Inside a hollow tree on the right side of the Tree Tunnels.",
-    "mapData": { "position": [-314.63, 128.13], "videoUrl": "Forest/16.mp4" },
+    "mapData": { "position": [-318.88, 115.88], "videoUrl": "Forest/16.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Tree_Tunnels_and_Boneyard"
     }
@@ -156,7 +156,7 @@
     "guid": "J1boiLeD4w",
     "order": 3017,
     "description": "Inside a tower to the left side of the Tree Tunnels.",
-    "mapData": { "position": [-310.88, 106.75], "videoUrl": "Forest/17.mp4" },
+    "mapData": { "position": [-315.13, 94.5], "videoUrl": "Forest/17.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Tree_Tunnels_and_Boneyard"
     }
@@ -165,7 +165,7 @@
     "guid": "uFoLDIogSU",
     "order": 3018,
     "description": "At the end of the Broken Bridge.",
-    "mapData": { "position": [-312.38, 123.38], "videoUrl": "Forest/15.mp4" },
+    "mapData": { "position": [-316.63, 111.13], "videoUrl": "Forest/15.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Tree_Tunnels_and_Boneyard"
     }
@@ -175,7 +175,7 @@
     "guid": "s_UlGNscIQ",
     "order": 3019,
     "description": "On the left side at the Forest End.",
-    "mapData": { "position": [-277, 160.25], "videoUrl": "Forest/18.mp4" },
+    "mapData": { "position": [-281.25, 148], "videoUrl": "Forest/18.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Forest_End"
     }
@@ -185,7 +185,7 @@
     "guid": "CZ99GFJVyE",
     "order": 3020,
     "description": "In one of the air tunnels of the main island, accessed from the underside of the island.",
-    "mapData": { "position": [-343.25, 275.75], "videoUrl": "Forest/19.mp4" },
+    "mapData": { "position": [-347.5, 263.5], "videoUrl": "Forest/19.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#The_Wind_Paths"
     }
@@ -194,7 +194,7 @@
     "guid": "JKD88MzDkk",
     "order": 3021,
     "description": "Near the peak of the main Wind Paths island.",
-    "mapData": { "position": [-333, 279], "videoUrl": "Forest/21.mp4" },
+    "mapData": { "position": [-337.25, 266.75], "videoUrl": "Forest/21.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#The_Wind_Paths"
     }

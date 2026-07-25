@@ -3,7 +3,7 @@
     "guid": "zewkN917oz",
     "name": "Home",
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/home-720.webp",
-    "mapData": { "position": [-478, 415.75] },
+    "mapData": { "position": [-482.25, 403.5] },
     "mapShrines": ["NKLJ5lCZiL"],
     "connections": [
       { "area": "Mhbh0g9OdG" },
@@ -27,7 +27,7 @@
       "JpMqGkF6E1"
     ],
     "mapShrines": ["HPtacUHQMo"],
-    "mapData": { "position": [-460.38, 365.5] },
+    "mapData": { "position": [-464.63, 353.25] },
     "connections": [
       { "area": "zewkN917oz" },
       { "area": "3YSSmw01DR" },
@@ -48,7 +48,7 @@
     "guid": "5kw7myrDPU",
     "name": "Aviary Portals",
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/portals-720.webp",
-    "mapData": { "position": [-449.56, 366] },
+    "mapData": { "position": [-453.81, 353.75] },
     "connections": [
       { "area": "Mhbh0g9OdG" },
       { "area": "ftFow3ue0Z" },
@@ -71,21 +71,21 @@
       "118ghc8_me",
       "iz40tYocEn"
     ],
-    "mapData": { "position": [-455.13, 355.75] },
+    "mapData": { "position": [-459.38, 343.5] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
   {
     "guid": "JdoOxvcKlP",
     "name": "Aviary Event Store",
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/event-720.webp",
-    "mapData": { "position": [-457.25, 361.13] },
+    "mapData": { "position": [-461.5, 348.88] },
     "connections": [{ "area": "Mhbh0g9OdG" }, { "area": "rTIqNgvA4N" }]
   },
   {
     "guid": "TUyoacebPE",
     "name": "Aviary Spell Shop",
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/spell-720.webp",
-    "mapData": { "position": [-458.38, 374] },
+    "mapData": { "position": [-462.63, 361.75] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
   {
@@ -95,7 +95,7 @@
     "spirits": [
       "JWj113We5R"
     ],
-    "mapData": { "position": [-453.38, 362.13] },
+    "mapData": { "position": [-457.63, 349.88] },
     "connections": [{ "area": "Mhbh0g9OdG" }, { "area": "JdoOxvcKlP" }]
   },
   {
@@ -109,21 +109,21 @@
       "Ha10I4vIO7",
       "8p_1kKYu7_"
     ],
-    "mapData": { "position": [-455.63, 369] },
+    "mapData": { "position": [-459.88, 356.75] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
   {
     "guid": "pNNbszCpyA",
     "name": "Nests",
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/nest-720.webp",
-    "mapData": { "position": [-460.44, 353.25] },
+    "mapData": { "position": [-464.69, 341] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
   {
     "guid": "ftFow3ue0Z",
     "name": "Village Cafe",
     "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/cafe-720.webp",
-    "mapData": { "position": [-453.38, 367.31] },
+    "mapData": { "position": [-457.63, 355.06] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
   {
@@ -138,7 +138,7 @@
       "md2oP_oAWb",
       "xINN19ZdXU"
     ],
-    "mapData": { "position": [-461.88, 374.5] },
+    "mapData": { "position": [-466.13, 362.25] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
   {
@@ -153,7 +153,7 @@
       "BuejYIbW1r"
     ],
     "wingedLights": [ "ivqHuU0pEV", "zXGJG4Y_OE" ],
-    "mapData": { "position": [-437, 395] },
+    "mapData": { "position": [-441.25, 382.75] },
     "mapShrines": [ "rb0TinRFgW" ],
     "connections": [{ "area": "5kw7myrDPU" }]
   }

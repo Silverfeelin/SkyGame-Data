@@ -5,7 +5,7 @@
     "guid": "fl1Z3bEx81",
     "order": 2001,
     "description": "At the gate in the Prairie Social Space.",
-    "mapData": { "position": [-405.75, 237.69], "videoUrl": "Prairie/3.mp4" },
+    "mapData": { "position": [-410, 225.44], "videoUrl": "Prairie/3.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Butterfly_Fields"
     }
@@ -14,7 +14,7 @@
     "guid": "YmuL-2fCV7",
     "order": 2002,
     "description": "Inside a small cave on the left side of the Butterfly Fields.",
-    "mapData": { "position": [-405.5, 192.5], "videoUrl": "Prairie/1.mp4" },
+    "mapData": { "position": [-409.75, 180.25], "videoUrl": "Prairie/1.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Butterfly_Fields"
     }
@@ -23,7 +23,7 @@
     "guid": "CuJ61KtkL2",
     "order": 2003,
     "description": "On top of the muffin rock in the Butterfly Fields.",
-    "mapData": { "position": [-395.75, 190.38], "videoUrl": "Prairie/2.mp4" },
+    "mapData": { "position": [-400, 178.13], "videoUrl": "Prairie/2.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Butterfly_Fields"
     }
@@ -34,7 +34,7 @@
     "guid": "tGV1WQd1yk",
     "order": 2004,
     "description": "In a hole on the left wall of the Prairie Caves. Above Stretching Guru.",
-    "mapData": { "position": [-408.13, 161.88], "videoUrl": "Prairie/4.mp4" },
+    "mapData": { "position": [-412.38, 149.63], "videoUrl": "Prairie/4.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Caves"
     }
@@ -43,7 +43,7 @@
     "guid": "K-eoMvklId",
     "order": 2005,
     "description": "In an elevated cave near the end of the Prairie Caves, close to the light gate.",
-    "mapData": { "position": [-406.63, 166.13], "videoUrl": "Prairie/5.mp4" },
+    "mapData": { "position": [-410.88, 153.88], "videoUrl": "Prairie/5.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Caves"
     }
@@ -53,7 +53,7 @@
     "guid": "JU8ya-Tjjm",
     "order": 2006,
     "description": "In the bird cave to the left side of Prairie Peaks.",
-    "mapData": { "position": [-413.25, 124.88], "videoUrl": "Prairie/22.mp4" },
+    "mapData": { "position": [-417.5, 112.63], "videoUrl": "Prairie/22.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Prairie_Peaks"
     }
@@ -62,7 +62,7 @@
     "guid": "FzLNyBQ5ZA",
     "order": 2007,
     "description": "At the large crystal in the cave hidden behind a water tunnel in Prairie Peaks.",
-    "mapData": { "position": [-411.63, 140.38], "videoUrl": "Prairie/23.mp4" },
+    "mapData": { "position": [-415.88, 128.13], "videoUrl": "Prairie/23.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Prairie_Peaks"
     }
@@ -71,7 +71,7 @@
     "guid": "oRmSQSKfpm",
     "order": 2008,
     "description": "At the peak of the highest mountain in the back of Prairie Peaks.",
-    "mapData": { "position": [-401.63, 134], "videoUrl": "Prairie/24.mp4" },
+    "mapData": { "position": [-405.88, 121.75], "videoUrl": "Prairie/24.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Prairie_Peaks"
     }
@@ -81,7 +81,7 @@
     "guid": "D22kvZx25W",
     "order": 2009,
     "description": "Behind a door on the left of the three Village Islands.",
-    "mapData": { "position": [-397.88, 157.13], "videoUrl": "Prairie/6.mp4" },
+    "mapData": { "position": [-402.13, 144.88], "videoUrl": "Prairie/6.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Villages"
     }
@@ -90,7 +90,7 @@
     "guid": "_SJva8zUYc",
     "order": 2010,
     "description": "On a rock platform in the middle of the three Village Islands.",
-    "mapData": { "position": [-397.88, 167.38], "videoUrl": "Prairie/7.mp4" },
+    "mapData": { "position": [-402.13, 155.13], "videoUrl": "Prairie/7.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Villages"
     }
@@ -99,7 +99,7 @@
     "guid": "4lNlq0Raah",
     "order": 2011,
     "description": "On the back side of the middle of the three Village Islands.",
-    "mapData": { "position": [-390.25, 163.63], "videoUrl": "Prairie/8.mp4" },
+    "mapData": { "position": [-394.5, 151.38], "videoUrl": "Prairie/8.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Villages"
     }
@@ -109,7 +109,7 @@
     "guid": "Sc2aim9ro1",
     "order": 2012,
     "description": "Inside a cave after solving the 8-player puzzle.",
-    "mapData": { "position": [-381.56, 185], "videoUrl": "Prairie/9.mp4" },
+    "mapData": { "position": [-385.81, 172.75], "videoUrl": "Prairie/9.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Eight-Player_Puzzle_Area"
     }
@@ -119,7 +119,7 @@
     "guid": "vz0IBqoGta",
     "order": 2013,
     "description": "Directly above the Temple of the Prairie entrance.",
-    "mapData": { "position": [-378, 152.5], "videoUrl": "Prairie/10.mp4" },
+    "mapData": { "position": [-382.25, 140.25], "videoUrl": "Prairie/10.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Prairie_Temple"
     }
@@ -128,7 +128,7 @@
     "guid": "RPvwKSjUXE",
     "order": 2014,
     "description": "On top of the Temple of the Prairie.",
-    "mapData": { "position": [-371.38, 156.38], "videoUrl": "Prairie/11.mp4" },
+    "mapData": { "position": [-375.63, 144.13], "videoUrl": "Prairie/11.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Prairie_Temple"
     }
@@ -138,7 +138,7 @@
     "guid": "GNDWMxbvTD",
     "order": 2015,
     "description": "On a lower island at the Bird's Nest.",
-    "mapData": { "position": [-388.5, 200.63], "videoUrl": "Prairie/12.mp4" },
+    "mapData": { "position": [-392.75, 188.38], "videoUrl": "Prairie/12.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Bird_Nest"
     }
@@ -147,7 +147,7 @@
     "guid": "PBt-1vrXFA",
     "order": 2016,
     "description": "On a higher island at the Bird's Nest.",
-    "mapData": { "position": [-379.25, 203.5], "videoUrl": "Prairie/13.mp4" },
+    "mapData": { "position": [-383.5, 191.25], "videoUrl": "Prairie/13.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Bird_Nest"
     }
@@ -157,7 +157,7 @@
     "guid": "NIEbxjzi9w",
     "order": 2017,
     "description": "On the floating islands when entering Sanctuary Islands, near the two Jellyfish.",
-    "mapData": { "position": [-348.63, 197.5], "videoUrl": "Prairie/14.mp4" },
+    "mapData": { "position": [-352.88, 185.25], "videoUrl": "Prairie/14.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sanctuary_Islands"
     }
@@ -166,7 +166,7 @@
     "guid": "MzhGgNL7T0",
     "order": 2018,
     "description": "At the very top of Sanctuary Island.",
-    "mapData": { "position": [-344, 206], "videoUrl": "Prairie/15.mp4" },
+    "mapData": { "position": [-348.25, 193.75], "videoUrl": "Prairie/15.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sanctuary_Islands"
     }
@@ -175,7 +175,7 @@
     "guid": "4Sh9Wwka_r",
     "order": 2019,
     "description": "At the end of the Sanctuary Island spiral cave with crabs and a large dark plant.",
-    "mapData": { "position": [-353.13, 213.25], "videoUrl": "Prairie/19.mp4" },
+    "mapData": { "position": [-357.38, 201], "videoUrl": "Prairie/19.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sanctuary_Islands"
     }
@@ -184,7 +184,7 @@
     "guid": "saQGYqh8gS",
     "order": 2020,
     "description": "At the very bottom of the waterfalls in the middle of the Sanctuary Island.",
-    "mapData": { "position": [-353, 206.5], "videoUrl": "Prairie/20.mp4" },
+    "mapData": { "position": [-357.25, 194.25], "videoUrl": "Prairie/20.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sanctuary_Islands"
     }
@@ -193,7 +193,7 @@
     "guid": "20LOTTTfr_",
     "order": 2021,
     "description": "On the left side inside the Sanctuary Island caves, on an elevated ledge near some ladders.",
-    "mapData": { "position": [-353.25, 204], "videoUrl": "Prairie/21.mp4" },
+    "mapData": { "position": [-357.5, 191.75], "videoUrl": "Prairie/21.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sanctuary_Islands"
     }
@@ -202,7 +202,7 @@
     "guid": "qN0TPwjnam",
     "order": 2022,
     "description": "On a cliff at the back side of Sanctuary Island.",
-    "mapData": { "position": [-351.13, 201.75], "videoUrl": "Prairie/18.mp4" },
+    "mapData": { "position": [-355.38, 189.5], "videoUrl": "Prairie/18.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sanctuary_Islands"
     }
@@ -211,7 +211,7 @@
     "guid": "nHuasNjUrd",
     "order": 2023,
     "description": "In the jellyfish cave accessed from the beach on the back side of Sanctuary Island.",
-    "mapData": { "position": [-352.13, 209.88], "videoUrl": "Prairie/17.mp4" },
+    "mapData": { "position": [-356.38, 197.63], "videoUrl": "Prairie/17.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sanctuary_Islands"
     }
@@ -220,7 +220,7 @@
     "guid": "cBNCxRNiPa",
     "order": 2024,
     "description": "On the right of the floating islands a distance away from Sanctuary Island.",
-    "mapData": { "position": [-346.38, 213.13], "videoUrl": "Prairie/16.mp4" },
+    "mapData": { "position": [-350.63, 200.88], "videoUrl": "Prairie/16.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Sanctuary_Islands"
     }

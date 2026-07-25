@@ -4,7 +4,7 @@
     "guid": "ONPX94C2vq",
     "order": 8001,
     "description": "Up above in the Jellyfish memory.",
-    "mapData": { "position": [-127.25, 196.25] },
+    "mapData": { "position": [-131.5, 184] },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Shard_Memories"
     }
@@ -13,7 +13,7 @@
     "guid": "VQXUW28_aU",
     "order": 8002,
     "description": "Up above in the Crab memory.",
-    "mapData": { "position": [-124.38, 198.13] },
+    "mapData": { "position": [-128.63, 185.88] },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Shard_Memories"
     }
@@ -22,7 +22,7 @@
     "guid": "lI5ByPVjjf",
     "order": 8003,
     "description": "Up above in the Manta memory.",
-    "mapData": { "position": [-127.25, 200] },
+    "mapData": { "position": [-131.5, 187.75] },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Shard_Memories"
     }
@@ -31,7 +31,7 @@
     "guid": "GXM5vGN1Px",
     "order": 8004,
     "description": "On the ground in the Krill memory.",
-    "mapData": { "position": [-131.5, 196.25] },
+    "mapData": { "position": [-135.75, 184] },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Shard_Memories"
     }
@@ -40,7 +40,7 @@
     "guid": "L79hQ4XPwg",
     "order": 8005,
     "description": "Near the eye of the closest whale in the Whale memory.",
-    "mapData": { "position": [-134.38, 198.13], "videoUrl": "Void/Whale.mp4" },
+    "mapData": { "position": [-138.63, 185.88], "videoUrl": "Void/Whale.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Shard_Memories"
     }
@@ -49,7 +49,7 @@
     "guid": "3_zUodfrew",
     "order": 8006,
     "description": "At the top of the shard in the Elders memory.",
-    "mapData": { "position": [-131.5, 200], "videoUrl": "Void/Elders.mp4" },
+    "mapData": { "position": [-135.75, 187.75], "videoUrl": "Void/Elders.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Shard_Memories"
     }

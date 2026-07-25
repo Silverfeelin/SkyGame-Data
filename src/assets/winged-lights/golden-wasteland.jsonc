@@ -5,7 +5,7 @@
     "guid": "M_ouc0fx7z",
     "order": 5001,
     "description": "On the beach in front of where you land at the The Outer Bailey.",
-    "mapData": { "position": [-331.63, 369.5], "videoUrl": "Wasteland/1.mp4" },
+    "mapData": { "position": [-335.88, 357.25], "videoUrl": "Wasteland/1.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Broken_Temple"
     }
@@ -14,7 +14,7 @@
     "guid": "-jaWbsOO-B",
     "order": 5002,
     "description": "On the pillars above where you land at the The Outer Bailey.",
-    "mapData": { "position": [-332.75, 374.63], "videoUrl": "Wasteland/2.mp4" },
+    "mapData": { "position": [-337, 362.38], "videoUrl": "Wasteland/2.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Broken_Temple"
     }
@@ -24,7 +24,7 @@
     "guid": "cfkB_RA0cA",
     "order": 5003,
     "description": "On a platform in the opening Krill section of the Graveyard.",
-    "mapData": { "position": [-321.25, 373.63], "videoUrl": "Wasteland/3.mp4" },
+    "mapData": { "position": [-325.5, 361.38], "videoUrl": "Wasteland/3.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Graveyard"
     }
@@ -33,7 +33,7 @@
     "guid": "F-YgRDMZyG",
     "order": 5004,
     "description": "Between two walls on the right after the first Krill section of the Graveyard.",
-    "mapData": { "position": [-319.38, 374.63], "videoUrl": "Wasteland/4.mp4" },
+    "mapData": { "position": [-323.63, 362.38], "videoUrl": "Wasteland/4.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Graveyard"
     }
@@ -42,7 +42,7 @@
     "guid": "Y3PENqw0Mj",
     "order": 5005,
     "description": "On a large flat rock to the right, close to the Graveyard campfire.",
-    "mapData": { "position": [-317.88, 377.88], "videoUrl": "Wasteland/5.mp4" },
+    "mapData": { "position": [-322.13, 365.63], "videoUrl": "Wasteland/5.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Graveyard"
     }
@@ -51,7 +51,7 @@
     "guid": "lL0L9y28hd",
     "order": 5006,
     "description": "On the ground under some debris around the leftmost Krill of the Graveyard.",
-    "mapData": { "position": [-316, 369.88], "videoUrl": "Wasteland/6.mp4" },
+    "mapData": { "position": [-320.25, 357.63], "videoUrl": "Wasteland/6.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Graveyard"
     }
@@ -60,7 +60,7 @@
     "guid": "arkcy1Y5HK",
     "order": 5007,
     "description": "On a small ledge on the side of the mountain with a ribcage in the Graveyard",
-    "mapData": { "position": [-314.38, 375.75], "videoUrl": "Wasteland/7.mp4" },
+    "mapData": { "position": [-318.63, 363.5], "videoUrl": "Wasteland/7.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Graveyard"
     }
@@ -69,7 +69,7 @@
     "guid": "NmYlVIsugI",
     "order": 5008,
     "description": "At the stairs leading from the Graveyard to the Battlefield.",
-    "mapData": { "position": [-308.63, 382.75], "videoUrl": "Wasteland/8.mp4" },
+    "mapData": { "position": [-312.88, 370.5], "videoUrl": "Wasteland/8.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Graveyard"
     }
@@ -79,7 +79,7 @@
     "guid": "pZ5N0156oQ",
     "order": 5009,
     "description": "Facing the two vertical pipes at the start of the Crab Fields, on the wall directly to the left.",
-    "mapData": { "position": [-317, 406.25], "videoUrl": "Wasteland/9.mp4" },
+    "mapData": { "position": [-321.25, 394], "videoUrl": "Wasteland/9.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Crab_Fields"
     }
@@ -89,7 +89,7 @@
     "order": 5010,
     "description": "Inside the lower back of the ship in the Crab Fields.",
     "mapData": {
-      "position": [-312.13, 414.63],
+      "position": [-316.38, 402.38],
       "videoUrl": "Wasteland/10.mp4"
     },
     "_wiki": {
@@ -101,7 +101,7 @@
     "order": 5011,
     "description": "Next to a large pipe right of the climb from the Crab Fields to the Battlefield.",
     "mapData": {
-      "position": [-302.13, 410.75],
+      "position": [-306.38, 398.5],
       "videoUrl": "Wasteland/11.mp4"
     },
     "_wiki": {
@@ -114,7 +114,7 @@
     "order": 5012,
     "description": "Near the top of the main building in the Battlefield.",
     "mapData": {
-      "position": [-288.38, 389.38],
+      "position": [-292.63, 377.13],
       "videoUrl": "Wasteland/12.mp4"
     },
     "_wiki": {
@@ -126,7 +126,7 @@
     "order": 5013,
     "description": "Behind the right pillar at the end of the Battlefield.",
     "mapData": {
-      "position": [-276.75, 398.88],
+      "position": [-281, 386.63],
       "videoUrl": "Wasteland/13.mp4"
     },
     "_wiki": {
@@ -138,7 +138,7 @@
     "guid": "NtcClN4SsY",
     "order": 5014,
     "description": "In front of the Wasteland Temple shrine.",
-    "mapData": { "position": [-268, 393], "videoUrl": "Wasteland/14.mp4" },
+    "mapData": { "position": [-272.25, 380.75], "videoUrl": "Wasteland/14.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Wasteland_Temple"
     }
@@ -149,7 +149,7 @@
     "order": 5015,
     "description": "On top of the Forgotten Ark.",
     "mapData": {
-      "position": [-311.63, 466.75],
+      "position": [-315.88, 454.5],
       "videoUrl": "Wasteland/17.mp4"
     },
     "_wiki": {
@@ -160,7 +160,7 @@
     "guid": "wtWGz0QLVx",
     "order": 5016,
     "description": "Inside the cave at the back of the farm behind the Forgotten Ark.",
-    "mapData": { "position": [-314.25, 472.5], "videoUrl": "Wasteland/18.mp4" },
+    "mapData": { "position": [-318.5, 460.25], "videoUrl": "Wasteland/18.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Forgotten_Ark"
     }
@@ -170,7 +170,7 @@
     "guid": "ij47DZ1EJi",
     "order": 5017,
     "description": "At the top of the tallest tower in Treasure Reef.",
-    "mapData": { "position": [-364.88, 411.5], "videoUrl": "Wasteland/15.mp4" },
+    "mapData": { "position": [-369.13, 399.25], "videoUrl": "Wasteland/15.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Treasure_Reef"
     }
@@ -179,7 +179,7 @@
     "guid": "LoX2Z_gAeA",
     "order": 5018,
     "description": "In the submerged Treasure Reef ruins with the hexagonal top visible above water. Behind a door at the bottom of the main stairs.",
-    "mapData": { "position": [-372.5, 416.63], "videoUrl": "Wasteland/16.mp4" },
+    "mapData": { "position": [-376.75, 404.38], "videoUrl": "Wasteland/16.mp4" },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Children_of_Light#Treasure_Reef"
     }

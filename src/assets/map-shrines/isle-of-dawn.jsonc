@@ -3,54 +3,54 @@
     "guid": "XjPXrh4ygg",
     "description": "Before the Passage Rock, near the winged light.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-First-Map-Shrine.webp",
-    "mapData": { "position": [-457.88, 309.19] }
+    "mapData": { "position": [-462.13, 296.94] }
   },
   {
     "guid": "7qrYs-HaOu",
     "description": "On top of the Passage Rock.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-Main-Path-Map-Shrine.webp",
-    "mapData": { "position": [-447.88, 304.63] }
+    "mapData": { "position": [-452.13, 292.38] }
   },
   {
     "guid": "gZHTmFJ0_S",
     "description": "In front of the Temple of the Isle.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-Temple-Map-Shrine.webp",
-    "mapData": { "position": [-419.06, 297.94] }
+    "mapData": { "position": [-423.31, 285.69] }
   },
   {
     "guid": "s-TcDLSu2E",
     "description": "On top of the Dawn Overlook.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-Temple-Cloud-Map-Shrine.webp",
-    "mapData": { "position": [-404.5, 319.38] }
+    "mapData": { "position": [-408.75, 307.13] }
   },
   {
     "guid": "GwJI638m4x",
     "description": "In the main room of the Cave of Prophecies.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-Prophecy-Cave-Map-Shrine.webp",
-    "mapData": { "position": [-406.63, 347.63] }
+    "mapData": { "position": [-410.88, 335.38] }
   },
   {
     "guid": "aGV5eAoQGR",
     "description": "In the Water Trial.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-Prophecy-Water-Trial-Map-Shrine.webp",
-    "mapData": { "position": [-397.75, 338.25] }
+    "mapData": { "position": [-402, 326] }
   },
   {
     "guid": "elvKIlUjPQ",
     "description": "In the Earth Trial.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-Prophecy-Earth-Trial-Map-Shrine.webp",
-    "mapData": { "position": [-389.13, 343.75] }
+    "mapData": { "position": [-393.38, 331.5] }
   },
   {
     "guid": "xPzPNehmaS",
     "description": "In the Air Trial.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-Prophecy-Trial-Air-Map-Shrine.webp",
-    "mapData": { "position": [-387.94, 360.5] }
+    "mapData": { "position": [-392.19, 348.25] }
   },
   {
     "guid": "5Xrgsi0oOP",
     "description": "In the Fire Trial.",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Isle-Prophecy-Trial-Fire-Map-Shrine.webp",
-    "mapData": { "position": [-396.06, 364.5] }
+    "mapData": { "position": [-400.31, 352.25] }
   }
 ]

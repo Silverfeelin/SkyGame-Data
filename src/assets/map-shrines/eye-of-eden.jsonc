@@ -4,25 +4,25 @@
     "guid": "QBGEZURf1h",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Eden-Main-Doorway-Map-Shrine.webp",
-    "mapData": { "position": [-195.69, 270.94] }
+    "mapData": { "position": [-199.94, 258.69] }
   },
   {
     "guid": "NqwRQmN5QP",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Eden-Wind-Rock-Pathway-Map-Shrine.webp",
-    "mapData": { "position": [-153.82, 247.56] }
+    "mapData": { "position": [-158.07, 235.31] }
   },
   {
     "guid": "9SpZphlSnX",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Eden-Statues-Pathway-Map-Shrine.webp",
-    "mapData": { "position": [-66.63, 265.63] }
+    "mapData": { "position": [-70.88, 253.38] }
   },
   {
     "guid": "qaA1pBOjjn",
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Eden-Orbit-Map-Shrine.webp",
-    "mapData": { "position": [-182.25, 199.44] }
+    "mapData": { "position": [-186.5, 187.19] }
   }
   // #endregion
 ]

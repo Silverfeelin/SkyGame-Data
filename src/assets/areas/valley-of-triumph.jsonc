@@ -4,7 +4,7 @@
     "name": "Valley Rest",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/social-720.webp",
     "mapShrines": ["-R9H4i_Jz3"],
-    "mapData": { "position": [-257.13, 189.63] },
+    "mapData": { "position": [-261.38, 177.38] },
     "connections": [{ "area": "u3rc8C3sMb" }, { "area": "WZFTGjgurD" }]
   },
   {
@@ -14,7 +14,7 @@
     "spirits": ["4KCKJxR56G", "JROKFatVLC", "bHCSyFQ4u-", "9y_5scrYa9"],
     "wingedLights": ["5BM1uqQvM4", "vKEMuduC0F", "_rmaySa6NL"],
     "mapShrines": ["GKHfiJzwUw"],
-    "mapData": { "position": [-258.88, 215.88] },
+    "mapData": { "position": [-263.13, 203.63] },
     "connections": [
       { "area": "LUkrOYNjEy" },
       { "area": "iRWfJCMxFB" },
@@ -28,7 +28,7 @@
     "spirits": ["yUp189PWVS", "CfXORyMFx4", "H5iKZChQIK"],
     "wingedLights": ["DjuNbgmKq5", "D9Z9c3mRDf"],
     "mapShrines": ["fog6ZHU6Mx"],
-    "mapData": { "position": [-241.75, 229.5] },
+    "mapData": { "position": [-246, 217.25] },
     "connections": [{ "area": "u3rc8C3sMb" }, { "area": "uMoS_cHn0R" }]
   },
   {
@@ -37,7 +37,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/slide-720.webp",
     "wingedLights": ["Tmg19lVERk"],
     "mapShrines": ["r2NNvf4jdl"],
-    "mapData": { "position": [-257.56, 248.88] },
+    "mapData": { "position": [-261.81, 236.63] },
     "connections": [{ "area": "u3rc8C3sMb" }, { "area": "YoYzKZ6GY3" }]
   },
   {
@@ -46,7 +46,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/fly-720.webp",
     "wingedLights": ["sfDl46vj4O", "N6KMjaxez6"],
     "mapShrines": ["Aq4k2P-fVB"],
-    "mapData": { "position": [-238.5, 254.19] },
+    "mapData": { "position": [-242.75, 241.94] },
     "connections": [{ "area": "iRWfJCMxFB" }, { "area": "YoYzKZ6GY3" }]
   },
   {
@@ -54,7 +54,7 @@
     "name": "Race End",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/end.webp",
     "wingedLights": ["HqV6qmTkzQ"],
-    "mapData": { "position": [-261.5, 291.88] },
+    "mapData": { "position": [-265.75, 279.63] },
     "connections": [{ "area": "GC4SmA2CUz" }]
   },
   {
@@ -73,7 +73,7 @@
     ],
     "wingedLights": ["McAh-VzlJH"],
     "mapShrines": ["LXnirIMnYf"],
-    "mapData": { "position": [-249, 291.88] },
+    "mapData": { "position": [-253.25, 279.63] },
     "connections": [{ "area": "L1O2yEHfvX" }, { "area": "WZFTGjgurD" }]
   },
   {
@@ -82,7 +82,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/temple-720.webp",
     "spirits": ["CcOE42N9Mc"],
     "wingedLights": ["E-f38yRTaj"],
-    "mapData": { "position": [-240.38, 291.88] },
+    "mapData": { "position": [-244.63, 279.63] },
     "connections": [{ "area": "GC4SmA2CUz" }, { "area": "R4I-lYbUUO" }]
   },
   {
@@ -98,7 +98,7 @@
     ],
     "wingedLights": ["U6oebtceIH", "xF36ISKLHe", "orOMQkGltm"],
     "mapShrines": ["9_0DXKlub6", "Lg9btBXFWr"],
-    "mapData": { "position": [-278.75, 277.75] },
+    "mapData": { "position": [-283, 265.5] },
     "connections": [
       { "area": "LUkrOYNjEy" },
       { "area": "7z8NtDXKrS" },
@@ -113,7 +113,7 @@
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/hermit-720.webp",
     "wingedLights": ["KFqwmitUni", "8_EY7L74TI"],
     "mapShrines": ["Nqlcq4Eqj5"],
-    "mapData": { "position": [-281.5, 239.13] },
+    "mapData": { "position": [-285.75, 226.88] },
     "connections": [{ "area": "WZFTGjgurD" }, { "area": "_dSyX-Uwrh" }]
   },
   {
@@ -129,14 +129,14 @@
     ],
     "wingedLights": ["JRTI3BsjIZ"],
     "mapShrines": ["dssBJwnc5Z"],
-    "mapData": { "position": [-286.25, 307.5] },
+    "mapData": { "position": [-290.5, 295.25] },
     "connections": [{ "area": "WZFTGjgurD" }, { "area": "3YSSmw01DR" }]
   },
   {
     "guid": "3YSSmw01DR",
     "name": "Harmony Hall",
     "imageUrl": "https://sky-planner.com/assets/game/areas/valley/harmony-720.webp",
-    "mapData": { "position": [-285.13, 291.75] },
+    "mapData": { "position": [-289.38, 279.5] },
     "connections": [
       { "area": "M8mzMntElQ" },
       { "area": "WZFTGjgurD" },
