@@ -5,34 +5,49 @@
       "name": "Lightmending Guide",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2b/Lightmending-Guide-cutout.png",
       "tree": "9QWYwAUdDG",
-      "treeRevisions": [ "7tovOw63ih" ]
+      "treeRevisions": [ "7tovOw63ih" ],
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Guide"
+      }
     },
     {
       "guid": "la4vZslNOy",
       "type": "Season",
       "name": "Lightmending Light Scholar",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e3/Lightmending-Light-Scholar-cutout.png",
-      "tree": "rMUUnF9HAB"
+      "tree": "rMUUnF9HAB",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar"
+      }
     },
     {
       "guid": "haE7sC8lPX",
       "type": "Season",
       "name": "Lightmending Light Catcher",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/03/Lightmending-Light-Catcher-cutout.png",
-      "tree": "ZSQVVHlhVX"
+      "tree": "ZSQVVHlhVX",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher"
+      }
     },
     {
       "guid": "xbjjYxXUsV",
       "type": "Season",
       "name": "Lightmending Champion",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Lightmending-Champion-cutout.png",
-      "tree": "lSXt9gZtGb"
+      "tree": "lSXt9gZtGb",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Champion"
+      }
     },
     {
       "guid": "a4cDauac0X",
       "type": "Season",
       "name": "Lightmending Pioneer",
       "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/70/Lightmending-Pioneer-cutout.png",
-      "tree": "QOhdakPpfv"
+      "tree": "QOhdakPpfv",
+      "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Pioneer"
+      }
     }
 ]
