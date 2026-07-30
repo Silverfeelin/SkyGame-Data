@@ -610,13 +610,13 @@
     "id": 3021,
     "guid": "BxcM9aaV_8",
     "name": "Fortune Carousel Music Box",
-    "type": "Prop",
+    "type": "Furniture",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Fortune-Carousel-Music-Box-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Fortune-Carousel-Music-box-using.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Carousel_Music_Box"
     },
-    "order": 4800
+    "order": 3250
   },
   {
     "id": 3022,
