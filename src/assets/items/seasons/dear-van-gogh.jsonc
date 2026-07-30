@@ -187,7 +187,7 @@
   {
     "id": 3208,
     "guid": "te5dxg40i2",
-    "type": "Prop",
+    "type": "Furniture",
     "name": "Dear Van Gogh Ultimate Teaset",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2c/Dear-Van-Gogh-Ultimate-Tea-Table-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/32/Dear-Van-Gogh-Ultimate-Guide-Teaset-real.png",
@@ -195,7 +195,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Ultimate_Gifts"
     },
-    "order": 2700
+    "order": 2650
   },
   {
     "id": 3209,
