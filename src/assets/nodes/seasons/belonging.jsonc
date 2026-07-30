@@ -45,6 +45,17 @@
   { "guid": "zrDbEQ_k2A", "item": "u2qrLrrl7v", "h": 6 },
   { "guid": "sOuWPkb-H9", "item": "EcCAR69gcW", "c": 5, "n": "wOmZU03bk6" },
   { "guid": "wOmZU03bk6", "item": "86vG43eb7E", "c": 60 },
+  // TS 171
+  { "guid": "Bz4eWTqmHP", "item": "EdkgJhVl7F", "nw": "edSXjUF5xG", "n": "WU51FTank3" },
+  { "guid": "edSXjUF5xG", "item": "_KkFXT0brp", "h": 4 },
+  { "guid": "WU51FTank3", "item": "3Nz4lttfEb", "c": 5, "nw": "H3gXVQZb9f", "n": "B8ruuzr5ti", "ne": "EXNGvB7NMW" },
+  { "guid": "H3gXVQZb9f", "item": "4NjsRif40c", "c": 42 },
+  { "guid": "EXNGvB7NMW", "item": "zO2Dc3mn5_", "c": 3 },
+  { "guid": "B8ruuzr5ti", "item": "ygMdfJClM7", "ac": 2, "n": "Uqv6yIh8qe" },
+  { "guid": "Uqv6yIh8qe", "item": "0nUupQHHcx", "h": 3, "nw": "a97eZTwUGk", "n": "0v24uZeHKd" },
+  { "guid": "a97eZTwUGk", "item": "u2qrLrrl7v", "h": 6 },
+  { "guid": "0v24uZeHKd", "item": "EcCAR69gcW", "c": 5, "n": "h7CosgQi1c" },
+  { "guid": "h7CosgQi1c", "item": "86vG43eb7E", "c": 60 },
   // #endregion
   // Boogie Kid
   { "guid": "z5oUNmiK-N", "item": "o46E_Adz2z", "nw": "JjSEFfzBLZ", "n": "69VvLUz4az" },
