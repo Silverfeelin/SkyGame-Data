@@ -225,6 +225,91 @@
     "returning": true,
     "sc": 35,
     "items": ["4CYafmMUql"]
+  },
+  // #endregion
+  // #region Days of Sunlight (2026)
+  {
+    "guid": "2bxq1z_wmG",
+    "name": "Sunlight Diver Duo",
+    "price": 9.99,
+    "items": ["HYH__1BtLI", "bWyM7Ars0o"]
+  },
+  {
+    "guid": "Ax20B1xqCv",
+    "name": "Sunlight Crab Float",
+    "price": 3.99,
+    "items": ["MMv9XD-1X9"]
+  },
+  {
+    "guid": "PjVFGzgisQ",
+    "name": "Sunlight Sporty Sunglasses",
+    "price": 2.99,
+    "items": ["jKTQKksq7n"]
+  },
+  {
+    "guid": "AAxgoFzDG5",
+    "name": "Sunlight Bonnet Bundle",
+    "price": 14.99,
+    "returning": true,
+    "items": ["NiwM8bgdxk", "ysIdvX8oC7"]
+  },
+  {
+    "guid": "k301buDUmb",
+    "name": "Sunlight Woven Wrap",
+    "price": 14.99,
+    "returning": true,
+    "items": ["vNSMly5D9b"]
+  },
+  {
+    "guid": "JvUU4IaIe8",
+    "name": "Sunlight Helios Hoops",
+    "price": 2.99,
+    "returning": true,
+    "items": ["lv_MnKorJN"]
+  },
+  {
+    "guid": "9GPvp6EC7D",
+    "name": "Sunlight Surfboard",
+    "price": 14.99,
+    "returning": true,
+    "items": ["NEmfcbHb-I"]
+  },
+  {
+    "guid": "HK8scJZALJ",
+    "name": "Sunlight Chunky Sandals",
+    "price": 9.99,
+    "returning": true,
+    "items": ["gsACsrp16_"]
+  },
+  {
+    "guid": "WQYsLY3pkz",
+    "name": "Campfire Snack Kit",
+    "price": 19.99,
+    "returning": true,
+    "sc": 35,
+    "items": ["TXYOTW9Qyn"]
+  },
+  {
+    "guid": "r261OlfhdK",
+    "name": "Jelly Shoulder Buddy",
+    "price": 2.99,
+    "returning": true,
+    "items": ["Ay3g-0JAeW"]
+  },
+  {
+    "guid": "3-8GG-ymzd",
+    "name": "Seashell Hairpin",
+    "price": 0.99,
+    "returning": true,
+    "items": ["eruG9WiyJZ"]
+  },
+  {
+    "guid": "VsY3IU9C89",
+    "name": "Summer Parasol",
+    "price": 19.99,
+    "returning": true,
+    "sc": 35,
+    "items": ["4CYafmMUql"]
   }
   // #endregion
 ]

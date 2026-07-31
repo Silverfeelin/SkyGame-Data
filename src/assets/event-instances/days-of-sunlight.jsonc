@@ -53,5 +53,27 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Days-of-Sunlight-25b8261c87dd80b89bcec0e02d32b3a9"
     }
+  },
+  {
+    "guid": "g1KWjf0WgG",
+    "date": "2026-07-31",
+    "endDate": "2026-08-20",
+    "spirits": ["x_0K8itNLU"],
+    "shops": ["6PncWLyHMg", "SzmDJsinhP", "dNQpz3m8A5"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "cczSqlGZ9A",
+          "date": "2026-07-31",
+          "endDate": "2026-08-20",
+          "amount": 15,
+          "description": "Bonus event currency"
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Sunlight-3928261c87dd8063920fc604f1e979d8"
+    }
   }
 ]

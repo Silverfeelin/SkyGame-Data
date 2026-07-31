@@ -116,6 +116,12 @@
     "type": "Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/97/Sunlight-Surfboard-icon-Credit-Morybel.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1a/Sunlight-Surfboard.png",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "",
+      "infoUrl": ""
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Surfboard"
     },
@@ -334,5 +340,112 @@
     "type": "Special",
     "name": "Cutscene",
     "icon": "https://sky-planner.com/assets/icons/question.webp"
-  }
+  },
+  {
+    "id": 3269,
+    "guid": "HYH__1BtLI",
+    "type": "Outfit",
+    "name": "Sunlight Diver Wetsuit",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7f/Sunlight-Diver-Wetsuit-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/50/Sunlight-Diver-Wetsuit-front.png",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "",
+      "infoUrl": ""
+    },
+    "order": 5650,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3270,
+    "guid": "bWyM7Ars0o",
+    "type": "Shoes",
+    "name": "Sunlight Diver Flippers",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Sunlight-Diver-Flippers-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Sunlight-Diver-Flippers.png",
+    "order": 1750,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3271,
+    "guid": "MMv9XD-1X9",
+    "type": "Furniture",
+    "name": "Sunlight Crab Float",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/47/Sunlight-Crab-Float-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/07/Sunlight-Crab-Float-real.png",
+    "order": 5050,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3272,
+    "guid": "jKTQKksq7n",
+    "type": "HairAccessory",
+    "name": "Sunlight Sporty Sunglasses",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/ff/Sunlight-Sporty-Sunglasses-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/Sunlight-Sporty-Sunglasses-real.png",
+    "order": 6650,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3273,
+    "guid": "jaI5b86En7",
+    "type": "Hair",
+    "name": "Sunlight Surfer Hair",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9e/Sunlight-Surfer-Hair-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Sunlight-Surfer-Hair-front.png",
+    "order": 16150,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3274,
+    "guid": "amo581C-E4",
+    "type": "Prop",
+    "name": "Sunlight Sporty Surfboard",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/13/Sunlight-Sporty-Surfboard-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Sunlight-Sporty-Surfboard.png",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "",
+      "infoUrl": ""
+    },
+    "order": 6650,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3275,
+    "guid": "h84BHjVPVU",
+    "type": "Mask",
+    "name": "Sunlight Snorkel",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Sunlight-Snorkel-Mask-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Sunlight-Snorkel-Mask-real.png",
+    "order": 10950,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3276,
+    "guid": "rXaB5EU9y9",
+    "type": "Special",
+    "name": "Race Ramp",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/33/Race-Ramp-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ca/Race-Ramp-real.png",
+    "_wiki": {
+      "href": ""
+    }
+  },
 ]

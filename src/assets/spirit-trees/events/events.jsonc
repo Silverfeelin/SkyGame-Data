@@ -228,6 +228,11 @@
   },
   // Days of Sunlight (2025)
   { "guid": "WvS399OTqy", "node": "BfFrc98Kea" },
+  // Days of Sunlight (2026)
+  { 
+    "guid": "ZP02m0C-E4", 
+    "node": "cyM5d-Vdg-" 
+  },
   // #endregion
   // #region Days of Moonlight
   // Days of Moonlight (2024)
