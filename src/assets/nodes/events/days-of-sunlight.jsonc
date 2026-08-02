@@ -133,6 +133,14 @@
   { "guid": "enfU2rnnKd", "item": "iA01zJOF-r", "c": 5, "nw": "jgN5NVkHwZ", "n": "8WSQ6H5P_g", "ne": "Saor8_myTz" },
   { "guid": "jgN5NVkHwZ", "item": "QjK8cvBTfX", "h": 30 },
   { "guid": "Saor8_myTz", "item": "NBkEtlvG6-", "c": 140 },
-  { "guid": "8WSQ6H5P_g", "item": "FaGQYktG04", "c": 110 }
+  { "guid": "8WSQ6H5P_g", "item": "FaGQYktG04", "c": 110 },
   // #endregion
+  // #region Days of Sunlight (2026)
+  { "guid": "cyM5d-Vdg-", "item": "jEpC3PXdht", "nw": "CMwIh9Sx02", "n": "jfF2pnD5VO", "ne": "9EvrRYT0G8" },
+  { "guid": "CMwIh9Sx02", "item": "amo581C-E4", "ec": 38 },
+  { "guid": "9EvrRYT0G8", "item": "jaI5b86En7", "ec": 21 },
+  { "guid": "jfF2pnD5VO", "item": "03n8xOK3J3", "ec": 2, "nw": "gxNjZQfMl-", "n": "jX5-ak9NSz", "ne": "1YxQiq5aVL" },
+  { "guid": "gxNjZQfMl-", "item": "h84BHjVPVU", "ec": 23 },
+  { "guid": "1YxQiq5aVL", "item": "iPnHAbmuQr", "c": 75 },
+  { "guid": "jX5-ak9NSz", "item": "T5PJETWmC-", "c": 98 }
 ]

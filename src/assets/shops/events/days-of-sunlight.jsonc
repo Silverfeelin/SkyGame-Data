@@ -77,6 +77,35 @@
     "type": "Object",
     "name": "Event Prop Box",
     "itemList": "mp6_RorWOs"
+  },
+  // #endregion
+  // #region Days of Sunlight (2026)
+  {
+    "guid": "6PncWLyHMg",
+    "type": "Store",
+    "iaps": ["2bxq1z_wmG", "Ax20B1xqCv", "PjVFGzgisQ"]
+  },
+  {
+    "guid": "SzmDJsinhP",
+    "type": "Object",
+    "name": "Sunlight IAP Box",
+    "iaps": [
+      "AAxgoFzDG5",
+      "k301buDUmb",
+      "JvUU4IaIe8",
+      "9GPvp6EC7D",
+      "HK8scJZALJ",
+      "WQYsLY3pkz",
+      "r261OlfhdK",
+      "3-8GG-ymzd", 
+      "VsY3IU9C89"
+    ]
+  },
+  {
+    "guid": "dNQpz3m8A5",
+    "type": "Object",
+    "name": "Sunlight Prop Box",
+    "itemList": "PYRP3aGA2U"
   }
   // #endregion
 ]
