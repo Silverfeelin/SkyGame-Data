@@ -2,12 +2,13 @@
   {
     "guid": "U9vUspUuRp",
     "type": "Event",
-    "name": "Placeholder"
+    "name": "Aurora: Homecoming",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/62/SoAurora-Seasonal-guide.png",
   },
   {
     "guid": "9VkjVkgKhb",
     "type": "Event",
-    "name": "Auspicious Visitor"
+    "name": "Mini IAP Shop"
   },
   // Unknown IAP spirits
   {
@@ -31,12 +32,14 @@
   {
     "guid": "mAn3DeaZPi",
     "type": "Event",
-    "name": "Unfettered Love"
+    "name": "Unfettered Love",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3c/Days-of-Love-Unfettered-Love.png" 
   },
   {
     "guid": "uIbDtVEvkH",
     "type": "Event",
-    "name": "Days of Love Guide"
+    "name": "Days of Love Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/Moments-Spirit-Jolly-Geologist.png"
   },
   {
     "guid": "G2seKIqYu1",
@@ -47,7 +50,8 @@
   {
     "guid": "8WMnysBWNd",
     "type": "Event",
-    "name": "Days of Treasure Guide"
+    "name": "Days of Treasure Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/34/Days-of-Adventure-Guide-2025.png"
   },
   {
     "guid": "__ouqYVk1e",
@@ -59,7 +63,8 @@
   {
     "guid": "IqShB-6_rY",
     "type": "Event",
-    "name": "Days of Bloom Guide"
+    "name": "Days of Bloom Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Days-of-Bloom-Guide-2025.png"
   },
   {
     "guid": "pDhJzwjbYD",
@@ -71,7 +76,20 @@
   {
     "guid": "3M1KSVgf49",
     "type": "Event",
-    "name": "Days of Nature Guide"
+    "name": "Days of Nature Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/37/Days-of-Nature-Guide.png" 
+  },
+  {
+    "guid": "dFYgbUqVhr",
+    "type": "Event",
+    "name": "Days of Nature Guide", //2025
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7a/Days-of-Nature-Guide-2025.png"
+  },
+  {
+    "guid": "E0DXEMxqAU",
+    "type": "Event",
+    "name": "Chill Sunbather",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Sanctuary-Spirit-Chill-Sunbather.png"
   },
   // Nature Guide 2026
   {
@@ -98,9 +116,32 @@
     "name": "Anniversary Guide"
   },
   {
+    "guid": "LFUHgdsQJp",
+    "type": "Event",
+    "name": "Anniversary Guide",  ///2023
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/68/Sky-Anniversary-Staff-2023.png"
+  },
+  {
+    "guid": "Ip5FZrsiul",
+    "type": "Event",
+    "name": "Anniversary Guide",  //2024
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Sky-Anniversary-Staff-2024.png"
+  },
+  {
+    "guid": "6U7Onk7rUv",
+    "type": "Event",
+    "name": "Anniversary Guide",  //2025, 2026
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d6/Sky-Anniversary-Guide-2025.png"
+  },
+  {
     "guid": "tam_Fpnh1g",
     "type": "Event",
     "name": "Anniversary Chibi IAP Guide"
+  },
+  {
+    "guid": "JMG-F7nxoS",
+    "type": "Event",
+    "name": "Anniversary Mannequin"
   },
   // Days of Sunlight
   {
@@ -108,11 +149,30 @@
     "type": "Event",
     "name": "Days of Sunlight Guide"
   },
+  {
+    "guid": "HvxNLjvHf2",
+    "type": "Event",
+    "name": "Days of Sunlight Guide",  //2023
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/68/Days_of_Sunlight_Guide_2023.png"
+  },
+  {
+    "guid": "GL2QRq2Ljs",
+    "type": "Event",
+    "name": "Days of Sunlight Guide",  //2024, 2025, 2026
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Days-of-Sunlight-Guide-2024.png"
+  },
   // Days of Moonlight
   {
     "guid": "tXkUX6GU6W",
     "type": "Event",
-    "name": "Days of Moonlight Guide"
+    "name": "Days of Moonlight Guide",  //2024
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/Days-of-Moonlight-Guide-2024.png"
+  },
+  {
+    "guid": "uuRPrSPJlz",
+    "type": "Event",
+    "name": "Days of Moonlight Guide",  //2025
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Days-of-Moonlight-Guide-2025.png"
   },
   // Days of Style
   {
@@ -125,6 +185,12 @@
     "guid": "NbUg5yLpTg",
     "type": "Event",
     "name": "Days of Style IAP Guide"
+  },
+  {
+    "guid": "ZtPgOdEWKL",
+    "type": "Event",
+    "name": "Style Guide",  //2024
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5e/Days-of-Style-Guide-2024.png"
   },
   // Days of Mischief
   {
@@ -160,7 +226,8 @@
   {
     "guid": "j1UqKci8Hb",
     "type": "Event",
-    "name": "Days of Feast Staff"
+    "name": "Days of Feast Staff",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/60/Days-of-Feast-Staff-2024.png"
   },
   {
     "guid": "gDAPHT2NBG",
