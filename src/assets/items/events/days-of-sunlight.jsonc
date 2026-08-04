@@ -448,4 +448,18 @@
       "href": ""
     }
   },
+  {
+    "id": 3277,
+    "guid": "ugBjuQ8Qdq",
+    "type": "Special",
+    "name": "Yellow dye",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ad/Yellow-dye-container-icon.png"
+  },
+  {
+    "id": 3278,
+    "guid": "zZWBUTwCwm",
+    "type": "Special",
+    "name": "Black dye",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/97/Black-dye-container-icon.png"
+  }
 ]

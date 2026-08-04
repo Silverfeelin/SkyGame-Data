@@ -106,6 +106,12 @@
     "type": "Object",
     "name": "Sunlight Prop Box",
     "itemList": "PYRP3aGA2U"
+  },
+  {
+    "guid": "LkeGyvgoLV",
+    "type": "Object",
+    "name": "Sunlight Spell Box",
+    "itemList": "wYbbYJnOHw"
   }
   // #endregion
 ]
