@@ -78,6 +78,12 @@
     "name": "Event Prop Box",
     "itemList": "mp6_RorWOs"
   },
+  {
+    "guid": "C9To_yORjZ",
+    "type": "Object",
+    "name": "Sunlight Spell Box",
+    "itemList": "qkCjfythVX"
+  },
   // #endregion
   // #region Days of Sunlight (2026)
   {
@@ -106,6 +112,12 @@
     "type": "Object",
     "name": "Sunlight Prop Box",
     "itemList": "PYRP3aGA2U"
+  },
+  {
+    "guid": "LkeGyvgoLV",
+    "type": "Object",
+    "name": "Sunlight Spell Box",
+    "itemList": "wYbbYJnOHw"
   }
   // #endregion
 ]
