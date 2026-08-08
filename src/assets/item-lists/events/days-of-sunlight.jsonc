@@ -42,8 +42,8 @@
   {
     "guid": "wYbbYJnOHw",
     "items": [
-      { "guid": "ztsXmtTEsO", "item": "ugBjuQ8Qdq", "ec": 4 },
-      { "guid": "fgXcKtU1Pe", "item": "zZWBUTwCwm", "ec": 10 }
+      { "guid": "fgXcKtU1Pe", "item": "zZWBUTwCwm", "ec": 10 },
+      { "guid": "ztsXmtTEsO", "item": "ugBjuQ8Qdq", "ec": 4 }
     ]
   }
 ]
