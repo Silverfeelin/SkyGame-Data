@@ -429,6 +429,10 @@
     "name": "Dutch Memory Cape",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/85/Dear-Van-Gogh-Dutch-Memory-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0d/Dear-Van-Gogh-Dutch-Memory-Cape-back.png",
+    "dye": {
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/DearVanGogh_Shawl.jpg",
+      "primary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Cape"
     },
@@ -547,6 +551,12 @@
     "name": "Joyful Memory Hair",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/77/Dear-Van-Gogh-Joyful-Memory-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3d/Dear-Van-Gogh-Joyful-Memory-Hair-front.png",
+    "dye": {
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/DearVanGogh_StarryHair.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_DearVanGogh_StarryHair.jpg",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Hair"
     },
@@ -749,6 +759,12 @@
     "name": "Starry Night's Visage",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/aa/Dear-Van-Gogh-Starry-Night-Visage-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/Dear-Van-Gogh-Starry-Night-Visage-Mask.png",
+    "dye": {
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/DearVanGogh_StarryMask.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/mask/2slots_DearVanGogh_StarryMask.jpg",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Starry_Night's_Visage"
     },
@@ -785,6 +801,12 @@
     "name": "Starry Night's Mantle Neckpiece",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/49/Dear-Van-Gogh-Starry-Night-Mantle-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Dear-Van-Gogh-Starry-Night-Mantle-Accessory-front.png",
+    "dye": {
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/DearVanGogh_StarryNeckpiece.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/2slots_DearVanGogh_StarryNeckpiece.jpg",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Starry_Night's_Mantle"
     },
