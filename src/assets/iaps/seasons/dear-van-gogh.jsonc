@@ -22,5 +22,11 @@
     "name": "Starry Night's Mantle",
     "price": 24.99,
     "items": ["tz-IwazQ7k", "tgeTchWQfN"]
+  },
+  {
+    "guid": "h09-v8Mh-Q",
+    "name": "Starry Night's Canopy",
+    "price": 14.99,
+    "items": ["OAGgi-B-xa"]
   }
 ]

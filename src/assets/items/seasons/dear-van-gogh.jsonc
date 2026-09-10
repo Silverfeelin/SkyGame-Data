@@ -811,5 +811,29 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Starry_Night's_Mantle"
     },
     "order": 4350
+  },
+  {
+    "id": 3292,
+    "guid": "KwENV96jIh",
+    "type": "Furniture",
+    "name": "Easel",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Dear-Van-Gogh-Easel-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/50/Dear-Van-Gogh-Easel-Prop-front.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Easel_Prop"
+    },
+    "order": 11750
+  },
+  {
+    "id": 3293,
+    "guid": "OAGgi-B-xa",
+    "type": "Held",
+    "name": "Starry Night's Canopy",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f2/Starry-Nights-Canopy-Umbrella-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/75/Starry-Nights-Canopy-Umbrella-held.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Starry_Night's_Canopy"
+    },
+    "order": 6400
   }
 ]
