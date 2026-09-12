@@ -773,6 +773,17 @@
       "ZngKNBX8dc"
     ],
     "shops": ["T_3W0co0jA", "_OJ1jaNYD0"],
+    "calculatorData": {
+      "timedCurrency": [
+        {
+          "guid": "PPuCIJmYih",
+          "date": "2026-09-11",
+          "endDate": "2026-09-24",
+          "amount": 14,
+          "description": "Bonus daily Seasonal Light"
+        }
+      ]
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh"
     },
