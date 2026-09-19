@@ -40,5 +40,28 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Days-of-Moonlight-25d8261c87dd809ab40cf2cee31a0781"
     }
+  },
+  {
+    "guid": "1PMypfYo9t",
+    "date": "2026-09-19",
+    "endDate": "2026-10-09",
+    "draft": true,
+    "spirits": ["OspYImnOUe"],
+    "shops": ["SZkzLZ2ZzY", "mCQ6mRZ-u6", "RLwWACjujT"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "8Kv1qjB2xe",
+          "date": "2026-09-19",
+          "endDate": "2026-10-09",
+          "amount": 15,
+          "description": "Tickets around the Crescent Oasis"
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Moonlight-3d58261c87dd802d8620e41d275d9ac6"
+    }
   }
 ]

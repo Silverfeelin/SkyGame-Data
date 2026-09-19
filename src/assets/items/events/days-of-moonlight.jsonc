@@ -126,5 +126,77 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2025#Moonlight_Basin"
     },
     "order": 2700
+  },
+  {
+    "id": 3294,
+    "guid": "SFXOQOroII",
+    "name": "Moonlight Trousers",
+    "type": "Outfit",
+    "icon": "https://sky-planner.com/assets/icons/question.webp",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/93/Moonlight-Trousers-front.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Moonlight_Trousers"
+    },
+    "order": 6900
+  },
+  {
+    "id": 3295,
+    "guid": "I-8_QoT8C6",
+    "name": "Moonlight Ears",
+    "type": "HeadAccessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/58/Moonlight-Ears-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0a/Moonlight-Ears.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Moonlight_Ears"
+    },
+    "order": 2600
+  },
+  {
+    "id": 3296,
+    "guid": "3wNka_C9KV",
+    "name": "Moonlight Lotus Cushion",
+    "type": "Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f6/Moonlight-Lotus-Cushion-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/61/Moonlight-Lotus-Cushion.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Moonlight_Lotus_Cushion"
+    },
+    "order": 13900
+  },
+  {
+    "id": 3297,
+    "guid": "BkMLE3ku3r",
+    "name": "Moonlight Lute",
+    "type": "Held",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d4/Moonlight-Pipa-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Moonlight-Pipa.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Moonlight_Pipa"
+    },
+    "order": 14000
+  },
+  {
+    "id": 3298,
+    "guid": "ismrxXIblv",
+    "name": "Moonlight Nimbus",
+    "type": "HairAccessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/39/Moonlight-Lotus-Halo-Icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/16/Moonlight-Lotus-Halo.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Lotus_Halo"
+    },
+    "order": 8500
+  },
+  {
+    "id": 3299,
+    "guid": "uviJw8fLzA",
+    "name": "Moonlight Veil",
+    "type": "Mask",
+    "icon": "https://sky-planner.com/assets/icons/question.webp",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2a/Moonlight-Floral-Veil.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Floral_Veil"
+    },
+    "order": 11400
   }
 ]

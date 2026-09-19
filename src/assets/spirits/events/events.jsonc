@@ -184,6 +184,12 @@
     "name": "Days of Moonlight Guide",  //2025
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1c/Days-of-Moonlight-Guide-2025.png"
   },
+  {
+    "guid": "TBy9I1TKQu",
+    "type": "Event",
+    "name": "Days of Moonlight Guide",  //2026
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Days-of-Moonlight-Guide-2026.png"
+  },
   // Days of Style
   {
     "guid": "F6BUqVCHvp",

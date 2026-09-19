@@ -73,4 +73,105 @@
     ]
   },
   // #endregion
+  // #region Days of Moonlight (2026)
+  {
+    "guid": "N2BkfIu-4M",
+    "name": "Moonlight Lute",
+    "price": 14.99,
+    "items": [
+      "BkMLE3ku3r"
+    ]
+  },
+  {
+    "guid": "0HIEo1bhxu",
+    "name": "Moonlight Nimbus",
+    "price": 9.99,
+    "items": [
+      "ismrxXIblv"
+    ]
+  },
+  {
+    "guid": "yes9jlWURD",
+    "name": "Moonlight Veil",
+    "price": 2.99,
+    "items": [
+      "uviJw8fLzA"
+    ]
+  },
+  {
+    "guid": "XMFyHy_QNd",
+    "name": "Moonlight Garland Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "5k-f_eevZd"
+    ]
+  },
+  {
+    "guid": "XXqiEhHS7Y",
+    "name": "Moonlight Frock and Updo",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "2e97D5cOuG",
+      "oDLczC36GR"
+    ]
+  },
+  {
+    "guid": "YVmIhbaWCr",
+    "name": "Moonlight Earrings",
+    "price": 2.99,
+    "returning": true,
+    "items": [
+      "XURacs6BHP"
+    ]
+  },
+  {
+    "guid": "YdU7Fgslds",
+    "name": "Moonlight Lantern Pack",
+    "price": 19.99,
+    "returning": true,
+    "c": 35,
+    "items": [
+      "5xJ_mCzZQy"
+    ]
+  },
+  {
+    "guid": "kSeL0teYpQ",
+    "name": "Moonlight Bunny Accessory",
+    "price": 2.99,
+    "returning": true,
+    "items": [
+      "EEFIpR6x7Q"
+    ]
+  },
+  {
+    "guid": "9C2dO7Pq9P",
+    "name": "Moonlight Bunny Slippers",
+    "price": 6.99,
+    "returning": true,
+    "items": [
+      "MuQrbnmbdp"
+    ]
+  },
+  {
+    "guid": "FfbdMAn_6M",
+    "name": "Gift of the Nine-Colored Deer",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "czsVJwqa_g",
+      "0F90DHi6Er"
+    ]
+  },
+  {
+    "guid": "ndFe0u7Deh",
+    "name": "Radiance of the Nine-Colored Deer",
+    "price": 19.99,
+    "returning": true,
+    "items": [
+      "BTogmcHcr5"
+    ]
+  }
+  // #endregion
 ]

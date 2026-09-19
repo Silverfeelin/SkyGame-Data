@@ -29,6 +29,32 @@
     "type": "Object",
     "name": "Event Prop Box",
     "itemList": "JzRcGZHtCQ"
+  },
+  // #endregion
+  // #region Days of Moonlight (2026)
+  {
+    "guid": "SZkzLZ2ZzY",
+    "type": "Store",
+    "iaps": ["N2BkfIu-4M", "0HIEo1bhxu", "yes9jlWURD"]
+  },
+  {
+    "guid": "mCQ6mRZ-u6",
+    "type": "Object",
+    "name": "IAP Prop Box",
+    "iaps": [
+      "XMFyHy_QNd",
+      "XXqiEhHS7Y",
+      "YVmIhbaWCr",
+      "YdU7Fgslds",
+      "kSeL0teYpQ",
+      "9C2dO7Pq9P"
+    ]
+  },
+  {
+    "guid": "RLwWACjujT",
+    "type": "Object",
+    "name": "Nine-Colored Deer Mannequin",
+    "iaps": ["FfbdMAn_6M", "ndFe0u7Deh"]
   }
   // #endregion
 ]
