@@ -72,6 +72,17 @@
   { "guid": "0M_l6cQSrW", "item": "sbkNjwrgIc", "h": 6 },
   { "guid": "SFYjN4kDyC", "item": "hAnvfbKn_u", "c": 5, "n": "QUcB4hxfNe" },
   { "guid": "QUcB4hxfNe", "item": "0HHq0_mt50", "c": 34 },
+  // TS 175
+  { "guid": "0-VFnIcA_e", "item": "WhcCC138s8", "nw": "n_cT_DgGJa", "n": "Cw10WGRXZ3" },
+  { "guid": "n_cT_DgGJa", "item": "D72h3-WjJD", "h": 4 },
+  { "guid": "Cw10WGRXZ3", "item": "H1vYsFTrFX", "c": 5, "nw": "ufCC_wSuje", "n": "tQeQ8qa4jw", "ne": "27rz30tGZ5" },
+  { "guid": "ufCC_wSuje", "item": "GyXhQOu4fZ", "c": 30 },
+  { "guid": "27rz30tGZ5", "item": "V-zZ-UK9VJ", "c": 3 },
+  { "guid": "tQeQ8qa4jw", "item": "9Epic8uUqZ", "ac": 2, "n": "THZz_XBIZV" },
+  { "guid": "THZz_XBIZV", "item": "rYq-RTnkiN", "h": 3, "nw": "6KkJv9r1yE", "n": "QNsGUU2MLC" },
+  { "guid": "6KkJv9r1yE", "item": "sbkNjwrgIc", "h": 6 },
+  { "guid": "QNsGUU2MLC", "item": "hAnvfbKn_u", "c": 5, "n": "bxcvtktV3g" },
+  { "guid": "bxcvtktV3g", "item": "0HHq0_mt50", "c": 34 },
   // #endregion
   // #region Indifferent Alchemist
   { "guid": "3r1FbFbCtb", "item": "gFaU0Zm95W", "nw": "YCGiFfVwSC", "n": "_9dyBPKw67" },
