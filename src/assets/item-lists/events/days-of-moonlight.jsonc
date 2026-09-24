@@ -2,5 +2,15 @@
   {
     "guid": "JzRcGZHtCQ",
     "items": [{ "guid": "Dqd5uFFTXN", "item": "WSk90oPjru", "c": 75 }]
+  },
+  // 2026
+  {
+    "guid": "bSLl_HfVyS",
+    "items": [
+      { "guid": "fVyDZF58Bs", "item": "Gn1DSb6m5E", "c": 120 },
+      { "guid": "I67V6Siazz", "item": "WSk90oPjru", "c": 75 },
+      { "guid": "Yzvp4ePfch", "item": "_cE3iO4UG4", "c": 5 },
+      { "guid": "3DS5Q68E8M", "item": "vx4vxVJ0L1", "c": 70 }
+    ]
   }
 ]
