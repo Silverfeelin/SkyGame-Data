@@ -55,6 +55,12 @@
     "type": "Object",
     "name": "Nine-Colored Deer Mannequin",
     "iaps": ["FfbdMAn_6M", "ndFe0u7Deh"]
+  },
+  {
+    "guid": "Y8kf3SP0zq",
+    "type": "Object",
+    "name": "Event Prop Box",
+    "itemList": "bSLl_HfVyS"
   }
   // #endregion
 ]
