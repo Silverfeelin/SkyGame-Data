@@ -789,6 +789,17 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Dear-Van-Gogh-3778261c87dd8070bc53ddcc5dd20076"
     }
+  },
+  {
+    "guid": "SNCx0sIi7D",
+    "name": "Season of Pearl",
+    "shortName": "Pearl",
+    "year": 2026,
+    "date": "2026-10-16",
+    "endDate": "2026-12-31",
+    "draft": true,
+    "spirits": [],
+    "shops": []
   }
   // #endregion
 ]
