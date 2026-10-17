@@ -4,7 +4,10 @@
     "guid": "butrbd8g_m",
     "type": "Quest",
     "name": "Quest 1",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Pearl#Quest_#1"
+    }
   },
   {
     "id": 3337,
@@ -18,7 +21,11 @@
     "guid": "_bdueAJEDx",
     "type": "Necklace",
     "name": "Pearl Ultimate Pendant",
-    "icon": "/proxy/icons/_bdueAJEDx.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6e/Season-of-Pearl-icon.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Angler%27s_Lantern#Necklace"
+    },
     "group": "Ultimate",
     "order": 6100
   },
@@ -27,14 +34,21 @@
     "guid": "rZ-0R6DX_0",
     "type": "Quest",
     "name": "Quest 2",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Pearl#Quest_#2"
+    }
   },
   {
     "id": 3340,
     "guid": "tKu1p0kVL9",
     "type": "HairAccessory",
     "name": "Pearl Ultimate Hair Accessory",
-    "icon": "/proxy/icons/tKu1p0kVL9.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/Pearl-Ultimate-Hair-Accessory-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c2/Pearl-Ultimate-Hair-Accessory-front.png",
+    "_wiki": {
+      "href": ""
+    },
     "group": "Ultimate",
     "order": 8900
   },
@@ -43,7 +57,10 @@
     "guid": "sTr3UijKgQ",
     "type": "Quest",
     "name": "Quest 3",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Pearl#Quest_#3"
+    }
   },
   {
     "id": 3342,
@@ -57,7 +74,11 @@
     "guid": "sMnmLHdloe",
     "type": "Prop",
     "name": "Pearl Ultimate Prop",
-    "icon": "/proxy/icons/sMnmLHdloe.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/49/Pearl-Ultimate-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/Pearl-Ultimate-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Pearl#Prop"
+    },
     "group": "Ultimate",
     "order": 14000
   },
@@ -103,7 +124,11 @@
     "guid": "gT6un3Ej3d",
     "type": "Prop",
     "name": "Pearl Prop",
-    "icon": "/proxy/icons/gT6un3Ej3d.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Pearl-Bottled-Ship-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/Pearl-Bottled-Ship-Prop.png",
+    "_wiki":{
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Angler%27s_Lantern#Prop"
+    },
     "order": 13900
   },
   {
