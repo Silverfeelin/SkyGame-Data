@@ -243,10 +243,10 @@
     "name": "Life and Sanctuary",
     "sheet": "44",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/MusicSheetW-Ray.png",
-    "order": 304,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stern_Shepherd#Music_Sheet"
-    }
+    },
+    "order": 44
   },
   {
     "id": 2690,

@@ -20,7 +20,7 @@
   {
     "guid": "zS4AGUTIgF",
     "type": "Event",
-    "name": "Event Staff (IGC)"
+    "name": "Event Staff"
   },
   // Days of Summer
   {
@@ -212,13 +212,13 @@
   {
     "guid": "ihZx_rVl70",
     "type": "Event",
-    "name": "Mischief Staff (Samantha)",
+    "name": "Herald of Mischief",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Days_of_Mischief_-_Samantha.png"
   },
   {
     "guid": "TgUgZjfoMI",
     "type": "Event",
-    "name": "Mischief Staff (Skidmore)",
+    "name": "Mischief Staff",
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Days_of_Mischief_-_Skidmore.png"
   },
   {
@@ -248,7 +248,8 @@
   {
     "guid": "gDAPHT2NBG",
     "type": "Event",
-    "name": "Winter Courier"
+    "name": "Winter Courier",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Days-of-Feast-Winter-Courier.png"
   },
   {
     "guid": "TL-SY6cuF4",

@@ -527,10 +527,10 @@
     "name": "Dragon Dance",
     "sheet": "E4",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/MusicSheetW-Ray.png",
-    "order": 401,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Dragon_Dance_Music_Sheet"
-    }
+    },
+    "order": 204
   },
   {
     "id": 3016,
