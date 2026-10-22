@@ -21,12 +21,12 @@
     "guid": "_bdueAJEDx",
     "type": "Necklace",
     "name": "Pearl Ultimate Pendant",
+    "group": "Ultimate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6e/Season-of-Pearl-icon.png",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/13/Pearl-Ultimate-Necklace.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Angler%27s_Lantern#Seasonal_Pendant"
     },
-    "group": "Ultimate",
     "order": 6100
   },
   {
@@ -44,12 +44,12 @@
     "guid": "tKu1p0kVL9",
     "type": "HairAccessory",
     "name": "Pearl Ultimate Hair Accessory",
+    "group": "Ultimate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/Pearl-Ultimate-Hair-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c2/Pearl-Ultimate-Hair-Accessory-front.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Angler%27s_Lantern#Pearl_Ultimate_Hair_Accessory"
     },
-    "group": "Ultimate",
     "order": 8900
   },
   {
@@ -74,12 +74,12 @@
     "guid": "sMnmLHdloe",
     "type": "Prop",
     "name": "Pearl Ultimate Prop",
+    "group": "Ultimate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/49/Pearl-Ultimate-Prop-icon.png",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/99/Pearl-Ultimate-Couch-Prop.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Angler%27s_Lantern#Pearl_Ultimate_Prop"
     },
-    "group": "Ultimate",
     "order": 14000
   },
   {
@@ -108,12 +108,13 @@
     "guid": "RXLiFm6ixb",
     "type": "Cape",
     "name": "Pearl Ultimate Cape",
-    "icon": "https://sky-planner.com/assets/game/items/RXLiFm6ixb.png",
     "group": "Ultimate",
-    "order": 19200,
+    "icon": "https://sky-planner.com/assets/game/items/RXLiFm6ixb.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Pearl-Ultimate-Cape-back.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Angler%27s_Lantern#Pearl_Ultimate_Cape"
-    }
+    },
+    "order": 19200
   },
   {
     "id": 3348,
@@ -166,10 +167,11 @@
     "type": "Mask",
     "name": "Cuddly Rolling Child Mask",
     "icon": "https://sky-planner.com/assets/game/items/f_yzg-Aqc0.png",
-    "order": 11900,
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Cuddly-Rolling-Child-Mask.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Mask"
-    }
+    },
+    "order": 11900
   },
   {
     "id": 3354,
@@ -207,16 +209,17 @@
     "type": "Outfit",
     "name": "Cuddly Rolling Child Outfit",
     "icon": "https://sky-planner.com/assets/game/items/bwbHoHtBzW.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/08/Cuddly-Rolling-Child-Outfit-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Pearl_childpants.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Pearl_childpants.jpg",
       "primary": {},
       "secondary": {}
     },
-    "order": 7200,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Outfit"
-    }
+    },
+    "order": 7200
   },
   {
     "id": 3358,
@@ -224,11 +227,12 @@
     "type": "Hair",
     "name": "Cuddly Rolling Child Hair",
     "icon": "https://sky-planner.com/assets/game/items/0PnKbBcfkg.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Cuddly-Rolling-Child-Hair-front.png",
     "group": "SeasonPass",
-    "order": 19000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Hair"
-    }
+    },
+    "order": 19000
   },
   {
     "id": 3359,
@@ -242,9 +246,9 @@
     "guid": "NgLp5MDwoF",
     "type": "Emote",
     "name": "Wallow",
+    "group": "SeasonPass",
     "level": 4,
     "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png",
-    "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Expression"
     }
@@ -254,18 +258,19 @@
     "guid": "IVJnEy1u4E",
     "type": "Cape",
     "name": "Cuddly Rolling Child Cape",
+    "group": "SeasonPass",
     "icon": "https://sky-planner.com/assets/game/items/IVJnEy1u4E.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Cuddly-Rolling-Child-Cape-back.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Pearl_netcape.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Pearl_netcape.jpg",
       "primary": {},
       "secondary": {}
     },
-    "group": "SeasonPass",
-    "order": 19400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Cape"
-    }
+    },
+    "order": 19400
   },
   {
     "id": 3362,
@@ -305,11 +310,13 @@
     "id": 3366,
     "guid": "NBXXbR5994",
     "type": "Music",
-    "name": "Music Sheet (sheet51)",
+    "name": "The Old Angler",
+    "sheet": "47",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/MusicSheet.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Music_Sheet"
-    }
+    },
+    "order": 47
   },
   {
     "id": 3367,
@@ -352,19 +359,20 @@
     "id": 3371,
     "guid": "jkv_YpntXU",
     "type": "Mask",
+    "group": "SeasonPass",
     "name": "Old Angler Mask",
     "icon": "https://sky-planner.com/assets/game/items/jkv_YpntXU.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/aa/Old-Angler-Mask-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Pearl_anglerbeard.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/mask/2slots_Pearl_anglerbeard.jpg",
       "primary": {},
       "secondary": {}
     },
-    "group": "SeasonPass",
-    "order": 11800,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Mask"
-    }
+    },
+    "order": 11800
   },
   {
     "id": 3372,
@@ -372,16 +380,17 @@
     "type": "Outfit",
     "name": "Old Angler Outfit",
     "icon": "https://sky-planner.com/assets/game/items/eRIkfWcaci.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/12/Old-Angler-Outfit-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Pearl_anglerpants.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Pearl_anglerpants.jpg",
       "primary": {},
       "secondary": {}
     },
-    "order": 7100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Outfit"
-    }
+    },
+    "order": 7100
   },
   {
     "id": 3373,
@@ -401,15 +410,16 @@
     "type": "HairAccessory",
     "name": "Old Angler Hair Accessory",
     "icon": "https://sky-planner.com/assets/game/items/L9YStRMV5D.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Old-Angler-Hair-Accessory-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Pearl_anglerhat.jpg",
       "primary": {}
     },
     "group": "SeasonPass",
-    "order": 9000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Hair_Accessory"
-    }
+    },
+    "order": 9000
   },
   {
     "id": 3375,
@@ -451,10 +461,11 @@
     "type": "Hair",
     "name": "Showy Merchant Hair",
     "icon": "https://sky-planner.com/assets/game/items/nAHlDmdChs.png",
-    "order": 18800,
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Showy-Merchant-Hair-front.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Hair"
-    }
+    },
+    "order": 18800
   },
   {
     "id": 3380,
@@ -498,12 +509,13 @@
     "guid": "-ihytZpI9V",
     "type": "Cape",
     "name": "Showy Merchant Cape",
-    "icon": "https://sky-planner.com/assets/game/items/-ihytZpI9V.png",
     "group": "SeasonPass",
-    "order": 19500,
+    "icon": "https://sky-planner.com/assets/game/items/-ihytZpI9V.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Showy-Merchant-Cape-back.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Cape"
-    }
+    },
+    "order": 19500
   },
   {
     "id": 3385,
@@ -511,16 +523,17 @@
     "type": "OutfitShoes",
     "name": "Showy Merchant Outfit",
     "icon": "https://sky-planner.com/assets/game/items/7fCfSqQMvl.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/37/Showy-Merchant-Outfit-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Pearl_showydress.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Pearl_showydress.jpg",
       "primary": {},
       "secondary": {}
     },
-    "order": 4400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Outfit"
-    }
+    },
+    "order": 4400
   },
   {
     "id": 3386,
@@ -575,16 +588,17 @@
     "type": "Cape",
     "name": "Wrestling Sailor Cape",
     "icon": "https://sky-planner.com/assets/game/items/_ABbwtDoHh.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Wrestling-Sailor-Cape-back.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Pearl_sailorcape.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Pearl_sailorcape.jpg",
       "primary": {},
       "secondary": {}
     },
-    "order": 19300,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Wrestling_Sailor#Cape"
-    }
+    },
+    "order": 19300
   },
   {
     "id": 3392,
@@ -612,18 +626,19 @@
     "guid": "lKjvRfO-rs",
     "type": "OutfitShoes",
     "name": "Wrestling Sailor Outfit",
+    "group": "SeasonPass",
     "icon": "https://sky-planner.com/assets/game/items/lKjvRfO-rs.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Wrestling-Sailor-Outfit-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Pearl_sailorpants.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Pearl_sailorpants.jpg",
       "primary": {},
       "secondary": {}
     },
-    "group": "SeasonPass",
-    "order": 4500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Wrestling_Sailor#Outfit"
-    }
+    },
+    "order": 4500
   },
   {
     "id": 3396,
@@ -631,16 +646,17 @@
     "type": "Hair",
     "name": "Wrestling Sailor Hair",
     "icon": "https://sky-planner.com/assets/game/items/Rt7sNT1Rb7.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7e/Wrestling-Sailor-Hair-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Pearl_sailordreads.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Pearl_sailordreads.jpg",
       "primary": {},
       "secondary": {}
     },
-    "order": 18900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Wrestling_Sailor#Hair"
-    }
+    },
+    "order": 18900
   },
   {
     "id": 3397,

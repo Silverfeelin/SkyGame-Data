@@ -3,30 +3,50 @@
     "guid": "HTcOmszhIP",
     "type": "Guide",
     "name": "Angler's Lantern",
-    "tree": "ahYhtDJ7Zk"
+    "tree": "ahYhtDJ7Zk",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/43/Angler%27s-Lantern-cutout.png",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Angler's_Lantern"
+    }
   },
   {
     "guid": "YITwEj1MrT",
     "type": "Season",
     "name": "Wrestling Sailor",
-    "tree": "7vpWmQIjTZ"
+    "tree": "7vpWmQIjTZ",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/09/Wrestling-Sailor-cutout.png",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Wrestling_Sailor"
+    }
   },
   {
     "guid": "W5o3UBa-ls",
     "type": "Season",
     "name": "Showy Merchant",
-    "tree": "eVkjP-MmBT"
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Showy-Merchant-cutout.png",
+    "tree": "eVkjP-MmBT",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant"
+    }
   },
   {
     "guid": "HB7xbMAPKZ",
     "type": "Season",
     "name": "Old Angler",
-    "tree": "2W0huRxb20"
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/68/Old-Angler-cutout.png",
+    "tree": "2W0huRxb20",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler"
+    }
   },
   {
     "guid": "9aSW6TswEZ",
     "type": "Season",
     "name": "Cuddly Rolling Child",
-    "tree": "IFe1v_npTL"
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d3/Cuddly-Rolling-Child-cutout.png",
+    "tree": "IFe1v_npTL",
+    "_wiki": {
+        "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child"
+    }
   }
 ]
