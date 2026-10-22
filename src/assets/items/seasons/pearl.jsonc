@@ -109,7 +109,7 @@
     "type": "Cape",
     "name": "Pearl Ultimate Cape",
     "group": "Ultimate",
-    "icon": "https://sky-planner.com/assets/game/items/RXLiFm6ixb.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/90/Pearl-Ultimate-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Pearl-Ultimate-Cape-back.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Angler%27s_Lantern#Pearl_Ultimate_Cape"
@@ -141,7 +141,7 @@
     "type": "Emote",
     "name": "Wallow",
     "level": 1,
-    "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bc/Cuddly-Rolling-Child-Emote-icon.png",
     "order": 1902,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Expression"
@@ -166,7 +166,7 @@
     "guid": "f_yzg-Aqc0",
     "type": "Mask",
     "name": "Cuddly Rolling Child Mask",
-    "icon": "https://sky-planner.com/assets/game/items/f_yzg-Aqc0.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/00/Cuddly-Rolling-Child-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Cuddly-Rolling-Child-Mask.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Mask"
@@ -186,7 +186,7 @@
     "type": "Emote",
     "name": "Wallow",
     "level": 2,
-    "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bc/Cuddly-Rolling-Child-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Expression"
@@ -198,7 +198,7 @@
     "type": "Emote",
     "name": "Wallow",
     "level": 3,
-    "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bc/Cuddly-Rolling-Child-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Expression"
     }
@@ -208,7 +208,7 @@
     "guid": "bwbHoHtBzW",
     "type": "Outfit",
     "name": "Cuddly Rolling Child Outfit",
-    "icon": "https://sky-planner.com/assets/game/items/bwbHoHtBzW.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/59/Cuddly-Rolling-Child-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/08/Cuddly-Rolling-Child-Outfit-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Pearl_childpants.jpg",
@@ -226,7 +226,7 @@
     "guid": "0PnKbBcfkg",
     "type": "Hair",
     "name": "Cuddly Rolling Child Hair",
-    "icon": "https://sky-planner.com/assets/game/items/0PnKbBcfkg.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/Cuddly-Rolling-Child-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Cuddly-Rolling-Child-Hair-front.png",
     "group": "SeasonPass",
     "_wiki": {
@@ -248,7 +248,7 @@
     "name": "Wallow",
     "group": "SeasonPass",
     "level": 4,
-    "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bc/Cuddly-Rolling-Child-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Expression"
     }
@@ -259,7 +259,7 @@
     "type": "Cape",
     "name": "Cuddly Rolling Child Cape",
     "group": "SeasonPass",
-    "icon": "https://sky-planner.com/assets/game/items/IVJnEy1u4E.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a6/Cuddly-Rolling-Child-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Cuddly-Rolling-Child-Cape-back.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Pearl_netcape.jpg",
@@ -277,7 +277,7 @@
     "guid": "PcLjvKUazW",
     "type": "Special",
     "name": "Season Heart",
-    "icon": "https://sky-planner.com/assets/game/items/PcLjvKUazW.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Season-of-Pearl-Heart-icon.png",
     "group": "SeasonPass"
   },
   {
@@ -286,7 +286,7 @@
     "type": "Emote",
     "name": "Hesitate",
     "level": 1,
-    "icon": "https://sky-planner.com/assets/game/items/hY0rd2pgh9.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Old-Angler-Emote-icon.png",
     "order": 1904,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Expression"
@@ -331,7 +331,7 @@
     "type": "Emote",
     "name": "Hesitate",
     "level": 2,
-    "icon": "https://sky-planner.com/assets/game/items/hY0rd2pgh9.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Old-Angler-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Expression"
@@ -343,7 +343,7 @@
     "type": "Emote",
     "name": "Hesitate",
     "level": 3,
-    "icon": "https://sky-planner.com/assets/game/items/hY0rd2pgh9.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Old-Angler-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Expression"
     }
@@ -361,7 +361,7 @@
     "type": "Mask",
     "group": "SeasonPass",
     "name": "Old Angler Mask",
-    "icon": "https://sky-planner.com/assets/game/items/jkv_YpntXU.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/47/Old-Angler-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/aa/Old-Angler-Mask-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Pearl_anglerbeard.jpg",
@@ -379,7 +379,7 @@
     "guid": "eRIkfWcaci",
     "type": "Outfit",
     "name": "Old Angler Outfit",
-    "icon": "https://sky-planner.com/assets/game/items/eRIkfWcaci.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b6/Old-Angler-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/12/Old-Angler-Outfit-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Pearl_anglerpants.jpg",
@@ -398,7 +398,7 @@
     "type": "Emote",
     "name": "Hesitate",
     "level": 4,
-    "icon": "https://sky-planner.com/assets/game/items/hY0rd2pgh9.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Old-Angler-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Expression"
@@ -409,7 +409,7 @@
     "guid": "L9YStRMV5D",
     "type": "HairAccessory",
     "name": "Old Angler Hair Accessory",
-    "icon": "https://sky-planner.com/assets/game/items/L9YStRMV5D.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/73/Old-Angler-Hair-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Old-Angler-Hair-Accessory-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Pearl_anglerhat.jpg",
@@ -426,7 +426,7 @@
     "guid": "_dxwikUrtX",
     "type": "Special",
     "name": "Season Heart",
-    "icon": "https://sky-planner.com/assets/game/items/PcLjvKUazW.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Season-of-Pearl-Heart-icon.png",
     "group": "SeasonPass"
   },
   {
@@ -435,7 +435,7 @@
     "type": "Emote",
     "name": "Show Off",
     "level": 1,
-    "icon": "https://sky-planner.com/assets/game/items/5C0kNVybSW.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Showy-Merchant-Emote-icon.png",
     "order": 1903,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Expression"
@@ -460,7 +460,7 @@
     "guid": "nAHlDmdChs",
     "type": "Hair",
     "name": "Showy Merchant Hair",
-    "icon": "https://sky-planner.com/assets/game/items/nAHlDmdChs.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c2/Showy-Merchant-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Showy-Merchant-Hair-front.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Hair"
@@ -480,7 +480,7 @@
     "type": "Emote",
     "name": "Show Off",
     "level": 2,
-    "icon": "https://sky-planner.com/assets/game/items/5C0kNVybSW.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Showy-Merchant-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Expression"
@@ -492,7 +492,7 @@
     "type": "Emote",
     "name": "Show Off",
     "level": 3,
-    "icon": "https://sky-planner.com/assets/game/items/5C0kNVybSW.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Showy-Merchant-Emote-icon.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Expression"
     }
@@ -510,7 +510,7 @@
     "type": "Cape",
     "name": "Showy Merchant Cape",
     "group": "SeasonPass",
-    "icon": "https://sky-planner.com/assets/game/items/-ihytZpI9V.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/Showy-Merchant-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Showy-Merchant-Cape-back.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Cape"
@@ -522,7 +522,7 @@
     "guid": "7fCfSqQMvl",
     "type": "OutfitShoes",
     "name": "Showy Merchant Outfit",
-    "icon": "https://sky-planner.com/assets/game/items/7fCfSqQMvl.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0a/Showy-Merchant-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/37/Showy-Merchant-Outfit-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Pearl_showydress.jpg",
@@ -541,7 +541,7 @@
     "type": "Emote",
     "name": "Show Off",
     "level": 4,
-    "icon": "https://sky-planner.com/assets/game/items/5C0kNVybSW.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Showy-Merchant-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Expression"
@@ -552,7 +552,7 @@
     "guid": "Gi_UkXco7k",
     "type": "Special",
     "name": "Season Heart",
-    "icon": "https://sky-planner.com/assets/game/items/PcLjvKUazW.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Season-of-Pearl-Heart-icon.png",
     "group": "SeasonPass"
   },
   {
@@ -562,7 +562,7 @@
     "subtype": "FriendEmote",
     "name": "Arm Wrestle",
     "level": 1,
-    "icon": "https://sky-planner.com/assets/game/items/pjt9rRZ1QV.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Wrestling-Sailor-Emote-icon.png",
     "order": 1901,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Wrestling_Sailor#Expression"
@@ -587,7 +587,7 @@
     "guid": "_ABbwtDoHh",
     "type": "Cape",
     "name": "Wrestling Sailor Cape",
-    "icon": "https://sky-planner.com/assets/game/items/_ABbwtDoHh.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ef/Wrestling-Sailor-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Wrestling-Sailor-Cape-back.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Pearl_sailorcape.jpg",
@@ -627,7 +627,7 @@
     "type": "OutfitShoes",
     "name": "Wrestling Sailor Outfit",
     "group": "SeasonPass",
-    "icon": "https://sky-planner.com/assets/game/items/lKjvRfO-rs.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6d/Wrestling-Sailor-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Wrestling-Sailor-Outfit-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Pearl_sailorpants.jpg",
@@ -645,7 +645,7 @@
     "guid": "Rt7sNT1Rb7",
     "type": "Hair",
     "name": "Wrestling Sailor Hair",
-    "icon": "https://sky-planner.com/assets/game/items/Rt7sNT1Rb7.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dc/Wrestling-Sailor-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7e/Wrestling-Sailor-Hair-front.png",
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Pearl_sailordreads.jpg",
@@ -670,7 +670,7 @@
     "guid": "sO1nva0YgL",
     "type": "Special",
     "name": "Season Heart",
-    "icon": "https://sky-planner.com/assets/game/items/PcLjvKUazW.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Season-of-Pearl-Heart-icon.png",
     "group": "SeasonPass"
   }
 ]
