@@ -666,7 +666,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Mischief-Magical-Hat-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Mischief-Magical-Hat-front.png",
     "dye": {
-      "primary": {}
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Mischief_witchhat.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Magical_Hat"
@@ -681,7 +682,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/98/Mischief-Impish-Wings-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/37/Mischief-Impish-Wings-back.png",
     "dye": {
-      "primary": {}
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Mischief_impwings.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Impish_Wings"
@@ -707,6 +709,10 @@
     "name": "Mischief Magic Studious Dress",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Mischief-Magical-Dress-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/86/Mischief-Magical-Dress-front.png",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Mischief_witchsmock.jpg"
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Magic_Studious_Dress"
     },
