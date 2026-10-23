@@ -234,6 +234,12 @@
     "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/12/Days_of_Mischief_-_Yoshi.png"
   },
   {
+    "guid": "PxDgRSUiUh",
+    "type": "Event",
+    "name": "Brigitta",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5a/Days_of_Mischief_-_Brigitta.png"
+  },
+  {
     "guid": "GwPybX8w0t",
     "type": "Event",
     "name": "Samantha clone 42"

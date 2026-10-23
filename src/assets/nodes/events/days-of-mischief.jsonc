@@ -256,6 +256,38 @@
   { "guid": "bhsCYgnwbB", "item": "VFeHTgImrJ", "c": 5, "nw": "TC-DaW-zi_", "n": "sQ947lg23y", "ne": "ZnHUlOAWzq" },
   { "guid": "TC-DaW-zi_", "item": "si_8YhNtmr", "c": 66 },
   { "guid": "ZnHUlOAWzq", "item": "Aq3FhT_OYr", "c": 38 },
-  { "guid": "sQ947lg23y", "item": "p-lbmuULv5", "c": 58 }
+  { "guid": "sQ947lg23y", "item": "p-lbmuULv5", "c": 58 },
+  // #endregion
+  // #region Days of Mischief (2026)
+  // Brigitta
+  { "guid": "76ZWs1_fl8", "item": "t3KeoseE7n", "ec": 2, "nw": "S82d818SRn", "n": "281o8l2Hdw", "ne": "zrGFKwu9NS" },
+  { "guid": "S82d818SRn", "item": "bNC1olXC8f", "ec": 32 },
+  { "guid": "zrGFKwu9NS", "item": "hM-iiSYd8o", "n": "VB9ACeGILx" },
+  { "guid": "VB9ACeGILx", "item": "6Z-Z9H6rKl", "n": "KY4NOTnx51" },
+  { "guid": "KY4NOTnx51", "item": "_VbniBpcFE", "n": "2-VsXxuMfL" },
+  { "guid": "2-VsXxuMfL", "item": "FsFxRBYgYV" },
+  { "guid": "281o8l2Hdw", "item": "1zFWHTEt15", "ec": 2, "nw": "hoxqzW_3dV", "n": "I8lPlZqTHV" },
+  { "guid": "hoxqzW_3dV", "item": "3jPP5k0nLB", "ec": 19 },
+  { "guid": "I8lPlZqTHV", "item": "qK5YvqtgNs", "ec": 27 },
+  // Herald of Mischief
+  { "guid": "X4PJQtjAqf", "item": "jP6vp1JxGK", "n": "3HhzXAD7HG", "nw": "0QB0HIKYWP", "ne": "6vbyDIpYXe" },
+  { "guid": "0QB0HIKYWP", "item": "Gz58JrTFXu", "ec": 22 },
+  { "guid": "6vbyDIpYXe", "item": "7dNyh36odp", "ec": 12 },
+  { "guid": "3HhzXAD7HG", "item": "PbmKwGDAAD", "c": 5, "nw": "wPx6hXeepC", "n": "GzccBIvHVh", "ne": "dmr22SwAbX" },
+  { "guid": "wPx6hXeepC", "item": "sYMa2yGm-a", "ec": 50 },
+  { "guid": "dmr22SwAbX", "item": "5wLqxZqnGM", "c": 24 },
+  { "guid": "GzccBIvHVh", "item": "J5uxoYsHgL", "c": 5, "nw": "-q5sVEChjW", "n": "4WNtnuWBvh", "ne": "fj1X4sHYuf" },
+  { "guid": "-q5sVEChjW", "item": "CCT1qLLxKN", "c": 36 },
+  { "guid": "fj1X4sHYuf", "item": "kSphDUSrju", "c": 48 },
+  { "guid": "4WNtnuWBvh", "item": "NRmIGIjJ-q", "c": 5, "nw": "boVXftmhG4", "n": "rJwAay6c0B", "ne": "qy5qKg1f5Z" },
+  { "guid": "boVXftmhG4", "item": "MnzYzRK9sY", "c": 44 },
+  { "guid": "qy5qKg1f5Z", "item": "I6OEa38GXJ", "c": 36 },
+  { "guid": "rJwAay6c0B", "item": "2nErLmJWvk", "c": 5, "nw": "YKuXmeXY16", "n": "_-SBxD4-zC", "ne": "R-mxaQlmSe" },
+  { "guid": "YKuXmeXY16", "item": "MyVdnRoxY0", "h": 33 },
+  { "guid": "R-mxaQlmSe", "item": "-HtIAPjYsa", "c": 99 },
+  { "guid": "_-SBxD4-zC", "item": "VFeHTgImrJ", "c": 5, "nw": "r1REa7LcuO", "n": "JIL3dGEfsX", "ne": "wgSMEfGC5F" },
+  { "guid": "r1REa7LcuO", "item": "si_8YhNtmr", "c": 66 },
+  { "guid": "wgSMEfGC5F", "item": "Aq3FhT_OYr", "c": 38 },
+  { "guid": "JIL3dGEfsX", "item": "p-lbmuULv5", "c": 58 }
   // #endregion
 ]

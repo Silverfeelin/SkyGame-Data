@@ -53,6 +53,8 @@ Confirm anything ambiguous with the user before writing.
 
 **In-game-currency items not sold by the main guide:** the main spirit tree (Step 3) covers items bought with in-game currency from the event's primary guide. If some in-game-currency items are sold *elsewhere* — a different vendor/box/mannequin, an item list, a separate tree, etc. — there is no single right way to model it, so **ask the user how to represent them** before writing (e.g. a `type: "Object"` shop backed by an `item-lists/events/<file>.jsonc` item list whose `IItemListNode`s carry the `ICost`, a second event instance spirit + tree, or something else). IAPs (real-money packs) always follow Steps 5–6 regardless.
 
+**Returning items in item lists / trees:** always create a **new** item list (or new tree nodes) for this instance, with new guids and this year's costs. Only the `item` guid is reused. Never point a new shop at a previous instance's item list, and never reuse its nodes. Duplicating the nodes lets users track which year they bought an item, and it stays correct when costs change from year to year.
+
 ## Step 2: Add items
 
 Append the instance's **new** items to the items file (Step 0), following the **`add-item`**

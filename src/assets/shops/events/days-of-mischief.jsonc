@@ -154,6 +154,43 @@
       "78KZ1oho5x",
       "BWMYIynKIO"
     ]
+  },
+  // #endregion
+  // #region Days of Mischief (2026)
+  {
+    "guid": "3XgGGwjamk",
+    "type": "Store",
+    "iaps": ["3-BNMDcALy", "Q5Lowic1ku", "QmzYxLv9u8"]
+  },
+  {
+    "guid": "_cAMVJyNhf",
+    "type": "Object",
+    "name": "IAP Prop Box",
+    "iaps": [
+      "dLXGBaP7Gj",
+      "awX7CgycnH",
+      "AV_ronwpoD",
+      "h3qS_IUxQg",
+      "GH4-GOmpRQ",
+      "d06Z7Dxbzm",
+      "xfAU-eZhA0",
+      "COIggpM9v0",
+      "zFeTE_wYVC",
+      "1lU8Uie22Q",
+      "Pkan1c6qTL",
+      "XjauZ5h0Lg",
+      "oFgofDVYff",
+      "hkqTfLF6Ic",
+      "dVq8PkoK5W",
+      "hNM_ajwYv7",
+      "TRUAvFVX2V"
+    ]
+  },
+  {
+    "guid": "BZZ-PTcVIB",
+    "type": "Object",
+    "name": "Spell Box",
+    "itemList": "GqHuKriMG7"
   }
   // #endregion
 ]

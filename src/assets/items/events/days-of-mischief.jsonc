@@ -645,5 +645,151 @@
     "type": "Special",
     "name": "Blessing",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
+  },
+  // #region Days of Mischief (2026)
+  {
+    "id": 3402,
+    "guid": "woYORJBHzS",
+    "type": "Necklace",
+    "name": "Mischief Feline Friend",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Mischief-Feline-Friend-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/24/Mischief-Feline-Friend-front.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Feline_Friend"
+    },
+    "order": 6200
+  },
+  {
+    "id": 3403,
+    "guid": "3b1SMJaEDE",
+    "type": "HairAccessory",
+    "name": "Mischief Magical Hat",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Mischief-Magical-Hat-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Mischief-Magical-Hat-front.png",
+    "dye": {
+      "primary": {}
+    },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Magical_Hat"
+    },
+    "order": 9100
+  },
+  {
+    "id": 3404,
+    "guid": "pF_HqS7tSm",
+    "type": "Cape",
+    "name": "Mischief Impish Wings",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/98/Mischief-Impish-Wings-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/37/Mischief-Impish-Wings-back.png",
+    "dye": {
+      "primary": {}
+    },
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Impish_Wings"
+    },
+    "order": 19600
+  },
+  {
+    "id": 3405,
+    "guid": "3jPP5k0nLB",
+    "type": "Hair",
+    "name": "Mischief Fluffy Pigtails",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/98/Mischief-Pigtails-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/78/Mischief-Pigtails.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Fluffy_Pigtails"
+    },
+    "order": 19100
+  },
+  {
+    "id": 3406,
+    "guid": "qK5YvqtgNs",
+    "type": "Outfit",
+    "name": "Mischief Magic Studious Dress",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e9/Mischief-Magical-Dress-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/86/Mischief-Magical-Dress-front.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Magic_Studious_Dress"
+    },
+    "order": 7300
+  },
+  {
+    "id": 3407,
+    "guid": "bNC1olXC8f",
+    "type": "Held",
+    "name": "Mischief Wand",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/Mischief-Magic-Wand-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8d/Mischief-Magic-Wand.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Wand"
+    },
+    "order": 6600
+  },
+  {
+    "id": 3408,
+    "guid": "8rfIFhC5S2",
+    "type": "Furniture",
+    "name": "Mischief Pumpkin Chair",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c9/Mischief-Pumpkin-Chair-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d7/Mischief-Pumpkin-Chair-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Pumpkin_Chair"
+    },
+    "order": 13100
+  },
+  {
+    "id": 3409,
+    "guid": "fqf5b3qqoU",
+    "type": "Prop",
+    "name": "Mischief Coat Rack",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/48/Mischief-Coat-Rack-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/Mischief-Coat-Rack-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Coat_Rack"
+    },
+    "order": 14100
+  },
+  {
+    "id": 3410,
+    "guid": "t3KeoseE7n",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
+  },
+  {
+    "id": 3411,
+    "guid": "1zFWHTEt15",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
+  },
+  {
+    "id": 3412,
+    "guid": "hM-iiSYd8o",
+    "type": "Quest",
+    "name": "Quest 1",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+  },
+  {
+    "id": 3413,
+    "guid": "6Z-Z9H6rKl",
+    "type": "Quest",
+    "name": "Quest 2",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+  },
+  {
+    "id": 3414,
+    "guid": "_VbniBpcFE",
+    "type": "Quest",
+    "name": "Quest 3",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+  },
+  {
+    "id": 3415,
+    "guid": "FsFxRBYgYV",
+    "type": "Quest",
+    "name": "Quest 4",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
   }
+  // #endregion
 ]

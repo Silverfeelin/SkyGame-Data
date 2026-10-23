@@ -18,5 +18,25 @@
       { "guid": "cXNvRyepN5", "item": "G9RHsCv5AB", "c": 4 },
       { "guid": "3SyUUfh1sU", "item": "hrH037AVN5", "c": 4 }
     ]
+  },
+  // #region Days of Mischief (2026)
+  {
+    "guid": "GqHuKriMG7",
+    "items": [
+      { "guid": "MPQZj6FfCy", "item": "8rfIFhC5S2", "c": 15 },
+      { "guid": "dFvwilb5Xh", "item": "fqf5b3qqoU", "c": 20 },
+      { "guid": "56MqT_HqO1", "item": "P5Ww3-YvYp", "ac": 10 },
+      { "guid": "ez8QB63Dzh", "item": "mVz5FujV6y", "c": 5 },
+      { "guid": "Hn5Z91QC_4", "item": "PatMBfIqRy", "h": 5 },
+      { "guid": "V0amRVRoR1", "item": "Ex9NeE4FR5", "c": 20 },
+      { "guid": "fhyrAuYyLf", "item": "vu_PdLP82M", "c": 15 },
+      { "guid": "OnngR0ivwI", "item": "dl3FZAnMyu", "c": 10 },
+      { "guid": "8UTxQdM8fH", "item": "gfQTU53Vni", "c": 20 },
+      { "guid": "gCcokczq58", "item": "5HoXo6DF--", "c": 15 },
+      { "guid": "wpMeAy2ThV", "item": "DecMXt7qEo", "c": 15 },
+      { "guid": "RIBw8VCnb2", "item": "GivrsXeHVe", "c": 15 },
+      { "guid": "_g-gJ55xzP", "item": "c3sT_itCFa", "c": 15 }
+    ]
   }
+  // #endregion
 ]

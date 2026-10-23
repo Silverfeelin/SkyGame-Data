@@ -78,7 +78,22 @@
     "date": "2026-10-23",
     "endDate": "2026-11-12",
     "draft": true,
-    "spirits": [],
-    "shops": []
+    "spirits": ["Jsc5G07v7S", "dZKpN12jsE"],
+    "shops": ["3XgGGwjamk", "_cAMVJyNhf", "BZZ-PTcVIB"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "SNcAkkJ3rU",
+          "date": "2026-10-23",
+          "endDate": "2026-11-12",
+          "amount": 15,
+          "description": "Bonus event currency"
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Mischief-3ed8261c87dd80f3be86ec9db65d43e8"
+    }
   }
 ]
