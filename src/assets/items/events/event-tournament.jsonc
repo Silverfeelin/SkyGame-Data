@@ -6,7 +6,7 @@
     "name": "Tournament Curls",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/20/Tournament-Curls-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Tournament-Curls-front.png",
-    "order": 17800,
+    "order": 17900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2024#Tournament_Curls"
     }
@@ -80,7 +80,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Hairstyle"
     },
-    "order": 17900
+    "order": 18000
   },
   {
     "id": 3003,
@@ -96,7 +96,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Sleek_Skating_Outfit"
     },
-    "order": 6700
+    "order": 6800
   },
   {
     "id": 3004,
@@ -124,7 +124,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph/2026#Tournament_Crystalline_Cape"
     },
-    "order": 18100
+    "order": 18200
   },
   {
     "id": 3006,

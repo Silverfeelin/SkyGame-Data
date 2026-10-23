@@ -493,7 +493,7 @@
     "name": "Fortune Snake Outfit",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1d/Fortune-Snake-Pants-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bf/Fortune-Snake-Pants.png",
-    "order": 6500,
+    "order": 6600,
     "dye": {
       "primary": {},
       "secondary": {},
@@ -576,7 +576,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Ribboned_Ponytail"
     },
-    "order": 18000
+    "order": 18100
   },
   {
     "id": 3019,
@@ -634,6 +634,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Horse_Cape"
     },
-    "order": 18200
+    "order": 18300
   }
 ]

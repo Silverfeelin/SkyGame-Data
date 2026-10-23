@@ -422,7 +422,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2025#Mischief_Feline_Accessory_Duo"
     },
-    "order": 5800
+    "order": 5900
   },
   {
     "id": 2834,
@@ -646,7 +646,6 @@
     "name": "Blessing",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
   },
-  // #region Days of Mischief (2026)
   {
     "id": 3402,
     "guid": "woYORJBHzS",
@@ -657,7 +656,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Feline_Friend"
     },
-    "order": 6200
+    "order": 5000
   },
   {
     "id": 3403,
@@ -672,7 +671,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Magical_Hat"
     },
-    "order": 9100
+    "order": 6100
   },
   {
     "id": 3404,
@@ -687,7 +686,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Impish_Wings"
     },
-    "order": 19600
+    "order": 17000
   },
   {
     "id": 3405,
@@ -699,7 +698,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Fluffy_Pigtails"
     },
-    "order": 19100
+    "order": 17100
   },
   {
     "id": 3406,
@@ -711,7 +710,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Magic_Studious_Dress"
     },
-    "order": 7300
+    "order": 6400
   },
   {
     "id": 3407,
@@ -723,7 +722,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Wand"
     },
-    "order": 6600
+    "order": 6400
   },
   {
     "id": 3408,
@@ -735,7 +734,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Pumpkin_Chair"
     },
-    "order": 13100
+    "order": 12800
   },
   {
     "id": 3409,
@@ -747,7 +746,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Coat_Rack"
     },
-    "order": 14100
+    "order": 13900
   },
   {
     "id": 3410,
@@ -791,5 +790,4 @@
     "name": "Quest 4",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
   }
-  // #endregion
 ]
