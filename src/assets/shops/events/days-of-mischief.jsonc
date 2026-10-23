@@ -165,7 +165,7 @@
   {
     "guid": "_cAMVJyNhf",
     "type": "Object",
-    "name": "IAP Prop Box",
+    "name": "IAP Mannequin",
     "iaps": [
       "dLXGBaP7Gj",
       "awX7CgycnH",
@@ -187,9 +187,16 @@
     ]
   },
   {
+    "guid": "xt0FaNzp2b",
+    "type": "Spirit",
+    "name": "Mischief Prop Box",
+    "spirit": "ihZx_rVl70",
+    "itemList": "wVa8e2F8UR"
+  },
+  {
     "guid": "BZZ-PTcVIB",
     "type": "Object",
-    "name": "Spell Box",
+    "name": "Puzzle Room Chest",
     "itemList": "GqHuKriMG7"
   }
   // #endregion
