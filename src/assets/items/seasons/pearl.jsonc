@@ -605,6 +605,7 @@
     "guid": "x_rKIBtDJK",
     "type": "Special",
     "name": "Blessing",
+    "group": "SeasonPass",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
@@ -663,6 +664,7 @@
     "guid": "WY9Et2pZDG",
     "type": "Special",
     "name": "Blessing",
+    "group": "SeasonPass",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
