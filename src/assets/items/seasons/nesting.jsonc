@@ -1476,5 +1476,29 @@
       "href": ""
     },
     "order": 12700
+  },
+  {
+    "id": 3416,
+    "guid": "vnMfGBzpfb",
+    "type": "Prop",
+    "name": "Crate",
+    "icon": "https://sky-planner.com/assets/game/items/vnMfGBzpfb.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 12800
+  },
+  {
+    "id": 3417,
+    "guid": "D30y2TxdjH",
+    "type": "Furniture",
+    "name": "Arles Bedroom Bed",
+    "icon": "https://sky-planner.com/assets/game/items/D30y2TxdjH.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 12900
   }
 ]
