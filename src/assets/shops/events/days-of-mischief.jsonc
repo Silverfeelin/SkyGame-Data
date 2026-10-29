@@ -198,6 +198,12 @@
     "type": "Object",
     "name": "Puzzle Room Chest",
     "itemList": "GqHuKriMG7"
+  },
+  {
+    "guid": "fwa1Up5Z3N",
+    "type": "Object",
+    "name": "Mischief Community Goal",
+    "itemList": "nzPvOLnLlL"
   }
   // #endregion
 ]

@@ -59,6 +59,12 @@
       { "guid": "V_W3gC8NWJ", "item": "P5Ww3-YvYp", "ac": 10 },
       { "guid": "bg5ZiNRbsj", "item": "Ex9NeE4FR5", "c": 20 }
     ]
+  },
+  {
+    "guid": "nzPvOLnLlL",
+    "items": [
+      { "guid": "BVj2VT7Doh", "item": "d3XkOV6mnO" }
+    ]
   }
   // #endregion
 ]

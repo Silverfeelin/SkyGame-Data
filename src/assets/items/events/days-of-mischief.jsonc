@@ -755,6 +755,18 @@
     "order": 13900
   },
   {
+    "id": 3418,
+    "guid": "d3XkOV6mnO",
+    "type": "Prop",
+    "name": "Commemorative Bobo Candle",
+    "icon": "https://sky-planner.com/assets/game/items/d3XkOV6mnO.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 14200
+  },
+  {
     "id": 3410,
     "guid": "t3KeoseE7n",
     "type": "Special",
