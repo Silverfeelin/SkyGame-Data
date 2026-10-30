@@ -1500,5 +1500,29 @@
       "href": ""
     },
     "order": 12900
+  },
+  {
+    "id": 3419,
+    "guid": "zbXlmVrwiY",
+    "type": "Furniture",
+    "name": "Arles Console Table",
+    "icon": "https://sky-planner.com/assets/game/items/zbXlmVrwiY.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 13000
+  },
+  {
+    "id": 3420,
+    "guid": "-fO-Kn9Rd3",
+    "type": "Prop",
+    "name": "Arles Paint Box",
+    "icon": "https://sky-planner.com/assets/game/items/-fO-Kn9Rd3.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 13100
   }
 ]
