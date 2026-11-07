@@ -1499,7 +1499,7 @@
     "_wiki": {
       "href": ""
     },
-    "order": 12900
+    "order": 12750
   },
   {
     "id": 3419,
@@ -1511,7 +1511,7 @@
     "_wiki": {
       "href": ""
     },
-    "order": 13000
+    "order": 12775
   },
   {
     "id": 3420,
@@ -1524,5 +1524,29 @@
       "href": ""
     },
     "order": 13100
+  },
+  {
+    "id": 3421,
+    "guid": "DU3_FCip4I",
+    "type": "Furniture",
+    "name": "Arles Rocking Chair",
+    "icon": "https://sky-planner.com/assets/game/items/DU3_FCip4I.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 12777
+  },
+  {
+    "id": 3422,
+    "guid": "Dy5Jla6mAd",
+    "type": "Furniture",
+    "name": "Arles Desk",
+    "icon": "https://sky-planner.com/assets/game/items/Dy5Jla6mAd.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 12776
   }
 ]

@@ -745,14 +745,14 @@
   {
     "id": 3409,
     "guid": "fqf5b3qqoU",
-    "type": "Prop",
+    "type": "Furniture",
     "name": "Mischief Coat Rack",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/48/Mischief-Coat-Rack-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/Mischief-Coat-Rack-Prop.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2026#Mischief_Coat_Rack"
     },
-    "order": 13900
+    "order": 12799
   },
   {
     "id": 3418,
