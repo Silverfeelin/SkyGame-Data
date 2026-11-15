@@ -1548,5 +1548,17 @@
       "href": ""
     },
     "order": 12776
+  },
+  {
+    "id": 3423,
+    "guid": "TxApTw6LXd",
+    "type": "Prop",
+    "name": "Arles Oil Lamp",
+    "icon": "https://sky-planner.com/assets/game/items/TxApTw6LXd.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 13500
   }
 ]
