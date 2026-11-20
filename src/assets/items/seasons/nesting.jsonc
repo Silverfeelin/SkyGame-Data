@@ -1554,10 +1554,10 @@
     "guid": "TxApTw6LXd",
     "type": "Prop",
     "name": "Arles Oil Lamp",
-    "icon": "https://sky-planner.com/assets/game/items/TxApTw6LXd.png",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/58/Arles-Oil-Lamp-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4a/Arles-Oil-Lamp-Prop-using.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Arles_Oil_Lamp"
     },
     "order": 13500
   }
