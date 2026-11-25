@@ -1,0 +1,38 @@
+[
+  // Passage Guide
+  {
+    "guid": "jadPYxSUVI",
+    "next": "diTkd8WL-1",
+    "rows": [
+      ["b-eTS8wKAD", null, null]
+    ]
+  },
+  {
+    "guid": "diTkd8WL-1",
+    "next": "9tN63F5aaT",
+    "rows": [
+      ["YW1Hj0A3g1", "4KbA30oKdJ", null]
+    ]
+  },
+  {
+    "guid": "9tN63F5aaT",
+    "next": "QRsztKhMUp",
+    "rows": [
+      ["I_Rq8VBE-M", "nRTVsazqy1", "ApcSADev-M"]
+    ]
+  },
+  {
+    "guid": "QRsztKhMUp",
+    "next": "HwLHDf8oDX",
+    "rows": [
+      ["3G8jXeuOJm", "Ge1cNDnJRR", "ABDgjHy4Ls"]
+    ]
+  },
+  {
+    "guid": "HwLHDf8oDX",
+    "rows": [
+      ["Z6smoe2s3X", "lDElmr4-gs", "PH6bWJBcwg"],
+      [null, "j4dijMVNSE", "U75eZR79tB"]
+    ]
+  }
+]

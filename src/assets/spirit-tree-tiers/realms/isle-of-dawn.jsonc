@@ -1,0 +1,89 @@
+[
+  // Pointing Candlemaker
+  {
+    "guid": "luWaX-nuQd",
+    "next": "uKf79XKE2z",
+    "rows": [
+      ["d0BfEqEil8", null, null]
+    ]
+  },
+  {
+    "guid": "uKf79XKE2z",
+    "next": "R5hWBCj4xn",
+    "rows": [
+      ["-u26o8ncx3", "7MHTL_sH3e", "GtRpzufrRK"],
+      [null, null, "voiYMJ2kgC"]
+    ]
+  },
+  {
+    "guid": "R5hWBCj4xn",
+    "next": "Xr0QiVsntp",
+    "rows": [
+      ["B4PJnTq8pM", "1WLmY0yfIf", "dFvlkML0xY"]
+    ]
+  },
+  {
+    "guid": "Xr0QiVsntp",
+    "rows": [
+      ["yctflQS_Au", "ks8q9gIlrk", null]
+    ]
+  },
+  // Ushering Stargazer
+  {
+    "guid": "cxwi2nsDda",
+    "next": "hecPuxhTgj",
+    "rows": [
+      ["9HKBt0oaSu", null, null]
+    ]
+  },
+  {
+    "guid": "hecPuxhTgj",
+    "next": "drWAk3qnid",
+    "rows": [
+      ["EmjdB5Yu5J", "F4rxiv0Lje", "5PPPvDBute"],
+      [null, null, "FtwF97VAHh"]
+    ]
+  },
+  {
+    "guid": "drWAk3qnid",
+    "next": "y4oKbHkjL_",
+    "rows": [
+      ["XUsfC_FhxU", "22g3PKlOkM", "SGAekn09HW"]
+    ]
+  },
+  {
+    "guid": "y4oKbHkjL_",
+    "rows": [
+      ["kbvwe3IgQR", "MjxnygfTLx", null]
+    ]
+  },
+  // Rejecting Voyager
+  {
+    "guid": "GYsVmTamzE",
+    "next": "xbPYKgc7mB",
+    "rows": [
+      ["VmaButnSYb", null, null]
+    ]
+  },
+  {
+    "guid": "xbPYKgc7mB",
+    "next": "DeYXkBEI6o",
+    "rows": [
+      ["wcx090hkXF", "CEnNEPXJR_", "b4UkpteIb3"],
+      [null, null, "CdfnOVw1xk"]
+    ]
+  },
+  {
+    "guid": "DeYXkBEI6o",
+    "next": "HLbU71kOvV",
+    "rows": [
+      ["wskhVOXmMR", "fdXTzthDXw", "oJM_8jt3fL"]
+    ]
+  },
+  {
+    "guid": "HLbU71kOvV",
+    "rows": [
+      ["uV2p-44JUm", "FSOc3xEeAr", null]
+    ]
+  }
+]

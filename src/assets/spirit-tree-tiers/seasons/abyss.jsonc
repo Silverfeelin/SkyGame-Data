@@ -1,0 +1,37 @@
+[
+  // Abyss Guide
+  {
+    "guid": "ffgGy0rfUm",
+    "next": "sIV4nGh8Gc",
+    "rows": [
+      ["6Q_2RFsHUn", null, null]
+    ]
+  },
+  {
+    "guid": "sIV4nGh8Gc",
+    "next": "RUMHbbjcEZ",
+    "rows": [
+      ["eOqfQr5P9U", "9B51c7zyD-", null]
+    ]
+  },
+  {
+    "guid": "RUMHbbjcEZ",
+    "next": "MSCMTV4pp_",
+    "rows": [
+      ["hcbU79_frU", "CeHLi6u1Vd", null]
+    ]
+  },
+  {
+    "guid": "MSCMTV4pp_",
+    "next": "ckTzOF5G8j",
+    "rows": [
+      ["ukj8Zg5Lol", "U1toKfvs4C", "mtxrEU3ikw"]
+    ]
+  },
+  {
+    "guid": "ckTzOF5G8j",
+    "rows": [
+      ["dPZXrXOYya", "bJtpT-tg2m", "j0xgxWvJNH"]
+    ]
+  }
+]

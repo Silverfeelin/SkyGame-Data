@@ -1,0 +1,37 @@
+[
+  // Vault Elder's Lantern
+  {
+    "guid": "2fRqrzJv8s",
+    "next": "VeAgiWjtvy",
+    "rows": [
+      ["jd4dRXrOhL", null, null]
+    ]
+  },
+  {
+    "guid": "VeAgiWjtvy",
+    "next": "zmopZJjwFi",
+    "rows": [
+      ["FqdzRIO8lV", "PYVZZTUNJp", null]
+    ]
+  },
+  {
+    "guid": "zmopZJjwFi",
+    "next": "0vWUBz9YVY",
+    "rows": [
+      ["ZQJJMgjbEi", "B6u5lfvpbU", null]
+    ]
+  },
+  {
+    "guid": "0vWUBz9YVY",
+    "next": "iBckXMNZxk",
+    "rows": [
+      ["3OXuecuBJ0", "S-SONmyf27", "8HAC7uJTZV"]
+    ]
+  },
+  {
+    "guid": "iBckXMNZxk",
+    "rows": [
+      ["wCTySWDECs", "fn9-TF2bEZ", "j1-1QZGFnS"]
+    ]
+  }
+]

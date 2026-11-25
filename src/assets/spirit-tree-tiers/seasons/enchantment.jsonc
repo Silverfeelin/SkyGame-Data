@@ -1,0 +1,44 @@
+[
+  // Enchantment Guide
+  {
+    "guid": "tMZvyaFxmr",
+    "next": "0JXz72UFm-",
+    "rows": [
+      ["sHjQeBtbTr", null, null]
+    ]
+  },
+  {
+    "guid": "0JXz72UFm-",
+    "next": "tFYXGVOIAK",
+    "rows": [
+      ["_BzZFzCXW3", "WjGl4Us-Yd", null]
+    ]
+  },
+  {
+    "guid": "tFYXGVOIAK",
+    "next": "oYb4iwFNkL",
+    "rows": [
+      ["F4IJg0v8Pe", "pF8AdUuuE1", null]
+    ]
+  },
+  {
+    "guid": "oYb4iwFNkL",
+    "next": "3xArHB73BS",
+    "rows": [
+      ["uUylYS1IvN", "I1MYNSrFy5", "eCyAQ5abUU"]
+    ]
+  },
+  {
+    "guid": "3xArHB73BS",
+    "next": "HG0h4uAGWB",
+    "rows": [
+      ["e5_PZZ2qzN", "zGoOxhkQaE", null]
+    ]
+  },
+  {
+    "guid": "HG0h4uAGWB",
+    "rows": [
+      ["AzG1fzFwnl", "WrhkVzJLGD", "fLxCWVN7JR"]
+    ]
+  }
+]

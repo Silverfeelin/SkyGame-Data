@@ -1,0 +1,34 @@
+[
+  // Hopeful Steward
+  {
+    "guid": "GsjShMN4HV",
+    "next": "28Ij0J7RwW",
+    "rows": [
+      ["r90GbACrlQ", null, null],
+      ["SQGHzloMMZ", null, null]
+    ]
+  },
+  {
+    "guid": "28Ij0J7RwW",
+    "next": "c_Ah_vmLAn",
+    "rows": [
+      ["Ds64OhhLT8", "9klapTisxP", "_2ySZucEDy"],
+      ["utfFsTRgd-", "WyzpqrFUt9", "n47kP2l0TW"]
+    ]
+  },
+  {
+    "guid": "c_Ah_vmLAn",
+    "next": "QkpOhtvFMY",
+    "rows": [
+      ["3har_c5nkk", "SJpqqag8H1", "7XDgtEffa5"],
+      ["m-NtKTWfa2", null, "n0elZ9G9Xo"]
+    ]
+  },
+  {
+    "guid": "QkpOhtvFMY",
+    "rows": [
+      ["G38Vmo0ki4", "K27ktoPqOH", "CvQ1dq8PAq"],
+      ["V5pZ_MQkQI", null, null]
+    ]
+  }
+]

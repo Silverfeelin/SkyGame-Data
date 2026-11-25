@@ -1,0 +1,31 @@
+[
+  // Prophecy Guide
+  {
+    "guid": "FeuZm5qLZN",
+    "next": "wz8df76pc3",
+    "rows": [
+      ["6tR0OKwe3H", null, null]
+    ]
+  },
+  {
+    "guid": "wz8df76pc3",
+    "next": "TqQdW_V36W",
+    "rows": [
+      ["YhdfVxhUT8", "a4RigkeV5P", null]
+    ]
+  },
+  {
+    "guid": "TqQdW_V36W",
+    "next": "NuDNNDpJPa",
+    "rows": [
+      ["_P4h2iVVY1", "x9_GapkjUh", null]
+    ]
+  },
+  {
+    "guid": "NuDNNDpJPa",
+    "rows": [
+      ["-iL6H9iB97", "SqF4XOOzdx", "hJSRPiq5UR"],
+      [null, null, "dNrphTwiOj"]
+    ]
+  }
+]

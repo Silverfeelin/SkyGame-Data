@@ -33,6 +33,17 @@
   { "guid": "39upUmPYfc", "item": "c9GTqnZ2-q", "c": 2 },
   { "guid": "MtwPTHbqg4", "item": "um3PQEl09a", "h": 4 },
   { "guid": "YLmnrG36ps", "item": "BXigzQaKYN", "c": 5 },
+  // Tier revision
+  { "guid": "d0BfEqEil8", "item": "kvjLVjWmZ9" },
+  { "guid": "-u26o8ncx3", "item": "FEF2-KzQfp", "c": 1 },
+  { "guid": "7MHTL_sH3e", "item": "X6dudcTAFc" },
+  { "guid": "GtRpzufrRK", "item": "NWIQpbYHLo", "c": 1 },
+  { "guid": "voiYMJ2kgC", "item": "didoncX18g", "c": 3 },
+  { "guid": "B4PJnTq8pM", "item": "GAEC5m-uk9", "c": 2 },
+  { "guid": "1WLmY0yfIf", "item": "um3PQEl09a", "h": 4 },
+  { "guid": "dFvlkML0xY", "item": "CddPMyDNH_", "ac": 1 },
+  { "guid": "yctflQS_Au", "item": "c9GTqnZ2-q", "c": 2 },
+  { "guid": "ks8q9gIlrk", "item": "BXigzQaKYN", "c": 5 },
   // Ushering Stargazer
   { "guid": "la5LuzVr3o", "item": "qbTj75q8dk", "nw": "AU-eEDYWrf", "ne": "LRY_ZoQvcH", "n": "xW4oId07rV" },
   { "guid": "AU-eEDYWrf", "item": "9MxRR5To8o", "c": 1 },
@@ -44,6 +55,17 @@
   { "guid": "_W6CCiwycv", "item": "NFNgmugp6o", "c": 2 },
   { "guid": "Hqh9aiwPyR", "item": "Vz2Gpg4FSQ", "h": 4 },
   { "guid": "cxpWOsHdBb", "item": "miD4u_Gk8Q", "c": 5 },
+  // Tier revision
+  { "guid": "9HKBt0oaSu", "item": "qbTj75q8dk" },
+  { "guid": "EmjdB5Yu5J", "item": "9MxRR5To8o", "c": 1 },
+  { "guid": "F4rxiv0Lje", "item": "e4wyPtwoPO" },
+  { "guid": "5PPPvDBute", "item": "1ZLo5PaJfy", "c": 1 },
+  { "guid": "FtwF97VAHh", "item": "lTCCMZCXIt", "c": 3 },
+  { "guid": "XUsfC_FhxU", "item": "C5uj1dP42Q", "c": 2 },
+  { "guid": "22g3PKlOkM", "item": "Vz2Gpg4FSQ", "h": 4 },
+  { "guid": "SGAekn09HW", "item": "ARnRv7zWqf", "ac": 1 },
+  { "guid": "kbvwe3IgQR", "item": "NFNgmugp6o", "c": 2 },
+  { "guid": "MjxnygfTLx", "item": "miD4u_Gk8Q", "c": 5 },
   // Rejecting Voyager
   { "guid": "eUTopR_CDA", "item": "Dhhtyjsi1E", "nw": "u1aVWXNu4t", "n": "uBTtfXIo3R" },
   { "guid": "u1aVWXNu4t", "item": "I101mvqSaI", "c": 1 },
@@ -54,6 +76,17 @@
   { "guid": "s_GoDx3lJ0", "item": "eAWuSSOshD", "c": 2, "nw": "lbex7lFbo2", "ne": "9q18dSQYOe", "n": "nxnUPYsEYd" },
   { "guid": "lbex7lFbo2", "item": "JXgUCqaMMt", "c": 2 },
   { "guid": "9q18dSQYOe", "item": "fR9CRzzD25", "h": 3 },
-  { "guid": "nxnUPYsEYd", "item": "910IbnbJI5", "c": 5 }
+  { "guid": "nxnUPYsEYd", "item": "910IbnbJI5", "c": 5 },
+  // Tier revision
+  { "guid": "VmaButnSYb", "item": "Dhhtyjsi1E" },
+  { "guid": "wcx090hkXF", "item": "I101mvqSaI", "c": 1 },
+  { "guid": "CEnNEPXJR_", "item": "g95lk3pzSR", "h": 1 },
+  { "guid": "b4UkpteIb3", "item": "9IQCApYVrD", "c": 1 },
+  { "guid": "CdfnOVw1xk", "item": "e9M_zvbglZ", "c": 3 },
+  { "guid": "wskhVOXmMR", "item": "eAWuSSOshD", "c": 2 },
+  { "guid": "fdXTzthDXw", "item": "fR9CRzzD25", "h": 3 },
+  { "guid": "oJM_8jt3fL", "item": "sDTtepJoYG", "ac": 1 },
+  { "guid": "uV2p-44JUm", "item": "JXgUCqaMMt", "c": 2 },
+  { "guid": "FSOc3xEeAr", "item": "910IbnbJI5", "c": 5 }
   // #endregion
 ]

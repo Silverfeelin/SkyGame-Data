@@ -1,0 +1,208 @@
+[
+  // Confident Sightseer
+  {
+    "guid": "hluQaUa7_s",
+    "next": "MF54uFZjED",
+    "rows": [
+      ["eFyK7_qXxk", null, null]
+    ]
+  },
+  {
+    "guid": "MF54uFZjED",
+    "next": "UtaxU97zZv",
+    "rows": [
+      ["dVDLCb6R7N", "mR7x5_PnVz", "pYBHJSb1ec"]
+    ]
+  },
+  {
+    "guid": "UtaxU97zZv",
+    "next": "JixN_uZldT",
+    "rows": [
+      ["aycZwMOu5H", "0kQfIDk5EQ", null]
+    ]
+  },
+  {
+    "guid": "JixN_uZldT",
+    "rows": [
+      ["MX4kkpk-iG", null, null]
+    ]
+  },
+  // Bowing Medalist
+  {
+    "guid": "JOg0mnH6QU",
+    "next": "mtLF5xZMZf",
+    "rows": [
+      ["JSg0enLMrn", null, null]
+    ]
+  },
+  {
+    "guid": "mtLF5xZMZf",
+    "next": "bC5giYo50G",
+    "rows": [
+      ["oosQaz_Ntz", "WuugRh0dm4", "e1zCMu6C6q"],
+      [null, null, "UEzxQ5zEDZ"]
+    ]
+  },
+  {
+    "guid": "bC5giYo50G",
+    "next": "P1JxOF0d9X",
+    "rows": [
+      ["mEEdhdTKUn", "KQaRcx8tQV", "gcSZRYYSnJ"]
+    ]
+  },
+  {
+    "guid": "P1JxOF0d9X",
+    "rows": [
+      ["56GsqHqVO5", "-L8WgZImTm", null]
+    ]
+  },
+  // Proud Victor
+  {
+    "guid": "YLj673EqQR",
+    "next": "uVPSsz-9B6",
+    "rows": [
+      ["CwNKi4OH81", null, null]
+    ]
+  },
+  {
+    "guid": "uVPSsz-9B6",
+    "next": "4acype_gjx",
+    "rows": [
+      ["A5IoYYW1Sw", "uhD9rF8hhj", "l6LPYrdTot"]
+    ]
+  },
+  {
+    "guid": "4acype_gjx",
+    "next": "Ef9iSfXnFc",
+    "rows": [
+      ["gT6qH_eSI2", null, null]
+    ]
+  },
+  {
+    "guid": "Ef9iSfXnFc",
+    "next": "RjjU7whvLZ",
+    "rows": [
+      ["sjE68l4OoC", "RxaQ6Gq_IK", null]
+    ]
+  },
+  {
+    "guid": "RjjU7whvLZ",
+    "rows": [
+      ["GTaUHtdxli", "hDOX6-kU0H", null]
+    ]
+  },
+  // Backflipping Champion
+  {
+    "guid": "Odc3fCyWi7",
+    "next": "s7z1r3UF_x",
+    "rows": [
+      ["qv4Ssp5XNE", null, null]
+    ]
+  },
+  {
+    "guid": "s7z1r3UF_x",
+    "next": "mD6S4-Fwq-",
+    "rows": [
+      ["kiYYvICY9v", "-mh4AYe7rP", "RytTqk1A48"],
+      [null, null, "x0HQBtcoEK"]
+    ]
+  },
+  {
+    "guid": "mD6S4-Fwq-",
+    "next": "WV7avmyCAW",
+    "rows": [
+      ["1d5Lumy0KD", "P-pHyz_GbH", "MWrHxFV_Ht"]
+    ]
+  },
+  {
+    "guid": "WV7avmyCAW",
+    "rows": [
+      ["zQ0zUzRc1T", "1BXg7PVynl", null]
+    ]
+  },
+  // Cheerful Spectator
+  {
+    "guid": "lzKQdbYx8Y",
+    "next": "XB1aJe_qLH",
+    "rows": [
+      ["N6SGd_x7ow", null, null]
+    ]
+  },
+  {
+    "guid": "XB1aJe_qLH",
+    "next": "pE4GynveYw",
+    "rows": [
+      ["JpMDmvzp-p", "POoURmfes2", "Fniym4NTkr"],
+      [null, null, "BCsH8oeyzd"]
+    ]
+  },
+  {
+    "guid": "pE4GynveYw",
+    "next": "E8WVTaefvo",
+    "rows": [
+      ["C5oE4ziZnF", "ymwepfZlww", "SHMRgkK0Mm"]
+    ]
+  },
+  {
+    "guid": "E8WVTaefvo",
+    "rows": [
+      ["cM4UJ-ua3u", "VrtOuMcmzx", null]
+    ]
+  },
+  // Handstanding Thrillseeker
+  {
+    "guid": "1xKlFDbQ1X",
+    "next": "NYmwrGxxA7",
+    "rows": [
+      ["nc0rUTYyGe", null, null]
+    ]
+  },
+  {
+    "guid": "NYmwrGxxA7",
+    "next": "QiTuXMLFDh",
+    "rows": [
+      ["4wUnUsTNYN", "TI8S4HWoOw", "Pf1mUEQF6n"]
+    ]
+  },
+  {
+    "guid": "QiTuXMLFDh",
+    "next": "lgbSEMHnCK",
+    "rows": [
+      ["W007UXNxvn", "0p3CT2Neia", "9DT3-fsW1p"]
+    ]
+  },
+  {
+    "guid": "lgbSEMHnCK",
+    "next": "v7bOgcOA0o",
+    "rows": [
+      ["QoHAFVf07l", "YTtYZMulg9", null]
+    ]
+  },
+  {
+    "guid": "v7bOgcOA0o",
+    "rows": [
+      ["VboyhDYTeT", "MwXTDp91t9", null]
+    ]
+  },
+  // Manta Whisperer
+  {
+    "guid": "Xl_9UH1j7g",
+    "next": "_-vLY9xyk5",
+    "rows": [
+      ["rhv_L7MuXS", null, null]
+    ]
+  },
+  {
+    "guid": "_-vLY9xyk5",
+    "next": "Y9ro5q5wuN",
+    "rows": [
+      ["E6vhFeJNMN", "YOBFmzR_Nx", null]
+    ]
+  },
+  {
+    "guid": "Y9ro5q5wuN",
+    "rows": [
+      ["nbGtyQLDP6", "JqMLfx85po", "RPKgqeICov"]
+    ]
+  }
+]

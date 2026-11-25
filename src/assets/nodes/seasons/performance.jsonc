@@ -66,6 +66,26 @@
   { "guid": "jrv3xXO2aa", "item": "A_Thh0cGjn", "nw": "SZOOSecdMI", "n": "VrSIDSscIk" },
   { "guid": "SZOOSecdMI", "item": "-naooktwJY", "c": 3 },
   { "guid": "VrSIDSscIk", "item": "P8hCjt0Cpn", "c": 52 },
+  // Tier revision
+  { "guid": "kbPwU6lEAG", "item": "zEvxnuBJf1" },
+  { "guid": "i27YHe1JsB", "item": "so8M_6pkle" },
+  { "guid": "bDkv3GIQvJ", "item": "c8_ZLp9iaS" },
+  { "guid": "AZqphsLMwe", "item": "eoG1GK-RmF" },
+  { "guid": "688gLqn3iu", "item": "5g17gSJBUj", "c": 3 },
+  { "guid": "f4uBq21BEP", "item": "WKPWSGukRo" },
+  { "guid": "BZQ6ztjyKn", "item": "gCZ2rqRL6s" },
+  { "guid": "HhKHbuldEu", "item": "HsIlEsnI4A", "c": 42 },
+  { "guid": "onqQ4meVvp", "item": "i6OtHRDrbp", "c": 3 },
+  { "guid": "1S1Vi4-rk1", "item": "vFJAitmzkx" },
+  { "guid": "p8xpw_O3kz", "item": "NERbBLZV7z" },
+  { "guid": "PMh_ODPt-S", "item": "-vYFjLWhNW" },
+  { "guid": "7pDGLCMGwB", "item": "--TRCRQn3G" },
+  { "guid": "GKywIL6_jb", "item": "1ADCbzCXoo", "c": 3 },
+  { "guid": "fg39wIt7aq", "item": "sldyWGHPcu" },
+  { "guid": "oNDkwq7ae2", "item": "A_Thh0cGjn" },
+  { "guid": "uhJoefxN5R", "item": "P8hCjt0Cpn", "c": 52 },
+  { "guid": "Zbew9OcFWv", "item": "-naooktwJY", "c": 3 },
+  { "guid": "Av_XL9hnz7", "item": "oUvBhidcuD" },
   // #endregion
   // #region Performance
   // #region Frantic Stagehand

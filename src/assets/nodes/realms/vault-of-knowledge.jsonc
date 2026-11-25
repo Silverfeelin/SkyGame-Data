@@ -11,6 +11,17 @@
   { "guid": "7Qnuq3tvD8", "item": "yfJsC8H6F4", "c": 7 },
   { "guid": "byzlaZQ4vb", "item": "svDjH2d-e5", "c": 5, "n": "8oNTPBwVFm" },
   { "guid": "8oNTPBwVFm", "item": "CKVi0baUvl", "h": 10 },
+  // Tier revision
+  { "guid": "qGjSrJzd2a", "item": "vVUB_cGhZd" },
+  { "guid": "HMZ3nHM-zz", "item": "l6TWStE9Xr", "c": 5 },
+  { "guid": "RM9p2WgZvE", "item": "feolA3Sbwy", "h": 5 },
+  { "guid": "X1Ve2NddE3", "item": "KW8r7-br2I", "c": 1 },
+  { "guid": "H2R66s7kXz", "item": "J3zEc7Reur", "c": 3 },
+  { "guid": "p-lcr2SD5L", "item": "9_H47RAVw-", "c": 5 },
+  { "guid": "HaR6j0DBoD", "item": "9Bu1oUi8FF", "ac": 2 },
+  { "guid": "G9WlVl7m58", "item": "svDjH2d-e5", "c": 5 },
+  { "guid": "25pTS7InTZ", "item": "yfJsC8H6F4", "c": 7 },
+  { "guid": "j2c4IWBjpw", "item": "CKVi0baUvl", "h": 10 },
   // Meditating Monastic
   { "guid": "oDypNKciuf", "item": "c1A0Bf98bJ", "nw": "s9JejhTZVh", "n": "mWYCAelmmO" },
   { "guid": "s9JejhTZVh", "item": "hu9E5_AnJh", "c": 10 },
@@ -22,6 +33,17 @@
   { "guid": "tP7zEEseeb", "item": "1icJGw6P2x", "c": 10 },
   { "guid": "jg8AciMyvo", "item": "m_mcgzu_Wk", "c": 5, "n": "DREitrZm16" },
   { "guid": "DREitrZm16", "item": "EdxE5UGZsa", "h": 30 },
+  // Tier revision
+  { "guid": "n20WKKFSCL", "item": "c1A0Bf98bJ" },
+  { "guid": "l-I5K1FbG-", "item": "hu9E5_AnJh", "c": 10 },
+  { "guid": "IXpk2p8KNa", "item": "tBRghYOFon", "h": 10 },
+  { "guid": "lh8bOVc96Y", "item": "Vbl_un6xzP", "c": 1 },
+  { "guid": "-ChcrPoZ-z", "item": "gsduxoZUwm", "c": 3 },
+  { "guid": "2r5fekN0mU", "item": "of7E6FbO6S", "c": 7 },
+  { "guid": "LuC200kJ3b", "item": "L5uWPBlT0O", "ac": 3 },
+  { "guid": "pNKn4iCuw8", "item": "m_mcgzu_Wk", "c": 5 },
+  { "guid": "2bTnFXTDdD", "item": "1icJGw6P2x", "c": 10 },
+  { "guid": "LUfSdocEJZ", "item": "EdxE5UGZsa", "h": 30 },
   // Memory Whisperer
   { "guid": "HrhoyxoLVs", "item": "I1fk2fnGDK", "nw": "iF1sgGpjVE", "n": "GTKnGXUhTY" },
   { "guid": "iF1sgGpjVE", "item": "wXOGyF57AN", "h": 3 },
@@ -32,6 +54,16 @@
   { "guid": "jIHiW6Vo4g", "item": "ec8jU3Gerw", "h": 50, "n": "SCM86SAi3g" },
   { "guid": "SCM86SAi3g", "item": "0W2hMqYmmo", "ac": 12, "n": "0oV5oVv4oZ" },
   { "guid": "0oV5oVv4oZ", "item": "fRVPpavon7", "h": 150 },
+  // Tier revision
+  { "guid": "S8AuEqsYwp", "item": "I1fk2fnGDK" },
+  { "guid": "3S_LTPIwYd", "item": "wXOGyF57AN", "h": 3 },
+  { "guid": "c7K8C5e8_H", "item": "3AsQwFFxdG", "c": 1 },
+  { "guid": "gDqHFGh-Qp", "item": "VfU1MhzBJY", "c": 3 },
+  { "guid": "yrLhtNsSxd", "item": "KPg6xkOZ6M", "ac": 4 },
+  { "guid": "mPMpBBFRgy", "item": "5T5eE9N4zZ", "c": 5 },
+  { "guid": "92lN1L6vXa", "item": "ec8jU3Gerw", "h": 50 },
+  { "guid": "4aCL3iHrWK", "item": "fRVPpavon7", "h": 150 },
+  { "guid": "cXFZq_JkwJ", "item": "0W2hMqYmmo", "ac": 12 },
   // Polite Scholar
   { "guid": "9IwUGyaG5-", "item": "8QnR-XHmJg", "nw": "T0PF9rJm3Y", "n": "-hpQUYeMjk" },
   { "guid": "T0PF9rJm3Y", "item": "3T-ZS6ZooQ", "h": 2 },
@@ -40,6 +72,14 @@
   { "guid": "JB0wn9XVLr", "item": "A6BetnYLiG", "ac": 2, "n": "YpejVyVx4k" },
   { "guid": "YpejVyVx4k", "item": "MRn4GtOKCz", "c": 5, "n": "6d_qIn00ju" },
   { "guid": "6d_qIn00ju", "item": "DTMwTb6_mu", "h": 15 },
+  // Tier revision
+  { "guid": "3XnG96X1yi", "item": "8QnR-XHmJg" },
+  { "guid": "KctsiTmvw4", "item": "3T-ZS6ZooQ", "h": 2 },
+  { "guid": "4PfVRSAihZ", "item": "HjG7tXdZsG", "c": 1 },
+  { "guid": "ygMYQyS_ei", "item": "u3KgRMaHiR", "c": 3 },
+  { "guid": "4bkfSjE9-N", "item": "A6BetnYLiG", "ac": 2 },
+  { "guid": "LlYQ5fSK9K", "item": "MRn4GtOKCz", "c": 5 },
+  { "guid": "wh4HTz_Ij9", "item": "DTMwTb6_mu", "h": 15 },
   // Praying Acolyte
   { "guid": "ItpocgQi8H", "item": "EN-zwdMKW0", "nw": "ShOKs12xl8", "n": "_Oqos-1eh6" },
   { "guid": "ShOKs12xl8", "item": "3kiNK4eee-", "c": 3 },
@@ -52,6 +92,19 @@
   { "guid": "5X13lR92ox", "item": "Vv6kjY36w5", "c": 5, "n": "XPJFRfV5y5" },
   { "guid": "XPJFRfV5y5", "item": "WwlWwMfCen", "h": 25, "n": "uGUw8yHc88" },
   { "guid": "uGUw8yHc88", "item": "DkdobTs2WM", "ac": 9, "n": "tZJt1qDhNU" },
-  { "guid": "tZJt1qDhNU", "item": "DyXPylwH7w", "h": 75 }
+  { "guid": "tZJt1qDhNU", "item": "DyXPylwH7w", "h": 75 },
+  // Tier revision
+  { "guid": "i25JDaPcTH", "item": "EN-zwdMKW0" },
+  { "guid": "h0ITXh6ADY", "item": "3kiNK4eee-", "c": 3 },
+  { "guid": "K8lF2L8Ds7", "item": "exlIascN2K", "h": 5 },
+  { "guid": "bs8XIU2xxl", "item": "2aDtgu-fY8", "c": 1 },
+  { "guid": "uxC4N8lUCk", "item": "K91m7VZ7Tg", "c": 3 },
+  { "guid": "36FbDzr_os", "item": "47u5kXt3wr", "c": 5 },
+  { "guid": "up6r1tBXnF", "item": "sVrq8c1PUm", "ac": 3 },
+  { "guid": "Snfe0ZUDQb", "item": "Vv6kjY36w5", "c": 5 },
+  { "guid": "fxOZoGW9zz", "item": "ZHkYvZFLjE", "c": 7 },
+  { "guid": "gJOuQrI3i1", "item": "WwlWwMfCen", "h": 25 },
+  { "guid": "qMlLGqP7gu", "item": "DyXPylwH7w", "h": 75 },
+  { "guid": "sJMybOBUxv", "item": "DkdobTs2WM", "ac": 9 }
   // #endregion
 ]

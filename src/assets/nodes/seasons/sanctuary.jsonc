@@ -29,6 +29,20 @@
   { "guid": "j-ofpBWWQW", "item": "t9AbIPO4jo", "nw": "uH9t63EVJ7", "n": "b05UkaMs0w" },
   { "guid": "uH9t63EVJ7", "item": "0neQ_KmCQE", "c": 3 },
   { "guid": "b05UkaMs0w", "item": "Dt4FJYGh4G" },
+  // Tier revision
+  { "guid": "ylBFSJLoZG", "item": "agaCWhY93E" },
+  { "guid": "CxEa8waSfT", "item": "nB-bu8Dml0" },
+  { "guid": "8z2OyfqKcL", "item": "u41vT7BJmi", "c": 3 },
+  { "guid": "TyvIjhS5Mq", "item": "MxHThCBuGJ" },
+  { "guid": "LD0tVxmajF", "item": "_o94DS24O-", "c": 3 },
+  { "guid": "Llhc9uE6MH", "item": "5lW7La3717" },
+  { "guid": "lAc2siqQso", "item": "yTRhbDwIwd", "c": 3 },
+  { "guid": "GRnpVRDtog", "item": "WbyWZ1nIWr", "c": 3 },
+  { "guid": "JunuvMWsLU", "item": "-_zTpwlBr-" },
+  { "guid": "zRoKt_rkDT", "item": "cDVCedX6lo", "c": 3 },
+  { "guid": "HUnrvDQSPm", "item": "t9AbIPO4jo" },
+  { "guid": "Lc4-CYKONU", "item": "Dt4FJYGh4G" },
+  { "guid": "yrcqcjlRJC", "item": "0neQ_KmCQE", "c": 3 },
   // #endregion
   // #region Sanctuary
   // #region Jelly Whisperer

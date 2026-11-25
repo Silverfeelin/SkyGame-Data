@@ -29,6 +29,18 @@
   { "guid": "qB8QAasH-5", "item": "mzR2yfcMzf", "nw": "gpo2nnRF7A", "n": "n7Zjz2zpFw" },
   { "guid": "gpo2nnRF7A", "item": "Pnwp-K4w06" },
   { "guid": "n7Zjz2zpFw", "item": "8F6QxN0IsD", "c": 27 },
+  // Tier revision
+  { "guid": "jd4dRXrOhL", "item": "KRB8s8fxSC" },
+  { "guid": "FqdzRIO8lV", "item": "HAmMhK2wEA" },
+  { "guid": "PYVZZTUNJp", "item": "3wr_nQ1GpD" },
+  { "guid": "ZQJJMgjbEi", "item": "1xt66A1og9" },
+  { "guid": "B6u5lfvpbU", "item": "d1rx4S5IP3" },
+  { "guid": "3OXuecuBJ0", "item": "rCjkMHHCz3" },
+  { "guid": "S-SONmyf27", "item": "ZqbtSzrvGp" },
+  { "guid": "8HAC7uJTZV", "item": "YH8MCFzTcf" },
+  { "guid": "wCTySWDECs", "item": "mzR2yfcMzf" },
+  { "guid": "fn9-TF2bEZ", "item": "8F6QxN0IsD", "c": 27 },
+  { "guid": "j1-1QZGFnS", "item": "Pnwp-K4w06" },
   // Tender Toymaker
   { "guid": "opxcbxYIfJ", "item": "rOUvYv7h5G", "nw": "K0JZdpYMuO", "n": "q5eaTPVYo1", "sc": 8 },
   { "guid": "K0JZdpYMuO", "item": "NqiCFWskMV" },

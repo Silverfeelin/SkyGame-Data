@@ -1,0 +1,37 @@
+[
+  // Duets Guide
+  {
+    "guid": "Gq1EoUfOuC",
+    "next": "B3uiyTtPpa",
+    "rows": [
+      ["9RzJ1Eu4bZ", null, null]
+    ]
+  },
+  {
+    "guid": "B3uiyTtPpa",
+    "next": "tGTdIDiiIC",
+    "rows": [
+      ["WEwVrx8EA0", "Vv5WdPyipy", "k9rhoHv0tU"]
+    ]
+  },
+  {
+    "guid": "tGTdIDiiIC",
+    "next": "8zvAesPBql",
+    "rows": [
+      ["HA9Y9XVr3Q", "nQ4xNBtWwo", null]
+    ]
+  },
+  {
+    "guid": "8zvAesPBql",
+    "next": "ULUpb_eWp3",
+    "rows": [
+      ["EzsWWy9L4I", null, null]
+    ]
+  },
+  {
+    "guid": "ULUpb_eWp3",
+    "rows": [
+      ["Hs5IGdBsVV", "80GXIFoYKt", null]
+    ]
+  }
+]

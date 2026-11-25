@@ -1,0 +1,188 @@
+[
+  // Frightened Refugee
+  {
+    "guid": "RUil3PFI24",
+    "next": "58ORjMLDVM",
+    "rows": [
+      ["pfadB2DObl", null, null]
+    ]
+  },
+  {
+    "guid": "58ORjMLDVM",
+    "next": "Qk8R8Yglkw",
+    "rows": [
+      ["1CFHmBe9Um", "ZwHQRa91rY", "ofMsZu4ES0"],
+      [null, null, "6wV4TOp4iz"]
+    ]
+  },
+  {
+    "guid": "Qk8R8Yglkw",
+    "next": "NdO9olkY-S",
+    "rows": [
+      ["d18RxgyuJe", "RMIEBPRpZd", "H7b3bmrA-x"]
+    ]
+  },
+  {
+    "guid": "NdO9olkY-S",
+    "rows": [
+      ["sBqgCgSIBt", "_NWj0Y_WOi", null]
+    ]
+  },
+  // Courageous Soldier
+  {
+    "guid": "bcL88Vx25k",
+    "next": "kI7GnhQaB6",
+    "rows": [
+      ["cjQJAhvwRP", null, null]
+    ]
+  },
+  {
+    "guid": "kI7GnhQaB6",
+    "next": "m7yNa6zM2x",
+    "rows": [
+      ["RG0qzajPXI", "G-NWTZXcQW", "oaqbp-zOhK"]
+    ]
+  },
+  {
+    "guid": "m7yNa6zM2x",
+    "next": "EAySxEkVZN",
+    "rows": [
+      ["LL-WBo_Aqk", "bFLgEpzy3x", null]
+    ]
+  },
+  {
+    "guid": "EAySxEkVZN",
+    "next": "TwxSuHYPbM",
+    "rows": [
+      ["sfAU_pEpAy", null, null]
+    ]
+  },
+  {
+    "guid": "TwxSuHYPbM",
+    "rows": [
+      ["9foLjy2SSO", "zf3nknXewP", null]
+    ]
+  },
+  // Fainting Warrior
+  {
+    "guid": "FspARyKfDm",
+    "next": "QlTI094Oit",
+    "rows": [
+      ["dfrWtycaip", null, null]
+    ]
+  },
+  {
+    "guid": "QlTI094Oit",
+    "next": "8d_56nazHi",
+    "rows": [
+      ["vnYuS20Lxk", "nw_yspUTe6", "IUNLLck2Ot"],
+      [null, null, "5BBo85aTS7"]
+    ]
+  },
+  {
+    "guid": "8d_56nazHi",
+    "next": "F4zEmc6Dyi",
+    "rows": [
+      ["SLeboMEHb5", "r6IMWdkhJg", "SjLRHW41bY"]
+    ]
+  },
+  {
+    "guid": "F4zEmc6Dyi",
+    "rows": [
+      ["av9g7LpaIl", "qPDhOY0m1S", null]
+    ]
+  },
+  // Lookout Scout
+  {
+    "guid": "OpuNV40X54",
+    "next": "0UIuFf9l0C",
+    "rows": [
+      ["XmlZjdIvxU", null, null]
+    ]
+  },
+  {
+    "guid": "0UIuFf9l0C",
+    "next": "D1Br_G1JbR",
+    "rows": [
+      ["2-AI40tEfM", "0pjiJSp2Ty", "z6febiYRWl"],
+      [null, null, "7CBiDG1yWL"]
+    ]
+  },
+  {
+    "guid": "D1Br_G1JbR",
+    "next": "0Vo5jLr8P1",
+    "rows": [
+      ["ZXDMa7IjYn", "BXLgBoOlKS", "MYUMw1YMCY"]
+    ]
+  },
+  {
+    "guid": "0Vo5jLr8P1",
+    "rows": [
+      ["TO-UwPfuXr", "5mL-Qcdlwm", null]
+    ]
+  },
+  // Stealthy Survivor
+  {
+    "guid": "Onf9O5uqzl",
+    "next": "25gyIt1khm",
+    "rows": [
+      ["InlPUeOKQP", null, null]
+    ]
+  },
+  {
+    "guid": "25gyIt1khm",
+    "next": "iVKMd1Mys-",
+    "rows": [
+      ["cyixC1o1ie", "UDDqBOieZt", "XlW9laHfNc"]
+    ]
+  },
+  {
+    "guid": "iVKMd1Mys-",
+    "next": "9Gbd6rM1rg",
+    "rows": [
+      ["r0IodYLUBD", "2fOHAdguza", null]
+    ]
+  },
+  {
+    "guid": "9Gbd6rM1rg",
+    "next": "tOr-1eMYCz",
+    "rows": [
+      ["IiswMh2KsN", null, null]
+    ]
+  },
+  {
+    "guid": "tOr-1eMYCz",
+    "rows": [
+      ["rKbdOGZ3K5", "1p04Vuv4FU", null]
+    ]
+  },
+  // Saluting Captain
+  {
+    "guid": "TKuS0ZFrzb",
+    "next": "5TOE_JqXTT",
+    "rows": [
+      ["JRuzkApNy3", null, null]
+    ]
+  },
+  {
+    "guid": "5TOE_JqXTT",
+    "next": "C3Wiqvu-pK",
+    "rows": [
+      ["Qhvzvny2Rn", "WoLSvgh-gZ", "MR9xvArHnn"],
+      [null, null, "5DEUeP7qXG"]
+    ]
+  },
+  {
+    "guid": "C3Wiqvu-pK",
+    "next": "fWnv7vH_zW",
+    "rows": [
+      ["n4r1o0X82f", "aOTUe1z7KR", "3vSvJaZ5JA"]
+    ]
+  },
+  {
+    "guid": "fWnv7vH_zW",
+    "rows": [
+      ["xuOdkmxdAu", "H8GE2EVyK7", null]
+    ]
+  }
+]

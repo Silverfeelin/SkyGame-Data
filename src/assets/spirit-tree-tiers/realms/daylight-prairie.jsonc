@@ -1,0 +1,229 @@
+[
+  // Butterfly Charmer
+  {
+    "guid": "2waAO9mKaQ",
+    "next": "rXSCQOEt66",
+    "rows": [
+      ["LENzqR-muu", null, null]
+    ]
+  },
+  {
+    "guid": "rXSCQOEt66",
+    "next": "FZQV_3k4mj",
+    "rows": [
+      ["ylF5Kw0EWc", "LHuy2PNQQr", "YApY2_OTqv"],
+      [null, null, "h352s0mYna"]
+    ]
+  },
+  {
+    "guid": "FZQV_3k4mj",
+    "next": "sH5f_TnxfT",
+    "rows": [
+      ["W7ZKD6-uha", "RYSjOpsPuK", null]
+    ]
+  },
+  {
+    "guid": "sH5f_TnxfT",
+    "next": "-OC581i2Lg",
+    "rows": [
+      ["z-4i80TxaN", "QUmY3bjUYr", "554Fm7IIGZ"]
+    ]
+  },
+  {
+    "guid": "-OC581i2Lg",
+    "rows": [
+      ["gEl0Sgi3MQ", "pXQlN5yHV5", null]
+    ]
+  },
+  // Laughing Light Catcher
+  {
+    "guid": "Wrkn2OkHyr",
+    "next": "Mmw7xM79b1",
+    "rows": [
+      ["z065cAEFVF", null, null]
+    ]
+  },
+  {
+    "guid": "Mmw7xM79b1",
+    "next": "-26JGCqXno",
+    "rows": [
+      ["lQYAvKWyDE", "ixSnrsBOKW", "Cvy-ab8-s5"],
+      [null, null, "D2fU5-me_f"]
+    ]
+  },
+  {
+    "guid": "-26JGCqXno",
+    "next": "rxVKuX7Z0g",
+    "rows": [
+      ["tgj8soLSvN", "XIzGznZH_8", null]
+    ]
+  },
+  {
+    "guid": "rxVKuX7Z0g",
+    "rows": [
+      ["Ye6uxvj86E", "2egTW5Fht0", "jNYzULaszl"]
+    ]
+  },
+  // Waving Bellmaker
+  {
+    "guid": "yAHLRt0UGR",
+    "next": "_8JQOIN1i9",
+    "rows": [
+      ["7CZbR7hFbX", null, null]
+    ]
+  },
+  {
+    "guid": "_8JQOIN1i9",
+    "next": "RYmWJHxx60",
+    "rows": [
+      ["-6nnk16wbn", "ef0GpRtByT", "l01x_3YOYq"]
+    ]
+  },
+  {
+    "guid": "RYmWJHxx60",
+    "next": "wiMSeWsaF7",
+    "rows": [
+      ["h2vudB0wOf", "caTWgetxxK", "u_O1XaUc5T"],
+      [null, null, "eoFyvLo-VZ"]
+    ]
+  },
+  {
+    "guid": "wiMSeWsaF7",
+    "next": "c1fPYdv3Rz",
+    "rows": [
+      ["E2BWCnZ1q1", "Ozo6CmkvRH", null]
+    ]
+  },
+  {
+    "guid": "c1fPYdv3Rz",
+    "rows": [
+      ["sDRktAnt09", "5AlPm6rANG", "w8z5SatdBq"]
+    ]
+  },
+  // Slumbering Shipwright
+  {
+    "guid": "jvUmwO3bBj",
+    "next": "YXVWtMUrha",
+    "rows": [
+      ["osnCfp9lOV", null, null]
+    ]
+  },
+  {
+    "guid": "YXVWtMUrha",
+    "next": "wkBgCKPK7j",
+    "rows": [
+      ["XyTLWvlZvE", "xwR_iPptFj", "ZI9dYIyJLZ"]
+    ]
+  },
+  {
+    "guid": "wkBgCKPK7j",
+    "next": "N9ptqAEsMQ",
+    "rows": [
+      ["C0DotLzw6T", "HVwp3uSnJw", "V-J6OVJyAA"]
+    ]
+  },
+  {
+    "guid": "N9ptqAEsMQ",
+    "rows": [
+      ["nm8T4V9ir9", "de7PC6hd6n", null]
+    ]
+  },
+  // Applauding Bellmaker
+  {
+    "guid": "kDPjC94WiT",
+    "next": "8BeC8ntXXk",
+    "rows": [
+      ["JlN4RUiO6-", null, null]
+    ]
+  },
+  {
+    "guid": "8BeC8ntXXk",
+    "next": "4GrSLrqWK0",
+    "rows": [
+      ["s3OGYw6iVt", "k_Bbhxwcr8", "w7WdpHBmzT"]
+    ]
+  },
+  {
+    "guid": "4GrSLrqWK0",
+    "next": "O11JPlwJ43",
+    "rows": [
+      ["IrSaC-ELi6", "rIg5-LlaRJ", "hg616AxsHf"]
+    ]
+  },
+  {
+    "guid": "O11JPlwJ43",
+    "rows": [
+      ["NstjbQ6wkO", "54rTh-EV3_", null]
+    ]
+  },
+  // Exhausted Dock Worker
+  {
+    "guid": "OgILxVRsCD",
+    "next": "KyCEE_N27S",
+    "rows": [
+      ["6tvqD5I7qc", null, null]
+    ]
+  },
+  {
+    "guid": "KyCEE_N27S",
+    "next": "44zPDHYfG9",
+    "rows": [
+      ["WF0Bk7CKrr", "Nkwozxk--6", "xJ_sdZhLMq"]
+    ]
+  },
+  {
+    "guid": "44zPDHYfG9",
+    "next": "9LeUgeyVpC",
+    "rows": [
+      ["C_tx1YTJxb", "rUUF3nsAj8", "uWzKoRpdJg"]
+    ]
+  },
+  {
+    "guid": "9LeUgeyVpC",
+    "rows": [
+      ["IxuuuYDL9h", "Jhm2PRHO-Z", null]
+    ]
+  },
+  // Bird Whisperer
+  {
+    "guid": "h0MXsDcQ8E",
+    "next": "WTVHdqbNvz",
+    "rows": [
+      ["s6Q0yJCl8q", null, null]
+    ]
+  },
+  {
+    "guid": "WTVHdqbNvz",
+    "next": "bo-9uP-j7l",
+    "rows": [
+      ["yiTHs7a4Y4", "I26Q8t77wV", "1Lu1eMBAVc"]
+    ]
+  },
+  {
+    "guid": "bo-9uP-j7l",
+    "rows": [
+      ["OvNbtJdl31", "INKFnjfZZm", "k2h2ZawOMI"]
+    ]
+  },
+  // Ceremonial Worshiper
+  {
+    "guid": "apfIz-CZsl",
+    "next": "vR7QYMHGb2",
+    "rows": [
+      ["Yik9gMHIo2", null, null]
+    ]
+  },
+  {
+    "guid": "vR7QYMHGb2",
+    "next": "7cOnCElcoM",
+    "rows": [
+      ["Xh3eJoplfo", "fKLEDhy2AT", null]
+    ]
+  },
+  {
+    "guid": "7cOnCElcoM",
+    "rows": [
+      ["xkMA0-UuZ_", "wEHEl9wSKj", null]
+    ]
+  }
+]

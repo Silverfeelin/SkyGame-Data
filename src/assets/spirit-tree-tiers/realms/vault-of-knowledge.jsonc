@@ -1,0 +1,159 @@
+[
+  // Polite Scholar
+  {
+    "guid": "fQdkaa6z2W",
+    "next": "tjSV-DnZJv",
+    "rows": [
+      ["3XnG96X1yi", null, null]
+    ]
+  },
+  {
+    "guid": "tjSV-DnZJv",
+    "next": "rgSzO_LwiK",
+    "rows": [
+      ["KctsiTmvw4", "4PfVRSAihZ", "ygMYQyS_ei"]
+    ]
+  },
+  {
+    "guid": "rgSzO_LwiK",
+    "next": "Kgn2RXMtQo",
+    "rows": [
+      ["4bkfSjE9-N", "LlYQ5fSK9K", null]
+    ]
+  },
+  {
+    "guid": "Kgn2RXMtQo",
+    "rows": [
+      ["wh4HTz_Ij9", null, null]
+    ]
+  },
+  // Levitating Adept
+  {
+    "guid": "XfPJ6C7szf",
+    "next": "YEpU33yYoA",
+    "rows": [
+      ["qGjSrJzd2a", null, null]
+    ]
+  },
+  {
+    "guid": "YEpU33yYoA",
+    "next": "3Im5c-5Kbi",
+    "rows": [
+      ["HMZ3nHM-zz", "RM9p2WgZvE", "X1Ve2NddE3"],
+      [null, null, "H2R66s7kXz"]
+    ]
+  },
+  {
+    "guid": "3Im5c-5Kbi",
+    "next": "K_ltMWfxKP",
+    "rows": [
+      ["p-lcr2SD5L", "HaR6j0DBoD", "G9WlVl7m58"]
+    ]
+  },
+  {
+    "guid": "K_ltMWfxKP",
+    "rows": [
+      ["25pTS7InTZ", "j2c4IWBjpw", null]
+    ]
+  },
+  // Meditating Monastic
+  {
+    "guid": "2yft2NQ40u",
+    "next": "QN4UwAqnzE",
+    "rows": [
+      ["n20WKKFSCL", null, null]
+    ]
+  },
+  {
+    "guid": "QN4UwAqnzE",
+    "next": "P1CkFc_RIA",
+    "rows": [
+      ["l-I5K1FbG-", "IXpk2p8KNa", "lh8bOVc96Y"],
+      [null, null, "-ChcrPoZ-z"]
+    ]
+  },
+  {
+    "guid": "P1CkFc_RIA",
+    "next": "Qm6Qroh_fR",
+    "rows": [
+      ["2r5fekN0mU", "LuC200kJ3b", "pNKn4iCuw8"]
+    ]
+  },
+  {
+    "guid": "Qm6Qroh_fR",
+    "rows": [
+      ["2bTnFXTDdD", "LUfSdocEJZ", null]
+    ]
+  },
+  // Praying Acolyte
+  {
+    "guid": "_e8taubgoz",
+    "next": "IpaEiiTjfH",
+    "rows": [
+      ["i25JDaPcTH", null, null]
+    ]
+  },
+  {
+    "guid": "IpaEiiTjfH",
+    "next": "MJrjCPqHh4",
+    "rows": [
+      ["h0ITXh6ADY", "K8lF2L8Ds7", "bs8XIU2xxl"],
+      [null, null, "uxC4N8lUCk"]
+    ]
+  },
+  {
+    "guid": "MJrjCPqHh4",
+    "next": "JFWJPpnMwa",
+    "rows": [
+      ["36FbDzr_os", "up6r1tBXnF", "Snfe0ZUDQb"]
+    ]
+  },
+  {
+    "guid": "JFWJPpnMwa",
+    "next": "hXoB-HIwvr",
+    "rows": [
+      ["fxOZoGW9zz", "gJOuQrI3i1", null]
+    ]
+  },
+  {
+    "guid": "hXoB-HIwvr",
+    "rows": [
+      ["qMlLGqP7gu", "sJMybOBUxv", null]
+    ]
+  },
+  // Memory Whisperer
+  {
+    "guid": "jbhWlJ6zos",
+    "next": "bBJ0AT2MrY",
+    "rows": [
+      ["S8AuEqsYwp", null, null]
+    ]
+  },
+  {
+    "guid": "bBJ0AT2MrY",
+    "next": "xCXMfcAGds",
+    "rows": [
+      ["3S_LTPIwYd", "c7K8C5e8_H", "gDqHFGh-Qp"]
+    ]
+  },
+  {
+    "guid": "xCXMfcAGds",
+    "next": "jggXJJKsXt",
+    "rows": [
+      ["yrLhtNsSxd", "mPMpBBFRgy", null]
+    ]
+  },
+  {
+    "guid": "jggXJJKsXt",
+    "next": "UwnUD_NGl-",
+    "rows": [
+      ["92lN1L6vXa", null, null]
+    ]
+  },
+  {
+    "guid": "UwnUD_NGl-",
+    "rows": [
+      ["4aCL3iHrWK", "cXFZq_JkwJ", null]
+    ]
+  }
+]

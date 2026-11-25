@@ -3,12 +3,21 @@
   // Isle Elder
   { "guid": "4eQ9GIhhcJ", "item": "7FqA0RC1D4", "ac": 4, "n": "f_N0Z_WSAi" },
   { "guid": "f_N0Z_WSAi", "item": "md88nKjoJF", "ac": 125 },
+  // Tier revision
+  { "guid": "UsFAiKlaxJ", "item": "7FqA0RC1D4", "ac": 4 },
+  { "guid": "aTlfJVW-E9", "item": "md88nKjoJF", "ac": 125 },
   // Prairie Elder
   { "guid": "6dVXKBi60V", "item": "x_pH3kjLjO", "ac": 3, "n": "jetfYJJq_T" },
   { "guid": "jetfYJJq_T", "item": "tM_21JOpuH", "ac": 75 },
+  // Tier revision
+  { "guid": "YchkD7Tpvz", "item": "x_pH3kjLjO", "ac": 3 },
+  { "guid": "2amArdbpED", "item": "tM_21JOpuH", "ac": 75 },
   // Forest Elder
   { "guid": "ncEK0wS3c6", "item": "T0wsTbmzvv", "ac": 6, "n": "jqNuraptWZ" },
   { "guid": "jqNuraptWZ", "item": "ay0lwFyush", "ac": 250 },
+  // Tier revision
+  { "guid": "9ZQfv5G1-T", "item": "T0wsTbmzvv", "ac": 6 },
+  { "guid": "Aski5L3H7w", "item": "ay0lwFyush", "ac": 250 },
   // Valley Elders
   { "guid": "lxz9_FA5lW", "item": "tnhmHAHeo4", "ac": 2, "nw": "PVXjRO0TDh", "n": "-fyqgqgPHx", "ne": "IAXvSy1zSG" },
   { "guid": "PVXjRO0TDh", "item": "YdtLj5dJE7", "ac": 5, "n": "0FImNOUHCt" },
@@ -16,9 +25,20 @@
   { "guid": "IAXvSy1zSG", "item": "AjiVTxnCly", "ac": 6, "n": "5jxMyDhBtf" },
   { "guid": "5jxMyDhBtf", "item": "oOmRXIzleH", "ac": 150 },
   { "guid": "-fyqgqgPHx", "item": "fap0foDD3-", "ac": 2 },
+  // Tier revision
+  { "guid": "l-SsSnRevx", "item": "tnhmHAHeo4", "ac": 2 },
+  { "guid": "_wi4vzHxtF", "item": "YdtLj5dJE7", "ac": 5 },
+  { "guid": "u8fFRySYLb", "item": "AjiVTxnCly", "ac": 6 },
+  { "guid": "1DTWkP9rpL", "item": "fap0foDD3-", "ac": 2 },
+  { "guid": "ezkpTlrKGr", "item": "VK3b1RyEwA", "ac": 150 },
+  { "guid": "hHp1Oznrnv", "item": "oOmRXIzleH", "ac": 150 },
   // Wasteland Elder
   { "guid": "6COu8N6od3", "item": "SSrCZW8Cf-", "ac": 6 },
+  // Tier revision
+  { "guid": "CQSGrXFiij", "item": "SSrCZW8Cf-", "ac": 6 },
   // Vault Elder
-  { "guid": "cr2m1Ibgsl", "item": "RIkdOtUAeN", "ac": 5 }
+  { "guid": "cr2m1Ibgsl", "item": "RIkdOtUAeN", "ac": 5 },
+  // Tier revision
+  { "guid": "oaVsr9ic7z", "item": "RIkdOtUAeN", "ac": 5 }
   // #endregion
 ]

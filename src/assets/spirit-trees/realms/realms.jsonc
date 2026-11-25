@@ -15,15 +15,30 @@
     "node": "dMbXWIBY4W",
     "revisionType": "Patch"
   },
+  {
+    "guid": "tBn9HtXcIN",
+    "tier": "luWaX-nuQd",
+    "revisionType": "Patch"
+  },
   // Ushering Stargazer
   {
     "guid": "iO5Y6DGiiW",
     "node": "la5LuzVr3o"
   },
+  {
+    "guid": "vKyqZ31VDh",
+    "tier": "cxwi2nsDda",
+    "revisionType": "Patch"
+  },
   // Rejecting Voyager
   {
     "guid": "45994RiYac",
     "node": "eUTopR_CDA"
+  },
+  {
+    "guid": "9FwVILY4Yr",
+    "tier": "GYsVmTamzE",
+    "revisionType": "Patch"
   },
   // #endregion
   // #region Prairie
@@ -32,40 +47,80 @@
     "guid": "V0j-dhLEIw",
     "node": "4uNOt6mgV6"
   },
+  {
+    "guid": "MvSbECDWel",
+    "tier": "2waAO9mKaQ",
+    "revisionType": "Patch"
+  },
   // Applauding Bellmaker
   {
     "guid": "hQKUIRG3JQ",
     "node": "rnOFxvQ8yB"
+  },
+  {
+    "guid": "2KgL91ciQY",
+    "tier": "kDPjC94WiT",
+    "revisionType": "Patch"
   },
   // Waving Bellmaker
   {
     "guid": "9HHikEqkYY",
     "node": "wuxyhkhW4K"
   },
+  {
+    "guid": "do3vr-vH1P",
+    "tier": "yAHLRt0UGR",
+    "revisionType": "Patch"
+  },
   // Slumbering Shipwright
   {
     "guid": "HOyyuoXAP9",
     "node": "Y25JKDR8q0"
+  },
+  {
+    "guid": "r-JzKQdoHJ",
+    "tier": "jvUmwO3bBj",
+    "revisionType": "Patch"
   },
   // Laughing Light Catcher
   {
     "guid": "Es47LhZ5hx",
     "node": "bQCdZEnHLj"
   },
+  {
+    "guid": "9mRXDS3E6M",
+    "tier": "Wrkn2OkHyr",
+    "revisionType": "Patch"
+  },
   // Bird Whisperer
   {
     "guid": "anlwK70JVL",
     "node": "VOhxITfbm_"
+  },
+  {
+    "guid": "vw0YRHIEen",
+    "tier": "h0MXsDcQ8E",
+    "revisionType": "Patch"
   },
   // Exhausted Dock Worker
   {
     "guid": "ALHvJCosOd",
     "node": "RMoSSq_rSG"
   },
+  {
+    "guid": "9RjYWqbwD0",
+    "tier": "OgILxVRsCD",
+    "revisionType": "Patch"
+  },
   // Ceremonial Worshiper
   {
     "guid": "NU6qrcE5Ju",
     "node": "MImCpY6QaA"
+  },
+  {
+    "guid": "3UIyvzW3F9",
+    "tier": "apfIz-CZsl",
+    "revisionType": "Patch"
   },
   // #endregion
   // #region Forest
@@ -74,40 +129,80 @@
     "guid": "qV_AsI1GHV",
     "node": "29JfYP1U6x"
   },
+  {
+    "guid": "XtesoSMTUW",
+    "tier": "wYUG9m0f1H",
+    "revisionType": "Patch"
+  },
   // Blushing Prospector
   {
     "guid": "LMcXyV8-2j",
     "node": "88eWC8NaHK"
+  },
+  {
+    "guid": "dcQND4sUcF",
+    "tier": "vwZdEFcb6U",
+    "revisionType": "Patch"
   },
   // Hide'n'Seek Pioneer
   {
     "guid": "R7ffBM1PMH",
     "node": "4Qtw5zIpON"
   },
+  {
+    "guid": "SKzP-N0cGs",
+    "tier": "6Xpd-oUGgY",
+    "revisionType": "Patch"
+  },
   // Pouty Porter
   {
     "guid": "u_KTXvnqG5",
     "node": "KsjglEe6SI"
+  },
+  {
+    "guid": "oEo4-fB1Ok",
+    "tier": "ieV9lpcMt4",
+    "revisionType": "Patch"
   },
   // Dismayed Hunter
   {
     "guid": "f34xxhWuw1",
     "node": "vFmHI2l-5v"
   },
+  {
+    "guid": "f0QgmBlUEN",
+    "tier": "tGkKKoqtU6",
+    "revisionType": "Patch"
+  },
   // Apologetic Lumberjack
   {
     "guid": "8mHCSAJMJt",
     "node": "2aPjMjZxVC"
+  },
+  {
+    "guid": "RGW4k0TwsW",
+    "tier": "1BfUHVAImM",
+    "revisionType": "Patch"
   },
   // Tearful Light Miner
   {
     "guid": "et4Q9BpF6x",
     "node": "OHiyG0ecDH"
   },
+  {
+    "guid": "QiqE_BUcNs",
+    "tier": "6xPv7qPalk",
+    "revisionType": "Patch"
+  },
   // Whale Whisperer
   {
     "guid": "Mker9XnSXM",
     "node": "T8jA7xBoO6"
+  },
+  {
+    "guid": "1MrX-PssZ1",
+    "tier": "qUBGdWoKY0",
+    "revisionType": "Patch"
   },
   // #endregion
   // #region Valley
@@ -116,35 +211,70 @@
     "guid": "DJhTrzv4Yb",
     "node": "QXUQtHaV4V"
   },
+  {
+    "guid": "ipNpX3QFIl",
+    "tier": "hluQaUa7_s",
+    "revisionType": "Patch"
+  },
   // Handstanding Thrillseeker
   {
     "guid": "J49-S6yLbL",
     "node": "c_m1Wyxrwd"
+  },
+  {
+    "guid": "rU-zoOG_ii",
+    "tier": "1xKlFDbQ1X",
+    "revisionType": "Patch"
   },
   // Manta Whisperer
   {
     "guid": "XRXDlNt2KM",
     "node": "fUhhICR_SG"
   },
+  {
+    "guid": "8Z8crUMyY9",
+    "tier": "Xl_9UH1j7g",
+    "revisionType": "Patch"
+  },
   // Backflipping Champion
   {
     "guid": "wnFJK6iIdP",
     "node": "SiSq-1YcL1"
+  },
+  {
+    "guid": "pBZi-Uzixg",
+    "tier": "Odc3fCyWi7",
+    "revisionType": "Patch"
   },
   // Cheerful Spectator
   {
     "guid": "mHTyXPh-yi",
     "node": "Kak3sj4SiH"
   },
+  {
+    "guid": "4kiiuI4CaY",
+    "tier": "lzKQdbYx8Y",
+    "revisionType": "Patch"
+  },
   // Bowing Medalist
   {
     "guid": "_aHaMwt5OW",
     "node": "U09Vg1Bo4G"
   },
+  {
+    "guid": "ePYoBsv0N8",
+    "tier": "JOg0mnH6QU",
+    "revisionType": "Patch"
+  },
   // Proud Victor
   {
     "guid": "kTUUniUQiN",
     "node": "u5yiirWvsH"
+  },
+  {
+    "guid": "TAmSW-Oj1I",
+    "tier": "YLj673EqQR",
+    "revisionType": "Patch"
   },
   // #endregion
   // #region Wasteland
@@ -153,30 +283,60 @@
     "guid": "2tMrFxgXJy",
     "node": "dXj9dEGxGF"
   },
+  {
+    "guid": "utrfu1CcqD",
+    "tier": "RUil3PFI24",
+    "revisionType": "Patch"
+  },
   // Fainting Warrior
   {
     "guid": "7peV6o1G9r",
     "node": "CdzqIK7HYf"
+  },
+  {
+    "guid": "sQDlmWxevt",
+    "tier": "FspARyKfDm",
+    "revisionType": "Patch"
   },
   // Courageous Soldier
   {
     "guid": "3W0wLUVJL6",
     "node": "GZpqRE7Qt9"
   },
+  {
+    "guid": "2iMkeSRLnK",
+    "tier": "bcL88Vx25k",
+    "revisionType": "Patch"
+  },
   // Stealthy Survivor
   {
     "guid": "dcgTVFAm6m",
     "node": "oyQABzBGuU"
+  },
+  {
+    "guid": "HVsIG9Vhhh",
+    "tier": "Onf9O5uqzl",
+    "revisionType": "Patch"
   },
   // Saluting Captain
   {
     "guid": "_WJq0WK8Ds",
     "node": "PoOWkpwfYx"
   },
+  {
+    "guid": "MmYG4Wa99L",
+    "tier": "TKuS0ZFrzb",
+    "revisionType": "Patch"
+  },
   // Lookout Scout
   {
     "guid": "oU4Uu2zMzG",
     "node": "Zc_avVFlQx"
+  },
+  {
+    "guid": "ha-sdT_ntE",
+    "tier": "OpuNV40X54",
+    "revisionType": "Patch"
   },
   // #endregion
   // #region Vault
@@ -185,25 +345,50 @@
     "guid": "das41f_Q-7",
     "node": "7VjqIMArcP"
   },
+  {
+    "guid": "006Q7eT369",
+    "tier": "XfPJ6C7szf",
+    "revisionType": "Patch"
+  },
   // Meditating Monastic
   {
     "guid": "MzxOaKTjwc",
     "node": "oDypNKciuf"
+  },
+  {
+    "guid": "Si9YKIcKz1",
+    "tier": "2yft2NQ40u",
+    "revisionType": "Patch"
   },
   // Memory Whisperer
   {
     "guid": "Vv98PNmcao",
     "node": "HrhoyxoLVs"
   },
+  {
+    "guid": "HJeSrftrof",
+    "tier": "jbhWlJ6zos",
+    "revisionType": "Patch"
+  },
   // Polite Scholar
   {
     "guid": "Z1PFz0tm12",
     "node": "9IwUGyaG5-"
   },
+  {
+    "guid": "X14inP9HLE",
+    "tier": "fQdkaa6z2W",
+    "revisionType": "Patch"
+  },
   // Praying Acolyte
   {
     "guid": "5sAVyZ3QBX",
     "node": "ItpocgQi8H"
+  },
+  {
+    "guid": "bEkb8jEipV",
+    "tier": "_e8taubgoz",
+    "revisionType": "Patch"
   },
   // #endregion
 
@@ -213,30 +398,60 @@
     "guid": "9_S8rQmBlX",
     "node": "4eQ9GIhhcJ"
   },
+  {
+    "guid": "cXjYhBXVNl",
+    "tier": "fgg8zdtLM8",
+    "revisionType": "Patch"
+  },
   // Prairie Elder
   {
     "guid": "eUgsBX5PrB",
     "node": "6dVXKBi60V"
+  },
+  {
+    "guid": "MiB9yM1632",
+    "tier": "lRCsLVh4Oa",
+    "revisionType": "Patch"
   },
   // Forest Elder
   {
     "guid": "TVSuWzpcpt",
     "node": "ncEK0wS3c6"
   },
+  {
+    "guid": "tlSh1NU_yp",
+    "tier": "U3QMMvEMMW",
+    "revisionType": "Patch"
+  },
   // Valley Elders
   {
     "guid": "EZP7ISiCn5",
     "node": "lxz9_FA5lW"
+  },
+  {
+    "guid": "jYc-5aDGmp",
+    "tier": "DNuV6LIiBm",
+    "revisionType": "Patch"
   },
   // Wasteland Elder
   {
     "guid": "VMIKm__4n_",
     "node": "6COu8N6od3"
   },
+  {
+    "guid": "fkff3VUnbV",
+    "tier": "bz79ri_qk4",
+    "revisionType": "Patch"
+  },
   // Vault Elder
   {
     "guid": "ntRHO7rHJt",
     "node": "cr2m1Ibgsl"
+  },
+  {
+    "guid": "Wy1fXWJ-xK",
+    "tier": "-LLAIM7mRn",
+    "revisionType": "Patch"
   }
   // #endregion
 ]

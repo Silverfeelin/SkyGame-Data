@@ -1,0 +1,42 @@
+[
+  // AURORA Guide
+  {
+    "guid": "-JB7qIx95t",
+    "next": "jQ_woLA6_P",
+    "rows": [
+      ["E21DGcmQkD", null, null]
+    ]
+  },
+  {
+    "guid": "jQ_woLA6_P",
+    "next": "fkSpw4_yxA",
+    "rows": [
+      ["bY-odAg9to", "YkYs0R4lDe", null]
+    ]
+  },
+  {
+    "guid": "fkSpw4_yxA",
+    "next": "ODGSNNOQ8r",
+    "rows": [
+      ["BkWiz6Y4YP", "R3LWgfNAis", "5as4xHw2d5"],
+      [null, "CfaF0hpGIn", "d4zxZeNQ8B"],
+      [null, "mdK3meZlTb", null]
+    ]
+  },
+  {
+    "guid": "ODGSNNOQ8r",
+    "next": "EUbEhNcCp0",
+    "rows": [
+      ["b3FytX5xUX", "4fKD2xb2WJ", "ufj2m7j7Hu"],
+      [null, "vS-YyanPEb", "Kf3OoOfQCR"],
+      [null, "Pn5-K8bQ-w", null]
+    ]
+  },
+  {
+    "guid": "EUbEhNcCp0",
+    "rows": [
+      ["OQjKstNrYM", "88UetdMBtu", "i_4Ehe1GLT"],
+      [null, "nDKwHOpfkL", "J2J7kfuk8j"]
+    ]
+  }
+]

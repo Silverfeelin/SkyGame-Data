@@ -1,0 +1,46 @@
+[
+  // Assembly Guide
+  {
+    "guid": "ONofs4dBCy",
+    "next": "dN5NJkUPet",
+    "rows": [
+      ["iirfhIzai3", null, "PLQwXmvTe5"]
+    ]
+  },
+  {
+    "guid": "dN5NJkUPet",
+    "next": "2X504oQt4l",
+    "rows": [
+      ["yQ4nSuCXzV", "tiQyHIKfz5", "uRFkCCafh6"],
+      [null, null, "FOsHQXGzG7"]
+    ]
+  },
+  {
+    "guid": "2X504oQt4l",
+    "next": "fkFNc-RsuN",
+    "rows": [
+      ["Bp5HJ3UfYS", "oS-D2RsTjd", "Vk2xPqCuz8"]
+    ]
+  },
+  {
+    "guid": "fkFNc-RsuN",
+    "next": "ekz_MmF8KB",
+    "rows": [
+      ["Io1VazThOn", "kSHwVtWMpz", null]
+    ]
+  },
+  {
+    "guid": "ekz_MmF8KB",
+    "next": "Wa51ywI0ac",
+    "rows": [
+      ["5N5BmcMzjf", "6F7faBNVGx", "UJMbs3sHi4"],
+      [null, null, "isxWkEPsIL"]
+    ]
+  },
+  {
+    "guid": "Wa51ywI0ac",
+    "rows": [
+      ["bvZwvuXR9e", "9RP7uqhlPk", "2bprAIBX26"]
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  // Spirit of Mural
+  {
+    "guid": "NTh2YYhPn4",
+    "next": "plV1P5uZt3",
+    "rows": [
+      ["cuS8y-wHmv", null, null]
+    ]
+  },
+  {
+    "guid": "plV1P5uZt3",
+    "next": "LmY9vNRqb6",
+    "rows": [
+      ["Et8YdjqRCD", "QqlGg05Mof", null]
+    ]
+  },
+  {
+    "guid": "LmY9vNRqb6",
+    "next": "cOWC78Tv1O",
+    "rows": [
+      ["D_P6mRs4H_", "_Isfh6A-GA", null]
+    ]
+  },
+  {
+    "guid": "cOWC78Tv1O",
+    "next": "tlntR-Ckv9",
+    "rows": [
+      ["wIFMz61Nak", "ZS8YqSrfr4", "cdNWGM0UnJ"]
+    ]
+  },
+  {
+    "guid": "tlntR-Ckv9",
+    "rows": [
+      ["V6OMksM5Vv", null, null]
+    ]
+  }
+]

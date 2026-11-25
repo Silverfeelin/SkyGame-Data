@@ -1,0 +1,41 @@
+[
+  // Radiance Guide
+  {
+    "guid": "NqDGemGowI",
+    "next": "SJgQGUfVeI",
+    "rows": [
+      ["ARfR994IaX", null, null]
+    ]
+  },
+  {
+    "guid": "SJgQGUfVeI",
+    "next": "uP95YgYTKt",
+    "rows": [
+      ["kX1MgD6IuK", "IU6y4RkcfY", "7TjnC7qHDS"],
+      [null, null, "tgYtcJlszg"]
+    ]
+  },
+  {
+    "guid": "uP95YgYTKt",
+    "next": "aJFpa7b5OW",
+    "rows": [
+      ["WQJB4sCu-1", "om2KDi063W", "TxJkQMMkrG"],
+      [null, null, "LxPz6QwvTe"]
+    ]
+  },
+  {
+    "guid": "aJFpa7b5OW",
+    "next": "kOe32kpT8i",
+    "rows": [
+      ["O8oB5cMV6h", "O5JP68qH4y", "YkbrqbVF64"],
+      [null, null, "an1yK0YbnZ"]
+    ]
+  },
+  {
+    "guid": "kOe32kpT8i",
+    "rows": [
+      ["NUvpwA-2jW", "OALtV1mWnF", "l2cgBdhIGt"],
+      [null, "9DblylztKl", "NfQUFwwYt-"]
+    ]
+  }
+]

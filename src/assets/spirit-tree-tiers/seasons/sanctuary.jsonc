@@ -1,0 +1,44 @@
+[
+  // Sanctuary Guide
+  {
+    "guid": "LwVjO69VrH",
+    "next": "FaWH_si80J",
+    "rows": [
+      ["ylBFSJLoZG", null, null]
+    ]
+  },
+  {
+    "guid": "FaWH_si80J",
+    "next": "iCdrqbg_SM",
+    "rows": [
+      ["CxEa8waSfT", "8z2OyfqKcL", null]
+    ]
+  },
+  {
+    "guid": "iCdrqbg_SM",
+    "next": "VupK1HG5G6",
+    "rows": [
+      ["TyvIjhS5Mq", "LD0tVxmajF", null]
+    ]
+  },
+  {
+    "guid": "VupK1HG5G6",
+    "next": "UNAL0fJBMu",
+    "rows": [
+      ["Llhc9uE6MH", "lAc2siqQso", "GRnpVRDtog"]
+    ]
+  },
+  {
+    "guid": "UNAL0fJBMu",
+    "next": "uqMr7Olu1c",
+    "rows": [
+      ["JunuvMWsLU", "zRoKt_rkDT", null]
+    ]
+  },
+  {
+    "guid": "uqMr7Olu1c",
+    "rows": [
+      ["HUnrvDQSPm", "Lc4-CYKONU", "yrcqcjlRJC"]
+    ]
+  }
+]

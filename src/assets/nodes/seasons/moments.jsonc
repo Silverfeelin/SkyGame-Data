@@ -46,6 +46,20 @@
   { "guid": "5TWj3XbL8X", "item": "RGIkrdzAHQ", "nw": "HWpLA2Y2BX", "n": "9LSzgBxVpJ" },
   { "guid": "HWpLA2Y2BX", "item": "T_Y0iSIKrS", "c": 3 },
   { "guid": "9LSzgBxVpJ", "item": "kXLOaiW5sq", "c": 25 },
+  // Tier revision
+  { "guid": "XZYe2utSEj", "item": "bZLp8uDLBH" },
+  { "guid": "APPvCaxHfR", "item": "K_OhSP_gST" },
+  { "guid": "97BPQKGl6F", "item": "tPSfwv25tD" },
+  { "guid": "Rgv5Bt6UVZ", "item": "IncDUgOVKU", "c": 3 },
+  { "guid": "KmhJF5Ze2E", "item": "Bt81wczcyz" },
+  { "guid": "WdmIbuTV83", "item": "BUkqSHBWBP" },
+  { "guid": "6He5-YVj-B", "item": "XQXq0JUaSV", "c": 3 },
+  { "guid": "-UFshmL3zd", "item": "QYqOsJH08k" },
+  { "guid": "trE81cQck1", "item": "BIe6DgYn08", "c": 3 },
+  { "guid": "tdlAspz3en", "item": "iMrPI958ew", "c": 3 },
+  { "guid": "5b4lToU5zo", "item": "RGIkrdzAHQ" },
+  { "guid": "e2dkcNbaut", "item": "kXLOaiW5sq", "c": 25 },
+  { "guid": "Qcjw8vS9kL", "item": "T_Y0iSIKrS", "c": 3 },
   // #endregion
   // #region Moments
   // #region Reassuring Ranger

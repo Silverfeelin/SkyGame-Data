@@ -51,8 +51,9 @@ export class SkyDataResolver {
     this.resolveSpirits();
     this.resolveTravelingSpirits();
     this.resolveSpecialVisits();
-    this.resolveSpiritTreeTiers();
     this.resolveSpiritTrees();
+    this.resolveSpiritTreeTiers();
+    this.resolveSpiritTreeTierLinks();
     this.resolveEvents();
     this.resolveShops();
     this.resolveItems();
@@ -265,7 +266,11 @@ export class SkyDataResolver {
           node.tree = spiritTree;
           this.resolveNode(node);
         }
+    });
+  }
 
+  private resolveSpiritTreeTierLinks(): void {
+    this.data.spiritTrees.items.forEach(spiritTree => {
         // Map Spirit tree tier.
         if (typeof spiritTree.tier === 'string') {
           const tier = this.guids.get(spiritTree.tier) as ISpiritTreeTier;

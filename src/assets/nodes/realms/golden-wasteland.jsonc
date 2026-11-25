@@ -11,6 +11,17 @@
   { "guid": "YmBGpYCWdW", "item": "RIlfA805ts", "c": 5 },
   { "guid": "9s2hp7O1nc", "item": "AMKnOI16lX", "c": 5, "n": "nXr-VaCOXg" },
   { "guid": "nXr-VaCOXg", "item": "k1JghrvRyd", "h": 5 },
+  // Tier revision
+  { "guid": "pfadB2DObl", "item": "K06bmAYI6z" },
+  { "guid": "1CFHmBe9Um", "item": "4LkrX4-CoT", "c": 4 },
+  { "guid": "ZwHQRa91rY", "item": "LY0kFk4zt9", "h": 3 },
+  { "guid": "ofMsZu4ES0", "item": "vAvSXNIzGU", "c": 1 },
+  { "guid": "6wV4TOp4iz", "item": "rpcAA2zHTE", "c": 3 },
+  { "guid": "d18RxgyuJe", "item": "4AbpTT27m7", "c": 5 },
+  { "guid": "RMIEBPRpZd", "item": "BS37ROkjpR", "ac": 1 },
+  { "guid": "H7b3bmrA-x", "item": "AMKnOI16lX", "c": 5 },
+  { "guid": "sBqgCgSIBt", "item": "RIlfA805ts", "c": 5 },
+  { "guid": "_NWj0Y_WOi", "item": "k1JghrvRyd", "h": 5 },
   // Fainting Warrior
   { "guid": "CdzqIK7HYf", "item": "-Dh2r4O_z1", "nw": "5ikKV3ndyi", "n": "GOF_EvqTiE" },
   { "guid": "5ikKV3ndyi", "item": "zKMOiu2THu", "c": 4 },
@@ -22,6 +33,17 @@
   { "guid": "nChYNJgFOC", "item": "qCjtnFMijN", "c": 5 },
   { "guid": "qPEV3Gitb0", "item": "03vS7eTAul", "c": 5, "n": "77-Iz-PEDz" },
   { "guid": "77-Iz-PEDz", "item": "Gk83uBgUnZ", "h": 15 },
+  // Tier revision
+  { "guid": "dfrWtycaip", "item": "-Dh2r4O_z1" },
+  { "guid": "vnYuS20Lxk", "item": "zKMOiu2THu", "c": 4 },
+  { "guid": "nw_yspUTe6", "item": "_oYTtTvbrv", "h": 5 },
+  { "guid": "IUNLLck2Ot", "item": "YO8FQh93mG", "c": 1 },
+  { "guid": "5BBo85aTS7", "item": "AA61MCzDqt", "c": 3 },
+  { "guid": "SLeboMEHb5", "item": "8bW-ZgD3YH", "c": 5 },
+  { "guid": "r6IMWdkhJg", "item": "JMOpYiNp9P", "ac": 2 },
+  { "guid": "SjLRHW41bY", "item": "03vS7eTAul", "c": 5 },
+  { "guid": "av9g7LpaIl", "item": "qCjtnFMijN", "c": 5 },
+  { "guid": "qPDhOY0m1S", "item": "Gk83uBgUnZ", "h": 15 },
   // Courageous Soldier
   { "guid": "GZpqRE7Qt9", "item": "dCMS94p34P", "nw": "iSuhxK5gq4", "n": "83k5UV6qtK" },
   { "guid": "iSuhxK5gq4", "item": "l1nLKz7suC", "h": 4 },
@@ -32,6 +54,16 @@
   { "guid": "3azYEgKFCg", "item": "3lA6dG5lJz", "h": 15, "n": "m2Xq8DCicP" },
   { "guid": "m2Xq8DCicP", "item": "btPY0Ht6nP", "ac": 6, "n": "PfiFflwCcw" },
   { "guid": "PfiFflwCcw", "item": "ggrTorky-R", "h": 45 },
+  // Tier revision
+  { "guid": "cjQJAhvwRP", "item": "dCMS94p34P" },
+  { "guid": "RG0qzajPXI", "item": "l1nLKz7suC", "h": 4 },
+  { "guid": "G-NWTZXcQW", "item": "tuTiMOIa-h", "c": 1 },
+  { "guid": "oaqbp-zOhK", "item": "rpeD6YvMwV", "c": 3 },
+  { "guid": "LL-WBo_Aqk", "item": "lzH-No9PzQ", "ac": 2 },
+  { "guid": "bFLgEpzy3x", "item": "r64dmcDcBa", "c": 5 },
+  { "guid": "sfAU_pEpAy", "item": "3lA6dG5lJz", "h": 15 },
+  { "guid": "9foLjy2SSO", "item": "ggrTorky-R", "h": 45 },
+  { "guid": "zf3nknXewP", "item": "btPY0Ht6nP", "ac": 6 },
   // Stealthy Survivor
   { "guid": "oyQABzBGuU", "item": "ztAW0vBZfY", "nw": "Xz2nPje1Jl", "n": "ZAO5AI4fnU" },
   { "guid": "Xz2nPje1Jl", "item": "DGzYI5od5x", "h": 5 },
@@ -42,6 +74,16 @@
   { "guid": "GOVH34pGdE", "item": "NDJlGR97m-", "h": 50, "n": "t5CbEZT0xD" },
   { "guid": "t5CbEZT0xD", "item": "Q4T-saGcNA", "ac": 12, "n": "kP266fAZ2m" },
   { "guid": "kP266fAZ2m", "item": "ya7BleEI6V", "h": 150 },
+  // Tier revision
+  { "guid": "InlPUeOKQP", "item": "ztAW0vBZfY" },
+  { "guid": "cyixC1o1ie", "item": "DGzYI5od5x", "h": 5 },
+  { "guid": "UDDqBOieZt", "item": "q2xUgGYeb-", "c": 1 },
+  { "guid": "XlW9laHfNc", "item": "rlVToyfvFm", "c": 3 },
+  { "guid": "r0IodYLUBD", "item": "8-CbdFl8xl", "ac": 4 },
+  { "guid": "2fOHAdguza", "item": "fTI4TnonST", "c": 5 },
+  { "guid": "IiswMh2KsN", "item": "NDJlGR97m-", "h": 50 },
+  { "guid": "rKbdOGZ3K5", "item": "ya7BleEI6V", "h": 150 },
+  { "guid": "1p04Vuv4FU", "item": "Q4T-saGcNA", "ac": 12 },
   // Saluting Captain
   { "guid": "PoOWkpwfYx", "item": "g8qrVY5moU", "nw": "bmjrU_wR4A", "n": "HffpdtFzoC" },
   { "guid": "bmjrU_wR4A", "item": "m9AevsoO_k", "c": 4 },
@@ -53,6 +95,17 @@
   { "guid": "ly8KHx3QI2", "item": "wtDnbvhyij", "c": 5 },
   { "guid": "eFfuLN0aAT", "item": "_8XDAcR55X", "c": 5, "n": "FopPXZvEDc" },
   { "guid": "FopPXZvEDc", "item": "0SP9P2WzZ9", "h": 20 },
+  // Tier revision
+  { "guid": "JRuzkApNy3", "item": "g8qrVY5moU" },
+  { "guid": "Qhvzvny2Rn", "item": "m9AevsoO_k", "c": 4 },
+  { "guid": "WoLSvgh-gZ", "item": "S793LWvPuI", "h": 5 },
+  { "guid": "MR9xvArHnn", "item": "8FY4y-a61K", "c": 1 },
+  { "guid": "5DEUeP7qXG", "item": "6t4fJL9LTh", "c": 3 },
+  { "guid": "n4r1o0X82f", "item": "JWB_UaI-Wf", "c": 5 },
+  { "guid": "aOTUe1z7KR", "item": "VWVAuVACdC", "ac": 3 },
+  { "guid": "3vSvJaZ5JA", "item": "_8XDAcR55X", "c": 5 },
+  { "guid": "xuOdkmxdAu", "item": "wtDnbvhyij", "c": 5 },
+  { "guid": "H8GE2EVyK7", "item": "0SP9P2WzZ9", "h": 20 },
   // Lookout Scout
   { "guid": "Zc_avVFlQx", "item": "VY2WGYV8Vx", "nw": "RQ573VDk7I", "n": "mv30bXTshX" },
   { "guid": "RQ573VDk7I", "item": "dH24Ov55wg", "c": 5 },
@@ -63,6 +116,17 @@
   { "guid": "hW_81merrR", "item": "GD9Ocr5cDG", "c": 5, "nw": "NHsCQioxXS", "n": "qdTUeXWYH6" },
   { "guid": "NHsCQioxXS", "item": "RtxeObjJ-x", "c": 5 },
   { "guid": "qdTUeXWYH6", "item": "NhxNQdDRM7", "c": 5, "n": "TbPKS-RDtp" },
-  { "guid": "TbPKS-RDtp", "item": "Ud5Scw26Il", "h": 10 }
+  { "guid": "TbPKS-RDtp", "item": "Ud5Scw26Il", "h": 10 },
+  // Tier revision
+  { "guid": "XmlZjdIvxU", "item": "VY2WGYV8Vx" },
+  { "guid": "2-AI40tEfM", "item": "dH24Ov55wg", "c": 5 },
+  { "guid": "0pjiJSp2Ty", "item": "Zu6MhpSM7W", "h": 5 },
+  { "guid": "z6febiYRWl", "item": "hKfTBq2oSn", "c": 1 },
+  { "guid": "7CBiDG1yWL", "item": "3FItanGlZS", "c": 3 },
+  { "guid": "ZXDMa7IjYn", "item": "GD9Ocr5cDG", "c": 5 },
+  { "guid": "BXLgBoOlKS", "item": "K9WDCyOMgB", "ac": 2 },
+  { "guid": "MYUMw1YMCY", "item": "NhxNQdDRM7", "c": 5 },
+  { "guid": "TO-UwPfuXr", "item": "RtxeObjJ-x", "c": 5 },
+  { "guid": "5mL-Qcdlwm", "item": "Ud5Scw26Il", "h": 10 }
   // #endregion
 ]

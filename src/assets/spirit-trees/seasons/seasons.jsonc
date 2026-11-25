@@ -30,6 +30,11 @@
     "revisionType": "AfterSeason",
     "node": "zhaqZhHrLg"
   },
+  {
+    "guid": "UIna_cbacR",
+    "tier": "tMZvyaFxmr",
+    "revisionType": "AfterSeason"
+  },
   // Sanctuary Guide
   {
     "guid": "yZlWqKpS7C",
@@ -39,6 +44,11 @@
     "guid": "lSSuuP9Mx5",
     "revisionType": "AfterSeason",
     "node": "upAEc8igP8"
+  },
+  {
+    "guid": "GR8A7fIIWz",
+    "tier": "LwVjO69VrH",
+    "revisionType": "AfterSeason"
   },
   // Prophecy Guide
   {
@@ -50,6 +60,11 @@
     "revisionType": "AfterSeason",
     "node": "OFn0amBI95"
   },
+  {
+    "guid": "pVYVfiOv45",
+    "tier": "FeuZm5qLZN",
+    "revisionType": "AfterSeason"
+  },
   // Dreams Guide
   {
     "guid": "f74U1Fp5Nk",
@@ -59,6 +74,11 @@
     "guid": "ixRjlBpKXC",
     "revisionType": "AfterSeason",
     "node": "DZyuAqL6ED"
+  },
+  {
+    "guid": "DWK4OcOKY-",
+    "tier": "3jHzboteYd",
+    "revisionType": "AfterSeason"
   },
   // Assembly Guide
   {
@@ -70,6 +90,11 @@
     "revisionType": "AfterSeason",
     "node": "TP_fHiRKo-"
   },
+  {
+    "guid": "mziHbHQrOE",
+    "tier": "ONofs4dBCy",
+    "revisionType": "AfterSeason"
+  },
   // The Rose
   {
     "guid": "oL3CS56h9y",
@@ -79,6 +104,11 @@
     "guid": "hdM4etUDWo",
     "revisionType": "AfterSeason",
     "node": "XxQuKwlte6"
+  },
+  {
+    "guid": "gcw_IHHIHW",
+    "tier": "fDsxqMMFc1",
+    "revisionType": "AfterSeason"
   },
   // Flight Guide
   {
@@ -90,6 +120,11 @@
     "revisionType": "AfterSeason",
     "node": "Xqts61Civ9"
   },
+  {
+    "guid": "02nJWf_i7u",
+    "tier": "VJ_1QJ9sKU",
+    "revisionType": "AfterSeason"
+  },
   // Abyss Guide
   {
     "guid": "xz8rpLZQmm",
@@ -99,6 +134,11 @@
     "guid": "n1SlO_-I1Z",
     "revisionType": "AfterSeason",
     "node": "ulV2LQxUmy"
+  },
+  {
+    "guid": "_xH8RS5Rlr",
+    "tier": "ffgGy0rfUm",
+    "revisionType": "AfterSeason"
   },
   // Performance Guide
   {
@@ -115,6 +155,11 @@
     "revisionType": "AfterSeason",
     "node": "vqtTpmWvVW"
   },
+  {
+    "guid": "rQsyOJBUT_",
+    "tier": "8HkmgTpOnd",
+    "revisionType": "AfterSeason"
+  },
   // The Void of Shattering
   {
     "guid": "BK8jQyPH_n",
@@ -124,6 +169,11 @@
     "guid": "sPbvibpvEb",
     "revisionType": "AfterSeason",
     "node": "uEd33EjXN-"
+  },
+  {
+    "guid": "sO36cdARK8",
+    "tier": "0boccX9u3d",
+    "revisionType": "AfterSeason"
   },
   // AURORA Guide
   {
@@ -136,6 +186,11 @@
     "revisionType": "AfterSeason",
     "name": "AURORA Guide - After season",
     "node": "xG-pgBHsGb"
+  },
+  {
+    "guid": "S4VMKdsHwL",
+    "tier": "-JB7qIx95t",
+    "revisionType": "AfterSeason"
   },
   // Remembrance Guide
   {
@@ -152,6 +207,11 @@
     "revisionType": "AfterSeason",
     "node": "syYU-yQLJP"
   },
+  {
+    "guid": "Og97J3FTZl",
+    "tier": "ruwjrCo4XI",
+    "revisionType": "AfterSeason"
+  },
   // Passage Guide
   {
     "guid": "LrH-L-oKn1",
@@ -161,6 +221,11 @@
     "guid": "4jNOVPFy1Q",
     "revisionType": "AfterSeason",
     "node": "am4QK-t3g_"
+  },
+  {
+    "guid": "fEId4nYjRZ",
+    "tier": "jadPYxSUVI",
+    "revisionType": "AfterSeason"
   },
   // Moments Guide
   {
@@ -176,6 +241,11 @@
     "guid": "qlLM978Qg-",
     "revisionType": "AfterSeason",
     "node": "HvsLl-lTYB"
+  },
+  {
+    "guid": "67idmGPs7j",
+    "tier": "N-6tGwAY-2",
+    "revisionType": "AfterSeason"
   },
   // Revival Guide
   {
@@ -197,6 +267,11 @@
     "revisionType": "AfterSeason",
     "node": "lYDaXJDz0C"
   },
+  {
+    "guid": "Y-y_SQpA5a",
+    "tier": "GsjShMN4HV",
+    "revisionType": "AfterSeason"
+  },
   // Nine-Colored Deer Guide
   {
     "guid": "Lvuz1tp6P9",
@@ -206,6 +281,11 @@
     "guid": "iKqwBylxQ9",
     "revisionType": "AfterSeason",
     "node": "--PFFIcm-m"
+  },
+  {
+    "guid": "1q-HW_qsmO",
+    "tier": "NTh2YYhPn4",
+    "revisionType": "AfterSeason"
   },
   // Nesting Guide
   {
@@ -217,12 +297,18 @@
     "node": "UdhUyuqOyZ",
     "revisionType": "AfterSeason"
   },
+  {
+    "guid": "LMtXgHboTZ",
+    "tier": "3Fp9XtpQmW",
+    "revisionType": "AfterSeason"
+  },
   // Moomin Guide
   {
     "guid": "WGIrheVuUd",
     "node": "8_QAGF_cuK"
   },
   { "guid": "bFOp9D6fxP", "node": "wZTTBoBVfy", "revisionType": "AfterSeason" },
+  { "guid": "gj-asG9lts", "tier": "RzQyc9TXrD", "revisionType": "AfterSeason" },
   // #endregion
 
   // #region Gratitude
@@ -1625,6 +1711,11 @@
     "node": "etN0qA-p4X"
   },
   {
+    "guid": "a8WlC-6cV7",
+    "tier": "Gq1EoUfOuC",
+    "revisionType": "AfterSeason"
+  },
+  {
     "guid": "FKLImPk5vB",
     "node": "MhQW8_5oJe"
   },
@@ -1688,6 +1779,11 @@
     "revisionType": "AfterSeason"
   },
   {
+    "guid": "utInayQwRh",
+    "tier": "NqDGemGowI",
+    "revisionType": "AfterSeason"
+  },
+  {
     "guid": "s8oDPElH2z",
     "node": "fwak5ju2DS"
   },
@@ -1703,6 +1799,7 @@
   // #region Blue Bird
   { "guid": "9ZMGsZeH1U", "node": "RzXXb9widZ" },
   { "guid": "Z-lDboKqdB", "node": "kRv4PPU3CT", "revisionType": "AfterSeason" },
+  { "guid": "n6TQDS2M4g", "tier": "OLbJmn3ZpN", "revisionType": "AfterSeason" },
   { "guid": "me0kc6RN7J", "node": "yjs2ofd4bI" },
   { "guid": "GEOf9iPZiz", "node": "Mab8ePYPvs" },
   { "guid": "DU7kdfkbq7", "node": "qdSLwtMlKg" },
@@ -1712,6 +1809,7 @@
   // #region Two Embers - Part 1
   { "guid": "lHlnmVDICn", "node": "7NYZEkjI3A" },  
   { "guid": "GpcMalckm5", "node": "GaoOaDHlpc", "revisionType": "AfterSeason" },
+  { "guid": "OzuHEo5wMH", "tier": "2fRqrzJv8s", "revisionType": "AfterSeason" },
   { "guid": "SI9Q8J2Fm-", "node": "opxcbxYIfJ" },
   { "guid": "RDergQu3Vd", "node": "BxVl336GE7" },
   { "guid": "fdQpzNAjCw", "node": "gSpR4Ktq8n" },

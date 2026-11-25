@@ -1,0 +1,79 @@
+[
+  // Isle Elder
+  {
+    "guid": "fgg8zdtLM8",
+    "next": "HL1XjCUYVP",
+    "rows": [
+      ["UsFAiKlaxJ", null, null]
+    ]
+  },
+  {
+    "guid": "HL1XjCUYVP",
+    "rows": [
+      ["aTlfJVW-E9", null, null]
+    ]
+  },
+  // Prairie Elder
+  {
+    "guid": "lRCsLVh4Oa",
+    "next": "SqdRUBfTwH",
+    "rows": [
+      ["YchkD7Tpvz", null, null]
+    ]
+  },
+  {
+    "guid": "SqdRUBfTwH",
+    "rows": [
+      ["2amArdbpED", null, null]
+    ]
+  },
+  // Forest Elder
+  {
+    "guid": "U3QMMvEMMW",
+    "next": "so8t-b80-e",
+    "rows": [
+      ["9ZQfv5G1-T", null, null]
+    ]
+  },
+  {
+    "guid": "so8t-b80-e",
+    "rows": [
+      ["Aski5L3H7w", null, null]
+    ]
+  },
+  // Valley Elders
+  {
+    "guid": "DNuV6LIiBm",
+    "next": "8SnW1YURJx",
+    "rows": [
+      ["l-SsSnRevx", null, null]
+    ]
+  },
+  {
+    "guid": "8SnW1YURJx",
+    "next": "qA3s4PxyNf",
+    "rows": [
+      ["_wi4vzHxtF", "u8fFRySYLb", "1DTWkP9rpL"]
+    ]
+  },
+  {
+    "guid": "qA3s4PxyNf",
+    "rows": [
+      ["ezkpTlrKGr", "hHp1Oznrnv", null]
+    ]
+  },
+  // Wasteland Elder
+  {
+    "guid": "bz79ri_qk4",
+    "rows": [
+      ["CQSGrXFiij", null, null]
+    ]
+  },
+  // Vault Elder
+  {
+    "guid": "-LLAIM7mRn",
+    "rows": [
+      ["oaVsr9ic7z", null, null]
+    ]
+  }
+]
