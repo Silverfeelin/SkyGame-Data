@@ -674,5 +674,12 @@
     "name": "Season Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Season-of-Pearl-Heart-icon.png",
     "group": "SeasonPass"
+  },
+  {
+    "id": 3430,
+    "guid": "GHTGxLcYvY",
+    "type": "Special",
+    "name": "The Pearl",
+    "icon": "https://sky-planner.com/assets/game/items/GHTGxLcYvY.png"
   }
 ]
