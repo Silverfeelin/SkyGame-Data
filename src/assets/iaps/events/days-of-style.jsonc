@@ -81,4 +81,69 @@
     ]
   },
   // #endregion
+  // #region Days of Style (2026)
+  {
+    "guid": "2mNL5zO65Y",
+    "name": "Style Fluffy Coat",
+    "price": 12.99,
+    "items": [
+      "1xkA9LOdI7"
+    ]
+  },
+  {
+    "guid": "giCDAliDxp",
+    "name": "Style Butterfly Clips",
+    "price": 4.99,
+    "items": [
+      "TfZ1Gn9uuI"
+    ]
+  },
+  {
+    "guid": "WdxlGwX1wV",
+    "name": "Style Dapper Trio",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "4c-yCAGV5U",
+      "gZoseEbqGz",
+      "yuO7uDMle8"
+    ]
+  },
+  {
+    "guid": "Tgu9KtaJ0W",
+    "name": "Style Wide-Leg Jeans",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "E7RAu04_xI"
+    ]
+  },
+  {
+    "guid": "KCq68dtmBB",
+    "name": "Style Bunny Slippers",
+    "price": 6.99,
+    "returning": true,
+    "items": [
+      "MuQrbnmbdp"
+    ]
+  },
+  {
+    "guid": "MjjdWyKIIa",
+    "name": "Style Heart Sunglasses",
+    "price": 4.99,
+    "returning": true,
+    "items": [
+      "3HeVKqT39a"
+    ]
+  },
+  {
+    "guid": "yMcrOrIPG3",
+    "name": "Style Flame Sunglasses",
+    "price": 2.99,
+    "returning": true,
+    "items": [
+      "BWUjIgnjnu"
+    ]
+  }
+  // #endregion
 ]

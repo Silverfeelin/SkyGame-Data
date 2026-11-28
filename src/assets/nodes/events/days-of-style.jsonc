@@ -45,6 +45,20 @@
   { "guid": "c2TLeNmEq9", "item": "TbSEPp5DAI", "c": 30 },
   { "guid": "EhtoE3hnu1", "item": "0ckPw0PfdC", "c": 5, "nw": "IqOkYFodZA", "n": "XaFK9crO_I" },
   { "guid": "IqOkYFodZA", "item": "qscApTevys", "c": 72 },
-  { "guid": "XaFK9crO_I", "item": "o4cIshT_hD", "ac": 12 }
+  { "guid": "XaFK9crO_I", "item": "o4cIshT_hD", "ac": 12 },
+  // #endregion
+  // #region Days of Style (2026)
+  { "guid": "IJylxZM3n3", "item": "ezStax3xvn", "nw": "CCfaYKv0DM", "n": "1QmDUB5DRd", "ne": "rDXTqX8q18" }, //cutscene
+  { "guid": "CCfaYKv0DM", "item": "Aj5x6s5Gxb", "ec": 29 },
+  { "guid": "rDXTqX8q18", "item": "2WZuxKEWSn", "ec": 23 },
+  { "guid": "1QmDUB5DRd", "item": "TalOg0V1he", "c": 5, "nw": "unZG6cTPQe", "n": "OpemLs3Sqf", "ne": "8VXgbHeCk8" },
+  { "guid": "unZG6cTPQe", "item": "WEGS4Ul0qq", "c": 74 },
+  { "guid": "8VXgbHeCk8", "item": "DJBQZOapq3", "c": 47 },
+  { "guid": "OpemLs3Sqf", "item": "KHEaIkjXoV", "c": 5, "nw": "r3asa09cQM", "n": "dPJeZ6uNm5", "ne": "jdwh10cSmz" },
+  { "guid": "r3asa09cQM", "item": "d_p_flDgEV", "h": 13 },
+  { "guid": "jdwh10cSmz", "item": "TbSEPp5DAI", "c": 30 },
+  { "guid": "dPJeZ6uNm5", "item": "9Dbp-Gv7vZ", "c": 5, "nw": "1ndsYCEGpx", "n": "lXMLnIKBxg"},
+  { "guid": "1ndsYCEGpx", "item": "qscApTevys", "c": 72 },
+  { "guid": "lXMLnIKBxg", "item": "o4cIshT_hD", "ac": 12 }
   // #endregion
 ]

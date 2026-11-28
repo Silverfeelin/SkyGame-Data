@@ -21,5 +21,27 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Days-of-Style-2a115478a3874720a740950549abdc58"
     }
+  },
+  {
+    "guid": "Opz0npt9xo",
+    "date": "2026-11-27",
+    "endDate": "2026-12-10",
+    "spirits": ["lReUmDpEgq"],
+    "shops": ["9dxuhEslWj", "mzNo2FgohR"],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "udbY61xNTz",
+          "date": "2026-11-27",
+          "endDate": "2026-12-10",
+          "amount": 15,
+          "description": "Bonus event currency"
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Days-of-Style-4138261c87dd80be9deff3d4dcb44984"
+    }
   }
 ]

@@ -127,7 +127,7 @@
     "id": 2320,
     "guid": "WEGS4Ul0qq",
     "type": "Outfit",
-    "name": "Style Dress",
+    "name": "Style Dazzling Dress",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/Style-Dazzling-Dress-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/68/Style-Dazzling-Dress-front.png",
     "dye": {
@@ -143,7 +143,7 @@
     "id": 2321,
     "guid": "DJBQZOapq3",
     "type": "HairAccessory",
-    "name": "Style Fascinator",
+    "name": "Style Darkness Fascinator",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Style-Darkness-Fascinator-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/01/Style-Darkness-Fascinator.png",
     "order": 5700,
@@ -203,5 +203,67 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Style/2024#Style_Dapper_Trio"
     }
+  },
+  {
+    "id": 3424,
+    "guid": "Aj5x6s5Gxb",
+    "type": "Hair",
+    "name": "Style Curtained Hair",
+    "icon": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/49/Style-Curtained-Hair-front.png",
+    "order": 19200,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3425,
+    "guid": "2WZuxKEWSn",
+    "type": "FaceAccessory",
+    "name": "Style Blush Accessory",
+    "icon": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Style-Blush-Accessory.png",
+    "order": 3400,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3426,
+    "guid": "TfZ1Gn9uuI",
+    "type": "Hair",
+    "name": "Style Butterfly Clips",
+    "icon": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Style-Butterfly-Clips-Hair.png",
+    "order": 19300,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3427,
+    "guid": "1xkA9LOdI7",
+    "type": "Cape",
+    "name": "Style Fluffy Coat",
+    "icon": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/46/Style-Fluffy-Coat-back.png",
+    "order": 19700,
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3428,
+    "guid": "9Dbp-Gv7vZ",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
+  },
+  {
+    "id": 3429,
+    "guid": "ezStax3xvn",
+    "type": "Special",
+    "name": "Cutscene",
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
   }
 ]

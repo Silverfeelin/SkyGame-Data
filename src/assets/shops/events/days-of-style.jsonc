@@ -18,6 +18,19 @@
     "spirit": "NbUg5yLpTg",
     "name": "Style Assisstant",
     "iaps": ["ZV1PW2pPsN", "FR9FbtWXdg", "5LZSuhPZTP", "oaFdUOiZUd"]
+  },
+  // #endregion
+  // #region Days of Style (2026)
+  {
+    "guid": "9dxuhEslWj",
+    "type": "Store",
+    "iaps": ["2mNL5zO65Y", "giCDAliDxp"]
+  },
+  {
+    "guid": "mzNo2FgohR",
+    "type": "Object",
+    "name": "Style IAP Box",
+    "iaps": ["WdxlGwX1wV", "Tgu9KtaJ0W", "yMcrOrIPG3", "MjjdWyKIIa"]
   }
   // #endregion
 ]
