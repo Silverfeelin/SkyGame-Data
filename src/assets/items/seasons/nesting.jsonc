@@ -1459,9 +1459,9 @@
     "type": "Furniture",
     "name": "Arles Bedroom Chair",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3f/Arles-Bedroom-Chair-Prop-icon.png",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/90/Arles-Bedroom-Chair-Prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Arles_Bedroom_Chair"
     },
     "order": 12600
   },
@@ -1471,9 +1471,9 @@
     "type": "Furniture",
     "name": "Arles Bedroom Table",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a2/Arles-Bedroom-Table-Prop-icon.png",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Arles-Bedroom-Table-Prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Arles_Bedroom_Table"
     },
     "order": 12700
   },
@@ -1481,11 +1481,11 @@
     "id": 3416,
     "guid": "vnMfGBzpfb",
     "type": "Prop",
-    "name": "Crate",
-    "icon": "https://sky-planner.com/assets/game/items/vnMfGBzpfb.png",
-    "previewUrl": "",
+    "name": "Arles Crate",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/Arles-Crate-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Arles-Crate-Prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Arles_Crate"
     },
     "order": 12800
   },
@@ -1494,10 +1494,10 @@
     "guid": "D30y2TxdjH",
     "type": "Furniture",
     "name": "Arles Bedroom Bed",
-    "icon": "https://sky-planner.com/assets/game/items/D30y2TxdjH.png",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/61/Arles-Bedroom-Bed-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Arles-Bedroom-Bed-Prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Arles_Bedroom_Bed"
     },
     "order": 12750
   },
@@ -1506,10 +1506,10 @@
     "guid": "zbXlmVrwiY",
     "type": "Furniture",
     "name": "Arles Console Table",
-    "icon": "https://sky-planner.com/assets/game/items/zbXlmVrwiY.png",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Arles-Console-Table-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/Arles-Console-Table-Prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Arles_Console_Table"
     },
     "order": 12775
   },
@@ -1517,11 +1517,11 @@
     "id": 3420,
     "guid": "-fO-Kn9Rd3",
     "type": "Prop",
-    "name": "Arles Paint Box",
-    "icon": "https://sky-planner.com/assets/game/items/-fO-Kn9Rd3.png",
-    "previewUrl": "",
+    "name": "Arles Painting Set",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Arles-Painting-Set-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Arles-Painting-Set-Prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Arles_Painting_Set"
     },
     "order": 13100
   },
@@ -1530,10 +1530,10 @@
     "guid": "DU3_FCip4I",
     "type": "Furniture",
     "name": "Arles Rocking Chair",
-    "icon": "https://sky-planner.com/assets/game/items/DU3_FCip4I.png",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Arles-Rocking-Chair-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2b/Arles-Rocking-Chair-Prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Arles_Rocking_Chair"
     },
     "order": 12777
   },
@@ -1542,10 +1542,10 @@
     "guid": "Dy5Jla6mAd",
     "type": "Furniture",
     "name": "Arles Desk",
-    "icon": "https://sky-planner.com/assets/game/items/Dy5Jla6mAd.png",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/Arles-Desk-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6a/Arles-Desk-Prop.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Arles_Desk"
     },
     "order": 12776
   },
