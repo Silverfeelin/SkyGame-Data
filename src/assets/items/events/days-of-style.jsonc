@@ -209,7 +209,7 @@
     "guid": "Aj5x6s5Gxb",
     "type": "Hair",
     "name": "Style Curtained Hair",
-    "icon": "",
+    "icon": "https://sky-planner.com/assets/game/items/Aj5x6s5Gxb.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/49/Style-Curtained-Hair-front.png",
     "order": 19200,
     "_wiki": {
@@ -221,7 +221,7 @@
     "guid": "2WZuxKEWSn",
     "type": "FaceAccessory",
     "name": "Style Blush Accessory",
-    "icon": "",
+    "icon": "https://sky-planner.com/assets/game/items/2WZuxKEWSn.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Style-Blush-Accessory.png",
     "order": 3400,
     "_wiki": {
@@ -233,8 +233,14 @@
     "guid": "TfZ1Gn9uuI",
     "type": "Hair",
     "name": "Style Butterfly Clips",
-    "icon": "",
+    "icon": "https://sky-planner.com/assets/game/items/TfZ1Gn9uuI.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Style-Butterfly-Clips-Hair.png",
+    "dye": {
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Style_butterflycliphair.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Style_butterflycliphair.jpg",
+      "primary": {},
+      "secondary": {}
+    },
     "order": 19300,
     "_wiki": {
       "href": ""
@@ -245,8 +251,12 @@
     "guid": "1xkA9LOdI7",
     "type": "Cape",
     "name": "Style Fluffy Coat",
-    "icon": "",
+    "icon": "https://sky-planner.com/assets/game/items/1xkA9LOdI7.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/46/Style-Fluffy-Coat-back.png",
+    "dye": {
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Style_fluffcape.jpg",
+      "primary": {}
+    },
     "order": 19700,
     "_wiki": {
       "href": ""
